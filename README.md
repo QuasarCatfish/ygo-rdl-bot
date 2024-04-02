@@ -1,2 +1,1 @@
-# ygo-rdl-bot
- 
+# Yu-Gi-Oh! Rush Duel Links Bot
