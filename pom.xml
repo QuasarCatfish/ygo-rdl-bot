@@ -59,7 +59,7 @@
 							<manifest>
 								<addClasspath>true</addClasspath>
 								<classpathPrefix>lib/</classpathPrefix>
-								<mainClass>com.quas.ygo_rdl_bot.App</mainClass>
+								<mainClass>com.quas.ygo_rdl_bot.RushDuelLinksBot</mainClass>
 							</manifest>
 						</archive>
 					</configuration>
