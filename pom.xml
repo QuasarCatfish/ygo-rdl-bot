@@ -46,6 +46,12 @@
 			<version>5.0.0-beta.21</version>
 		</dependency>
 
+		<!-- Reflections-->
+		<dependency>
+			<groupId>org.reflections</groupId>
+			<artifactId>reflections</artifactId>
+			<version>0.9.10</version>
+		</dependency>
 	</dependencies>
 
 	<packaging>jar</packaging>
