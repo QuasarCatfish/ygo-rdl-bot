@@ -76,5 +76,12 @@
 			"15674": "LIMIT3",
 			"15797": "UNLIMITED"
 		}
+	},
+	{
+		"date": "2024-04-23",
+		"banlist": {
+			"15192": "UNLIMITED",
+			"15432": "UNLIMITED"
+		}
 	}
 ]
