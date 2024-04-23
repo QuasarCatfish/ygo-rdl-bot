@@ -914,5 +914,42 @@
 			15441,
 			15193
 		]
+	},
+	{
+		"id": 72,
+		"name": "Noodle Art Reboot",
+		"condition": "This Skill can only be used if all of the Level 5 or higher monsters in your Deck are FIRE Attribute Pyro Effect Monsters with 0 DEF and/or all Normal Monsters are Pyro Type.",
+		"requirement": "None",
+		"effect": "Choose 1 face-up Level 5 or higher monster on your field. It gains 600 ATK until the end of this turn. Then, if it was a Level 7 or higher monster that was Summoned this turn, you can add 1 Pyro Normal Monster with 1300 or less ATK from your Graveyard to your hand.",
+		"isArchive": true,
+		"mentionedCards": []
+	},
+	{
+		"id": 73,
+		"name": "Blaster\u0027s Inferno",
+		"condition": "This Skill can only be used if all of the monsters with 1400 or more ATK in your Deck are Dragon monsters, and the Deck contains 1 or less Level 5 or higher non-FIRE Attribute monster.",
+		"requirement": "None",
+		"effect": "Choose 1 face-up Level 6 or higher FIRE Attribute Normal Monster on your field. It gains 600 ATK until the end of the turn. If it was a Level 7 monster, you can add 1 \"Dragon\u0027s Inferno\" from your Deck or Graveyard to your hand (once per Duel).",
+		"isArchive": false,
+		"characters": [
+			702
+		],
+		"mentionedCards": [
+			15175
+		]
+	},
+	{
+		"id": 74,
+		"name": "Dark Arts of Positioning",
+		"condition": "This Skill can only be used if all of the Level 4 or higher monsters in your Deck are Warrior and/or Fairy monsters.",
+		"requirement": "From turn 2 onward, shuffle 1 card from your hand into the Deck, and reveal 1 Level 6 Fairy monster with 0 ATK in your hand.",
+		"effect": "Add 1 \"Semeruler the Dark Summoner\" from your Deck to your hand. This turn, at the start of the Battle Phase and during the End Phase, change the battle positions of all face-up Level 6 Fairy monsters on your field.",
+		"isArchive": false,
+		"characters": [
+			703
+		],
+		"mentionedCards": [
+			16143
+		]
 	}
 ]

@@ -300,7 +300,8 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road",
+			"Scorching Flame Burst"
 		]
 	},
 	{
@@ -364,7 +365,8 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road",
+			"Scorching Flame Burst"
 		]
 	},
 	{
@@ -384,7 +386,8 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road",
+			"Scorching Flame Burst"
 		]
 	},
 	{
@@ -429,7 +432,8 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road",
+			"Scorching Flame Burst"
 		]
 	},
 	{
@@ -471,7 +475,8 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road",
+			"Scorching Flame Burst"
 		]
 	},
 	{
@@ -674,7 +679,8 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road",
+			"Scorching Flame Burst"
 		]
 	},
 	{
@@ -694,7 +700,8 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road",
+			"Scorching Flame Burst"
 		]
 	},
 	{
@@ -714,7 +721,8 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road",
+			"Scorching Flame Burst"
 		]
 	},
 	{
@@ -774,7 +782,8 @@
 			"race": "REPTILE"
 		},
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road",
+			"Scorching Flame Burst"
 		]
 	},
 	{
@@ -794,7 +803,8 @@
 			"race": "PYRO"
 		},
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road",
+			"Scorching Flame Burst"
 		]
 	},
 	{
@@ -814,7 +824,8 @@
 			"race": "PYRO"
 		},
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road",
+			"Scorching Flame Burst"
 		]
 	},
 	{
@@ -877,7 +888,8 @@
 			"race": "INSECT"
 		},
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road",
+			"Scorching Flame Burst"
 		]
 	},
 	{
@@ -1342,7 +1354,8 @@
 		"effect": "Look at all face-down cards on your opponent\u0027s field, then return them to their original positions.",
 		"rarity": "N",
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road",
+			"Scorching Flame Burst"
 		]
 	},
 	{
@@ -1374,7 +1387,8 @@
 		"rarity": "N",
 		"cardObtain": [
 			"Lightspeed Voltcondor",
-			"Sevens New Road"
+			"Sevens New Road",
+			"Scorching Flame Burst"
 		]
 	},
 	{
@@ -1807,7 +1821,8 @@
 		},
 		"cardObtain": [
 			"Lightspeed Voltcondor",
-			"Sevens New Road"
+			"Sevens New Road",
+			"Scorching Flame Burst"
 		]
 	},
 	{
@@ -1943,14 +1958,17 @@
 		"isLegend": false,
 		"requirement": "Send the top card of your Deck to the Graveyard.",
 		"effect": "Until the end of this turn, all face-up monsters with the highest ATK on your opponent\u0027s field lose ATK equal to [the ATK of the face-up monster with the highest ATK on your field]. This card can only attack Attack Position monsters this turn.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 7,
 			"atk": 1600,
 			"def": 2500,
 			"attribute": "FIRE",
 			"race": "DRAGON"
-		}
+		},
+		"cardObtain": [
+			"Scorching Flame Burst"
+		]
 	},
 	{
 		"id": 15432,
@@ -2051,7 +2069,8 @@
 		},
 		"cardObtain": [
 			"Sevens New Road",
-			"Raidacross the Lionhearted"
+			"Raidacross the Lionhearted",
+			"Scorching Flame Burst"
 		]
 	},
 	{
@@ -2151,7 +2170,8 @@
 			"race": "FIEND"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream"
+			"Heavy Metal Scream",
+			"Scorching Flame Burst"
 		]
 	},
 	{
@@ -2188,7 +2208,8 @@
 			"race": "PYRO"
 		},
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road",
+			"Scorching Flame Burst"
 		]
 	},
 	{
@@ -2344,14 +2365,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "A drill instructor for the Fire Dragon Kingdom\u0027s elite strike forces. The scorching heat he releases sweeps away those who would harm the king.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 7,
 			"atk": 2300,
 			"def": 2000,
 			"attribute": "FIRE",
 			"race": "DRAGON"
-		}
+		},
+		"cardObtain": [
+			"Scorching Flame Burst"
+		]
 	},
 	{
 		"id": 15595,
@@ -2420,7 +2444,8 @@
 		"effect": "All face-up Pyro Type monsters on your field gain ATK equal to [the number of Normal Monsters in both players\u0027 Graveyards] x 100 until the end of this turn.",
 		"rarity": "N",
 		"cardObtain": [
-			"Heavy Metal Scream"
+			"Heavy Metal Scream",
+			"Scorching Flame Burst"
 		]
 	},
 	{
@@ -2433,7 +2458,8 @@
 		"effect": "1 face-up Normal Monster on your field with 1000 or less ATK gains 1000 ATK until the end of this turn.",
 		"rarity": "N",
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road",
+			"Scorching Flame Burst"
 		]
 	},
 	{
@@ -2509,7 +2535,21 @@
 			"race": "PYRO"
 		},
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road",
+			"Scorching Flame Burst"
+		]
+	},
+	{
+		"id": 15611,
+		"name": "The Noodle Art of Savory",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "1 Attack Position monster on your opponent\u0027s field loses ATK equal to [the number of face-up Pyro Type monsters on your field] x 400 until the end of this turn.",
+		"rarity": "SR",
+		"cardObtain": [
+			"Scorching Flame Burst"
 		]
 	},
 	{
@@ -2560,14 +2600,17 @@
 		"isLegend": false,
 		"requirement": "Change this Attack Position card to face-up Defense Position.",
 		"effect": "Change 1 Attack Position monster on your opponent\u0027s field to face-up Defense Position, and if you do, it loses 600 DEF until the end of this turn.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 6,
 			"atk": 0,
 			"def": 1800,
 			"attribute": "WIND",
 			"race": "FAIRY"
-		}
+		},
+		"cardObtain": [
+			"Scorching Flame Burst"
+		]
 	},
 	{
 		"id": 15652,
@@ -2577,14 +2620,17 @@
 		"isLegend": false,
 		"requirement": "Shuffle 1 monster with 0 ATK from your Graveyard into the Deck.",
 		"effect": "Choose 1 face-up Warrior Type monster on your field. Your opponent cannot activate Trap Cards when it declares an attack this turn.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1200,
 			"def": 0,
 			"attribute": "DARK",
 			"race": "WARRIOR"
-		}
+		},
+		"cardObtain": [
+			"Scorching Flame Burst"
+		]
 	},
 	{
 		"id": 15653,
@@ -2646,7 +2692,8 @@
 		},
 		"cardObtain": [
 			"Sevens New Road",
-			"Raidacross the Lionhearted"
+			"Raidacross the Lionhearted",
+			"Scorching Flame Burst"
 		]
 	},
 	{
@@ -2712,6 +2759,19 @@
 		"requirement": "Send 1 card from your hand to the Graveyard.",
 		"effect": "Choose 2 face-up monsters on your field with the same Level as each other. If those monsters attack a Defense Position monster this turn, inflict piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference).",
 		"rarity": "NPC"
+	},
+	{
+		"id": 15662,
+		"name": "Hermit\u0027s Soul",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When an opponent\u0027s monster declares an attack targeting your face-up monster with 0 ATK.",
+		"effect": "Change the attacking monster to face-up Defense Position. If you do, Special Summon 1 Normal Monster with 0 ATK from your Graveyard face-up to your field.",
+		"rarity": "SR",
+		"cardObtain": [
+			"Lifetime Mission Reward"
+		]
 	},
 	{
 		"id": 15663,
@@ -3517,7 +3577,8 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream"
+			"Heavy Metal Scream",
+			"Scorching Flame Burst"
 		]
 	},
 	{
@@ -3537,7 +3598,8 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream"
+			"Heavy Metal Scream",
+			"Scorching Flame Burst"
 		]
 	},
 	{
@@ -3699,14 +3761,17 @@
 		"isLegend": false,
 		"requirement": "Send 1 face-up Pyro Type Normal Monster from your field to the Graveyard.",
 		"effect": "Inflict 1000 damage to your opponent. Draw 1 card.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 8,
 			"atk": 2400,
 			"def": 0,
 			"attribute": "FIRE",
 			"race": "PYRO"
-		}
+		},
+		"cardObtain": [
+			"Scorching Flame Burst"
+		]
 	},
 	{
 		"id": 15809,
@@ -3815,7 +3880,8 @@
 		"effect": "While this card is face-up in the Field Zone, face-up Insect, Beast, Plant, and Beast-Warrior Type monsters on the field gain 200 ATK/DEF.",
 		"rarity": "N",
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road",
+			"Scorching Flame Burst"
 		]
 	},
 	{
@@ -3852,7 +3918,8 @@
 		"rarity": "N",
 		"cardObtain": [
 			"Lightspeed Voltcondor",
-			"Sevens New Road"
+			"Sevens New Road",
+			"Scorching Flame Burst"
 		]
 	},
 	{
@@ -3865,7 +3932,8 @@
 		"effect": "All face-up monsters on your field gain 900 ATK/DEF until the end of this turn.",
 		"rarity": "N",
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road",
+			"Scorching Flame Burst"
 		]
 	},
 	{
@@ -4078,14 +4146,17 @@
 		"isLegend": false,
 		"requirement": "Place 1 \"Femtron\", 1 \"Attron\", and 1 \"Zeptron\" from your Graveyard on the bottom of your Deck in any order.",
 		"effect": "Send this card from your field to the Graveyard and draw 3 cards. Then, send 3 cards from your hand to the Graveyard.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 1,
 			"atk": 100,
 			"def": 100,
 			"attribute": "LIGHT",
 			"race": "CYBERSE"
-		}
+		},
+		"cardObtain": [
+			"Nail Saionji Duel Reward"
+		]
 	},
 	{
 		"id": 15912,
@@ -4972,14 +5043,17 @@
 		"isLegend": false,
 		"requirement": "Send 1 card from your hand to the Graveyard.",
 		"effect": "Special Summon 1 monster with 0 ATK from your hand face-up to your field. It gains ATK equal to [its original DEF] until the end of this turn.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 8,
 			"atk": 2500,
 			"def": 2000,
 			"attribute": "DARK",
 			"race": "WARRIOR"
-		}
+		},
+		"cardObtain": [
+			"Scorching Flame Burst"
+		]
 	},
 	{
 		"id": 16148,
@@ -6098,6 +6172,26 @@
 			"attribute": "EARTH",
 			"race": "PLANT"
 		}
+	},
+	{
+		"id": 16465,
+		"name": "Multistrike Dragon Dragias",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "This turn, if this card destroyed a monster by battle, it can make a second attack during that Battle Phase.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2500,
+			"def": 1500,
+			"attribute": "LIGHT",
+			"race": "DRAGON"
+		},
+		"cardObtain": [
+			"Scorching Flame Burst"
+		]
 	},
 	{
 		"id": 16576,
@@ -7848,7 +7942,8 @@
 		},
 		"cardObtain": [
 			"Lightspeed Voltcondor",
-			"Sevens New Road"
+			"Sevens New Road",
+			"Scorching Flame Burst"
 		]
 	},
 	{
@@ -8016,7 +8111,8 @@
 			"race": "PYRO"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream"
+			"Heavy Metal Scream",
+			"Scorching Flame Burst"
 		]
 	},
 	{
@@ -8183,14 +8279,17 @@
 		"isLegend": false,
 		"requirement": "The only monsters in your Graveyard are 3 Cyberse Type monsters.",
 		"effect": "Add all Cyberse Type monsters from your Graveyard to your hand. Then, place this card on the bottom of the owner\u0027s deck.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 6,
 			"atk": 1800,
 			"def": 100,
 			"attribute": "LIGHT",
 			"race": "CYBERSE"
-		}
+		},
+		"cardObtain": [
+			"Nail Saionji Duel Reward"
+		]
 	},
 	{
 		"id": 16991,
@@ -9583,6 +9682,19 @@
 		]
 	},
 	{
+		"id": 17722,
+		"name": "Combustion Crisis",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When an opponent\u0027s monster declares an attack.",
+		"effect": "Inflict 600 damage to your opponent. Then, if your opponent has 2 or more face-up Level 7 monsters on their field, you can shuffle 1 monster on your opponent\u0027s field into the Deck.",
+		"rarity": "SR",
+		"cardObtain": [
+			"Scorching Flame Burst"
+		]
+	},
+	{
 		"id": 17724,
 		"name": "Pot of Avarice",
 		"cardType": "SPELL",
@@ -9899,7 +10011,8 @@
 		},
 		"cardObtain": [
 			"Sevens New Road",
-			"Legend of Dark Magic"
+			"Legend of Dark Magic",
+			"Scorching Flame Burst"
 		]
 	},
 	{
@@ -10334,6 +10447,19 @@
 		"rarity": "NPC"
 	},
 	{
+		"id": 18646,
+		"name": "Buffered Slime",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When an opponent\u0027s Level 8 or lower monster declares an attack.",
+		"effect": "Send the top card of your Deck to the Graveyard. This turn, you take no battle damage. Then, if your LP are 3000 or higher, you take 2000 damage.",
+		"rarity": "UR",
+		"cardObtain": [
+			"Special Set (Bundle)"
+		]
+	},
+	{
 		"id": 18651,
 		"name": "Fairy Dragon",
 		"cardType": "NORMAL",
@@ -10565,7 +10691,8 @@
 			"race": "PYRO"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream"
+			"Heavy Metal Scream",
+			"Scorching Flame Burst"
 		]
 	},
 	{
