@@ -951,5 +951,20 @@
 		"mentionedCards": [
 			16143
 		]
+	},
+	{
+		"id": 75,
+		"name": "Join the Battle of All Battles!",
+		"condition": "This Skill can only be used if your Deck contains at most 6 non-Cyberse Type monsters and the only Level 5 or higher monsters in your Deck are Level 6, 7, and 10 Cyberse Type monsters.",
+		"requirement": "If you do not control any monsters, reveal 1 \"Sigurstate Sol\" or 1 \"Belsectacle Mani\" in your hand.",
+		"effect": "Add 1 Cyberse Type Normal Monster from your Graveyard to your hand.",
+		"isArchive": false,
+		"characters": [
+			708
+		],
+		"mentionedCards": [
+			16791,
+			16792
+		]
 	}
 ]
