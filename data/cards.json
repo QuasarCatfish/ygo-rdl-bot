@@ -557,7 +557,7 @@
 		"isLegend": true,
 		"requirement": "Unknown",
 		"effect": "This legendary dragon is a powerful engine of destruction. Virtually invincible, very few have faced this awesome creature and lived to tell the tale.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 8,
 			"atk": 3000,
@@ -1020,7 +1020,7 @@
 		"isLegend": false,
 		"requirement": "Send 1 card from your hand to the Graveyard.",
 		"effect": "Destroy 1 Spell/Trap Card on your opponent\u0027s field.",
-		"rarity": "NPC"
+		"rarity": "SR"
 	},
 	{
 		"id": 15209,
@@ -2588,13 +2588,13 @@
 		"isLegend": false,
 		"requirement": "If you have no other monsters on your field, pay 500 LP.",
 		"effect": "Add 1 \"Kuribot\" from your Graveyard to your hand.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 1,
 			"atk": 300,
 			"def": 200,
 			"attribute": "DARK",
-			"race": "SPELLCASTER"
+			"race": "FIEND"
 		}
 	},
 	{
@@ -10758,7 +10758,7 @@
 		"isLegend": false,
 		"requirement": "Send the top card of your Deck to the Graveyard.",
 		"effect": "This card gains ATK equal to [the number of different Attributes in your Graveyard] x 300, until the end of this turn.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 7,
 			"atk": 2100,
@@ -10776,7 +10776,7 @@
 		"isLegend": false,
 		"requirement": "Maximum Mode: If your LP are lower than your opponent\u0027s, send 1 card from your hand to the Graveyard.",
 		"effect": "This card gains ATK equal to [the difference between your LP and your opponent\u0027s LP] until the end of this turn.",
-		"rarity": "NPC",
+		"rarity": "R",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 800,
@@ -10796,7 +10796,7 @@
 		"inherentSummonCondition": "You can Maximum Summon this card together with \"Supreme Machine Magnum Overlord [L]\" and \"Supreme Machine Magnum Overlord [R]\".",
 		"requirement": "Maximum Mode",
 		"effect": "This card cannot be destroyed by your opponent\u0027s Trap Card effects",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 10,
 			"atk": 1900,
@@ -10815,7 +10815,7 @@
 		"isLegend": false,
 		"requirement": "Maximum Mode: Send the top card of your Deck to the Graveyard.",
 		"effect": "This card gains ATK equal to [the Level of 1 face-up monster on your opponent\u0027s field] x 200 until the end of this turn.",
-		"rarity": "NPC",
+		"rarity": "R",
 		"monsterInfo": {
 			"level": 3,
 			"atk": 500,
@@ -11084,7 +11084,7 @@
 		"isLegend": false,
 		"requirement": "Send 1 card from your hand to the Graveyard.",
 		"effect": "Special Summon 1 Level 7 or higher, DARK Attribute, Spellcaster Type monster from your hand, face-up to your field. If you Special Summoned \"Sevens Road Magician\" by this effect, this card gains 400 ATK until the end of this turn.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 6,
 			"atk": 1600,
@@ -11263,7 +11263,7 @@
 		"isLegend": false,
 		"requirement": "During a turn you have not Special Summoned a monster.",
 		"effect": "Send the top 2 cards of your Deck to the Graveyard. Then, if you activated this effect during the first turn of the player going second, you can Special Summon 1 monster from either player\u0027s Graveyard face-up on your field.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1000,
@@ -11377,7 +11377,7 @@
 		"isLegend": false,
 		"requirement": "Pay 1000 LP.",
 		"effect": "All face-up monsters on your field gain ATK equal to [the number of monsters on your opponent\u0027s field] x 300 until the end of this turn.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 7,
 			"atk": 2200,
