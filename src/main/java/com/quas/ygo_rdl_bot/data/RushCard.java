@@ -213,7 +213,7 @@ public class RushCard {
 			StringJoiner sj = new StringJoiner("\n");
 			for (RushCard card : NAMED_CARDS.get(getName())) {
 				if (card.getObtainMethods() != null && card.getObtainMethods().length > 0) {
-					if (card.getCardStyle() != null) sj.add("## " + card.getCardStyle());
+					if (card.getCardStyle() != null) sj.add("**" + card.getCardStyle() + "**");
 					
 					for (String om : card.getObtainMethods()) {
 						sj.add("- " + om);
