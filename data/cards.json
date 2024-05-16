@@ -3,6 +3,7 @@
 		"id": 15150,
 		"name": "Sevens Road Magician",
 		"cardType": "EFFECT",
+		"cardStyle": "ORIGINAL",
 		"effectType": "NORMAL",
 		"isLegend": false,
 		"requirement": "Send the top card of your Deck to the Graveyard.",
@@ -267,6 +268,7 @@
 		"id": 15164,
 		"name": "Multistrike Dragon Dragias",
 		"cardType": "EFFECT",
+		"cardStyle": "ORIGINAL",
 		"effectType": "NORMAL",
 		"isLegend": false,
 		"requirement": "Send the top card of your Deck to the Graveyard.",
@@ -529,6 +531,7 @@
 		"id": 15178,
 		"name": "Sevens Road Witch",
 		"cardType": "EFFECT",
+		"cardStyle": "ORIGINAL",
 		"effectType": "NORMAL",
 		"isLegend": false,
 		"requirement": "Send 1 card from your hand to the Graveyard.",
@@ -549,6 +552,7 @@
 		"id": 15184,
 		"name": "Blue-Eyes White Dragon",
 		"cardType": "NORMAL",
+		"cardStyle": "ORIGINAL",
 		"effectType": "NORMAL",
 		"isLegend": true,
 		"requirement": "Unknown",
@@ -646,6 +650,7 @@
 		"id": 15189,
 		"name": "Kuribot",
 		"cardType": "EFFECT",
+		"cardStyle": "ORIGINAL",
 		"effectType": "NORMAL",
 		"isLegend": false,
 		"requirement": "If you have no other monsters on your field, pay 500 LP.",
@@ -701,7 +706,8 @@
 		},
 		"cardObtain": [
 			"Sevens New Road",
-			"Scorching Flame Burst"
+			"Scorching Flame Burst",
+			"Steel Kaleidomirror"
 		]
 	},
 	{
@@ -722,13 +728,15 @@
 		},
 		"cardObtain": [
 			"Sevens New Road",
-			"Scorching Flame Burst"
+			"Scorching Flame Burst",
+			"Steel Kaleidomirror"
 		]
 	},
 	{
 		"id": 15193,
 		"name": "Prima Guitarna the Shining Superstar",
 		"cardType": "EFFECT",
+		"cardStyle": "ORIGINAL",
 		"effectType": "NORMAL",
 		"isLegend": false,
 		"requirement": "Pay 1000 LP.",
@@ -1007,6 +1015,7 @@
 		"id": 15208,
 		"name": "Hammer Crush",
 		"cardType": "SPELL",
+		"cardStyle": "ORIGINAL",
 		"effectType": "NORMAL",
 		"isLegend": false,
 		"requirement": "Send 1 card from your hand to the Graveyard.",
@@ -1047,7 +1056,10 @@
 		"isLegend": false,
 		"requirement": "When 2 or more face-up Normal Monsters on your field are destroyed at the same time by an opponent\u0027s card effect.",
 		"effect": "Special Summon up to 2 monsters from your Graveyard face-up to your field.",
-		"rarity": "NPC"
+		"rarity": "N",
+		"cardObtain": [
+			"Steel Kaleidomirror"
+		]
 	},
 	{
 		"id": 15212,
@@ -1510,14 +1522,17 @@
 		"isLegend": false,
 		"requirement": "Shuffle 2 Dragon Type monsters from your Graveyard into the Deck.",
 		"effect": "This turn, this face-up card can be treated as 2 Tributes for the Tribute Summon of a Dragon Type monster in Attack Position.",
-		"rarity": "NPC",
+		"rarity": "R",
 		"monsterInfo": {
 			"level": 5,
 			"atk": 1200,
 			"def": 1200,
 			"attribute": "LIGHT",
 			"race": "DRAGON"
-		}
+		},
+		"cardObtain": [
+			"Steel Kaleidomirror"
+		]
 	},
 	{
 		"id": 15410,
@@ -1556,7 +1571,8 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream"
+			"Heavy Metal Scream",
+			"Steel Kaleidomirror"
 		]
 	},
 	{
@@ -1927,7 +1943,8 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream"
+			"Heavy Metal Scream",
+			"Steel Kaleidomirror"
 		]
 	},
 	{
@@ -2314,6 +2331,16 @@
 		"rarity": "NPC"
 	},
 	{
+		"id": 15458,
+		"name": "Siesta Hold",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When your opponent Normal Summons a Level 4 or lower monster while they have no other monsters on their field.",
+		"effect": "Change that monster to face-down Defense Position.",
+		"rarity": "NPC"
+	},
+	{
 		"id": 15460,
 		"name": "Phantom Bind",
 		"cardType": "TRAP",
@@ -2553,6 +2580,24 @@
 		]
 	},
 	{
+		"id": 15648,
+		"name": "Kuribot",
+		"cardType": "EFFECT",
+		"cardStyle": "ALT_ART",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you have no other monsters on your field, pay 500 LP.",
+		"effect": "Add 1 \"Kuribot\" from your Graveyard to your hand.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 300,
+			"def": 200,
+			"attribute": "DARK",
+			"race": "SPELLCASTER"
+		}
+	},
+	{
 		"id": 15649,
 		"name": "Kimeruler the Dark Raider",
 		"cardType": "EFFECT",
@@ -2704,14 +2749,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "The days and months flowed by. Each day was full. Those really were the good old days.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 1,
 			"atk": 0,
 			"def": 1400,
 			"attribute": "LIGHT",
 			"race": "BEAST"
-		}
+		},
+		"cardObtain": [
+			"Steel Kaleidomirror"
+		]
 	},
 	{
 		"id": 15657,
@@ -2748,7 +2796,10 @@
 		"isLegend": false,
 		"requirement": "None",
 		"effect": "Change 1 Attack Position monster on your opponent\u0027s field to face-up Defense Position.",
-		"rarity": "NPC"
+		"rarity": "R",
+		"cardObtain": [
+			"Steel Kaleidomirror"
+		]
 	},
 	{
 		"id": 15660,
@@ -3150,7 +3201,8 @@
 			"race": "PSYCHIC"
 		},
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road",
+			"Steel Kaleidomirror"
 		]
 	},
 	{
@@ -3943,6 +3995,7 @@
 		"id": 15897,
 		"name": "Supreme Machine Magnum Overlord [L]",
 		"cardType": "MAXIMUM",
+		"cardStyle": "ORIGINAL",
 		"effectType": "NORMAL",
 		"isLegend": false,
 		"requirement": "Maximum Mode: If your LP are lower than your opponent\u0027s, send 1 card from your hand to the Graveyard.",
@@ -3964,6 +4017,7 @@
 		"id": 15898,
 		"name": "Supreme Machine Magnum Overlord",
 		"cardType": "MAXIMUM",
+		"cardStyle": "ORIGINAL",
 		"effectType": "NORMAL",
 		"isLegend": false,
 		"inherentSummonCondition": "You can Maximum Summon this card together with \"Supreme Machine Magnum Overlord [L]\" and \"Supreme Machine Magnum Overlord [R]\".",
@@ -3986,6 +4040,7 @@
 		"id": 15899,
 		"name": "Supreme Machine Magnum Overlord [R]",
 		"cardType": "MAXIMUM",
+		"cardStyle": "ORIGINAL",
 		"effectType": "NORMAL",
 		"isLegend": false,
 		"requirement": "Maximum Mode: Send the top card of your Deck to the Graveyard.",
@@ -4971,6 +5026,26 @@
 		]
 	},
 	{
+		"id": 16138,
+		"name": "Steel Mech Lord Mirror Innovator",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Choose up to 3 monsters in your Graveyard with the same Type as this card. This card gains ATK equal to [the total Levels of those monsters] x 100 until the end of this turn. Then, shuffle those monsters into the Deck. If you shuffled exactly 1 monster by this effect, this card inflicts piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference), if it attacks a Defense Position monster this turn.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2400,
+			"def": 1800,
+			"attribute": "LIGHT",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"Steel Kaleidomirror"
+		]
+	},
+	{
 		"id": 16139,
 		"name": "Insurrection Dragon",
 		"cardType": "EFFECT",
@@ -5185,7 +5260,10 @@
 		"isLegend": false,
 		"requirement": "Reveal 1 monster in your hand.",
 		"effect": "Choose up to 3 face-up monsters on the field. This turn, those monsters become the same Type as the monster revealed to meet the requirement.",
-		"rarity": "NPC"
+		"rarity": "N",
+		"cardObtain": [
+			"Steel Kaleidomirror"
+		]
 	},
 	{
 		"id": 16162,
@@ -5379,14 +5457,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "A dinosaur living peacefully in a herd. Although its form is intimidating, it\u0027s not really that strong.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 2,
 			"atk": 700,
 			"def": 1100,
 			"attribute": "EARTH",
 			"race": "DINOSAUR"
-		}
+		},
+		"cardObtain": [
+			"Steel Kaleidomirror"
+		]
 	},
 	{
 		"id": 16291,
@@ -5433,14 +5514,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "A crimson dragon that spits fireballs to create a blazing sea of fire.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 6,
 			"atk": 1700,
 			"def": 1900,
 			"attribute": "FIRE",
 			"race": "DRAGON"
-		}
+		},
+		"cardObtain": [
+			"Steel Kaleidomirror"
+		]
 	},
 	{
 		"id": 16303,
@@ -5534,14 +5618,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "In possession of infinite potential. Chasing her dreams with a smile that blinds.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 1,
 			"atk": 100,
 			"def": 100,
 			"attribute": "LIGHT",
 			"race": "PSYCHIC"
-		}
+		},
+		"cardObtain": [
+			"Steel Kaleidomirror"
+		]
 	},
 	{
 		"id": 16310,
@@ -5765,14 +5852,17 @@
 		"isLegend": false,
 		"requirement": "None",
 		"effect": "Return 1 face-up monster with 500 or less ATK from your field to the owner\u0027s hand. This turn, while this card is face-up, you cannot Tribute Summon monsters with 1500 or more DEF in Attack Position.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 7,
 			"atk": 2500,
 			"def": 1500,
 			"attribute": "LIGHT",
 			"race": "PSYCHIC"
-		}
+		},
+		"cardObtain": [
+			"Steel Kaleidomirror"
+		]
 	},
 	{
 		"id": 16327,
@@ -5807,6 +5897,26 @@
 			"attribute": "DARK",
 			"race": "WARRIOR"
 		}
+	},
+	{
+		"id": 16329,
+		"name": "Icezark the Unequaled",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Place 2 Level 7 or higher Warrior monsters with different names from your Graveyard on the bottom of the Deck in any order.",
+		"effect": "Special Summon 1 Level 7 or higher Warrior monster from your Graveyard face-up to your field.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2000,
+			"def": 2000,
+			"attribute": "WATER",
+			"race": "WINGED_BEAST"
+		},
+		"cardObtain": [
+			"Steel Kaleidomirror"
+		]
 	},
 	{
 		"id": 16330,
@@ -5958,14 +6068,30 @@
 		"isLegend": false,
 		"requirement": "If you have a face-up monster with 100 ATK/100 DEF on your field, send this face-up card from your field to the Graveyard.",
 		"effect": "Special Summon 1 Level 7 Psychic Type monster from your Graveyard in face-up Attack Position to your field.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1000,
 			"def": 100,
 			"attribute": "LIGHT",
 			"race": "PSYCHIC"
-		}
+		},
+		"cardObtain": [
+			"Steel Kaleidomirror"
+		]
+	},
+	{
+		"id": 16345,
+		"name": "JAM:P Up!",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 face-up Psychic monster from your field to the Graveyard.",
+		"effect": "Special Summon 1 Level 7 Psychic monster from your hand face-up to your field. If you sent \"CAN:D\" to the Graveyard to meet the requirement, the monster Special Summoned by this effect gains 1500 ATK until the end of this turn.",
+		"rarity": "SR",
+		"cardObtain": [
+			"Steel Kaleidomirror"
+		]
 	},
 	{
 		"id": 16346,
@@ -5975,7 +6101,10 @@
 		"isLegend": false,
 		"requirement": "Place 2 Psychic Type monsters from your Graveyard on the bottom of your Deck in any order.",
 		"effect": "Add 1 Psychic Type Normal Monster from your Graveyard to your hand. If you added \"CAN:D\" to your hand by this effect, gain 1000 LP.",
-		"rarity": "NPC"
+		"rarity": "R",
+		"cardObtain": [
+			"Steel Kaleidomirror"
+		]
 	},
 	{
 		"id": 16347,
@@ -6012,6 +6141,19 @@
 		"requirement": "Shuffle 4 monsters with 100 or less DEF from your Graveyard to your Deck.",
 		"effect": "Draw 1 card.",
 		"rarity": "NPC"
+	},
+	{
+		"id": 16350,
+		"name": "Mighty Gaze of the Sky Emperor",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 monster from your hand to the Graveyard.",
+		"effect": "Change the battle position of 1 monster on your opponent\u0027s field (Attack Position becomes face-up Defense Position, Defense Position becomes face-up Attack Position). Then, if you have a face-up Level 10 monster on your field, you can draw 1 card.",
+		"rarity": "SR",
+		"cardObtain": [
+			"Steel Kaleidomirror"
+		]
 	},
 	{
 		"id": 16353,
@@ -6054,7 +6196,10 @@
 		"isLegend": false,
 		"requirement": "You have 2 or more face-up Warrior Type and/or Winged Beast Type monsters on your field.",
 		"effect": "Destroy 1 Spell/Trap Card on your opponent\u0027s field. Then, you can place 1 Level 8 or lower Warrior Type or Winged Beast Type monster from your Graveyard on top of your Deck.",
-		"rarity": "NPC"
+		"rarity": "SR",
+		"cardObtain": [
+			"Steel Kaleidomirror"
+		]
 	},
 	{
 		"id": 16361,
@@ -6133,6 +6278,7 @@
 		"id": 16371,
 		"name": "Dark Magician Girl",
 		"cardType": "EFFECT",
+		"cardStyle": "ORIGINAL",
 		"effectType": "CONTINUOUS",
 		"isLegend": false,
 		"requirement": "None",
@@ -6180,6 +6326,7 @@
 		"id": 16465,
 		"name": "Multistrike Dragon Dragias",
 		"cardType": "EFFECT",
+		"cardStyle": "ALT_ART",
 		"effectType": "NORMAL",
 		"isLegend": false,
 		"requirement": "Send the top card of your Deck to the Graveyard.",
@@ -6194,6 +6341,70 @@
 		},
 		"cardObtain": [
 			"Scorching Flame Burst"
+		]
+	},
+	{
+		"id": 16573,
+		"name": "Dynamic Dino Dynamix [L]",
+		"cardType": "MAXIMUM",
+		"effectType": "CONTINUOUS",
+		"isLegend": false,
+		"requirement": "Maximum Mode",
+		"effect": "This card cannot be destroyed by battle with Level 7 or lower monsters.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1300,
+			"def": 0,
+			"maxAtk": 0,
+			"attribute": "EARTH",
+			"race": "DINOSAUR"
+		},
+		"cardObtain": [
+			"Steel Kaleidomirror"
+		]
+	},
+	{
+		"id": 16574,
+		"name": "Dynamic Dino Dynamix",
+		"cardType": "MAXIMUM",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "You can Maximum Summon this card together with \"Dynamic Dino Dynamix [L]\" and \"Dynamic Dino Dynamix [R]\".",
+		"requirement": "Maximum Mode: If your opponent has no face-up Level 9 or higher monsters on their field, send 1 monster from your hand to the Graveyard.",
+		"effect": "Destroy up to 2 monsters on your opponent\u0027s field.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 10,
+			"atk": 1900,
+			"def": 0,
+			"maxAtk": 3400,
+			"attribute": "EARTH",
+			"race": "DINOSAUR"
+		},
+		"cardObtain": [
+			"Steel Kaleidomirror"
+		]
+	},
+	{
+		"id": 16575,
+		"name": "Dynamic Dino Dynamix [R]",
+		"cardType": "MAXIMUM",
+		"effectType": "CONTINUOUS",
+		"isLegend": false,
+		"requirement": "Maximum Mode",
+		"effect": "This card cannot be destroyed by your opponent\u0027s Trap Card effects.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1300,
+			"def": 0,
+			"maxAtk": 0,
+			"attribute": "EARTH",
+			"race": "DINOSAUR"
+		},
+		"cardObtain": [
+			"Steel Kaleidomirror"
 		]
 	},
 	{
@@ -6221,14 +6432,17 @@
 		"isLegend": false,
 		"requirement": "Send 1 Dinosaur Type monster from your hand to the Graveyard.",
 		"effect": "Draw 1 card.",
-		"rarity": "NPC",
+		"rarity": "R",
 		"monsterInfo": {
 			"level": 3,
 			"atk": 1000,
 			"def": 0,
 			"attribute": "LIGHT",
 			"race": "DINOSAUR"
-		}
+		},
+		"cardObtain": [
+			"Steel Kaleidomirror"
+		]
 	},
 	{
 		"id": 16579,
@@ -6275,14 +6489,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "A now \"rich\" dinosaur who had changed names in exchange for luck. He used to live in a hole.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1400,
 			"def": 1000,
 			"attribute": "LIGHT",
 			"race": "DINOSAUR"
-		}
+		},
+		"cardObtain": [
+			"Steel Kaleidomirror"
+		]
 	},
 	{
 		"id": 16582,
@@ -6292,14 +6509,43 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "A pterodactyl that loves to collect shiny objects. The shell atop of its head, is its favorite.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 1,
 			"atk": 0,
 			"def": 1400,
 			"attribute": "LIGHT",
 			"race": "DINOSAUR"
-		}
+		},
+		"cardObtain": [
+			"Steel Kaleidomirror"
+		]
+	},
+	{
+		"id": 16584,
+		"name": "Coevolutionary Miracle",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 face-up Dinosaur monster from your field to the Graveyard.",
+		"effect": "Special Summon 1 Level 5 or higher Dinosaur monster from your hand face-up to your field. It gains ATK equal to [the original Level of the monster sent to the Graveyard to meet the requirement] x 100 until the end of this turn.",
+		"rarity": "N",
+		"cardObtain": [
+			"Steel Kaleidomirror"
+		]
+	},
+	{
+		"id": 16585,
+		"name": "Dinosaur Crush",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you have a face-up Level 7 or higher Dinosaur monster on your field, send 1 card from your hand to the Graveyard.",
+		"effect": "Destroy 1 face-down card on your opponent\u0027s field.",
+		"rarity": "R",
+		"cardObtain": [
+			"Steel Kaleidomirror"
+		]
 	},
 	{
 		"id": 16589,
@@ -6326,14 +6572,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "The keystone of the Sky Emperor, bestowed with the providence of all existence. By breaking through its constraints, it is born anew to break new ground.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 100,
 			"def": 1500,
 			"attribute": "LIGHT",
 			"race": "CYBERSE"
-		}
+		},
+		"cardObtain": [
+			"Steel Kaleidomirror"
+		]
 	},
 	{
 		"id": 16591,
@@ -6582,6 +6831,7 @@
 		"id": 16618,
 		"name": "Hammer Crush",
 		"cardType": "SPELL",
+		"cardStyle": "ALT_ART",
 		"effectType": "NORMAL",
 		"isLegend": false,
 		"requirement": "Send 1 card from your hand to the Graveyard.",
@@ -6863,14 +7113,17 @@
 		"isLegend": false,
 		"requirement": "If your opponent has 5 or more cards on their field, send 1 card from your hand to the Graveyard.",
 		"effect": "All face-up Level 7 or lower monsters on your opponent\u0027s field lose 1500 ATK until the end of this turn.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 7,
 			"atk": 2400,
 			"def": 1600,
 			"attribute": "DARK",
 			"race": "DRAGON"
-		}
+		},
+		"cardObtain": [
+			"Steel Kaleidomirror"
+		]
 	},
 	{
 		"id": 16674,
@@ -6880,14 +7133,17 @@
 		"isLegend": false,
 		"requirement": "Send 1 Level 7 or higher Dragon Type monster from your hand to the Graveyard.",
 		"effect": "This turn, this card cannot be destroyed by battle or your opponent\u0027s Trap Card effects. Also, if this card attacked a monster, it can make a second attack on a monster during that Battle Phase.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 7,
 			"atk": 2500,
 			"def": 1500,
 			"attribute": "DARK",
 			"race": "DRAGON"
-		}
+		},
+		"cardObtain": [
+			"Steel Kaleidomirror"
+		]
 	},
 	{
 		"id": 16675,
@@ -6979,6 +7235,46 @@
 			"attribute": "FIRE",
 			"race": "BEAST"
 		}
+	},
+	{
+		"id": 16686,
+		"name": "Crafter Drone",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 Machine monster from your hand to the Graveyard.",
+		"effect": "Draw 1 card.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 1000,
+			"def": 0,
+			"attribute": "EARTH",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"Steel Kaleidomirror"
+		]
+	},
+	{
+		"id": 16687,
+		"name": "Assault Cannon",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you have 3 face-up Machine monsters on your field, send the top card of your Deck to the Graveyard.",
+		"effect": "1 face-up monster on your opponent\u0027s field loses 300 ATK/DEF until the end of this turn.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 1200,
+			"def": 600,
+			"attribute": "LIGHT",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"Steel Kaleidomirror"
+		]
 	},
 	{
 		"id": 16688,
@@ -7131,6 +7427,19 @@
 		"rarity": "SR",
 		"cardObtain": [
 			"Heavy Metal Scream"
+		]
+	},
+	{
+		"id": 16720,
+		"name": "Forever Freeze",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When your opponent Normal Summons a monster with 2500 or more ATK, send 1 monster from your field to the Graveyard.",
+		"effect": "Place that Normal Summoned monster on the bottom of the owner\u0027s Deck.",
+		"rarity": "SR",
+		"cardObtain": [
+			"Special Set (Bundle)"
 		]
 	},
 	{
@@ -7385,14 +7694,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "A samurai who claims to be from the far east. The bread knife in his hand cuts well.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1500,
 			"def": 0,
 			"attribute": "EARTH",
 			"race": "WARRIOR"
-		}
+		},
+		"cardObtain": [
+			"Steel Kaleidomirror"
+		]
 	},
 	{
 		"id": 16783,
@@ -7582,14 +7894,17 @@
 		"isLegend": false,
 		"requirement": "Shuffle 3 Machine Type monsters from your Graveyard into the Deck.",
 		"effect": "This turn, this face-up card can be treated as 2 Tributes for the Tribute Summon of a LIGHT Attribute Machine Type monster in Attack Position.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 3,
 			"atk": 800,
 			"def": 200,
 			"attribute": "LIGHT",
 			"race": "MACHINE"
-		}
+		},
+		"cardObtain": [
+			"Steel Kaleidomirror"
+		]
 	},
 	{
 		"id": 16805,
@@ -7636,14 +7951,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "A gentle dinosaur who cares not for conflicts. Always with a smile towards an audience.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1400,
 			"def": 500,
 			"attribute": "LIGHT",
 			"race": "DINOSAUR"
-		}
+		},
+		"cardObtain": [
+			"Steel Kaleidomirror"
+		]
 	},
 	{
 		"id": 16893,
@@ -8467,6 +8785,24 @@
 		"rarity": "NPC"
 	},
 	{
+		"id": 17197,
+		"name": "Ultimate Flag Mech Gold Rush",
+		"cardType": "EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 Machine Effect monster from your hand to the Graveyard.",
+		"effect": "Add 1 Machine Normal Monster from your Graveyard to your hand. Then, if your opponent has 3 Attack Position monsters on their field, you can Special Summon 1 Normal Monster from your hand face-up to your field.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2500,
+			"def": 1600,
+			"attribute": "LIGHT",
+			"race": "MACHINE"
+		}
+	},
+	{
 		"id": 17202,
 		"name": "Attrashoot Hydron",
 		"cardType": "EFFECT",
@@ -8549,6 +8885,23 @@
 		"cardObtain": [
 			"Genesis Maximum"
 		]
+	},
+	{
+		"id": 17224,
+		"name": "Kaibaman",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send this face-up card from your field to the Graveyard.",
+		"effect": "Special Summon 1 \"Blue-Eyes White Dragon\" from your hand face-up to your field.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 200,
+			"def": 700,
+			"attribute": "LIGHT",
+			"race": "WARRIOR"
+		}
 	},
 	{
 		"id": 17271,
@@ -9344,6 +9697,19 @@
 			"attribute": "FIRE",
 			"race": "SPELLCASTER"
 		}
+	},
+	{
+		"id": 17594,
+		"name": "Tribute Lock",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When your opponent Normal Summons a Level 5 or higher monster while your LP are lower than theirs.",
+		"effect": "Change that monster to face-up Defense Position.",
+		"rarity": "SR",
+		"cardObtain": [
+			"Steel Kaleidomirror"
+		]
 	},
 	{
 		"id": 17671,
@@ -10191,6 +10557,19 @@
 		]
 	},
 	{
+		"id": 18286,
+		"name": "JAM:P Check!",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "You have 2 or more face-up Psychic monsters on your field, including a Normal Monster.",
+		"effect": "Look at up to 2 face-down Spell/Trap Cards on your opponent\u0027s field, and destroy 1 of them. Then, if you have \"CAN:D\" face-up on your field, you can gain 1000 LP.",
+		"rarity": "R",
+		"cardObtain": [
+			"Steel Kaleidomirror"
+		]
+	},
+	{
 		"id": 18288,
 		"name": "Atrium\u0027s Wind",
 		"cardType": "SPELL",
@@ -10332,6 +10711,7 @@
 		"id": 18404,
 		"name": "Dark Magician Girl",
 		"cardType": "EFFECT",
+		"cardStyle": "ALT_ART",
 		"effectType": "CONTINUOUS",
 		"isLegend": false,
 		"requirement": "None",
@@ -10347,6 +10727,103 @@
 		"cardObtain": [
 			"Legend of Dark Magic"
 		]
+	},
+	{
+		"id": 18547,
+		"name": "Blue-Eyes White Dragon",
+		"cardType": "NORMAL",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": true,
+		"requirement": "Unknown",
+		"effect": "This legendary dragon is a powerful engine of destruction. Virtually invincible, very few have faced this awesome creature and lived to tell the tale.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 3000,
+			"def": 2500,
+			"attribute": "LIGHT",
+			"race": "DRAGON"
+		},
+		"cardObtain": [
+			"WCS 2024 Qualifiers Celebration! Road to Worlds Campaign"
+		]
+	},
+	{
+		"id": 18549,
+		"name": "Sevens Road Magician",
+		"cardType": "EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "This card gains ATK equal to [the number of different Attributes in your Graveyard] x 300, until the end of this turn.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2100,
+			"def": 1500,
+			"attribute": "DARK",
+			"race": "SPELLCASTER"
+		}
+	},
+	{
+		"id": 18550,
+		"name": "Supreme Machine Magnum Overlord [L]",
+		"cardType": "MAXIMUM",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Maximum Mode: If your LP are lower than your opponent\u0027s, send 1 card from your hand to the Graveyard.",
+		"effect": "This card gains ATK equal to [the difference between your LP and your opponent\u0027s LP] until the end of this turn.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 800,
+			"def": 0,
+			"maxAtk": 0,
+			"attribute": "DARK",
+			"race": "MACHINE"
+		}
+	},
+	{
+		"id": 18551,
+		"name": "Supreme Machine Magnum Overlord",
+		"cardType": "MAXIMUM",
+		"cardStyle": "OR_STYLE",
+		"effectType": "CONTINUOUS",
+		"isLegend": false,
+		"inherentSummonCondition": "You can Maximum Summon this card together with \"Supreme Machine Magnum Overlord [L]\" and \"Supreme Machine Magnum Overlord [R]\".",
+		"requirement": "Maximum Mode",
+		"effect": "This card cannot be destroyed by your opponent\u0027s Trap Card effects",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 10,
+			"atk": 1900,
+			"def": 0,
+			"maxAtk": 3500,
+			"attribute": "DARK",
+			"race": "MACHINE"
+		}
+	},
+	{
+		"id": 18552,
+		"name": "Supreme Machine Magnum Overlord [R]",
+		"cardType": "MAXIMUM",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Maximum Mode: Send the top card of your Deck to the Graveyard.",
+		"effect": "This card gains ATK equal to [the Level of 1 face-up monster on your opponent\u0027s field] x 200 until the end of this turn.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 500,
+			"def": 0,
+			"maxAtk": 0,
+			"attribute": "DARK",
+			"race": "MACHINE"
+		}
 	},
 	{
 		"id": 18578,
@@ -10517,6 +10994,16 @@
 		]
 	},
 	{
+		"id": 18786,
+		"name": "Heavenly Invitation",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Send the top 3 cards of your Deck to the Graveyard. Then, if you have no monsters on your field, you can add 1 Level 10 monster from your Graveyard to your hand.",
+		"rarity": "NPC"
+	},
+	{
 		"id": 18943,
 		"name": "Zuse the Wisdom Vassal",
 		"cardType": "EFFECT",
@@ -10570,6 +11057,41 @@
 			"Raidacross the Lionhearted",
 			"Genesis Maximum"
 		]
+	},
+	{
+		"id": 18961,
+		"name": "Summoning Sorcerer Doretheo",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Send the top 2 cards of your Deck to the Graveyard. Then, you can inflict damage to your opponent equal to [the number of Spellcaster monsters sent to the Graveyard by this effect] x 300.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2500,
+			"def": 1600,
+			"attribute": "LIGHT",
+			"race": "SPELLCASTER"
+		}
+	},
+	{
+		"id": 18997,
+		"name": "Sevens Road Witch",
+		"cardType": "EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 card from your hand to the Graveyard.",
+		"effect": "Special Summon 1 Level 7 or higher, DARK Attribute, Spellcaster Type monster from your hand, face-up to your field. If you Special Summoned \"Sevens Road Magician\" by this effect, this card gains 400 ATK until the end of this turn.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 1600,
+			"def": 1000,
+			"attribute": "DARK",
+			"race": "SPELLCASTER"
+		}
 	},
 	{
 		"id": 19091,
@@ -10702,6 +11224,7 @@
 		"id": 19314,
 		"name": "Rising Light Angel Essel",
 		"cardType": "EFFECT",
+		"cardStyle": "ORIGINAL",
 		"effectType": "NORMAL",
 		"isLegend": false,
 		"requirement": "During a turn you have not Special Summoned a monster.",
@@ -10717,6 +11240,99 @@
 		"cardObtain": [
 			"Genesis Maximum"
 		]
+	},
+	{
+		"id": 19342,
+		"name": "Negate Attack",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": true,
+		"requirement": "When an opponent\u0027s monster declares an attack.",
+		"effect": "Negate the attack. This turn, your opponent cannot declare an attack.",
+		"rarity": "UR",
+		"cardObtain": [
+			"Special Set (Bundle)"
+		]
+	},
+	{
+		"id": 19347,
+		"name": "Rising Light Angel Essel",
+		"cardType": "EFFECT",
+		"cardStyle": "ALT_ART",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During a turn you have not Special Summoned a monster.",
+		"effect": "Send the top 2 cards of your Deck to the Graveyard. Then, if you activated this effect during the first turn of the player going second, you can Special Summon 1 monster from either player\u0027s Graveyard face-up on your field.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1000,
+			"def": 1000,
+			"attribute": "LIGHT",
+			"race": "FAIRY"
+		}
+	},
+	{
+		"id": 19424,
+		"name": "Blue-Eyes Bright Dragon",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "This card\u0027s name becomes \"Blue-Eyes White Dragon\" while in the hand.",
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "This turn, this card\u0027s name becomes \"Blue-Eyes White Dragon\" and it gains 500 ATK. Then, if you have a face-up Legend Normal Monster on your field, you can destroy 1 face-up Level 8 or lower monster on your opponent\u0027s field.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2500,
+			"def": 2500,
+			"attribute": "LIGHT",
+			"race": "DRAGON"
+		}
+	},
+	{
+		"id": 19428,
+		"name": "Soul Drake",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During your Main Phase that you Normal or Special Summoned this card, send 2 face-up Level 4 or lower Effect Monsters from your field to the Graveyard.",
+		"effect": "Special Summon 1 Level 8 LIGHT Attribute Dragon monster from your Graveyard face-up to your field. This turn, your Level 7 or lower monsters cannot attack.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1100,
+			"def": 600,
+			"attribute": "DARK",
+			"race": "DRAGON"
+		}
+	},
+	{
+		"id": 19549,
+		"name": "Ultimate Flag Beast Boltricorn",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you have no other monsters on your field, send the top card of your Deck to the Graveyard.",
+		"effect": "1 face-down Spell/Trap Card on your opponent\u0027s field cannot be activated until the end of their next turn.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 1200,
+			"def": 200,
+			"attribute": "LIGHT",
+			"race": "MACHINE"
+		}
+	},
+	{
+		"id": 19562,
+		"name": "7 Shift",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 card from your hand to the Graveyard.",
+		"effect": "Special Summon 1 Level 7 or lower Effect Monster from your hand face-up to your field.",
+		"rarity": "NPC"
 	},
 	{
 		"id": 19564,
@@ -10751,5 +11367,61 @@
 		"cardObtain": [
 			"Legend of Dark Magic"
 		]
+	},
+	{
+		"id": 19605,
+		"name": "Prima Guitarna the Shining Superstar",
+		"cardType": "EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Pay 1000 LP.",
+		"effect": "All face-up monsters on your field gain ATK equal to [the number of monsters on your opponent\u0027s field] x 300 until the end of this turn.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2200,
+			"def": 0,
+			"attribute": "LIGHT",
+			"race": "PSYCHIC"
+		}
+	},
+	{
+		"id": 20094,
+		"name": "Chaos Femtron",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "The only monsters in your Graveyard are Cyberse monsters.",
+		"effect": "Send the top 3 cards of your Deck to the Graveyard. Then, you can add 1 Cyberse monster with 0 DEF from among the cards sent to your hand.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1400,
+			"def": 100,
+			"attribute": "DARK",
+			"race": "CYBERSE"
+		},
+		"cardObtain": [
+			"Steel Kaleidomirror"
+		]
+	},
+	{
+		"id": 20561,
+		"name": "Ultimate Flag Mech Gold Rush",
+		"cardType": "EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 Machine Effect Monster from your hand to the Graveyard.",
+		"effect": "Add 1 Machine Normal Monster from your Graveyard to your hand. Then, if your opponent has 3 Attack Position monsters on their field, you can Special Summon 1 Normal Monster from your hand face-up to your field.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2500,
+			"def": 1600,
+			"attribute": "LIGHT",
+			"race": "MACHINE"
+		}
 	}
 ]

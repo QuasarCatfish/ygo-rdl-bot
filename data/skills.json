@@ -966,5 +966,71 @@
 			16791,
 			16792
 		]
+	},
+	{
+		"id": 76,
+		"name": "Set - Mighty Gaze of the Sky Emperor",
+		"requirement": "You have a face-up Level 10 Maximum Monster on your field.",
+		"effect": "Set 1 \"Mighty Gaze of the Sky Emperor\" from your Deck or Graveyard in your Spell \u0026 Trap Zone.",
+		"isArchive": false,
+		"characters": [
+			701,
+			708
+		],
+		"mentionedCards": [
+			16350
+		]
+	},
+	{
+		"id": 77,
+		"name": "Fullmetal Fist",
+		"condition": "This Skill can only be used if all of the monsters with 1300 or more ATK in your Deck are Dragon monsters, and the Deck consists of 1 or less non-DARK Attribute Level 6 or higher monster.",
+		"requirement": "None",
+		"effect": "Choose 1 face-up Level 5 or 7 DARK Attribute monster on your field and its original ATK becomes 2600 until the end of this turn. Then, if it was \"Steel Strike Dragon Metagias\" that was Summoned this turn, you can add 1 DARK Attribute Level 7 monster from your Graveyard to your hand.",
+		"isArchive": false,
+		"characters": [
+			702
+		],
+		"mentionedCards": [
+			16674
+		]
+	},
+	{
+		"id": 78,
+		"name": "Spectral Squall",
+		"condition": "This Skill can only be used if all of the monsters with 1400 or more ATK in your Deck are Warrior and/or Winged Beast monsters.",
+		"requirement": "From turn 2 onward, during the turn that you have Normal Summoned a Level 6 or higher monster.",
+		"effect": "Send up to 2 DARK Attribute Warrior monsters with different names from your hand or Deck to the Graveyard. Then, you can make 1 face-up WATER Attribute Winged Beast monster on your field gain 1000 ATK until the end of this turn.",
+		"isArchive": false,
+		"characters": [
+			703
+		],
+		"mentionedCards": []
+	},
+	{
+		"id": 79,
+		"name": "Re:D Beat!",
+		"condition": "This Skill can only be used if all of the monsters in your Deck are Psychic monsters, and the Deck contains 1 or less Level 7 or higher non-LIGHT Attribute monster.",
+		"requirement": "Shuffle 1 card from your hand into the Deck, and then you can show your opponent 1 Level 7 LIGHT Attribute monster in your hand or 1 face-up \"CAN - Re:D\" on your field.",
+		"effect": "Add 1 Level 1 or 4 LIGHT Attribute monster with 100 or less DEF from your Graveyard to your hand. (You can only add an Effect Monster once per Duel.)",
+		"isArchive": false,
+		"characters": [
+			704
+		],
+		"mentionedCards": [
+			16326
+		]
+	},
+	{
+		"id": 80,
+		"name": "Blue-Eyes Reign",
+		"condition": "This Skill can only be used if all of the monsters with 1700 or more ATK and/or DEF in your Deck are Level 8 LIGHT Attribute monsters with 1600 or more DEF, and the Deck contains 7 or more Level 5 or higher monsters.",
+		"requirement": "From turn 2 onward, if there are no face-up Level 8 or higher monsters on your field, shuffle 1 card from your hand into the Deck and reveal 1 \"Kaibaman\" in your hand.",
+		"effect": "Add 1 \"Blue-Eyes Bright Dragon\" from your Deck to your hand.",
+		"isArchive": true,
+		"mentionedCards": [
+			17224,
+			19424
+		]
 	}
 ]
