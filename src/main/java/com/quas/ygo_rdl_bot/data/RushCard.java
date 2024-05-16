@@ -18,11 +18,17 @@ import net.dv8tion.jda.api.utils.MarkdownSanitizer;
 public class RushCard {
 
 	private static TreeMap<Integer, RushCard> MAPPED_CARDS = new TreeMap<>();
+	private static TreeMap<String, ArrayList<RushCard>> NAMED_CARDS = new TreeMap<>();
 	static {
 		Gson gson = new Gson();
 		try (FileReader in = new FileReader("data/cards.json")) {
 			RushCard[] cards = gson.fromJson(in, RushCard[].class);
-			for (RushCard card : cards) MAPPED_CARDS.put(card.getId(), card);
+			for (RushCard card : cards) {
+				MAPPED_CARDS.put(card.getId(), card);
+				
+				if (!NAMED_CARDS.containsKey(card.getName())) NAMED_CARDS.put(card.getName(), new ArrayList<>());
+				NAMED_CARDS.get(card.getName()).add(card);
+			}
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
@@ -39,6 +45,7 @@ public class RushCard {
 	private int id;
 	private String name;
 	private CardType cardType;
+	private CardStyle cardStyle;
 	private EffectType effectType;
 	private boolean isLegend;
 	private Rarity rarity;
@@ -71,6 +78,10 @@ public class RushCard {
 	
 	public CardType getCardType() {
 		return cardType;
+	}
+	
+	public CardStyle getCardStyle() {
+		return cardStyle;
 	}
 	
 	public boolean isLegend() {
@@ -149,6 +160,20 @@ public class RushCard {
 		return Collections.unmodifiableList(searchableText);
 	}
 	
+	@Override
+	public boolean equals(Object obj) {
+		return obj instanceof RushCard && equals((RushCard)obj);
+	}
+	
+	public boolean equals(RushCard other) {
+		return this.getName().equals(other.getName());
+	}
+	
+	@Override
+	public int hashCode() {
+		return getName().hashCode();
+	}
+	
 	public MessageEmbed asEmbed() {
 		EmbedBuilder eb = new EmbedBuilder();
 		eb.setTitle(getName());
@@ -184,16 +209,25 @@ public class RushCard {
 			eb.addField("[" + getEffectType() + "]", getEffect(), false);
 		}
 		
-		if (getObtainMethods() != null && getObtainMethods().length > 0) {
+		{
 			StringJoiner sj = new StringJoiner("\n");
-			for (String om : getObtainMethods()) {
-				sj.add("- " + om);
+			for (RushCard card : NAMED_CARDS.get(getName())) {
+				if (card.getObtainMethods() != null && card.getObtainMethods().length > 0) {
+					if (card.getCardStyle() != null) sj.add("## " + card.getCardStyle());
+					
+					for (String om : card.getObtainMethods()) {
+						sj.add("- " + om);
+					}
+				}
 			}
-			eb.addField("How to Obtain", sj.toString(), false);
+			
+			if (sj.length() > 0) {
+				eb.addField("How to Obtain", sj.toString(), false);
+			}
 		}
 		
 		if (getBanlistStatus() != BanlistStatus.UNLIMITED) {
-			eb.setFooter("This card is on the banlist.", getBanlistStatus().getIconUrl());
+			eb.setFooter("This card is " + getBanlistStatus() + " on the banlist.", getBanlistStatus().getIconUrl());
 		} else if (getRarity() == Rarity.NPC) {
 			eb.setFooter("This card is currently unobtainable.");
 		}

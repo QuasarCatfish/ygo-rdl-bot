@@ -47,6 +47,7 @@ public class SearchCardCommand extends Command {
 						}
 						return false;
 					})
+					.distinct()
 					.sorted((a, b) -> {
 						if (a.getRarity().isNpc() != b.getRarity().isNpc()) return Boolean.compare(a.getRarity().isNpc(), b.getRarity().isNpc());
 						return Integer.compare(a.getId(), b.getId());
