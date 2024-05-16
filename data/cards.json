@@ -5323,7 +5323,10 @@
 		"isLegend": false,
 		"requirement": "You have 2 or more face-up Pyro Type monsters on your field.",
 		"effect": "Inflict 300 damage to your opponent. Then, if you inflicted damage to your opponent by this effect, you can destroy 1 Spell/Trap Card on your opponent\u0027s field.",
-		"rarity": "NPC"
+		"rarity": "SR",
+		"cardObtain": [
+			"Tag Duel Tournament"
+		]
 	},
 	{
 		"id": 16174,
