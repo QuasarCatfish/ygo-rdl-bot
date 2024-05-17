@@ -24,17 +24,27 @@ public class BanlistCommand extends Command {
 		for (BanlistStatus limit : BanlistStatus.values()) {
 			if (limit == BanlistStatus.UNLIMITED) continue;
 			
-			EmbedBuilder eb = setupEmbed(limit);
-			boolean hasCards = false;
-			
+			ArrayList<RushCard> banned = new ArrayList<>();
 			for (RushCard card : cards) {
 				if (card.getBanlistStatus() == limit) {
-					eb.appendDescription(String.format("%s %s %s\n", card.getRarity().getEmoji(), card.getCardType().getEmojiString(), card.getName()));
-					hasCards = true;
+					banned.add(card);
 				}
 			}
 			
-			if (hasCards) embeds.add(eb.build());
+			if (!banned.isEmpty()) {
+				banned.sort((a, b) -> {
+					if (a.getRarity() != b.getRarity()) return -a.getRarity().compareTo(b.getRarity());
+					if (a.getCardType().isMonster() != b.getCardType().isMonster()) return a.getCardType().isMonster() ? -1 : 1;
+					if (a.getCardType().isSpell() != b.getCardType().isSpell()) return a.getCardType().isSpell() ? -1 : 1;
+					return a.getName().compareTo(b.getName());
+				});
+				
+				EmbedBuilder eb = setupEmbed(limit);
+				for (RushCard card : banned) {
+					eb.appendDescription(String.format("%s %s %s\n", card.getRarity().getEmoji(), card.getCardType().getEmojiString(), card.getName()));
+				}
+				embeds.add(eb.build());
+			}
 		}
 		
 		if (embeds.isEmpty()) {

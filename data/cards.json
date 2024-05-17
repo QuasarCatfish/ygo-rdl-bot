@@ -37,7 +37,8 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Lightspeed Voltcondor"
+			"Lightspeed Voltcondor",
+			"Soul with Eyes of Blue"
 		]
 	},
 	{
@@ -82,7 +83,8 @@
 			"Lightspeed Voltcondor",
 			"Sevens New Road",
 			"The Ultimate Ace Breaker",
-			"Legend of Dark Magic"
+			"Legend of Dark Magic",
+			"Soul with Eyes of Blue"
 		]
 	},
 	{
@@ -104,7 +106,8 @@
 		"cardObtain": [
 			"Lightspeed Voltcondor",
 			"Sevens New Road",
-			"The Ultimate Ace Breaker"
+			"The Ultimate Ace Breaker",
+			"Selection Box Vol. 01"
 		]
 	},
 	{
@@ -125,7 +128,8 @@
 		},
 		"cardObtain": [
 			"Lightspeed Voltcondor",
-			"Sevens New Road"
+			"Sevens New Road",
+			"Selection Box Vol. 01"
 		]
 	},
 	{
@@ -172,7 +176,8 @@
 		"cardObtain": [
 			"Lightspeed Voltcondor",
 			"Sevens New Road",
-			"Raidacross the Lionhearted"
+			"Raidacross the Lionhearted",
+			"Selection Box Vol. 01"
 		]
 	},
 	{
@@ -215,7 +220,8 @@
 			"Lightspeed Voltcondor",
 			"Sevens New Road",
 			"Raidacross the Lionhearted",
-			"The Ultimate Ace Breaker"
+			"The Ultimate Ace Breaker",
+			"Selection Box Vol. 01"
 		]
 	},
 	{
@@ -261,7 +267,8 @@
 		"effect": "The attacking monster loses 500 ATK until the end of this turn.",
 		"rarity": "N",
 		"cardObtain": [
-			"Legend of Dark Magic"
+			"Legend of Dark Magic",
+			"Soul with Eyes of Blue"
 		]
 	},
 	{
@@ -368,7 +375,8 @@
 		},
 		"cardObtain": [
 			"Sevens New Road",
-			"Scorching Flame Burst"
+			"Scorching Flame Burst",
+			"Soul with Eyes of Blue"
 		]
 	},
 	{
@@ -389,7 +397,8 @@
 		},
 		"cardObtain": [
 			"Sevens New Road",
-			"Scorching Flame Burst"
+			"Scorching Flame Burst",
+			"Soul with Eyes of Blue"
 		]
 	},
 	{
@@ -478,7 +487,8 @@
 		},
 		"cardObtain": [
 			"Sevens New Road",
-			"Scorching Flame Burst"
+			"Scorching Flame Burst",
+			"Soul with Eyes of Blue"
 		]
 	},
 	{
@@ -504,7 +514,8 @@
 		"effect": "Destroy 1 Spell/Trap Card on your opponent\u0027s field.",
 		"rarity": "UR",
 		"cardObtain": [
-			"Lucidien \"Luke\" Kallister Level Up Reward"
+			"Lucidien \"Luke\" Kallister Level Up Reward",
+			"Soul with Eyes of Blue"
 		]
 	},
 	{
@@ -626,7 +637,8 @@
 			"Lightspeed Voltcondor",
 			"Sevens New Road",
 			"Raidacross the Lionhearted",
-			"The Ultimate Ace Breaker"
+			"The Ultimate Ace Breaker",
+			"Soul with Eyes of Blue"
 		]
 	},
 	{
@@ -981,7 +993,8 @@
 		"rarity": "R",
 		"cardObtain": [
 			"Sevens New Road",
-			"Raidacross the Lionhearted"
+			"Raidacross the Lionhearted",
+			"Selection Box Vol. 01"
 		]
 	},
 	{
@@ -1020,7 +1033,10 @@
 		"isLegend": false,
 		"requirement": "Send 1 card from your hand to the Graveyard.",
 		"effect": "Destroy 1 Spell/Trap Card on your opponent\u0027s field.",
-		"rarity": "SR"
+		"rarity": "SR",
+		"cardObtain": [
+			"Soul with Eyes of Blue"
+		]
 	},
 	{
 		"id": 15209,
@@ -1035,7 +1051,8 @@
 			"Heavy Metal Scream",
 			"Raidacross the Lionhearted",
 			"The Ultimate Ace Breaker",
-			"Legend of Dark Magic"
+			"Legend of Dark Magic",
+			"Selection Box Vol. 01"
 		]
 	},
 	{
@@ -1169,7 +1186,8 @@
 			"race": "FIEND"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream"
+			"Heavy Metal Scream",
+			"Selection Box Vol. 01"
 		]
 	},
 	{
@@ -1592,7 +1610,8 @@
 			"race": "PSYCHIC"
 		},
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road",
+			"Selection Box Vol. 01"
 		]
 	},
 	{
@@ -1612,7 +1631,8 @@
 			"race": "PSYCHIC"
 		},
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road",
+			"Selection Box Vol. 01"
 		]
 	},
 	{
@@ -1677,7 +1697,8 @@
 			"race": "AQUA"
 		},
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road",
+			"Selection Box Vol. 01"
 		]
 	},
 	{
@@ -1697,7 +1718,8 @@
 			"race": "AQUA"
 		},
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road",
+			"Selection Box Vol. 01"
 		]
 	},
 	{
@@ -1883,7 +1905,8 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Genesis Maximum"
+			"Genesis Maximum",
+			"Selection Box Vol. 01"
 		]
 	},
 	{
@@ -2045,7 +2068,8 @@
 			"race": "PSYCHIC"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream"
+			"Heavy Metal Scream",
+			"Selection Box Vol. 01"
 		]
 	},
 	{
@@ -2188,7 +2212,8 @@
 		},
 		"cardObtain": [
 			"Heavy Metal Scream",
-			"Scorching Flame Burst"
+			"Scorching Flame Burst",
+			"Soul with Eyes of Blue"
 		]
 	},
 	{
@@ -2317,7 +2342,8 @@
 		"effect": "Change up to 2 face-up monsters on your opponent\u0027s field to face-down Defense Position.",
 		"rarity": "N",
 		"cardObtain": [
-			"Heavy Metal Scream"
+			"Heavy Metal Scream",
+			"Selection Box Vol. 01"
 		]
 	},
 	{
@@ -2338,7 +2364,10 @@
 		"isLegend": false,
 		"requirement": "When your opponent Normal Summons a Level 4 or lower monster while they have no other monsters on their field.",
 		"effect": "Change that monster to face-down Defense Position.",
-		"rarity": "NPC"
+		"rarity": "SR",
+		"cardObtain": [
+			"Selection Box Vol. 01"
+		]
 	},
 	{
 		"id": 15460,
@@ -2381,7 +2410,8 @@
 		},
 		"cardObtain": [
 			"Heavy Metal Scream",
-			"Legend of Dark Magic"
+			"Legend of Dark Magic",
+			"Selection Box Vol. 01"
 		]
 	},
 	{
@@ -2421,7 +2451,8 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Genesis Maximum"
+			"Genesis Maximum",
+			"Soul with Eyes of Blue"
 		]
 	},
 	{
@@ -2499,7 +2530,8 @@
 		"effect": "Shuffle 1 random card from your opponent\u0027s hand into the Deck.",
 		"rarity": "N",
 		"cardObtain": [
-			"Heavy Metal Scream"
+			"Heavy Metal Scream",
+			"Selection Box Vol. 01"
 		]
 	},
 	{
@@ -2595,7 +2627,10 @@
 			"def": 200,
 			"attribute": "DARK",
 			"race": "FIEND"
-		}
+		},
+		"cardObtain": [
+			"Selection Box Vol. 01"
+		]
 	},
 	{
 		"id": 15649,
@@ -2941,7 +2976,8 @@
 			"race": "FIEND"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream"
+			"Heavy Metal Scream",
+			"Selection Box Vol. 01"
 		]
 	},
 	{
@@ -2981,7 +3017,8 @@
 			"race": "FIEND"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream"
+			"Heavy Metal Scream",
+			"Selection Box Vol. 01"
 		]
 	},
 	{
@@ -3100,7 +3137,8 @@
 			"race": "PSYCHIC"
 		},
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road",
+			"Selection Box Vol. 01"
 		]
 	},
 	{
@@ -3120,7 +3158,8 @@
 			"race": "PSYCHIC"
 		},
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road",
+			"Selection Box Vol. 01"
 		]
 	},
 	{
@@ -3161,7 +3200,8 @@
 			"race": "PSYCHIC"
 		},
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road",
+			"Selection Box Vol. 01"
 		]
 	},
 	{
@@ -3181,7 +3221,8 @@
 			"race": "PSYCHIC"
 		},
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road",
+			"Selection Box Vol. 01"
 		]
 	},
 	{
@@ -3252,7 +3293,8 @@
 		"effect": "Gain LP equal to [the number of face-up Psychic Type monsters on your field] x 500.",
 		"rarity": "N",
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road",
+			"Selection Box Vol. 01"
 		]
 	},
 	{
@@ -3498,7 +3540,8 @@
 		},
 		"cardObtain": [
 			"Sevens New Road",
-			"Legend of Dark Magic"
+			"Legend of Dark Magic",
+			"Selection Box Vol. 01"
 		]
 	},
 	{
@@ -3526,14 +3569,17 @@
 		"isLegend": false,
 		"requirement": "Send 1 Level 4 or lower monster from your hand to the Graveyard.",
 		"effect": "1 face-up monster on your opponent\u0027s field loses 500 ATK until the end of this turn. Then, you can Set 1 \"Sparks\" and/or 1 \"Curtain of Sparks\" from your Graveyard in your Spell \u0026 Trap Zone.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 3,
 			"atk": 800,
 			"def": 1200,
 			"attribute": "FIRE",
 			"race": "SPELLCASTER"
-		}
+		},
+		"cardObtain": [
+			"Selection Box Vol. 01"
+		]
 	},
 	{
 		"id": 15793,
@@ -3651,7 +3697,8 @@
 		},
 		"cardObtain": [
 			"Heavy Metal Scream",
-			"Scorching Flame Burst"
+			"Scorching Flame Burst",
+			"Soul with Eyes of Blue"
 		]
 	},
 	{
@@ -5022,7 +5069,8 @@
 			"race": "PSYCHIC"
 		},
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road",
+			"Selection Box Vol. 01"
 		]
 	},
 	{
@@ -6054,14 +6102,17 @@
 		"isLegend": false,
 		"requirement": "Shuffle 3 monsters from your Graveyard into the Deck.",
 		"effect": "Change 1 Attack Position Level 8 or lower monster on your opponent\u0027s field to face-down Defense Position. Then, you can add 1 \"Siesta Hold\" from your Graveyard to your hand.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 3,
 			"atk": 1200,
 			"def": 0,
 			"attribute": "WATER",
 			"race": "WARRIOR"
-		}
+		},
+		"cardObtain": [
+			"Selection Box Vol. 01"
+		]
 	},
 	{
 		"id": 16342,
@@ -6224,7 +6275,8 @@
 		"effect": "Negate the attack.",
 		"rarity": "SR",
 		"cardObtain": [
-			"Heavy Metal Scream"
+			"Heavy Metal Scream",
+			"Selection Box Vol. 01"
 		]
 	},
 	{
@@ -7165,7 +7217,8 @@
 			"race": "PSYCHIC"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream"
+			"Heavy Metal Scream",
+			"Selection Box Vol. 01"
 		]
 	},
 	{
@@ -7370,7 +7423,8 @@
 		"effect": "1 face-up monster on your opponent\u0027s field loses ATK equal to [its Level] x 200 until the end of this turn.",
 		"rarity": "SR",
 		"cardObtain": [
-			"Genesis Maximum"
+			"Genesis Maximum",
+			"Selection Box Vol. 01"
 		]
 	},
 	{
@@ -7766,7 +7820,8 @@
 			"race": "PSYCHIC"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream"
+			"Heavy Metal Scream",
+			"Selection Box Vol. 01"
 		]
 	},
 	{
@@ -7786,7 +7841,8 @@
 			"race": "FIEND"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream"
+			"Heavy Metal Scream",
+			"Selection Box Vol. 01"
 		]
 	},
 	{
@@ -8267,7 +8323,8 @@
 		"cardObtain": [
 			"Lightspeed Voltcondor",
 			"Sevens New Road",
-			"Scorching Flame Burst"
+			"Scorching Flame Burst",
+			"Selection Box Vol. 01"
 		]
 	},
 	{
@@ -8288,7 +8345,8 @@
 		},
 		"cardObtain": [
 			"Heavy Metal Scream",
-			"Legend of Dark Magic"
+			"Legend of Dark Magic",
+			"Selection Box Vol. 01"
 		]
 	},
 	{
@@ -8796,7 +8854,7 @@
 		"isLegend": false,
 		"requirement": "Send 1 Machine Effect monster from your hand to the Graveyard.",
 		"effect": "Add 1 Machine Normal Monster from your Graveyard to your hand. Then, if your opponent has 3 Attack Position monsters on their field, you can Special Summon 1 Normal Monster from your hand face-up to your field.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 7,
 			"atk": 2500,
@@ -8897,14 +8955,17 @@
 		"isLegend": false,
 		"requirement": "Send this face-up card from your field to the Graveyard.",
 		"effect": "Special Summon 1 \"Blue-Eyes White Dragon\" from your hand face-up to your field.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 3,
 			"atk": 200,
 			"def": 700,
 			"attribute": "LIGHT",
 			"race": "WARRIOR"
-		}
+		},
+		"cardObtain": [
+			"Soul with Eyes of Blue"
+		]
 	},
 	{
 		"id": 17271,
@@ -9513,7 +9574,8 @@
 		},
 		"cardObtain": [
 			"Heavy Metal Scream",
-			"Legend of Dark Magic"
+			"Legend of Dark Magic",
+			"Selection Box Vol. 01"
 		]
 	},
 	{
@@ -10749,7 +10811,7 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"WCS 2024 Qualifiers Celebration! Road to Worlds Campaign"
+			"Road to Worlds Campaign"
 		]
 	},
 	{
@@ -10768,7 +10830,10 @@
 			"def": 1500,
 			"attribute": "DARK",
 			"race": "SPELLCASTER"
-		}
+		},
+		"cardObtain": [
+			"Selection Box Vol. 01"
+		]
 	},
 	{
 		"id": 18550,
@@ -10787,7 +10852,10 @@
 			"maxAtk": 0,
 			"attribute": "DARK",
 			"race": "MACHINE"
-		}
+		},
+		"cardObtain": [
+			"Selection Box Vol. 01"
+		]
 	},
 	{
 		"id": 18551,
@@ -10807,7 +10875,10 @@
 			"maxAtk": 3500,
 			"attribute": "DARK",
 			"race": "MACHINE"
-		}
+		},
+		"cardObtain": [
+			"Selection Box Vol. 01"
+		]
 	},
 	{
 		"id": 18552,
@@ -10826,7 +10897,10 @@
 			"maxAtk": 0,
 			"attribute": "DARK",
 			"race": "MACHINE"
-		}
+		},
+		"cardObtain": [
+			"Selection Box Vol. 01"
+		]
 	},
 	{
 		"id": 18578,
@@ -11069,14 +11143,17 @@
 		"isLegend": false,
 		"requirement": "None",
 		"effect": "Send the top 2 cards of your Deck to the Graveyard. Then, you can inflict damage to your opponent equal to [the number of Spellcaster monsters sent to the Graveyard by this effect] x 300.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 8,
 			"atk": 2500,
 			"def": 1600,
 			"attribute": "LIGHT",
 			"race": "SPELLCASTER"
-		}
+		},
+		"cardObtain": [
+			"Soul with Eyes of Blue"
+		]
 	},
 	{
 		"id": 18997,
@@ -11094,7 +11171,10 @@
 			"def": 1000,
 			"attribute": "DARK",
 			"race": "SPELLCASTER"
-		}
+		},
+		"cardObtain": [
+			"Selection Box Vol. 01"
+		]
 	},
 	{
 		"id": 19091,
@@ -11113,7 +11193,8 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Legend of Dark Magic"
+			"Legend of Dark Magic",
+			"Soul with Eyes of Blue"
 		]
 	},
 	{
@@ -11273,7 +11354,10 @@
 			"def": 1000,
 			"attribute": "LIGHT",
 			"race": "FAIRY"
-		}
+		},
+		"cardObtain": [
+			"Selection Box Vol. 01"
+		]
 	},
 	{
 		"id": 19424,
@@ -11284,14 +11368,17 @@
 		"inherentSummonCondition": "This card\u0027s name becomes \"Blue-Eyes White Dragon\" while in the hand.",
 		"requirement": "Send the top card of your Deck to the Graveyard.",
 		"effect": "This turn, this card\u0027s name becomes \"Blue-Eyes White Dragon\" and it gains 500 ATK. Then, if you have a face-up Legend Normal Monster on your field, you can destroy 1 face-up Level 8 or lower monster on your opponent\u0027s field.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 8,
 			"atk": 2500,
 			"def": 2500,
 			"attribute": "LIGHT",
 			"race": "DRAGON"
-		}
+		},
+		"cardObtain": [
+			"Soul with Eyes of Blue"
+		]
 	},
 	{
 		"id": 19428,
@@ -11301,14 +11388,17 @@
 		"isLegend": false,
 		"requirement": "During your Main Phase that you Normal or Special Summoned this card, send 2 face-up Level 4 or lower Effect Monsters from your field to the Graveyard.",
 		"effect": "Special Summon 1 Level 8 LIGHT Attribute Dragon monster from your Graveyard face-up to your field. This turn, your Level 7 or lower monsters cannot attack.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1100,
 			"def": 600,
 			"attribute": "DARK",
 			"race": "DRAGON"
-		}
+		},
+		"cardObtain": [
+			"Soul with Eyes of Blue"
+		]
 	},
 	{
 		"id": 19549,
@@ -11318,14 +11408,17 @@
 		"isLegend": false,
 		"requirement": "If you have no other monsters on your field, send the top card of your Deck to the Graveyard.",
 		"effect": "1 face-down Spell/Trap Card on your opponent\u0027s field cannot be activated until the end of their next turn.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 3,
 			"atk": 1200,
 			"def": 200,
 			"attribute": "LIGHT",
 			"race": "MACHINE"
-		}
+		},
+		"cardObtain": [
+			"Lifetime Mission Reward"
+		]
 	},
 	{
 		"id": 19562,
@@ -11335,7 +11428,10 @@
 		"isLegend": false,
 		"requirement": "Send 1 card from your hand to the Graveyard.",
 		"effect": "Special Summon 1 Level 7 or lower Effect Monster from your hand face-up to your field.",
-		"rarity": "NPC"
+		"rarity": "UR",
+		"cardObtain": [
+			"Selection Box Vol. 01"
+		]
 	},
 	{
 		"id": 19564,
@@ -11387,7 +11483,10 @@
 			"def": 0,
 			"attribute": "LIGHT",
 			"race": "PSYCHIC"
-		}
+		},
+		"cardObtain": [
+			"Selection Box Vol. 01"
+		]
 	},
 	{
 		"id": 20094,
@@ -11418,13 +11517,16 @@
 		"isLegend": false,
 		"requirement": "Send 1 Machine Effect Monster from your hand to the Graveyard.",
 		"effect": "Add 1 Machine Normal Monster from your Graveyard to your hand. Then, if your opponent has 3 Attack Position monsters on their field, you can Special Summon 1 Normal Monster from your hand face-up to your field.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 7,
 			"atk": 2500,
 			"def": 1600,
 			"attribute": "LIGHT",
 			"race": "MACHINE"
-		}
+		},
+		"cardObtain": [
+			"Selection Box Vol. 01"
+		]
 	}
 ]
