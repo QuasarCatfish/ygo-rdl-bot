@@ -3,6 +3,7 @@ package com.quas.ygo_rdl_bot.commands.banlist;
 import java.awt.Color;
 import java.util.ArrayList;
 import java.util.Collection;
+import java.util.TreeSet;
 
 import com.quas.ygo_rdl_bot.commands.Command;
 import com.quas.ygo_rdl_bot.commands.CommandInfo;
@@ -25,9 +26,13 @@ public class BanlistCommand extends Command {
 			if (limit == BanlistStatus.UNLIMITED) continue;
 			
 			ArrayList<RushCard> banned = new ArrayList<>();
+			TreeSet<String> bannedNames = new TreeSet<>();
 			for (RushCard card : cards) {
 				if (card.getBanlistStatus() == limit) {
-					banned.add(card);
+					if (!bannedNames.contains(card.getName())) {
+						banned.add(card);
+						bannedNames.add(card.getName());
+					}
 				}
 			}
 			
