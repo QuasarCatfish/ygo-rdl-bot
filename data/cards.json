@@ -2224,14 +2224,17 @@
 		"isLegend": false,
 		"requirement": "Pay 800 LP.",
 		"effect": "This card gains ATK equal to [the Level of 1 Normal Monster in your Graveyard] x 100 until the end of this turn. Then, shuffle that monster into your Deck.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 3,
 			"atk": 1000,
 			"def": 0,
 			"attribute": "WATER",
 			"race": "FISH"
-		}
+		},
+		"cardObtain": [
+			"Card Trader (Featured)"
+		]
 	},
 	{
 		"id": 15445,
