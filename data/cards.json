@@ -60,7 +60,7 @@
 		"cardObtain": [
 			"Yuga Ohdo Level Up Reward",
 			"Yuga Ohdo Duel Reward",
-			"GR Festival Special Pack Vol. 01",
+			"GR Festival Special Pack Vol.01",
 			"World Championship 2024 Special Pack (Rush)"
 		]
 	},
@@ -108,7 +108,7 @@
 			"Lightspeed Voltcondor",
 			"Sevens New Road",
 			"The Ultimate Ace Breaker",
-			"Selection Box Vol. 01"
+			"Selection Box Vol.01"
 		]
 	},
 	{
@@ -130,7 +130,7 @@
 		"cardObtain": [
 			"Lightspeed Voltcondor",
 			"Sevens New Road",
-			"Selection Box Vol. 01"
+			"Selection Box Vol.01"
 		]
 	},
 	{
@@ -178,7 +178,7 @@
 			"Lightspeed Voltcondor",
 			"Sevens New Road",
 			"Raidacross the Lionhearted",
-			"Selection Box Vol. 01"
+			"Selection Box Vol.01"
 		]
 	},
 	{
@@ -222,7 +222,7 @@
 			"Sevens New Road",
 			"Raidacross the Lionhearted",
 			"The Ultimate Ace Breaker",
-			"Selection Box Vol. 01"
+			"Selection Box Vol.01"
 		]
 	},
 	{
@@ -467,7 +467,7 @@
 		"cardObtain": [
 			"Lucidien \"Luke\" Kallister Level Up Reward",
 			"Lucidien \"Luke\" Kallister Duel Reward",
-			"GR Festival Special Pack Vol. 01",
+			"GR Festival Special Pack Vol.01",
 			"World Championship 2024 Special Pack (Rush)"
 		]
 	},
@@ -996,7 +996,7 @@
 		"cardObtain": [
 			"Sevens New Road",
 			"Raidacross the Lionhearted",
-			"Selection Box Vol. 01"
+			"Selection Box Vol.01"
 		]
 	},
 	{
@@ -1054,7 +1054,7 @@
 			"Raidacross the Lionhearted",
 			"The Ultimate Ace Breaker",
 			"Legend of Dark Magic",
-			"Selection Box Vol. 01"
+			"Selection Box Vol.01"
 		]
 	},
 	{
@@ -1189,7 +1189,7 @@
 		},
 		"cardObtain": [
 			"Heavy Metal Scream",
-			"Selection Box Vol. 01"
+			"Selection Box Vol.01"
 		]
 	},
 	{
@@ -1215,7 +1215,7 @@
 			"Nail Saionji Starter Deck",
 			"Lucidien \"Luke\" Kallister Duel Reward",
 			"Tag Duel Tournament",
-			"GR Festival Special Pack Vol. 01",
+			"GR Festival Special Pack Vol.01",
 			"World Championship 2024 Special Pack (Rush)"
 		]
 	},
@@ -1262,7 +1262,7 @@
 			"Roa Kassidy Starter Deck",
 			"Gavin Sogetsu Duel Reward",
 			"Romin Kassidy Duel Reward",
-			"GR Festival Special Pack Vol. 01",
+			"GR Festival Special Pack Vol.01",
 			"World Championship 2024 Special Pack (Rush)"
 		]
 	},
@@ -1617,7 +1617,7 @@
 		},
 		"cardObtain": [
 			"Sevens New Road",
-			"Selection Box Vol. 01"
+			"Selection Box Vol.01"
 		]
 	},
 	{
@@ -1638,7 +1638,7 @@
 		},
 		"cardObtain": [
 			"Sevens New Road",
-			"Selection Box Vol. 01"
+			"Selection Box Vol.01"
 		]
 	},
 	{
@@ -1663,7 +1663,7 @@
 			"Roa Kassidy Starter Deck",
 			"Nail Saionji Starter Deck",
 			"Roa Kassidy Duel Reward",
-			"GR Festival Special Pack Vol. 01",
+			"GR Festival Special Pack Vol.01",
 			"World Championship 2024 Special Pack (Rush)"
 		]
 	},
@@ -1705,7 +1705,7 @@
 		},
 		"cardObtain": [
 			"Sevens New Road",
-			"Selection Box Vol. 01"
+			"Selection Box Vol.01"
 		]
 	},
 	{
@@ -1726,7 +1726,7 @@
 		},
 		"cardObtain": [
 			"Sevens New Road",
-			"Selection Box Vol. 01"
+			"Selection Box Vol.01"
 		]
 	},
 	{
@@ -1748,7 +1748,7 @@
 		"cardObtain": [
 			"Mimi Imimi Starter Deck",
 			"Mimi Imimi Level Up Reward",
-			"GR Festival Special Pack Vol. 01",
+			"GR Festival Special Pack Vol.01",
 			"World Championship 2024 Special Pack (Rush)"
 		]
 	},
@@ -1914,7 +1914,7 @@
 		},
 		"cardObtain": [
 			"Genesis Maximum",
-			"Selection Box Vol. 01"
+			"Selection Box Vol.01"
 		]
 	},
 	{
@@ -2036,7 +2036,7 @@
 		},
 		"cardObtain": [
 			"Ranked Duels Reward Ticket",
-			"GR Festival Special Pack Vol. 01",
+			"GR Festival Special Pack Vol.01",
 			"World Championship 2024 Special Pack (Rush)"
 		]
 	},
@@ -2078,7 +2078,7 @@
 		},
 		"cardObtain": [
 			"Heavy Metal Scream",
-			"Selection Box Vol. 01"
+			"Selection Box Vol.01"
 		]
 	},
 	{
@@ -2306,6 +2306,16 @@
 		]
 	},
 	{
+		"id": 15452,
+		"name": "Blades of Divine Wind",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Destroy 2 face-up Normal Monsters on your field and 1 face-up Level 8 or lower monster on your opponent\u0027s field.",
+		"rarity": "NPC"
+	},
+	{
 		"id": 15453,
 		"name": "Attribute Shift Bomb",
 		"cardType": "SPELL",
@@ -2355,7 +2365,7 @@
 		"rarity": "N",
 		"cardObtain": [
 			"Heavy Metal Scream",
-			"Selection Box Vol. 01"
+			"Selection Box Vol.01"
 		]
 	},
 	{
@@ -2378,7 +2388,7 @@
 		"effect": "Change that monster to face-down Defense Position.",
 		"rarity": "SR",
 		"cardObtain": [
-			"Selection Box Vol. 01"
+			"Selection Box Vol.01"
 		]
 	},
 	{
@@ -2423,7 +2433,7 @@
 		"cardObtain": [
 			"Heavy Metal Scream",
 			"Legend of Dark Magic",
-			"Selection Box Vol. 01"
+			"Selection Box Vol.01"
 		]
 	},
 	{
@@ -2543,7 +2553,7 @@
 		"rarity": "N",
 		"cardObtain": [
 			"Heavy Metal Scream",
-			"Selection Box Vol. 01"
+			"Selection Box Vol.01"
 		]
 	},
 	{
@@ -2641,7 +2651,7 @@
 			"race": "FIEND"
 		},
 		"cardObtain": [
-			"Selection Box Vol. 01"
+			"Selection Box Vol.01"
 		]
 	},
 	{
@@ -2989,7 +2999,7 @@
 		},
 		"cardObtain": [
 			"Heavy Metal Scream",
-			"Selection Box Vol. 01"
+			"Selection Box Vol.01"
 		]
 	},
 	{
@@ -3030,7 +3040,7 @@
 		},
 		"cardObtain": [
 			"Heavy Metal Scream",
-			"Selection Box Vol. 01"
+			"Selection Box Vol.01"
 		]
 	},
 	{
@@ -3150,7 +3160,7 @@
 		},
 		"cardObtain": [
 			"Sevens New Road",
-			"Selection Box Vol. 01"
+			"Selection Box Vol.01"
 		]
 	},
 	{
@@ -3171,7 +3181,7 @@
 		},
 		"cardObtain": [
 			"Sevens New Road",
-			"Selection Box Vol. 01"
+			"Selection Box Vol.01"
 		]
 	},
 	{
@@ -3213,7 +3223,7 @@
 		},
 		"cardObtain": [
 			"Sevens New Road",
-			"Selection Box Vol. 01"
+			"Selection Box Vol.01"
 		]
 	},
 	{
@@ -3234,7 +3244,7 @@
 		},
 		"cardObtain": [
 			"Sevens New Road",
-			"Selection Box Vol. 01"
+			"Selection Box Vol.01"
 		]
 	},
 	{
@@ -3306,7 +3316,7 @@
 		"rarity": "N",
 		"cardObtain": [
 			"Sevens New Road",
-			"Selection Box Vol. 01"
+			"Selection Box Vol.01"
 		]
 	},
 	{
@@ -3321,7 +3331,7 @@
 		"cardObtain": [
 			"Romin Kassidy Level Up Reward",
 			"Romin Kassidy Duel Reward",
-			"GR Festival Special Pack Vol. 01",
+			"GR Festival Special Pack Vol.01",
 			"World Championship 2024 Special Pack (Rush)"
 		]
 	},
@@ -3479,7 +3489,7 @@
 			"Roa Kassidy Duel Reward",
 			"Duel Links Mission Research",
 			"Tag Duel Tournament",
-			"GR Festival Special Pack Vol. 01",
+			"GR Festival Special Pack Vol.01",
 			"World Championship 2024 Special Pack (Rush)"
 		]
 	},
@@ -3507,7 +3517,7 @@
 			"Romin Kassidy Duel Reward",
 			"Mimi Imimi Duel Reward",
 			"Nail Saionji Duel Reward",
-			"GR Festival Special Pack Vol. 01",
+			"GR Festival Special Pack Vol.01",
 			"World Championship 2024 Special Pack (Rush)"
 		]
 	},
@@ -3534,7 +3544,7 @@
 			"Romin Kassidy Duel Reward",
 			"Mimi Imimi Duel Reward",
 			"Nail Saionji Duel Reward",
-			"GR Festival Special Pack Vol. 01",
+			"GR Festival Special Pack Vol.01",
 			"World Championship 2024 Special Pack (Rush)"
 		]
 	},
@@ -3557,7 +3567,7 @@
 		"cardObtain": [
 			"Sevens New Road",
 			"Legend of Dark Magic",
-			"Selection Box Vol. 01"
+			"Selection Box Vol.01"
 		]
 	},
 	{
@@ -3594,7 +3604,7 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Selection Box Vol. 01"
+			"Selection Box Vol.01"
 		]
 	},
 	{
@@ -4784,7 +4794,7 @@
 			"race": "INSECT"
 		},
 		"cardObtain": [
-			"GR Festival Special Pack Vol. 01",
+			"GR Festival Special Pack Vol.01",
 			"World Championship 2024 Special Pack (Rush)"
 		]
 	},
@@ -5087,7 +5097,7 @@
 		},
 		"cardObtain": [
 			"Sevens New Road",
-			"Selection Box Vol. 01"
+			"Selection Box Vol.01"
 		]
 	},
 	{
@@ -5443,7 +5453,7 @@
 			"race": "FAIRY"
 		},
 		"cardObtain": [
-			"GR Festival Special Pack Vol. 01",
+			"GR Festival Special Pack Vol.01",
 			"World Championship 2024 Special Pack (Rush)"
 		]
 	},
@@ -6129,7 +6139,7 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Selection Box Vol. 01"
+			"Selection Box Vol.01"
 		]
 	},
 	{
@@ -6294,7 +6304,7 @@
 		"rarity": "SR",
 		"cardObtain": [
 			"Heavy Metal Scream",
-			"Selection Box Vol. 01"
+			"Selection Box Vol.01"
 		]
 	},
 	{
@@ -7236,7 +7246,7 @@
 		},
 		"cardObtain": [
 			"Heavy Metal Scream",
-			"Selection Box Vol. 01"
+			"Selection Box Vol.01"
 		]
 	},
 	{
@@ -7442,7 +7452,7 @@
 		"rarity": "SR",
 		"cardObtain": [
 			"Genesis Maximum",
-			"Selection Box Vol. 01"
+			"Selection Box Vol.01"
 		]
 	},
 	{
@@ -7677,7 +7687,7 @@
 		"cardObtain": [
 			"Yuga Ohdo Level Up Reward",
 			"Yuga Ohdo Duel Reward",
-			"GR Festival Special Pack Vol. 01",
+			"GR Festival Special Pack Vol.01",
 			"World Championship 2024 Special Pack (Rush)"
 		]
 	},
@@ -7840,7 +7850,7 @@
 		},
 		"cardObtain": [
 			"Heavy Metal Scream",
-			"Selection Box Vol. 01"
+			"Selection Box Vol.01"
 		]
 	},
 	{
@@ -7861,7 +7871,7 @@
 		},
 		"cardObtain": [
 			"Heavy Metal Scream",
-			"Selection Box Vol. 01"
+			"Selection Box Vol.01"
 		]
 	},
 	{
@@ -8343,7 +8353,7 @@
 			"Lightspeed Voltcondor",
 			"Sevens New Road",
 			"Scorching Flame Burst",
-			"Selection Box Vol. 01"
+			"Selection Box Vol.01"
 		]
 	},
 	{
@@ -8365,7 +8375,7 @@
 		"cardObtain": [
 			"Heavy Metal Scream",
 			"Legend of Dark Magic",
-			"Selection Box Vol. 01"
+			"Selection Box Vol.01"
 		]
 	},
 	{
@@ -9387,7 +9397,7 @@
 		"cardObtain": [
 			"Tag Duel Tournament",
 			"Ranked Duels Reward Ticket",
-			"GR Festival Special Pack Vol. 01",
+			"GR Festival Special Pack Vol.01",
 			"World Championship 2024 Special Pack (Rush)"
 		]
 	},
@@ -9595,7 +9605,7 @@
 		"cardObtain": [
 			"Heavy Metal Scream",
 			"Legend of Dark Magic",
-			"Selection Box Vol. 01"
+			"Selection Box Vol.01"
 		]
 	},
 	{
@@ -10853,7 +10863,7 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Selection Box Vol. 01"
+			"Selection Box Vol.01"
 		]
 	},
 	{
@@ -10875,7 +10885,7 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"Selection Box Vol. 01"
+			"Selection Box Vol.01"
 		]
 	},
 	{
@@ -10898,7 +10908,7 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"Selection Box Vol. 01"
+			"Selection Box Vol.01"
 		]
 	},
 	{
@@ -10920,7 +10930,7 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"Selection Box Vol. 01"
+			"Selection Box Vol.01"
 		]
 	},
 	{
@@ -11194,7 +11204,7 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Selection Box Vol. 01"
+			"Selection Box Vol.01"
 		]
 	},
 	{
@@ -11377,7 +11387,7 @@
 			"race": "FAIRY"
 		},
 		"cardObtain": [
-			"Selection Box Vol. 01"
+			"Selection Box Vol.01"
 		]
 	},
 	{
@@ -11451,7 +11461,7 @@
 		"effect": "Special Summon 1 Level 7 or lower Effect Monster from your hand face-up to your field.",
 		"rarity": "UR",
 		"cardObtain": [
-			"Selection Box Vol. 01"
+			"Selection Box Vol.01"
 		]
 	},
 	{
@@ -11506,7 +11516,7 @@
 			"race": "PSYCHIC"
 		},
 		"cardObtain": [
-			"Selection Box Vol. 01"
+			"Selection Box Vol.01"
 		]
 	},
 	{
@@ -11547,7 +11557,7 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"Selection Box Vol. 01"
+			"Selection Box Vol.01"
 		]
 	}
 ]
