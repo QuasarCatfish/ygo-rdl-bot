@@ -2313,7 +2313,10 @@
 		"isLegend": false,
 		"requirement": "None",
 		"effect": "Destroy 2 face-up Normal Monsters on your field and 1 face-up Level 8 or lower monster on your opponent\u0027s field.",
-		"rarity": "NPC"
+		"rarity": "SR",
+		"cardObtain": [
+			"Card Flipper Campaign"
+		]
 	},
 	{
 		"id": 15453,
