@@ -336,9 +336,9 @@
 	{
 		"id": 28,
 		"name": "Disco Fever",
-		"condition": "This Skill can be used if you have at least 15 LIGHT Attribute Aqua Type monsters and the only Level 7 or higher Effect Monsters in your Deck are Aqua Type.",
-		"requirement": "Can be activated during the turn you have Normal Summoned a LIGHT Attribute Aqua Type Normal Monster",
-		"effect": "Any number of LIGHT Attribute Aqua Type monsters on your field whose total Levels equal 10 gain 700 ATK until the end of the turn.",
+		"condition": "This Skill can be used if you have at least 15 Aqua Type monsters (except WATER Attribute monsters) in your Deck, and all of the Level 7 or higher Effect Monsters in your Deck are Aqua Type monsters.",
+		"requirement": "During the turn you Normal Summoned an Aqua Type monster (except a WATER Attribute monster).",
+		"effect": "Choose any number of face-up Aqua Type monsters (except WATER Attribute monsters) on your field whose total Level equals 10 or lower, and those monsters gain 700 ATK until the end of this turn.",
 		"isArchive": false,
 		"characters": [
 			705
@@ -868,7 +868,7 @@
 		"name": "Hell-Tuning Invasion",
 		"condition": "This Skill can be used if the only monsters with 1400 or more ATK in your Deck are LIGHT Attribute Fiend Type.",
 		"requirement": "Send 1 card from your hand to your Graveyard.",
-		"effect": "Make 2 face-up Level 4 or lower Fiend monsters on your field become Level 5 until the end of the turn. Then, you can choose up to 2 monsters on your opponent\u0027s field. If you do, make face-up monsters chosen become Level 4 until the end of the turn, and change face-down Defense Position monsters chosen to face-up Attack Position. During this turn, you can only attack with monsters with 2300-4000 ATK.",
+		"effect": "Make 2 face-up Level 4 or lower Fiend monsters on your field become Level 5 until the end of the turn. Then, you can choose up to 2 monsters on your opponent\u0027s field. If you do, make face-up monsters chosen become Level 4 until the end of the turn, and change face-down Defense Position monsters chosen to face-up Attack Position. During this turn, you can only attack with monsters with 2300-4600 ATK.",
 		"isArchive": false,
 		"characters": [
 			706
@@ -918,18 +918,18 @@
 	{
 		"id": 72,
 		"name": "Noodle Art Reboot",
-		"condition": "This Skill can only be used if all of the Level 5 or higher monsters in your Deck are FIRE Attribute Pyro Effect Monsters with 0 DEF and/or all Normal Monsters are Pyro Type.",
+		"condition": "This Skill can be used if all of the Level 5 or higher monsters in your Deck are FIRE Attribute Pyro Type Effect Monsters with 0 DEF and all Normal Monsters are Pyro Type.",
 		"requirement": "None",
-		"effect": "Choose 1 face-up Level 5 or higher monster on your field. It gains 600 ATK until the end of this turn. Then, if it was a Level 7 or higher monster that was Summoned this turn, you can add 1 Pyro Normal Monster with 1300 or less ATK from your Graveyard to your hand.",
+		"effect": "Choose 1 face-up Level 5 or higher monster on your field, and it gains 600 ATK until the end of this turn. If it was a Level 7 or higher monster Summoned this turn, you can add 1 Pyro Type Normal Monster with 1300 or less ATK from your Graveyard to your hand (once per Duel).",
 		"isArchive": true,
 		"mentionedCards": []
 	},
 	{
 		"id": 73,
 		"name": "Blaster\u0027s Inferno",
-		"condition": "This Skill can only be used if all of the monsters with 1400 or more ATK in your Deck are Dragon monsters, and the Deck contains 1 or less Level 5 or higher non-FIRE Attribute monster.",
+		"condition": "This Skill can be used if all of the monsters with 1400 or more ATK in your Deck are Dragon monsters, and the Deck contains at most 1 Level 5 or higher non-FIRE Attribute monster.",
 		"requirement": "None",
-		"effect": "Choose 1 face-up Level 6 or higher FIRE Attribute Normal Monster on your field. It gains 600 ATK until the end of the turn. If it was a Level 7 monster, you can add 1 \"Dragon\u0027s Inferno\" from your Deck or Graveyard to your hand (once per Duel).",
+		"effect": "Choose 1 face-up Level 6 or higher FIRE Attribute Normal Monster on your field, and it gains 600 ATK until the end of the turn. If it was a Level 7 monster, you can add 1 \"Dragon\u0027s Inferno\" from your Deck or Graveyard to your hand (twice per Duel).",
 		"isArchive": false,
 		"characters": [
 			702
