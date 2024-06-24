@@ -1032,5 +1032,112 @@
 			703
 		],
 		"mentionedCards": []
+	},
+	{
+		"id": 1000,
+		"name": "Rush On - Excavator",
+		"requirement": "At the beginning of the Duel, if you have no Maximum Monsters in your Deck.",
+		"effect": "Add 1 \"Wyrm Excavator the Heavy Cavalry Draco [L]\", 1 \"Wyrm Excavator the Heavy Cavalry Draco\", and 1 \"Wyrm Excavator the Heavy Cavalry Draco [R]\" to your Deck.",
+		"isArchive": false,
+		"characters": [
+			709
+		],
+		"mentionedCards": [
+			20734,
+			20735,
+			20736
+		]
+	},
+	{
+		"id": 1001,
+		"name": "Construct Blisstopia",
+		"condition": "This Skill can be used if all of the monsters with 1200 or more ATK in your Deck are Wyrm Type.",
+		"requirement": "From turn 2 onward.",
+		"effect": "Choose from your field, 1 face-up Normal Monster (except a Level 4 monster) or 1 \"Constructor Wyrm Buildragon\". The chosen monster gains 300 ATK until the end of this turn. If that monster was \"Constructor Princess Pylon\", you can also shuffle 1 card from your hand into the Deck, and if you do, add 1 \"Peaks of Blisstopia\" from your Deck or Graveyard to your hand.",
+		"isArchive": false,
+		"characters": [
+			709
+		],
+		"mentionedCards": [
+			16147,
+			17220,
+			16163
+		]
+	},
+	{
+		"id": 1002,
+		"name": "Maximum Excavator",
+		"condition": "This Skill can be used if all of the monsters in your Deck are Wyrm Type.",
+		"requirement": "None",
+		"effect": "Choose 1 face-up monster on your field. This turn, that monster gains 100 ATK, and if there were 10 or less cards in your Deck when you used this Skill, it inflicts piercing battle damage. If you have activated \"Peaks of Blisstopia\" this turn, you can also add 1 Level 3 or 10 monster from your Graveyard to your hand. (You can only add a Maximum Monster once per Duel.)",
+		"isArchive": false,
+		"characters": [
+			709
+		],
+		"mentionedCards": [
+			16163
+		]
+	},
+	{
+		"id": 1003,
+		"name": "Pride of The Three Cavalteers",
+		"condition": "This Skill can be used if all of the monsters with 1400 ATK or higher in your Deck are \"Constructor Wyrm Buildragon\", \"Shield Boring Kong\", \"Beast Drive Mega Elephant\", and EARTH Attribute Legend Monsters.",
+		"requirement": "During the turn that you have Normal Summoned a Level 8 EARTH Attribute monster.",
+		"effect": "Change 1 Attack Position monster on your opponent\u0027s field to face-up Defense Position.",
+		"isArchive": false,
+		"characters": [
+			709
+		],
+		"mentionedCards": [
+			16147,
+			16153,
+			16683
+		]
+	},
+	{
+		"id": 1004,
+		"name": "Blisstopian Boon",
+		"requirement": "Before your normal draw, if your opponent has a face-up Level 5 or higher monster on their field, shuffle a total of 3 Wyrm Type monsters and/or \"Peaks of Blisstopia\" from your Graveyard into the Deck. (Once per Duel.)",
+		"effect": "One of the cards from your normal draw this turn will be 1 \"Constructor Princess Pylon\" or 1 \"Peaks of Blisstopia\" from your Deck. This turn, you cannot attack with Level 7 or higher monsters, except for Wyrm Type monsters.",
+		"isArchive": false,
+		"characters": [
+			709
+		],
+		"mentionedCards": [
+			16163,
+			17220
+		]
+	},
+	{
+		"id": 1005,
+		"name": "Shadow Flower Blizzard",
+		"condition": "This Skill can be used if all of the monsters with 1400 or more ATK in your Deck are Plant Type.",
+		"requirement": "None",
+		"effect": "Choose 1 face-up Level 7 EARTH Attribute Plant Type monster on your field. The chosen monster gains 300 ATK until the end of this turn. If that monster was \"Etraynze the Shadow Flower Ninja\" Special Summoned this turn, that monster inflicts piercing battle damage this turn.",
+		"isArchive": true,
+		"mentionedCards": [
+			16335
+		]
+	},
+	{
+		"id": 1006,
+		"name": "Emblem of Destruction",
+		"condition": "This Skill can be used if your Deck contains 5 or more Warrior Type monsters with 2600 or 2300 ATK and no other monsters with 1300 or more ATK.",
+		"requirement": "None",
+		"effect": "Until the end of this turn, all face-up monsters with 2300 or more ATK on your opponent\u0027s field lose 500 ATK and become Dragon Type, then if it is turn 4 onward, you can also send 1 card from your hand and 1 Level 7 monster from your Deck to the Graveyard. (Once per Duel.)",
+		"isArchive": true,
+		"mentionedCards": []
+	},
+	{
+		"id": 1007,
+		"name": "Maximum Hyper Engine",
+		"condition": "This Skill can be used if the only monsters in your Deck are Spellcaster or Warrior Type monsters with 2100 or less ATK, and the Deck contains 8 or more Maximum Monsters.",
+		"requirement": "None",
+		"effect": "Choose up to 2 face-up Maximum Monsters with 1500 or less ATK on your field. The chosen monster(s) gain 1000 ATK until the end of your opponent\u0027s next turn. Then, you can place 1 random Maximum Monster from your Deck with a different Level than the chosen monster(s) on the top of your Deck.",
+		"isArchive": false,
+		"characters": [
+			701
+		],
+		"mentionedCards": []
 	}
 ]

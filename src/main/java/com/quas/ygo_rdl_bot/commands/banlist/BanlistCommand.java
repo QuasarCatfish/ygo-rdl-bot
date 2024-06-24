@@ -41,6 +41,7 @@ public class BanlistCommand extends Command {
 					if (a.getRarity() != b.getRarity()) return -a.getRarity().compareTo(b.getRarity());
 					if (a.getCardType().isMonster() != b.getCardType().isMonster()) return a.getCardType().isMonster() ? -1 : 1;
 					if (a.getCardType().isSpell() != b.getCardType().isSpell()) return a.getCardType().isSpell() ? -1 : 1;
+					if (a.getCardType().isMonster() && b.getCardType().isMonster() && a.getCardType() != b.getCardType()) return -a.getCardType().compareTo(b.getCardType());
 					return a.getName().compareTo(b.getName());
 				});
 				

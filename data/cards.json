@@ -269,7 +269,8 @@
 		"rarity": "N",
 		"cardObtain": [
 			"Legend of Dark Magic",
-			"Soul with Eyes of Blue"
+			"Soul with Eyes of Blue",
+			"Heavy Strike Excavator"
 		]
 	},
 	{
@@ -931,7 +932,8 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road",
+			"Heavy Strike Excavator"
 		]
 	},
 	{
@@ -1168,7 +1170,8 @@
 			"race": "WINGED_BEAST"
 		},
 		"cardObtain": [
-			"Genesis Maximum"
+			"Genesis Maximum",
+			"Heavy Strike Excavator"
 		]
 	},
 	{
@@ -2477,7 +2480,8 @@
 		},
 		"cardObtain": [
 			"Genesis Maximum",
-			"Soul with Eyes of Blue"
+			"Soul with Eyes of Blue",
+			"Heavy Strike Excavator"
 		]
 	},
 	{
@@ -2577,6 +2581,43 @@
 		},
 		"cardObtain": [
 			"Heavy Metal Scream"
+		]
+	},
+	{
+		"id": 15604,
+		"name": "Long Shield Gardna",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Change this card\u0027s battle position (Attack Position becomes face-up Defense Position, Defense Position becomes face-up Attack Position).",
+		"effect": "This turn, 1 face-up Normal Monster with 2000 or more DEF on your field gains 500 ATK, and cannot be destroyed by an opponent\u0027s Trap Card effects.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 5,
+			"atk": 1500,
+			"def": 1200,
+			"attribute": "EARTH",
+			"race": "WARRIOR"
+		}
+	},
+	{
+		"id": 15605,
+		"name": "Eldign Patrol Ship",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Place 1 Normal Monster from your Graveyard on the bottom of your Deck.",
+		"effect": "Look at 1 face-down card on your opponent\u0027s field, then return it to its original position.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 1700,
+			"def": 700,
+			"attribute": "WATER",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"Ranked Duels Reward Ticket"
 		]
 	},
 	{
@@ -4771,14 +4812,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "Armed with a pair of shovels, this monster will destroy anything that stands in its way.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 3,
 			"atk": 900,
 			"def": 1200,
 			"attribute": "EARTH",
 			"race": "MACHINE"
-		}
+		},
+		"cardObtain": [
+			"Heavy Strike Excavator"
+		]
 	},
 	{
 		"id": 16118,
@@ -4862,14 +4906,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "A humanoid reincarnated from a dragon. His masterful strategy and deft hands help reduce construction times considerably.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 3,
 			"atk": 1100,
 			"def": 800,
 			"attribute": "EARTH",
 			"race": "WYRM"
-		}
+		},
+		"cardObtain": [
+			"Asana Mutsuba Duel Reward"
+		]
 	},
 	{
 		"id": 16125,
@@ -4879,14 +4926,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "A young warrior. Each day he passionately uses his shovel to dig up work sites.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1500,
 			"def": 0,
 			"attribute": "EARTH",
 			"race": "WYRM"
-		}
+		},
+		"cardObtain": [
+			"Heavy Strike Excavator"
+		]
 	},
 	{
 		"id": 16126,
@@ -4896,14 +4946,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "A veteran warrior. He uses six types of rollers in his work, but laymen cannot tell the difference between them.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 6,
 			"atk": 1900,
 			"def": 600,
 			"attribute": "EARTH",
 			"race": "WYRM"
-		}
+		},
+		"cardObtain": [
+			"Asana Mutsuba Level Up Reward"
+		]
 	},
 	{
 		"id": 16127,
@@ -4947,14 +5000,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "Incredibly useful on site, but the lease is exorbitant. Planning is the biggest part of the job.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1200,
 			"def": 800,
 			"attribute": "EARTH",
 			"race": "MACHINE"
-		}
+		},
+		"cardObtain": [
+			"Heavy Strike Excavator"
+		]
 	},
 	{
 		"id": 16130,
@@ -5212,6 +5268,84 @@
 		]
 	},
 	{
+		"id": 16144,
+		"name": "Wyrm Excavator the Heavy Cavalry Draco [L]",
+		"cardType": "MAXIMUM",
+		"cardStyle": "ORIGINAL",
+		"effectType": "CONTINUOUS",
+		"isLegend": false,
+		"requirement": "Maximum Mode",
+		"effect": "This card gains ATK equal to [the number of cards in your hand] x 300.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 800,
+			"def": 0,
+			"maxAtk": 0,
+			"attribute": "EARTH",
+			"race": "WYRM"
+		}
+	},
+	{
+		"id": 16145,
+		"name": "Wyrm Excavator the Heavy Cavalry Draco",
+		"cardType": "MAXIMUM",
+		"cardStyle": "ORIGINAL",
+		"effectType": "CONTINUOUS",
+		"isLegend": false,
+		"inherentSummonCondition": "You can Maximum Summon this card together with \"Wyrm Excavator the Heavy Cavalry Draco [L]\" and \"Wyrm Excavator the Heavy Cavalry Draco [R]\".",
+		"requirement": "Maximum Mode",
+		"effect": "This card cannot be destroyed by your opponent\u0027s Trap Card effects.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 10,
+			"atk": 2500,
+			"def": 0,
+			"maxAtk": 3500,
+			"attribute": "EARTH",
+			"race": "WYRM"
+		}
+	},
+	{
+		"id": 16146,
+		"name": "Wyrm Excavator the Heavy Cavalry Draco [R]",
+		"cardType": "MAXIMUM",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Maximum Mode: Place 1 card from your Graveyard on the bottom of the Deck.",
+		"effect": "Destroy 1 Spell/Trap Card on either side of the field and draw 1 card. Then, if you destroyed a Field Spell Card by this effect, you can draw 1 card.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 800,
+			"def": 0,
+			"maxAtk": 0,
+			"attribute": "EARTH",
+			"race": "WYRM"
+		}
+	},
+	{
+		"id": 16147,
+		"name": "Constructor Wyrm Buildragon",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "A face-up Field Spell Card is on the field.",
+		"effect": "Special Summon 1 Wyrm Type Normal Monster from your Graveyard face-up to your field.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2500,
+			"def": 2000,
+			"attribute": "EARTH",
+			"race": "WYRM"
+		},
+		"cardObtain": [
+			"Heavy Strike Excavator"
+		]
+	},
+	{
 		"id": 16148,
 		"name": "Nuncharinet the Music Princess",
 		"cardType": "EFFECT",
@@ -5278,6 +5412,43 @@
 			"attribute": "LIGHT",
 			"race": "FAIRY"
 		}
+	},
+	{
+		"id": 16152,
+		"name": "Drilling Mandrill",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During your Main Phase that you Normal or Special Summoned this card.",
+		"effect": "Change face-down Defense Position monsters on your opponent\u0027s field to face-up Attack Position, up to [the number of face-up Machine Type monsters on your field]. The original ATK of the monsters changed to face-up Attack Position by this effect become 0 until the end of this turn.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 1700,
+			"def": 2000,
+			"attribute": "EARTH",
+			"race": "MACHINE"
+		}
+	},
+	{
+		"id": 16153,
+		"name": "Shield Boring Kong",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During your Main Phase that you Normal or Special Summoned this card.",
+		"effect": "Destroy 1 face-down Defense Position monster on your opponent\u0027s field. If you do, this card gains 1000 ATK until the end of this turn.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2300,
+			"def": 1700,
+			"attribute": "EARTH",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"Heavy Strike Excavator"
+		]
 	},
 	{
 		"id": 16154,
@@ -5354,6 +5525,32 @@
 		"rarity": "NPC"
 	},
 	{
+		"id": 16163,
+		"name": "Peaks of Blisstopia",
+		"cardType": "FIELD",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "While this card is face-up in the Field Zone, face-up Wyrm Type monsters on the field gain 400 ATK and lose 400 DEF.",
+		"rarity": "SR",
+		"cardObtain": [
+			"Heavy Strike Excavator"
+		]
+	},
+	{
+		"id": 16164,
+		"name": "Constructor Sword Foreman",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "A face-up Field Spell Card is on the field.",
+		"effect": "Change 1 Defense Position monster on your opponent\u0027s field to face-up Attack Position. If the monster changed to face-up Attack Position by this effet was a Normal Monster, you can draw 1 card.",
+		"rarity": "N",
+		"cardObtain": [
+			"Heavy Strike Excavator"
+		]
+	},
+	{
 		"id": 16165,
 		"name": "Geological Survey",
 		"cardType": "SPELL",
@@ -5362,6 +5559,19 @@
 		"requirement": "None",
 		"effect": "Excavate cards from the top of your Deck equal to [the number of cards on the opponent\u0027s field]. Then, place the excavated cards on either the top or bottom of your Deck in any order.",
 		"rarity": "NPC"
+	},
+	{
+		"id": 16166,
+		"name": "Primal Howling",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "You have a face-up Wyrm Type monster on your field.",
+		"effect": "Place 1 Spell/Trap card from your opponent\u0027s field on the bottom of the owner\u0027s Deck.",
+		"rarity": "UR",
+		"cardObtain": [
+			"Asana Mutsuba Duel Reward"
+		]
 	},
 	{
 		"id": 16167,
@@ -5461,6 +5671,26 @@
 		]
 	},
 	{
+		"id": 16186,
+		"name": "Picklon the Constructor Fairy",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 Wyrm Type monster from your hand to the Graveyard.",
+		"effect": "Draw 1 card.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 200,
+			"def": 1000,
+			"attribute": "EARTH",
+			"race": "WYRM"
+		},
+		"cardObtain": [
+			"Asana Mutsuba Level Up Reward"
+		]
+	},
+	{
 		"id": 16285,
 		"name": "Dian Keto the Cure Master",
 		"cardType": "SPELL",
@@ -5478,14 +5708,17 @@
 		"isLegend": false,
 		"requirement": "You have a face-up Plant Type Normal Monster on your field.",
 		"effect": "Each player sends the top card of their Deck to the Graveyard.",
-		"rarity": "NPC",
+		"rarity": "R",
 		"monsterInfo": {
 			"level": 2,
 			"atk": 500,
 			"def": 500,
 			"attribute": "EARTH",
 			"race": "PLANT"
-		}
+		},
+		"cardObtain": [
+			"Heavy Strike Excavator"
+		]
 	},
 	{
 		"id": 16287,
@@ -5579,14 +5812,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "A plant-warrior that attacks with seeds and sword.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1400,
 			"def": 1300,
 			"attribute": "EARTH",
 			"race": "PLANT"
-		}
+		},
+		"cardObtain": [
+			"Heavy Strike Excavator"
+		]
 	},
 	{
 		"id": 16293,
@@ -5662,11 +5898,12 @@
 		"id": 16307,
 		"name": "Buster Blader",
 		"cardType": "EFFECT",
+		"cardStyle": "ORIGINAL",
 		"effectType": "CONTINUOUS",
 		"isLegend": true,
 		"requirement": "None",
 		"effect": "This card gains ATK equal to [the total number of face-up Dragon Type monsters on your opponent\u0027s field and in their Graveyard] x 500.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 7,
 			"atk": 2600,
@@ -5771,14 +6008,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "Lurking in the shadows to save its master of the grass clan from danger. Even after its defeat, it will return from behind the grassy knoll.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 3,
 			"atk": 800,
 			"def": 1300,
 			"attribute": "EARTH",
 			"race": "PLANT"
-		}
+		},
+		"cardObtain": [
+			"Heavy Strike Excavator"
+		]
 	},
 	{
 		"id": 16314,
@@ -5788,14 +6028,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "Lurking in the shadows to support its master of the grass clan in battle. There is no doubt about her dedication.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1300,
 			"def": 1400,
 			"attribute": "EARTH",
 			"race": "PLANT"
-		}
+		},
+		"cardObtain": [
+			"Heavy Strike Excavator"
+		]
 	},
 	{
 		"id": 16315,
@@ -5887,6 +6130,64 @@
 			"def": 2500,
 			"attribute": "EARTH",
 			"race": "INSECT"
+		}
+	},
+	{
+		"id": 16321,
+		"name": "Hyper Engine Vast Vulcan [L]",
+		"cardType": "MAXIMUM",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Maximum Mode: Send the top card of your Deck to the Graveyard.",
+		"effect": "Choose 1 face-up monster on your opponent\u0027s field, and it loses 800 ATK until the end of this turn. You can destroy 1 Field Spell Card on your opponent\u0027s field. If you destroyed a Field Spell Card by this effect, inflict 800 damage to your opponent.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 900,
+			"def": 0,
+			"maxAtk": 0,
+			"attribute": "FIRE",
+			"race": "WARRIOR"
+		}
+	},
+	{
+		"id": 16322,
+		"name": "Hyper Engine Vast Vulcan",
+		"cardType": "MAXIMUM",
+		"cardStyle": "ORIGINAL",
+		"effectType": "CONTINUOUS",
+		"isLegend": false,
+		"inherentSummonCondition": "You can Maximum Summon this card together with \"Hyper Engine Vast Vulcan [L]\" and \"Hyper Engine Vast Vulcan [R]\".",
+		"requirement": "Maximum Mode",
+		"effect": "This card cannot be destroyed by your opponent\u0027s Trap Card effects.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 10,
+			"atk": 1500,
+			"def": 0,
+			"maxAtk": 3300,
+			"attribute": "FIRE",
+			"race": "WARRIOR"
+		}
+	},
+	{
+		"id": 16323,
+		"name": "Hyper Engine Vast Vulcan [R]",
+		"cardType": "MAXIMUM",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Maximum Mode: Send the top card of your Deck to the Graveyard.",
+		"effect": "Choose 1 face-up monster on the field, and it loses ATK equal to [its Level] x 100 until the end of this turn. Inflict damage to your opponent equal to [the chosen monster\u0027s Level] x 100.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 600,
+			"def": 0,
+			"maxAtk": 0,
+			"attribute": "FIRE",
+			"race": "WARRIOR"
 		}
 	},
 	{
@@ -6048,14 +6349,17 @@
 		"isLegend": false,
 		"requirement": "You have a face-up Level 7 or higher Plant Type monster on your field.",
 		"effect": "Change 1 Defense Position monster on your opponent\u0027s field to face-up Attack Position. If you changed a monster to face-up Attack Position by this effect, gain LP equal to [that monster\u0027s original ATK].",
-		"rarity": "NPC",
+		"rarity": "R",
 		"monsterInfo": {
 			"level": 3,
 			"atk": 1000,
 			"def": 1000,
 			"attribute": "EARTH",
 			"race": "PLANT"
-		}
+		},
+		"cardObtain": [
+			"Heavy Strike Excavator"
+		]
 	},
 	{
 		"id": 16334,
@@ -6065,14 +6369,17 @@
 		"isLegend": false,
 		"requirement": "During the turn you Normal Summoned this card, pay 500 LP.",
 		"effect": "Add 1 EARTH Attribute Plant Type Normal Monster from your Graveyard to your hand.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 0,
 			"def": 1300,
 			"attribute": "EARTH",
 			"race": "PLANT"
-		}
+		},
+		"cardObtain": [
+			"Heavy Strike Excavator"
+		]
 	},
 	{
 		"id": 16335,
@@ -6082,14 +6389,17 @@
 		"isLegend": false,
 		"requirement": "You have \"Etraynze the Shadow Flower Ninja\" in your Graveyard.",
 		"effect": "Send 1 Plant Type monster from your hand to the Graveyard. If you do, Special Summon 1 \"Etraynze the Shadow Flower Ninja\" from your Graveyard face-up to your field, but place it on the bottom of the owner\u0027s Deck during the End Phase. This card cannot attack directly this turn.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 7,
 			"atk": 2300,
 			"def": 1000,
 			"attribute": "EARTH",
 			"race": "PLANT"
-		}
+		},
+		"cardObtain": [
+			"Heavy Strike Excavator"
+		]
 	},
 	{
 		"id": 16336,
@@ -6099,14 +6409,17 @@
 		"isLegend": false,
 		"requirement": "Send 1 other face-up EARTH Attribute Plant Type monster from your field to the Graveyard.",
 		"effect": "Change the original ATK of 1 face-up Level 7 or lower EARTH Attribute monster on your opponent\u0027s field to 0 until the end of this turn.",
-		"rarity": "NPC",
+		"rarity": "R",
 		"monsterInfo": {
 			"level": 7,
 			"atk": 2400,
 			"def": 1500,
 			"attribute": "EARTH",
 			"race": "PLANT"
-		}
+		},
+		"cardObtain": [
+			"Heavy Strike Excavator"
+		]
 	},
 	{
 		"id": 16339,
@@ -6122,6 +6435,23 @@
 			"atk": 800,
 			"def": 1000,
 			"attribute": "LIGHT",
+			"race": "WINGED_BEAST"
+		}
+	},
+	{
+		"id": 16340,
+		"name": "Night Vision the Phantom Pigeon",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you have a Trap Card in your Graveyard, send the top card of your Deck to the Graveyard.",
+		"effect": "This card gains ATK equal to [the number of Trap Cards in your Graveyard] x 200 until the end of this turn. If you have 5 or more Trap Cards in your Graveyard, inflict 1000 damage to your opponent.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2200,
+			"def": 1500,
+			"attribute": "DARK",
 			"race": "WINGED_BEAST"
 		}
 	},
@@ -6261,7 +6591,10 @@
 		"isLegend": false,
 		"requirement": "If you have a Level 4 or lower Plant Type Normal Monster in your Graveyard, send the top card of your Deck to the Graveyard.",
 		"effect": "Special Summon 1 Level 4 or lower Plant Type Normal Monster from your Graveyard face-up to your field, but place it on the bottom of the owner\u0027s Deck during the End Phase.",
-		"rarity": "NPC"
+		"rarity": "N",
+		"cardObtain": [
+			"Heavy Strike Excavator"
+		]
 	},
 	{
 		"id": 16356,
@@ -6294,6 +6627,16 @@
 		"isLegend": false,
 		"requirement": "When an opponent\u0027s monster declares an attack targeting your face-up Plant Type monster, shuffle 2 Plant Type monsters from your Graveyard on the bottom of your Deck in any order.",
 		"effect": "Change all Attack Position monsters on your opponent\u0027s field to face-up Defense Position.",
+		"rarity": "NPC"
+	},
+	{
+		"id": 16364,
+		"name": "Clowning Cookoo Clock",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When your opponent Normal Summons a monster while you have a face-up Winged Beast Type monster on your field.",
+		"effect": "Choose 1 \"Night Vision the Phantom Pigeon\" in your Graveyard and Special Summon it face-up to your field. Gain 1500 LP.",
 		"rarity": "NPC"
 	},
 	{
@@ -6399,14 +6742,17 @@
 		"isLegend": false,
 		"requirement": "You have a face-up Plant Type Normal Monster on your field.",
 		"effect": "Change 1 Defense Position monster on your opponent\u0027s field to face-up Attack Position. If the monster changed to face-up Attack Position by this effect was EARTH Attribute, you can draw 1 card.",
-		"rarity": "NPC",
+		"rarity": "R",
 		"monsterInfo": {
 			"level": 1,
 			"atk": 300,
 			"def": 200,
 			"attribute": "EARTH",
 			"race": "PLANT"
-		}
+		},
+		"cardObtain": [
+			"Heavy Strike Excavator"
+		]
 	},
 	{
 		"id": 16465,
@@ -6772,6 +7118,26 @@
 		}
 	},
 	{
+		"id": 16598,
+		"name": "Silvermountain of Blisstopia",
+		"cardType": "FIELD",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Your opponnet has a face-up Level 7 or higher monster on their field.",
+		"effect": "While this card is face-up in the Field Zone, both players can Tribute Summon Level 7 or higher Wyrm Type monsters in Attack Position with only 1 Tribute.",
+		"rarity": "NPC"
+	},
+	{
+		"id": 16600,
+		"name": "Constructor Resurrection",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When a Level 7 or higher Wyrm Type monster on your field is destroyed by an opponent\u0027s attack.",
+		"effect": "Choose 1 Level 7 or higher Wyrm Type monster in your Graveyard and Special Summon it face-up to your field.",
+		"rarity": "NPC"
+	},
+	{
 		"id": 16601,
 		"name": "Clubinet the Music Princess",
 		"cardType": "NORMAL",
@@ -7060,14 +7426,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "A surprisingly fast hippopotamus that tries to push back any hostility. It can swim dexterously with its track belt.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 6,
 			"atk": 200,
 			"def": 2100,
 			"attribute": "EARTH",
 			"race": "BEAST"
-		}
+		},
+		"cardObtain": [
+			"Heavy Strike Excavator"
+		]
 	},
 	{
 		"id": 16665,
@@ -7322,6 +7691,26 @@
 			"attribute": "FIRE",
 			"race": "BEAST"
 		}
+	},
+	{
+		"id": 16683,
+		"name": "Beast Drive Mega Elephant",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you have a Level 6 or lower Beast Type Normal Monster in your Graveyard, send 1 card from your hand to the Graveyard.",
+		"effect": "Choose 1 Level 6 or lower Beast Type Normal Monster in your Graveyard and Special Summon it face-up to your field. If you have 3 or more Beast Type Normal Monsters in your Graveyard, you can draw 1 card.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 1700,
+			"def": 2500,
+			"attribute": "EARTH",
+			"race": "BEAST"
+		},
+		"cardObtain": [
+			"Heavy Strike Excavator"
+		]
 	},
 	{
 		"id": 16686,
@@ -7961,6 +8350,57 @@
 		]
 	},
 	{
+		"id": 16795,
+		"name": "Constructor Fighter Mixer",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "A face-up Field Spell Card is on the field during the turn you Normal Summoned this card.",
+		"effect": "Send the top card of your Deck to the Graveyard. If you sent a Wyrm Type Normal Monster to the Graveyard by this effect, you can draw 1 card.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1200,
+			"def": 400,
+			"attribute": "EARTH",
+			"race": "WYRM"
+		}
+	},
+	{
+		"id": 16796,
+		"name": "Coil Dragon of Desolation",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Shuffle 1 face-up Field Spell Card on your field into the owner\u0027s Deck.",
+		"effect": "Inflict 600 damage to your opponent.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1100,
+			"def": 300,
+			"attribute": "EARTH",
+			"race": "WYRM"
+		}
+	},
+	{
+		"id": 16797,
+		"name": "Constructor Sapper Draftannin",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During the turn you Normal Summoned this card.",
+		"effect": "Excavate the top card of your Deck and place it on either the top or bottom of your Deck.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 500,
+			"def": 1000,
+			"attribute": "EARTH",
+			"race": "WYRM"
+		}
+	},
+	{
 		"id": 16798,
 		"name": "Barrier Armordillo",
 		"cardType": "NORMAL",
@@ -7968,14 +8408,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "A surprisingly strong armadillo that bounces back anything close. It can dig dexterously with its track belt.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 1,
 			"atk": 200,
 			"def": 1300,
 			"attribute": "EARTH",
 			"race": "BEAST"
-		}
+		},
+		"cardObtain": [
+			"Heavy Strike Excavator"
+		]
 	},
 	{
 		"id": 16800,
@@ -8264,6 +8707,19 @@
 			"attribute": "EARTH",
 			"race": "WARRIOR"
 		}
+	},
+	{
+		"id": 16932,
+		"name": "The Warrior Returning Alive",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": true,
+		"requirement": "None",
+		"effect": "Add 1 Warrior Type monster from your Graveyard to your hand.",
+		"rarity": "UR",
+		"cardObtain": [
+			"Special Set (Bundle)"
+		]
 	},
 	{
 		"id": 16933,
@@ -8706,6 +9162,23 @@
 		]
 	},
 	{
+		"id": 16986,
+		"name": "Constructor Sky Wyrm Gantry Dragon",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "A face-up Field Spell Card is on the field.",
+		"effect": "Choose 1 \"Constructor Wyrm Buildragon\" in your Graveyard and Special Summon it face-up to your field. This turn, you can only attack with Wyrm Type monsters.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2500,
+			"def": 2000,
+			"attribute": "EARTH",
+			"race": "WYRM"
+		}
+	},
+	{
 		"id": 16991,
 		"name": "Gogogo Umpire",
 		"cardType": "EFFECT",
@@ -8828,6 +9301,16 @@
 		]
 	},
 	{
+		"id": 17010,
+		"name": "Bizarrmor",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Place 3 Level 7 or higher monsters with different Types from your Graveyard on either the top or bottom of the Deck in any order.",
+		"effect": "Add 1 Normal Monster from your Graveyard to your hand. You can make 1 face-up monster on your opponent\u0027s field lose 1500 ATK until the end of this turn.",
+		"rarity": "NPC"
+	},
+	{
 		"id": 17011,
 		"name": "Shape of Aqua",
 		"cardType": "SPELL",
@@ -8856,6 +9339,19 @@
 		"requirement": "Send cards from your hand to the Graveyard, up to the number of Pyro Type Normal Monsters in your Graveyard.",
 		"effect": "Draw cards equal to [the number of cards sent to the Graveyard to meet the requirement]. Then, if you have a face-up Pyro Type Normal Monster on your field, you can draw 1 card.",
 		"rarity": "NPC"
+	},
+	{
+		"id": 17020,
+		"name": "Card Revitalization",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Both players discard as many cards as possible from their hands. You can make 1 face-up monster on your field gain ATK equal to [the number of cards sent to the Graveyard by this effect] x 300 until the end of this turn.",
+		"rarity": "SR",
+		"cardObtain": [
+			"Heavy Strike Excavator"
+		]
 	},
 	{
 		"id": 17021,
@@ -8943,6 +9439,19 @@
 		"rarity": "NPC"
 	},
 	{
+		"id": 17215,
+		"name": "Heavenly Bliss",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When a monster(s) on your field is destroyed by an opponent\u0027s attack or their card effect while you have no other monsters on your field.",
+		"effect": "Change 1 face-up monster on your opponent\u0027s field to face-down Defense Position. If the original Level of the destroyed monster was 10, you can destroy 1 face-down card on your opponent\u0027s field.",
+		"rarity": "SR",
+		"cardObtain": [
+			"Heavy Strike Excavator"
+		]
+	},
+	{
 		"id": 17219,
 		"name": "Beaver Warrior",
 		"cardType": "NORMAL",
@@ -8958,6 +9467,26 @@
 			"attribute": "EARTH",
 			"race": "BEAST_WARRIOR"
 		}
+	},
+	{
+		"id": 17220,
+		"name": "Constructor Princess Pylon",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "A Blisstopian princess of Wyrms who deeply values her bonds with her friends.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 100,
+			"def": 0,
+			"attribute": "EARTH",
+			"race": "WYRM"
+		},
+		"cardObtain": [
+			"Asana Mutsuba Level Up Reward"
+		]
 	},
 	{
 		"id": 17222,
@@ -9236,6 +9765,26 @@
 		}
 	},
 	{
+		"id": 17302,
+		"name": "Lightning Bringer Spirit",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "Shuffle 1 card from your opponent\u0027s Graveyard into the Deck. Then, if it was a Spell/Trap card, you can shuffle 1 card from your opponent\u0027s Graveyard into the Deck.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 2,
+			"atk": 800,
+			"def": 1200,
+			"attribute": "EARTH",
+			"race": "THUNDER"
+		},
+		"cardObtain": [
+			"Heavy Strike Excavator"
+		]
+	},
+	{
 		"id": 17303,
 		"name": "Sensor Duckbill",
 		"cardType": "EFFECT",
@@ -9316,6 +9865,19 @@
 		]
 	},
 	{
+		"id": 17321,
+		"name": "Vulcan Ignite Hyperdrive",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "You have a face-up FIRE Attribute Warrior Type Maximum Monster on your field.",
+		"effect": "Inflict 800 damage to your opponent. If you have a monster in Maximum Mode on your field, you can destroy 1 card on your opponent\u0027s field.",
+		"rarity": "N",
+		"cardObtain": [
+			"Heavy Strike Excavator"
+		]
+	},
+	{
 		"id": 17322,
 		"name": "Royal Rebel\u0027s Echo",
 		"cardType": "SPELL",
@@ -9333,7 +9895,10 @@
 		"isLegend": false,
 		"requirement": "If you have a Plant Type monster in your Graveyard, send 2 face-up Plant Type monsters from your field to the Graveyard.",
 		"effect": "Special Summon 1 Plant Type monster from your Graveyard face-up to your field.",
-		"rarity": "NPC"
+		"rarity": "R",
+		"cardObtain": [
+			"Heavy Strike Excavator"
+		]
 	},
 	{
 		"id": 17324,
@@ -10367,6 +10932,23 @@
 		]
 	},
 	{
+		"id": 17942,
+		"name": "Craftroll",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "A crafting robot popular among children, who also serves as an amusement park mascot. Turn its central handle and it will transform.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 1100,
+			"def": 0,
+			"attribute": "EARTH",
+			"race": "MACHINE"
+		}
+	},
+	{
 		"id": 17945,
 		"name": "Thunder Spark",
 		"cardType": "TRAP",
@@ -10514,6 +11096,23 @@
 		"rarity": "NPC"
 	},
 	{
+		"id": 18233,
+		"name": "Poliscoop",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "Equipped with a multipurpose shovel, this police robot can simultaneously carry out field work and security duties.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1500,
+			"def": 0,
+			"attribute": "EARTH",
+			"race": "MACHINE"
+		}
+	},
+	{
 		"id": 18240,
 		"name": "Robbarim",
 		"cardType": "NORMAL",
@@ -10656,6 +11255,26 @@
 		]
 	},
 	{
+		"id": 18267,
+		"name": "Neo Plandish",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send the bottom card of your Deck to the Graveyard.",
+		"effect": "This turn, this card cannot be destroyed by your opponent\u0027s Trap Card effects. If you sent a Plant Type monster to the Graveyard to meet the requirement, this card gains 700 ATK until the end of this turn.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2500,
+			"def": 1500,
+			"attribute": "EARTH",
+			"race": "PLANT"
+		},
+		"cardObtain": [
+			"Heavy Strike Excavator"
+		]
+	},
+	{
 		"id": 18286,
 		"name": "JAM:P Check!",
 		"cardType": "SPELL",
@@ -10703,6 +11322,23 @@
 			"def": 1600,
 			"attribute": "LIGHT",
 			"race": "DRAGON"
+		}
+	},
+	{
+		"id": 18304,
+		"name": "Quadcropter GA84",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "The 84th model of the GA-type aircraft, commonly known as Tagayashi. It boasts superior aeronautical performance and extensive agricultural functionality.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 5,
+			"atk": 1800,
+			"def": 1500,
+			"attribute": "EARTH",
+			"race": "MACHINE"
 		}
 	},
 	{
@@ -11051,6 +11687,23 @@
 		]
 	},
 	{
+		"id": 18649,
+		"name": "Digger Skipper",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "A civil engineering machine specializing in excavation. It bounces up and down as it plows the earth.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 0,
+			"def": 1400,
+			"attribute": "EARTH",
+			"race": "MACHINE"
+		}
+	},
+	{
 		"id": 18651,
 		"name": "Fairy Dragon",
 		"cardType": "NORMAL",
@@ -11102,6 +11755,26 @@
 		},
 		"cardObtain": [
 			"Evolving Rising Heart"
+		]
+	},
+	{
+		"id": 18712,
+		"name": "Witness of Dragon Destroyer",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During the turn you Normal Summoned this card.",
+		"effect": "Send the top 2 cards of your Deck to the Graveyard. Add 1 \"Buster Blader\" from your Graveyard to your hand.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 900,
+			"def": 1200,
+			"attribute": "LIGHT",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"Heavy Strike Excavator"
 		]
 	},
 	{
@@ -11166,7 +11839,8 @@
 		},
 		"cardObtain": [
 			"Raidacross the Lionhearted",
-			"Genesis Maximum"
+			"Genesis Maximum",
+			"Heavy Strike Excavator"
 		]
 	},
 	{
@@ -11318,6 +11992,16 @@
 		]
 	},
 	{
+		"id": 19136,
+		"name": "Gold Rush",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When your opponent Normal or Special Summons a Level 7 or higher monster(s) face-up, send all monsters from your field to the Graveyard.",
+		"effect": "Draw 3 cards and reveal them. If a Level 7 monster(s) is among them, you can Special Summon any number of those Level 7 monster(s) to your field in face-down Defense Position.",
+		"rarity": "NPC"
+	},
+	{
 		"id": 19267,
 		"name": "Fireyarou",
 		"cardType": "NORMAL",
@@ -11432,6 +12116,27 @@
 		},
 		"cardObtain": [
 			"Soul with Eyes of Blue"
+		]
+	},
+	{
+		"id": 19439,
+		"name": "Swift Gaia the Fierce Knight",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "If this is the only card in your hand, you can Normal Summon it without Tributing.",
+		"requirement": "None",
+		"effect": "None",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2300,
+			"def": 2100,
+			"attribute": "DARK",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"Heavy Strike Excavator"
 		]
 	},
 	{
@@ -11561,6 +12266,161 @@
 		},
 		"cardObtain": [
 			"Selection Box Vol.01"
+		]
+	},
+	{
+		"id": 20733,
+		"name": "Buster Blader",
+		"cardType": "EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "CONTINUOUS",
+		"isLegend": true,
+		"requirement": "None",
+		"effect": "This card gains ATK equal to [the total number of face-up Dragon Type monsters on your opponent\u0027s field and in their Graveyard] x 500.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2600,
+			"def": 2300,
+			"attribute": "EARTH",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"\"Buster Blader\" Gift Campaign"
+		]
+	},
+	{
+		"id": 20734,
+		"name": "Wyrm Excavator the Heavy Cavalry Draco [L]",
+		"cardType": "MAXIMUM",
+		"cardStyle": "OR_STYLE",
+		"effectType": "CONTINUOUS",
+		"isLegend": false,
+		"requirement": "Maximum Mode",
+		"effect": "This card gains ATK equal to [the number of cards in your hand] x 300.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 800,
+			"def": 0,
+			"maxAtk": 0,
+			"attribute": "EARTH",
+			"race": "WYRM"
+		},
+		"cardObtain": [
+			"Heavy Strike Excavator"
+		]
+	},
+	{
+		"id": 20735,
+		"name": "Wyrm Excavator the Heavy Cavalry Draco",
+		"cardType": "MAXIMUM",
+		"cardStyle": "OR_STYLE",
+		"effectType": "CONTINUOUS",
+		"isLegend": false,
+		"inherentSummonCondition": "You can Maximum Summon this card together with \"Wyrm Excavator the Heavy Cavalry Draco [L]\" and \"Wyrm Excavator the Heavy Cavalry Draco [R]\".",
+		"requirement": "Maximum Mode",
+		"effect": "This card cannot be destroyed by your opponent\u0027s Trap Card effects.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 10,
+			"atk": 2500,
+			"def": 0,
+			"maxAtk": 3500,
+			"attribute": "EARTH",
+			"race": "WYRM"
+		},
+		"cardObtain": [
+			"Heavy Strike Excavator"
+		]
+	},
+	{
+		"id": 20736,
+		"name": "Wyrm Excavator the Heavy Cavalry Draco [R]",
+		"cardType": "MAXIMUM",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Maximum Mode: Place 1 card from your Graveyard on the bottom of the Deck.",
+		"effect": "Destroy 1 Spell/Trap card on either side of the field and draw 1 card. Then, f you destroyed a Field Spell Card by this effect, you can draw 1 card.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 800,
+			"def": 0,
+			"maxAtk": 0,
+			"attribute": "EARTH",
+			"race": "WYRM"
+		},
+		"cardObtain": [
+			"Heavy Strike Excavator"
+		]
+	},
+	{
+		"id": 20737,
+		"name": "Hyper Engine Vast Vulcan [L]",
+		"cardType": "MAXIMUM",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Maximum Mode: Send the top card of your Deck to the Graveyard.",
+		"effect": "Choose 1 face-up monster on your opponent\u0027s field, and it loses 800 ATK until the end of this turn. You can destroy 1 Field Spell Card on your opponent\u0027s field. If you destroyed a Field Spell Card by this effect, inflict 800 damage to your opponent.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 900,
+			"def": 0,
+			"maxAtk": 0,
+			"attribute": "FIRE",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"Heavy Strike Excavator"
+		]
+	},
+	{
+		"id": 20738,
+		"name": "Hyper Engine Vast Vulcan",
+		"cardType": "MAXIMUM",
+		"cardStyle": "OR_STYLE",
+		"effectType": "CONTINUOUS",
+		"isLegend": false,
+		"inherentSummonCondition": "You can Maximum Summon this card together with \"Hyper Engine Vast Vulcan [L]\" and \"Hyper Engine Vast Vulcan [R]\".",
+		"requirement": "Maximum Mode",
+		"effect": "This card cannot be destroyed by your opponent\u0027s Trap Card effects.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 10,
+			"atk": 1500,
+			"def": 0,
+			"maxAtk": 3300,
+			"attribute": "FIRE",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"Heavy Strike Excavator"
+		]
+	},
+	{
+		"id": 20739,
+		"name": "Hyper Engine Vast Vulcan [R]",
+		"cardType": "MAXIMUM",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Maximum Mode: Send the top card of your Deck to the Graveyard.",
+		"effect": "Choose 1 face-up monster on the field, and it loses ATK equal to [its Level] x 100 until the end of this turn. Inflict damage to your opponent equal to [the chosen monster\u0027s Level] x 100.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 600,
+			"def": 0,
+			"maxAtk": 0,
+			"attribute": "FIRE",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"Heavy Strike Excavator"
 		]
 	}
 ]
