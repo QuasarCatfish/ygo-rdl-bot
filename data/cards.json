@@ -2591,14 +2591,17 @@
 		"isLegend": false,
 		"requirement": "Change this card\u0027s battle position (Attack Position becomes face-up Defense Position, Defense Position becomes face-up Attack Position).",
 		"effect": "This turn, 1 face-up Normal Monster with 2000 or more DEF on your field gains 500 ATK, and cannot be destroyed by an opponent\u0027s Trap Card effects.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 5,
 			"atk": 1500,
 			"def": 1200,
 			"attribute": "EARTH",
 			"race": "WARRIOR"
-		}
+		},
+		"cardObtain": [
+			"Pick-a-Gift Campaign"
+		]
 	},
 	{
 		"id": 15605,
