@@ -891,7 +891,8 @@
 			"Yuga Ohdo Starter Deck",
 			"Gavin Sogetsu Starter Deck",
 			"Romin Kassidy Starter Deck",
-			"Nail Saionji Starter Deck"
+			"Nail Saionji Starter Deck",
+			"Asana Mutsuba Starter Deck"
 		]
 	},
 	{
@@ -1113,6 +1114,7 @@
 			"Romin Kassidy Starter Deck",
 			"Mimi Imimi Starter Deck",
 			"Roa Kassidy Starter Deck",
+			"Asana Mutsuba Starter Deck",
 			"Tag Duel Tournament"
 		]
 	},
@@ -1378,7 +1380,8 @@
 		},
 		"cardObtain": [
 			"Standard Duelist Duel Reward",
-			"Legendary Duelist Duel Reward"
+			"Legendary Duelist Duel Reward",
+			"Ranked Duels Reward Ticket"
 		]
 	},
 	{
@@ -1454,6 +1457,7 @@
 			"Gavin Sogetsu Starter Deck",
 			"Roa Kassidy Starter Deck",
 			"Nail Saionji Starter Deck",
+			"Asana Mutsuba Starter Deck",
 			"Lucidien \"Luke\" Kallister Duel Reward",
 			"Roa Kassidy Duel Reward"
 		]
@@ -1665,9 +1669,11 @@
 			"Romin Kassidy Starter Deck",
 			"Roa Kassidy Starter Deck",
 			"Nail Saionji Starter Deck",
+			"Asana Mutsuba Starter Deck",
 			"Roa Kassidy Duel Reward",
 			"GR Festival Special Pack Vol.01",
-			"World Championship 2024 Special Pack (Rush)"
+			"World Championship 2024 Special Pack (Rush)",
+			"Ranked Duels Reward Ticket"
 		]
 	},
 	{
@@ -2345,6 +2351,7 @@
 			"Romin Kassidy Starter Deck",
 			"Mimi Imimi Starter Deck",
 			"Roa Kassidy Starter Deck",
+			"Asana Mutsuba Starter Deck",
 			"Lucidien \"Luke\" Kallister Duel Reward",
 			"Romin Kassidy Duel Reward",
 			"Nail Saionji Duel Reward"
@@ -3455,7 +3462,8 @@
 		"cardObtain": [
 			"Standard Duelist Duel Reward",
 			"Legendary Duelist Duel Reward",
-			"Tag Duel Tournament"
+			"Tag Duel Tournament",
+			"Ranked Duels Reward Ticket"
 		]
 	},
 	{
@@ -3533,6 +3541,7 @@
 			"Gavin Sogetsu Starter Deck",
 			"Roa Kassidy Starter Deck",
 			"Nail Saionji Starter Deck",
+			"Asana Mutsuba Starter Deck",
 			"Roa Kassidy Duel Reward",
 			"Duel Links Mission Research",
 			"Tag Duel Tournament",
@@ -3588,6 +3597,7 @@
 			"Yuga Ohdo Starter Deck",
 			"Romin Kassidy Starter Deck",
 			"Mimi Imimi Starter Deck",
+			"Asana Mutsuba Starter Deck",
 			"Romin Kassidy Duel Reward",
 			"Mimi Imimi Duel Reward",
 			"Nail Saionji Duel Reward",
@@ -4729,7 +4739,8 @@
 			"Yuga Ohdo Starter Deck",
 			"Gavin Sogetsu Starter Deck",
 			"Mimi Imimi Starter Deck",
-			"Roa Kassidy Starter Deck"
+			"Roa Kassidy Starter Deck",
+			"Asana Mutsuba Starter Deck"
 		]
 	},
 	{
@@ -4870,8 +4881,10 @@
 			"Mimi Imimi Starter Deck",
 			"Roa Kassidy Starter Deck",
 			"Nail Saionji Starter Deck",
+			"Asana Mutsuba Starter Deck",
 			"Yuga Ohdo Duel Reward",
-			"Lucidien \"Luke\" Kallister Duel Reward"
+			"Lucidien \"Luke\" Kallister Duel Reward",
+			"Ranked Duels Reward Ticket"
 		]
 	},
 	{
@@ -5764,7 +5777,8 @@
 		},
 		"cardObtain": [
 			"Standard Duelist Duel Reward",
-			"Legendary Duelist Duel Reward"
+			"Legendary Duelist Duel Reward",
+			"Ranked Duels Reward Ticket"
 		]
 	},
 	{
@@ -6078,7 +6092,8 @@
 		},
 		"cardObtain": [
 			"Standard Duelist Duel Reward",
-			"Legendary Duelist Duel Reward"
+			"Legendary Duelist Duel Reward",
+			"Ranked Duels Reward Ticket"
 		]
 	},
 	{
@@ -8672,6 +8687,7 @@
 			"Romin Kassidy Starter Deck",
 			"Roa Kassidy Starter Deck",
 			"Nail Saionji Starter Deck",
+			"Asana Mutsuba Starter Deck",
 			"Yuga Ohdo Duel Reward",
 			"Gavin Sogetsu Duel Reward",
 			"Mimi Imimi Duel Reward"
@@ -8860,6 +8876,7 @@
 			"Yuga Ohdo Starter Deck",
 			"Gavin Sogetsu Starter Deck",
 			"Roa Kassidy Starter Deck",
+			"Asana Mutsuba Starter Deck",
 			"Gavin Sogetsu Duel Reward",
 			"Nail Saionji Duel Reward",
 			"Tag Duel Tournament"
@@ -9551,6 +9568,7 @@
 			"Yuga Ohdo Starter Deck",
 			"Lucidien \"Luke\" Kallister Starter Deck",
 			"Gavin Sogetsu Starter Deck",
+			"Asana Mutsuba Starter Deck",
 			"Nail Saionji Duel Reward"
 		]
 	},
@@ -9992,7 +10010,8 @@
 			"Lucidien \"Luke\" Kallister Starter Deck",
 			"Romin Kassidy Starter Deck",
 			"Roa Kassidy Starter Deck",
-			"Nail Saionji Starter Deck"
+			"Nail Saionji Starter Deck",
+			"Asana Mutsuba Starter Deck"
 		]
 	},
 	{
@@ -10015,6 +10034,7 @@
 			"Lucidien \"Luke\" Kallister Starter Deck",
 			"Mimi Imimi Starter Deck",
 			"Roa Kassidy Starter Deck",
+			"Asana Mutsuba Starter Deck",
 			"Lucidien \"Luke\" Kallister Duel Reward"
 		]
 	},
