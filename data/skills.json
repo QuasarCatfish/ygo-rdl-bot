@@ -133,7 +133,7 @@
 	{
 		"id": 11,
 		"name": "Blue-Eyes Reign",
-		"condition": "This Skill can only be used if all of the monsters with 1700 or more ATK and/or DEF in your Deck are Level 8 LIGHT Attribute monsters with 1600 or more DEF, and the Deck contains 7 or more Level 5 or higher monsters.",
+		"condition": "This Skill can be used if your Deck contains 7 or more Level 5 or higher monsters and no Level 7 or higher Dragon Type monsters with 1900 DEF or lower.",
 		"requirement": "From turn 2 onward, if there are no face-up Level 8 or higher monsters on your field, shuffle 1 card from your hand into the Deck and reveal 1 \"Kaibaman\" in your hand.",
 		"effect": "Add 1 \"Blue-Eyes Bright Dragon\" from your Deck to your hand.",
 		"isArchive": true,
