@@ -2335,7 +2335,10 @@
 		"isLegend": false,
 		"requirement": "Reveal 1 monster in your hand to your opponent.",
 		"effect": "The Attributes of up to 3 face-up monsters on your opponent\u0027s field become the same as the monster revealed to meet the requirement.",
-		"rarity": "NPC"
+		"rarity": "SR",
+		"cardObtain": [
+			"Tag Duel Tournament"
+		]
 	},
 	{
 		"id": 15454,
