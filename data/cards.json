@@ -2302,6 +2302,19 @@
 		]
 	},
 	{
+		"id": 15450,
+		"name": "Thousand Knives",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "You have \"Dark Magician\" face-up on your field.",
+		"effect": "Destroy 1 monster on your opponent\u0027s field.",
+		"rarity": "UR",
+		"cardObtain": [
+			"Ranked Duels Reward Ticket"
+		]
+	},
+	{
 		"id": 15451,
 		"name": "Dark Magic Attack",
 		"cardType": "SPELL",
