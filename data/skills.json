@@ -159,6 +159,20 @@
 	},
 	{
 		"id": 13,
+		"name": "Buildragon Draw",
+		"condition": "This Skill can be used if your Deck contains 5 or more Level 5 or higher monsters.",
+		"requirement": "Before your normal draw if there is a face-up Field Spell Card on the field.",
+		"effect": "One of the cards from your normal draw will be 1 \"Constructor Wyrm Buildragon\" from your Deck. You cannot activate this Skill during your next turn.",
+		"isArchive": false,
+		"characters": [
+			709
+		],
+		"mentionedCards": [
+			16147
+		]
+	},
+	{
+		"id": 14,
 		"name": "Climax Beat",
 		"condition": "This Skill can be used if the only monsters in your Deck are Psychic Type monsters with 2400 or less ATK.",
 		"requirement": "Can be activated during the turn on turn 2 onward when you have Normal Summoned a Level 2 monster.",
@@ -173,7 +187,7 @@
 		]
 	},
 	{
-		"id": 14,
+		"id": 15,
 		"name": "Construct Blisstopia",
 		"condition": "This Skill can be used if all of the monsters with 1200 or more ATK in your Deck are Wyrm Type.",
 		"requirement": "From turn 2 onward.",
@@ -189,7 +203,7 @@
 		]
 	},
 	{
-		"id": 15,
+		"id": 16,
 		"name": "Cure Master Dian Keto",
 		"requirement": "Can be activated if your LP are lower than your opponent\u0027s (once per Duel). Shuffle 2 Aqua Type monsters with different names from your Graveyard into the Deck.",
 		"effect": "Set 1 \"Dian Keto the Cure Master\" from outside of your Deck in your Spell \u0026 Trap Zone.",
@@ -202,7 +216,7 @@
 		]
 	},
 	{
-		"id": 16,
+		"id": 17,
 		"name": "Curse of the Dark",
 		"condition": "This Skill can be used if the only Level 4 or higher monsters in your Deck are all either Dragon Type Normal Monsters or \"Multistrike Dragon Dragias.\"",
 		"requirement": "None",
@@ -216,7 +230,7 @@
 		]
 	},
 	{
-		"id": 17,
+		"id": 18,
 		"name": "Dark Arts of Celerity",
 		"condition": "This Skill can be used if the only monsters with 1400 or more ATK in your Deck are Warrior Type",
 		"requirement": "Can be activated during the turn you have Normal Summoned a Level 6 or higher DARK/EARTH Attribute Warrior Type monster.",
@@ -228,7 +242,7 @@
 		"mentionedCards": []
 	},
 	{
-		"id": 18,
+		"id": 19,
 		"name": "Dark Arts of Positioning",
 		"condition": "This Skill can only be used if all of the Level 4 or higher monsters in your Deck are Warrior and/or Fairy monsters.",
 		"requirement": "From turn 2 onward, shuffle 1 card from your hand into the Deck, and reveal 1 Level 6 Fairy monster with 0 ATK in your hand.",
@@ -242,7 +256,7 @@
 		]
 	},
 	{
-		"id": 19,
+		"id": 20,
 		"name": "Dark Call Draw",
 		"requirement": "Can be activated before your normal draw on turn 4 onward, if your opponent has a face-up Level 7 or higher monster and you have no monsters on your field (once per Duel).",
 		"effect": "One of the cards from your normal draw will be a random Level 5 or 6 DARK Attribute non-Legend Monster in your Deck.",
@@ -254,7 +268,7 @@
 		"mentionedCards": []
 	},
 	{
-		"id": 20,
+		"id": 21,
 		"name": "Dark Giastrike",
 		"condition": "This Skill can be used if all of the monsters with 1300 or more ATK in your Deck are Dragon Type monsters, and your Deck contains at most 1 LIGHT Attribute Level 6 or higher monster.",
 		"requirement": "During a turn you have Normal Summoned \"Illusion Strike Dragon Miragias\" or \"Steel Strike Dragon Metagias\".",
@@ -269,7 +283,7 @@
 		]
 	},
 	{
-		"id": 21,
+		"id": 22,
 		"name": "Daybreak Order",
 		"condition": "This Skill can be used if the only monsters in your Deck are Level 7 or lower Spellcaster Type or Warrior Type.",
 		"requirement": "Can be activated if you return 1 card from your hand to your Deck from your second turn onwards.",
@@ -284,7 +298,7 @@
 		]
 	},
 	{
-		"id": 22,
+		"id": 23,
 		"name": "Death Doom Requiem",
 		"condition": "This Skill can be used if the only monsters (except Level 4 monsters) in your Deck are Fiend Type.",
 		"requirement": "None",
@@ -296,7 +310,7 @@
 		"mentionedCards": []
 	},
 	{
-		"id": 23,
+		"id": 24,
 		"name": "Determined Draw of Kimeruler",
 		"requirement": "Can be activated before your normal draw on turn 4 onward, if you have no monsters on your field.",
 		"effect": "One of the cards from your normal draw will be \"Kimeruler the Dark Raider.\" Return all cards on your field to your Deck during the End Phase of your turn, and your LP will become 100.",
@@ -309,7 +323,7 @@
 		]
 	},
 	{
-		"id": 24,
+		"id": 25,
 		"name": "Disco Fever",
 		"condition": "This Skill can be used if you have at least 15 Aqua Type monsters (except WATER Attribute monsters) in your Deck, and all of the Level 7 or higher Effect Monsters in your Deck are Aqua Type monsters.",
 		"requirement": "During the turn you Normal Summoned an Aqua Type monster (except a WATER Attribute monster).",
@@ -321,7 +335,7 @@
 		"mentionedCards": []
 	},
 	{
-		"id": 25,
+		"id": 26,
 		"name": "Dragon\u0027s Grace",
 		"condition": "This Skill can be used if the only monsters with 1400 or more ATK in your Deck are Dragon Type.",
 		"requirement": "Can be activated if you have a face-up \"Dragon\u0027s Sage\" on your field that you have Normal Summoned this turn.",
@@ -335,7 +349,7 @@
 		]
 	},
 	{
-		"id": 26,
+		"id": 27,
 		"name": "Dragonic Resonance",
 		"condition": "This Skill can be used if the only monsters in your Deck are Dragon Type.",
 		"requirement": "Can be activated if you have a face-up EARTH Attribute Effect Monster with 1500 or more ATK or 1300 or more DEF on your field.",
@@ -347,7 +361,7 @@
 		"mentionedCards": []
 	},
 	{
-		"id": 27,
+		"id": 28,
 		"name": "Dragonic Strike Draw",
 		"requirement": "Can be activated before your normal draw on turn 4 onward, if you have no monsters on your field.",
 		"effect": "One of the cards from your normal draw will be a random Level 7 EARTH Attribute Dragon Type monster with 2300 ATK. You cannot activate this Skill during your next turn.",
@@ -358,7 +372,7 @@
 		"mentionedCards": []
 	},
 	{
-		"id": 28,
+		"id": 29,
 		"name": "Emblem of Destruction",
 		"condition": "This Skill can be used if your Deck contains 5 or more Warrior Type monsters with 2600 or 2300 ATK and no other monsters with 1300 or more ATK.",
 		"requirement": "None",
@@ -367,7 +381,7 @@
 		"mentionedCards": []
 	},
 	{
-		"id": 29,
+		"id": 30,
 		"name": "Explosion Drive",
 		"condition": "This Skill can be used if the only monsters in your Deck are Spellcaster Type or Rock Type.",
 		"requirement": "None",
@@ -381,7 +395,7 @@
 		]
 	},
 	{
-		"id": 30,
+		"id": 31,
 		"name": "Femtron Draw",
 		"requirement": "Before your normal draw on turn 2 onward (once per Duel).",
 		"effect": "One of the cards from your normal draw will be \"Femtron\" from your Deck. This turn, you can only attack with Level 7 or higher Cyberse Type monsters.",
@@ -394,7 +408,7 @@
 		]
 	},
 	{
-		"id": 31,
+		"id": 32,
 		"name": "Fullmetal Fist",
 		"condition": "This Skill can only be used if all of the monsters with 1300 or more ATK in your Deck are Dragon monsters, and the Deck consists of 1 or less non-DARK Attribute Level 6 or higher monster.",
 		"requirement": "None",
@@ -408,7 +422,7 @@
 		]
 	},
 	{
-		"id": 32,
+		"id": 33,
 		"name": "Get Ready to be Amped Up!",
 		"condition": "This Skill can be used if the only Level 7 or higher monsters in your Deck are Psychic Type.\nAt the beginning of your turn from turn 4 onward, you won\u0027t be able to hold back anymore, and become a hangry Duelist!",
 		"requirement": "Can be activated before your normal draw on your turn 4 onward (once per Duel).",
@@ -424,7 +438,7 @@
 		]
 	},
 	{
-		"id": 33,
+		"id": 34,
 		"name": "Gravity Draw",
 		"requirement": "Can be activated before your normal draw on turn 4 onward, if your opponent has a face-up Level 7 or higher monster and you have no monsters on your field (once per Duel).",
 		"effect": "One of the cards from your normal draw will be a random Level 5 or 6 EARTH Attribute non-Legend monster in your Deck.",
@@ -437,7 +451,7 @@
 		"mentionedCards": []
 	},
 	{
-		"id": 34,
+		"id": 35,
 		"name": "Hammer Crush Deal",
 		"requirement": "Can be activated once per Duel.",
 		"effect": "Set 1 \"Hammer Crush\" from your hand in your Spell \u0026 Trap Zone, and draw 1 card.",
@@ -454,7 +468,7 @@
 		]
 	},
 	{
-		"id": 35,
+		"id": 36,
 		"name": "Harpie Lady Sisters - Elegant Egotist",
 		"condition": "This Skill can be used if there are 3 \"Harpie Lady Sisters\" in your Deck.",
 		"requirement": "On turn 6 onward, show 1 WIND Attribute Winged Beast Type monster with 2100 ATK and 0 DEF in your hand to your opponent.",
@@ -465,7 +479,7 @@
 		]
 	},
 	{
-		"id": 36,
+		"id": 37,
 		"name": "Heavy Metal Draw",
 		"requirement": "Can be activated before your normal draw on turn 4 onward, if your opponent has a face-up Level 7 or higher monster and you have no monsters on your field.",
 		"effect": "One of the cards from your normal draw will be \"Royal Rebel\u0027s Heavy Metal\" from your Deck. You cannot activate this Skill during your next turn.",
@@ -478,7 +492,7 @@
 		]
 	},
 	{
-		"id": 37,
+		"id": 38,
 		"name": "Hell-Tuning Invasion",
 		"condition": "This Skill can be used if the only monsters with 1400 or more ATK in your Deck are LIGHT Attribute Fiend Type.",
 		"requirement": "Send 1 card from your hand to your Graveyard.",
@@ -490,7 +504,7 @@
 		"mentionedCards": []
 	},
 	{
-		"id": 38,
+		"id": 39,
 		"name": "Hysteric Force",
 		"condition": "This Skill can be used if the only monsters with 1400 or more ATK in your Deck are WIND Attribute.",
 		"requirement": "None",
@@ -502,7 +516,7 @@
 		]
 	},
 	{
-		"id": 39,
+		"id": 40,
 		"name": "Join the Battle of All Battles!",
 		"condition": "This Skill can only be used if your Deck contains at most 6 non-Cyberse Type monsters and the only Level 5 or higher monsters in your Deck are Level 6, 7, and 10 Cyberse Type monsters.",
 		"requirement": "If you do not control any monsters, reveal 1 \"Sigurstate Sol\" or 1 \"Belsectacle Mani\" in your hand.",
@@ -517,7 +531,7 @@
 		]
 	},
 	{
-		"id": 40,
+		"id": 41,
 		"name": "LP Gain",
 		"requirement": "Can be activated if your LP is at least 2000 lower than your opponent\u0027s (once per Duel).",
 		"effect": "Gain 1000 LP.",
@@ -525,7 +539,7 @@
 		"mentionedCards": []
 	},
 	{
-		"id": 41,
+		"id": 42,
 		"name": "Legend Draw",
 		"requirement": "Can be activated before your normal draw on turn 4 onward, if your opponent has a face-up Level 7 or higher monster and you have no monsters on your field (once per Duel).",
 		"effect": "One of the cards from your normal draw will be a Legend Monster.",
@@ -533,7 +547,7 @@
 		"mentionedCards": []
 	},
 	{
-		"id": 42,
+		"id": 43,
 		"name": "Lightning Shift",
 		"condition": "This Skill can be used if the only monsters with 1400 or more ATK in your Deck are Spellcaster Type or Winged Beast Type.",
 		"requirement": "Can be activated during the turn you have Normal or Special Summoned a Level 7 or higher monster.",
@@ -547,7 +561,7 @@
 		]
 	},
 	{
-		"id": 43,
+		"id": 44,
 		"name": "Lightning Trigger",
 		"condition": "This Skill can be used if the only monsters (except Level 4 monsters) in your Deck are Thunder Type.",
 		"requirement": "During the turn you Normal or Special Summoned a Level 7 or higher monster with 1600 or less DEF face-up.",
@@ -556,7 +570,7 @@
 		"mentionedCards": []
 	},
 	{
-		"id": 44,
+		"id": 45,
 		"name": "Lightray\u0027s Draw",
 		"requirement": "Can be activated before your normal draw on turn 4 onward, if your opponent has a face-up Level 7 or higher monster and you have no monsters on your field (once per Duel).",
 		"effect": "One of the cards from your normal draw will be a random Level 5 or 6 LIGHT Attribute non-Legend Monster in your Deck.",
@@ -569,7 +583,7 @@
 		"mentionedCards": []
 	},
 	{
-		"id": 45,
+		"id": 46,
 		"name": "Magician\u0027s Shuffle",
 		"condition": "This Skill can only be used if all monsters with 2500 or more ATK in your Deck are Spellcaster-Type.",
 		"requirement": "On Turn 2 and onward by revealing 1 DARK Attribute Spellcaster-Type monster with 1700 or more DEF in your hand to your opponent.",
@@ -581,7 +595,7 @@
 		]
 	},
 	{
-		"id": 46,
+		"id": 47,
 		"name": "Maximum Excavator",
 		"condition": "This Skill can be used if all of the monsters in your Deck are Wyrm Type.",
 		"requirement": "None",
@@ -595,7 +609,7 @@
 		]
 	},
 	{
-		"id": 47,
+		"id": 48,
 		"name": "Maximum Hyper Engine",
 		"condition": "This Skill can be used if the only monsters in your Deck are Spellcaster or Warrior Type monsters with 2100 or less ATK, and the Deck contains 8 or more Maximum Monsters.",
 		"requirement": "None",
@@ -607,7 +621,7 @@
 		"mentionedCards": []
 	},
 	{
-		"id": 48,
+		"id": 49,
 		"name": "Maximum Overload",
 		"condition": "This Skill can be used if the only monsters in your Deck are Spellcaster Type or Machine Type monsters with 2100 or less ATK.",
 		"requirement": "Send 1 Maximum Monster from your hand to the Graveyard.",
@@ -619,7 +633,7 @@
 		"mentionedCards": []
 	},
 	{
-		"id": 49,
+		"id": 50,
 		"name": "Maximum Ragnarok",
 		"condition": "This Skill can be used if there are 8 or more Maximum Monsters in your Deck and the only monsters in your Deck are Cyberse Type with 100 or less DEF.",
 		"requirement": "Return 1 card in your hand to the top or bottom of your Deck.",
@@ -631,7 +645,7 @@
 		"mentionedCards": []
 	},
 	{
-		"id": 50,
+		"id": 51,
 		"name": "No Holding Back! Beat of the Superstar",
 		"condition": "This Skill can be used if the only monsters with 1400 or more ATK in your Deck are Psychic Type monsters with 0 DEF.\nAt the beginning of your turn from turn 2 onward, you will no longer be able to resist the urge to become the ultimate Duelist!",
 		"requirement": "On your turn 2 onward during the turn you Summoned a Level 7 monster.",
@@ -643,7 +657,7 @@
 		"mentionedCards": []
 	},
 	{
-		"id": 51,
+		"id": 52,
 		"name": "Noodle Art Boost",
 		"condition": "This Skill can be used if you have at least 6 Pyro Type Normal Monsters with 1300 or less ATK and the only Level 5 or higher monsters in your Deck are either FIRE Attribute monsters with 2400 or less ATK and 0 DEF, or Pyro Type Normal Monsters.",
 		"requirement": "None",
@@ -652,7 +666,7 @@
 		"mentionedCards": []
 	},
 	{
-		"id": 52,
+		"id": 53,
 		"name": "Noodle Art Reboot",
 		"condition": "This Skill can be used if all of the Level 5 or higher monsters in your Deck are FIRE Attribute Pyro Type Effect Monsters with 0 DEF and all Normal Monsters are Pyro Type.",
 		"requirement": "None",
@@ -661,7 +675,7 @@
 		"mentionedCards": []
 	},
 	{
-		"id": 53,
+		"id": 54,
 		"name": "One-Side Reverse Draw",
 		"requirement": "Can be activated before your normal draw if your opponent has a face-down Defense Position monster on their field (once per Duel).",
 		"effect": "One of the cards from from your normal draw will be \"One-Side Reverse\" from your Deck.",
@@ -676,7 +690,7 @@
 		]
 	},
 	{
-		"id": 54,
+		"id": 55,
 		"name": "Power of Determination",
 		"condition": "This Skill can be used if the only monsters with 1400 or more ATK in your Deck are Warrior/Fairy/Winged Beast Type.",
 		"requirement": "None",
@@ -690,7 +704,7 @@
 		]
 	},
 	{
-		"id": 55,
+		"id": 56,
 		"name": "Pride of The Three Cavalteers",
 		"condition": "This Skill can be used if all of the monsters with 1400 ATK or higher in your Deck are \"Constructor Wyrm Buildragon\", \"Shield Boring Kong\", \"Beast Drive Mega Elephant\", and EARTH Attribute Legend Monsters.",
 		"requirement": "During the turn that you have Normal Summoned a Level 8 EARTH Attribute monster.",
@@ -706,7 +720,7 @@
 		]
 	},
 	{
-		"id": 56,
+		"id": 57,
 		"name": "Psychic Drive",
 		"condition": "This Skill can be used if the only monsters with 1400 or more ATK in your Deck are Psychic Type.",
 		"requirement": "Pay 300 LP.",
@@ -720,7 +734,7 @@
 		]
 	},
 	{
-		"id": 57,
+		"id": 58,
 		"name": "Re:D Beat!",
 		"condition": "This Skill can only be used if all of the monsters in your Deck are Psychic monsters, and the Deck contains 1 or less Level 7 or higher non-LIGHT Attribute monster.",
 		"requirement": "Shuffle 1 card from your hand into the Deck, and then you can show your opponent 1 Level 7 LIGHT Attribute monster in your hand or 1 face-up \"CAN - Re:D\" on your field.",
@@ -734,7 +748,7 @@
 		]
 	},
 	{
-		"id": 58,
+		"id": 59,
 		"name": "Re:D Shine!",
 		"condition": "This Skill can be used if all of the monsters with 1400 or more ATK in your Deck are Psychic Type.",
 		"requirement": "From turn 2 onward.",
@@ -749,7 +763,7 @@
 		]
 	},
 	{
-		"id": 59,
+		"id": 60,
 		"name": "Rebel\u0027s Beat",
 		"condition": "This Skill can be used if the only Level 4 or higher monsters in your Deck are Fiend Type.",
 		"requirement": "Can be activated during the turn you have Summoned a Level 6 Normal Monster or \"Archfiend\u0027s Summoning Flute\"",
@@ -763,7 +777,7 @@
 		]
 	},
 	{
-		"id": 60,
+		"id": 61,
 		"name": "RoaRomin Advance",
 		"condition": "This Skill can be used if the only monsters in your Deck are Fiend Type or Psychic Type.",
 		"requirement": "Return 2 monsters (except Level 4 monsters) with different Types from your Graveyard to your Deck.",
@@ -779,7 +793,7 @@
 		]
 	},
 	{
-		"id": 61,
+		"id": 62,
 		"name": "Rocker Deal",
 		"requirement": "Can be activated if you have a face-up Attack Position Level 1 LIGHT Attribute Fiend Type Normal Monster on your field.",
 		"effect": "Return 1 card in your hand to your Deck and draw 1 card. This turn, you can only attack with Fiend Type monsters.",
@@ -790,7 +804,7 @@
 		"mentionedCards": []
 	},
 	{
-		"id": 62,
+		"id": 63,
 		"name": "Rocket Draw",
 		"requirement": "Can be activated before your normal draw, if your opponent has a face-up Level 5 or higher monster and you have no monsters on your field (once per Duel).",
 		"effect": "One of the cards from your normal draw will be a \"Thousand Attack Rocket\".",
@@ -807,7 +821,7 @@
 		]
 	},
 	{
-		"id": 63,
+		"id": 64,
 		"name": "Royal Rebel\u0027s Heavy Drive",
 		"condition": "This Skill can be used if the only monsters with 1400 or more ATK in your Deck are Fiend Type.",
 		"requirement": "None",
@@ -821,7 +835,7 @@
 		]
 	},
 	{
-		"id": 64,
+		"id": 65,
 		"name": "Rush On - Dian Keto",
 		"requirement": "At the beginning of the Duel if you have no Level 6 or higher Effect Monsters in your Deck.",
 		"effect": "Add 1 \"Dian Keto the Boogie Master\" to your Deck.",
@@ -834,7 +848,7 @@
 		]
 	},
 	{
-		"id": 65,
+		"id": 66,
 		"name": "Rush On - Dragias",
 		"requirement": "At the beginning of the Duel if you have no Level 6 or higher Effect Monsters in your Deck.",
 		"effect": "Add 1 \"Multistrike Dragon Dragias\" and 1 \"Dragonic Slayer\" to your Deck.",
@@ -848,7 +862,7 @@
 		]
 	},
 	{
-		"id": 66,
+		"id": 67,
 		"name": "Rush On - Excavator",
 		"requirement": "At the beginning of the Duel, if you have no Maximum Monsters in your Deck.",
 		"effect": "Add 1 \"Wyrm Excavator the Heavy Cavalry Draco [L]\", 1 \"Wyrm Excavator the Heavy Cavalry Draco\", and 1 \"Wyrm Excavator the Heavy Cavalry Draco [R]\" to your Deck.",
@@ -863,7 +877,7 @@
 		]
 	},
 	{
-		"id": 67,
+		"id": 68,
 		"name": "Rush On - Prima Guitarna",
 		"requirement": "At the beginning of the Duel if you have no Level 6 or higher Effect Monsters in your Deck.",
 		"effect": "Add 1 \"Prima Guitarna the Shining Superstar\" and 1 \"Folder Blitz the Infinite Dream\" to your Deck.",
@@ -877,7 +891,7 @@
 		]
 	},
 	{
-		"id": 68,
+		"id": 69,
 		"name": "Rush On - Royal Rebel",
 		"requirement": "At the beginning of the Duel if you have no Level 6 or higher Effect Monsters in your Deck.",
 		"effect": "Add 1 \"Royal Rebel\u0027s Heavy Metal\" and 1 \"Royal Rebel\u0027s Growl\" to your Deck.",
@@ -891,7 +905,7 @@
 		]
 	},
 	{
-		"id": 69,
+		"id": 70,
 		"name": "Rush On - Sevens Road",
 		"requirement": "At the beginning of the Duel if you have no Level 6 or higher Effect Monsters in your Deck.",
 		"effect": "Add 1 \"Sevens Road Magician\" and 1 \"Torna the Windweaver\" to your Deck.",
@@ -905,7 +919,7 @@
 		]
 	},
 	{
-		"id": 70,
+		"id": 71,
 		"name": "Rush On - Yamiruler",
 		"requirement": "At the beginning of the Duel if you have no Level 6 or higher Effect Monsters in your Deck.",
 		"effect": "Add 1 \"Yamiruler the Dark Delayer\" and 1 \"Kimeruler the Dark Raider\" to your Deck.",
@@ -919,7 +933,7 @@
 		]
 	},
 	{
-		"id": 71,
+		"id": 72,
 		"name": "Rush On - Yggdrago",
 		"requirement": "Activated at the beginning of the Duel if you have no Maximum Monsters in your Deck.",
 		"effect": "Add 1 \"Yggdrago the Sky Emperor [L],\" 1 \"Yggdrago the Sky Emperor,\" and 1 \"Yggdrago the Sky Emperor [R]\" to your Deck.",
@@ -934,7 +948,7 @@
 		]
 	},
 	{
-		"id": 72,
+		"id": 73,
 		"name": "Servant of Dawn",
 		"condition": "This Skill can be used if you have at least 5 Normal Monsters with 1500 or more DEF and the only monsters with Level 4 or higher in your Deck have 1200 or more DEF.",
 		"requirement": "You have a face-up Level 6 or higher Normal Monster with 1500 DEF or higher.",
@@ -943,7 +957,7 @@
 		"mentionedCards": []
 	},
 	{
-		"id": 73,
+		"id": 74,
 		"name": "Set - Climax Finale",
 		"requirement": "Can be activated once per Duel.",
 		"effect": "Set 1 \"Climax Finale\" from your Deck or Graveyard in your Spell \u0026 Trap Zone.",
@@ -956,7 +970,7 @@
 		]
 	},
 	{
-		"id": 74,
+		"id": 75,
 		"name": "Set - Mighty Gaze of the Sky Emperor",
 		"requirement": "You have a face-up Level 10 Maximum Monster on your field.",
 		"effect": "Set 1 \"Mighty Gaze of the Sky Emperor\" from your Deck or Graveyard in your Spell \u0026 Trap Zone.",
@@ -971,7 +985,7 @@
 		]
 	},
 	{
-		"id": 75,
+		"id": 76,
 		"name": "Set - Party Party Party",
 		"requirement": "Can be activated once per Duel.",
 		"effect": "Set 1 \"Party Party Party\" from your Deck or Graveyard in your Spell \u0026 Trap Zone.",
@@ -984,7 +998,7 @@
 		]
 	},
 	{
-		"id": 76,
+		"id": 77,
 		"name": "Set - Quantum Hole",
 		"requirement": "Once per Duel.",
 		"effect": "Set 1 \"Quantum Hole\" from your Deck or Graveyard in your Spell \u0026 Trap Zone.",
@@ -997,7 +1011,7 @@
 		]
 	},
 	{
-		"id": 77,
+		"id": 78,
 		"name": "Set - Seal of the Ancients",
 		"requirement": "Can be activated once per Duel.",
 		"effect": "Set 1 \"Seal of the Ancients\" from your Deck or Graveyard in your Spell \u0026 Trap Zone.",
@@ -1012,7 +1026,7 @@
 		]
 	},
 	{
-		"id": 78,
+		"id": 79,
 		"name": "Set - Sparks",
 		"requirement": "Can be activated once per Duel.",
 		"effect": "Set 1 \"Sparks\" from your Deck or Graveyard in your Spell \u0026 Trap Zone.",
@@ -1028,7 +1042,7 @@
 		]
 	},
 	{
-		"id": 79,
+		"id": 80,
 		"name": "Sevens Accel Road",
 		"condition": "This Skill can be used if the only monsters with 1400 or more ATK in your Deck are Spellcaster Type.",
 		"requirement": "None",
@@ -1042,7 +1056,7 @@
 		]
 	},
 	{
-		"id": 80,
+		"id": 81,
 		"name": "Shadow Flower Blizzard",
 		"condition": "This Skill can be used if all of the monsters with 1400 or more ATK in your Deck are Plant Type.",
 		"requirement": "None",
@@ -1053,7 +1067,7 @@
 		]
 	},
 	{
-		"id": 81,
+		"id": 82,
 		"name": "Shining Superstar Draw",
 		"requirement": "Can be activated before your normal draw on turn 4 onward, if you have no monsters on your field.",
 		"effect": "One of the cards from your normal draw will be \"Prima Guitarna the Shining Superstar\" from your Deck. You cannot activate this Skill during your next turn.",
@@ -1066,7 +1080,7 @@
 		]
 	},
 	{
-		"id": 82,
+		"id": 83,
 		"name": "Spectral Squall",
 		"condition": "This Skill can only be used if all of the monsters with 1400 or more ATK in your Deck are Warrior and/or Winged Beast monsters.",
 		"requirement": "From turn 2 onward, during the turn that you have Normal Summoned a Level 6 or higher monster.",
@@ -1078,7 +1092,7 @@
 		"mentionedCards": []
 	},
 	{
-		"id": 83,
+		"id": 84,
 		"name": "Splash Draw",
 		"requirement": "Can be activated before your normal draw on turn 4 onward, if your opponent has a face-up Level 7 or higher monster and you have no monsters on your field (once per Duel).",
 		"effect": "One of the cards from your normal draw will be a random Level 5 or 6 WATER Attribute non-Legend monster in your Deck.",
@@ -1090,7 +1104,7 @@
 		"mentionedCards": []
 	},
 	{
-		"id": 84,
+		"id": 85,
 		"name": "Starter Deal",
 		"requirement": "Can be activated if your opponent has a face-up Level 7 or higher monster on their field, and you have a face-up Attack Position Level 3 Normal Monster with 1000 ATK/400 DEF or a Level 1 Normal Monster with 0 ATK/1400 DEF.",
 		"effect": "Return 1 card from your hand to your Deck and draw 1 card. You cannot activate this Skill during your next turn.",
@@ -1098,7 +1112,7 @@
 		"mentionedCards": []
 	},
 	{
-		"id": 85,
+		"id": 86,
 		"name": "Straynge Forces",
 		"condition": "This Skill can be used if the only Level 4 or higher monsters in your Deck are Spellcaster Type.",
 		"requirement": "None",
@@ -1113,7 +1127,7 @@
 		]
 	},
 	{
-		"id": 86,
+		"id": 87,
 		"name": "Temptest Drive",
 		"condition": "This Skill can be used if the only monsters in your Deck are Spellcaster Type or Beast Type.",
 		"requirement": "None",
@@ -1127,7 +1141,7 @@
 		]
 	},
 	{
-		"id": 87,
+		"id": 88,
 		"name": "The Shine Never Dies!",
 		"condition": "This Skill can be used if the only Effect Monsters with 1700 or more ATK in your Deck are Aqua Type.",
 		"requirement": "Can be activated by returning 1 \"Party Party Party\" or \"Triple Threat Thunder\" in your hand to your Deck.",
@@ -1143,7 +1157,7 @@
 		]
 	},
 	{
-		"id": 88,
+		"id": 89,
 		"name": "Tornado Draw",
 		"requirement": "Can be activated before your normal draw on turn 4 onward, if your opponent has a face-up Level 7 or higher monster and you have no monsters on your field (once per Duel).",
 		"effect": "One of the cards from your normal draw will be a random Level 5 or 6 WIND Attribute non-Legend monster in your Deck.",
@@ -1155,7 +1169,7 @@
 		"mentionedCards": []
 	},
 	{
-		"id": 89,
+		"id": 90,
 		"name": "Tribute Boost",
 		"requirement": "Can be activated on turn 4 onward, pay 1000 LP (once per Duel).",
 		"effect": "1 face-up Level 5 or 6 monster on your field gains 500 ATK until the end of this turn. This turn, that monster can be treated as 2 Tributes for the Tribute Summon of a monster in Attack Position, but you cannot attack directly.",
@@ -1163,7 +1177,7 @@
 		"mentionedCards": []
 	},
 	{
-		"id": 90,
+		"id": 91,
 		"name": "Ultimate Bond",
 		"condition": "This Skill can be used if the only monsters with 1400 or more ATK in your Deck are Spellcaster Type or Machine Type.",
 		"requirement": "Can be activated by revealing a Machine Type monster with 2500 ATK or above in your hand to your opponent from the second turn onwards.",
