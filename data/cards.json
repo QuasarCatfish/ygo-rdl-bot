@@ -1561,7 +1561,8 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Steel Kaleidomirror"
+			"Steel Kaleidomirror",
+			"Transcendence Miragias"
 		]
 	},
 	{
@@ -3386,7 +3387,8 @@
 		"rarity": "N",
 		"cardObtain": [
 			"Sevens New Road",
-			"Selection Box Vol.01"
+			"Selection Box Vol.01",
+			"Transcendence Miragias"
 		]
 	},
 	{
@@ -3824,11 +3826,12 @@
 		"id": 15800,
 		"name": "Illusion Strike Dragon Miragias",
 		"cardType": "EFFECT",
+		"cardStyle": "ORIGINAL",
 		"effectType": "NORMAL",
 		"isLegend": false,
 		"requirement": "Send 1 Level 7 or higher Dragon Type monster from your hand to the Graveyard.",
 		"effect": "Up to 2 face-up Level 7 or lower monsters on your opponent\u0027s field lose 1500 ATK until the end of this turn. This turn, if this card destroyed a monster by battle, it can make a second attack on a monster during that Battle Phase.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 7,
 			"atk": 2500,
@@ -4801,7 +4804,10 @@
 		"isLegend": false,
 		"requirement": "Pay 1000 LP.",
 		"effect": "Send the top 2 cards of your Deck to the Graveyard. Then, if your opponent has 3 monsters on their field, you can send 1 card from the top of your Deck to the Graveyard.",
-		"rarity": "NPC"
+		"rarity": "R",
+		"cardObtain": [
+			"Transcendence Miragias"
+		]
 	},
 	{
 		"id": 16115,
@@ -5878,6 +5884,26 @@
 		]
 	},
 	{
+		"id": 16294,
+		"name": "Dian Keto the Security Master",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 card from your hand to the Graveyard.",
+		"effect": "Look at your opponent\u0027s hand, choose  card, and send it to the Graveyard. If you sent a Level 7 or higher monster to the Graveyard by this effect, gain 1000 LP.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2500,
+			"def": 1000,
+			"attribute": "DARK",
+			"race": "AQUA"
+		},
+		"cardObtain": [
+			"Transcendence Miragias"
+		]
+	},
+	{
 		"id": 16303,
 		"name": "Sevens Road Warlock",
 		"cardType": "EFFECT",
@@ -6007,14 +6033,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "An aggressive mermaid who disciplines those sent to the abyss. Frequent repeaters have sent positive reviews for forgiveness.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 3,
 			"atk": 1200,
 			"def": 0,
 			"attribute": "DARK",
 			"race": "AQUA"
-		}
+		},
+		"cardObtain": [
+			"Transcendence Miragias"
+		]
 	},
 	{
 		"id": 16312,
@@ -6024,14 +6053,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "A female warrior who occupies a prison island as her primary battling grounds. She scolds with sword and shield in hand. Frequent repeaters have sent positive reviews of their awakening.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1400,
 			"def": 0,
 			"attribute": "DARK",
 			"race": "AQUA"
-		}
+		},
+		"cardObtain": [
+			"Transcendence Miragias"
+		]
 	},
 	{
 		"id": 16313,
@@ -6463,14 +6495,17 @@
 		"isLegend": false,
 		"requirement": "Reveal 2 Spell/Trap Cards in your hand to your opponent.",
 		"effect": "This turn, this face-up card can be treated as 2 Tributes for the Tribute Summon of a Winged Beast Type monster in Attack Position.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 3,
 			"atk": 800,
 			"def": 1000,
 			"attribute": "LIGHT",
 			"race": "WINGED_BEAST"
-		}
+		},
+		"cardObtain": [
+			"Transcendence Miragias"
+		]
 	},
 	{
 		"id": 16340,
@@ -6480,14 +6515,17 @@
 		"isLegend": false,
 		"requirement": "If you have a Trap Card in your Graveyard, send the top card of your Deck to the Graveyard.",
 		"effect": "This card gains ATK equal to [the number of Trap Cards in your Graveyard] x 200 until the end of this turn. If you have 5 or more Trap Cards in your Graveyard, inflict 1000 damage to your opponent.",
-		"rarity": "NPC",
+		"rarity": "R",
 		"monsterInfo": {
 			"level": 7,
 			"atk": 2200,
 			"def": 1500,
 			"attribute": "DARK",
 			"race": "WINGED_BEAST"
-		}
+		},
+		"cardObtain": [
+			"Transcendence Miragias"
+		]
 	},
 	{
 		"id": 16341,
@@ -6651,6 +6689,19 @@
 		"rarity": "SR",
 		"cardObtain": [
 			"Steel Kaleidomirror"
+		]
+	},
+	{
+		"id": 16359,
+		"name": "Imprisoned Beautiful Witch",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When your opponent Normal Summons a monster while you have a face-up Level 8 or higher Aqua Type monster on your field.",
+		"effect": "Choose up to 5 monsters in your opponent\u0027s Graveyard and shuffle them into the Deck. If your opponent has a face-up Spellcaster Type monster on their field, you can choose up to 5 additional monsters in their Graveyard and shuffle them into the Deck.",
+		"rarity": "R",
+		"cardObtain": [
+			"Transcendence Miragias"
 		]
 	},
 	{
@@ -6964,7 +7015,8 @@
 			"race": "DINOSAUR"
 		},
 		"cardObtain": [
-			"Steel Kaleidomirror"
+			"Steel Kaleidomirror",
+			"Transcendence Miragias"
 		]
 	},
 	{
@@ -8176,14 +8228,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "An infant Dragon of the four elemental dragons. Protects the land by manipulating the atmosphere at will.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1500,
 			"def": 0,
 			"attribute": "WIND",
 			"race": "DRAGON"
-		}
+		},
+		"cardObtain": [
+			"Transcendence Miragias"
+		]
 	},
 	{
 		"id": 16776,
@@ -8391,14 +8446,17 @@
 		"isLegend": false,
 		"requirement": "A face-up Field Spell Card is on the field during the turn you Normal Summoned this card.",
 		"effect": "Send the top card of your Deck to the Graveyard. If you sent a Wyrm Type Normal Monster to the Graveyard by this effect, you can draw 1 card.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1200,
 			"def": 400,
 			"attribute": "EARTH",
 			"race": "WYRM"
-		}
+		},
+		"cardObtain": [
+			"Asana Mutsuba Duel Reward"
+		]
 	},
 	{
 		"id": 16796,
@@ -8425,14 +8483,17 @@
 		"isLegend": false,
 		"requirement": "During the turn you Normal Summoned this card.",
 		"effect": "Excavate the top card of your Deck and place it on either the top or bottom of your Deck.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 3,
 			"atk": 500,
 			"def": 1000,
 			"attribute": "EARTH",
 			"race": "WYRM"
-		}
+		},
+		"cardObtain": [
+			"Asana Mutsuba Duel Reward"
+		]
 	},
 	{
 		"id": 16798,
@@ -9428,6 +9489,26 @@
 		}
 	},
 	{
+		"id": 17199,
+		"name": "CAN - Melo:D",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Return 1 other face-up Level 5 or higher monster from your field to the hand.",
+		"effect": "Choose 1 face-down card on your opponent\u0027s field and shuffle it into the Deck. If your LP are lower than your opponent\u0027s, you can add 1 Level 1 Psychic Type Normal Monster from your Graveyard to your hand.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2400,
+			"def": 1800,
+			"attribute": "DARK",
+			"race": "PSYCHIC"
+		},
+		"cardObtain": [
+			"Transcendence Miragias"
+		]
+	},
+	{
 		"id": 17202,
 		"name": "Attrashoot Hydron",
 		"cardType": "EFFECT",
@@ -9463,6 +9544,19 @@
 			"attribute": "WATER",
 			"race": "CYBERSE"
 		}
+	},
+	{
+		"id": 17210,
+		"name": "Burst Stream of Destruction",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "You have a face-up \"Blue-Eyes White Dragon\" on your field.",
+		"effect": "Destroy all monsters on your opponent\u0027s field. This turn, you cannot attack with \"Blue-Eyes White Dragon\".",
+		"rarity": "UR",
+		"cardObtain": [
+			"Special Set (Bundle)"
+		]
 	},
 	{
 		"id": 17211,
@@ -9724,14 +9818,17 @@
 		"isLegend": false,
 		"requirement": "Send 3 face-up monsters from your field to the Graveyard.",
 		"effect": "Special Summon 1 Level 7 or lower Spellcaster Type monster from your Graveyard face-up to your field. If you Special Summoned \"Sevens Road Magician\" by this effect, you can Special Summon 1 \"Sevens Road Witch\" from your Graveyard face-up to your field.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1300,
 			"def": 100,
 			"attribute": "DARK",
 			"race": "SPELLCASTER"
-		}
+		},
+		"cardObtain": [
+			"Transcendence Miragias"
+		]
 	},
 	{
 		"id": 17288,
@@ -10391,14 +10488,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "A magician with a flaring passion. A passion that will eventually turn his heart into ash.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1500,
 			"def": 0,
 			"attribute": "FIRE",
 			"race": "SPELLCASTER"
-		}
+		},
+		"cardObtain": [
+			"Transcendence Miragias"
+		]
 	},
 	{
 		"id": 17594,
@@ -10485,14 +10585,17 @@
 		"isLegend": false,
 		"requirement": "During the turn you Normal Summoned this card, place 1 card from your hand on the bottom of the Deck.",
 		"effect": "1 face-up monster on your opponent\u0027s field loses 500 ATK until the end of this turn. Then, you can add 1 Level 7 or higher Aqua Type monster from your Graveyard to your hand.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1200,
 			"def": 0,
 			"attribute": "LIGHT",
 			"race": "AQUA"
-		}
+		},
+		"cardObtain": [
+			"Transcendence Miragias"
+		]
 	},
 	{
 		"id": 17690,
@@ -11777,6 +11880,26 @@
 		}
 	},
 	{
+		"id": 18692,
+		"name": "Dark Magician\u0027s Curtain",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Pay 700 LP.",
+		"effect": "Excavate the top 4 cards of your Deck. You can choose up to 2 excavated \"Dark Magician\" and/or \"Dark Magician Girl\" and add them to your hand. Place the rest on the bottom of your Deck in any order.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 2,
+			"atk": 700,
+			"def": 700,
+			"attribute": "DARK",
+			"race": "SPELLCASTER"
+		},
+		"cardObtain": [
+			"Transcendence Miragias"
+		]
+	},
+	{
 		"id": 18710,
 		"name": "Rogue of Archfiend",
 		"cardType": "EFFECT",
@@ -11834,14 +11957,17 @@
 		"isLegend": false,
 		"requirement": "During the turn you Normal Summoned this card, shuffle 2 monsters with 1000 DEF from your Graveyard into the Deck.",
 		"effect": "Your opponent Sets 1 Spell Card from their Graveyard to their field. Then, you can add 1 Level 5 or higher monster with 1000 DEF from your Graveyard to your hand.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 3,
 			"atk": 800,
 			"def": 1000,
 			"attribute": "DARK",
 			"race": "CYBERSE"
-		}
+		},
+		"cardObtain": [
+			"Transcendence Miragias"
+		]
 	},
 	{
 		"id": 18945,
@@ -11851,10 +11977,32 @@
 		"isLegend": false,
 		"requirement": "During the turn you Tribute Summoned this card in Attack Position.",
 		"effect": "Look at 1 face-down Spell/Trap Card on your opponent\u0027s field. Then, if that card is a Spell Card, you can destroy it.",
-		"rarity": "NPC",
+		"rarity": "R",
 		"monsterInfo": {
 			"level": 5,
 			"atk": 2000,
+			"def": 1000,
+			"attribute": "DARK",
+			"race": "CYBERSE"
+		},
+		"cardObtain": [
+			"Transcendence Miragias"
+		]
+	},
+	{
+		"id": 18947,
+		"name": "Wilhel the Mega Monarch",
+		"cardType": "EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "You can Tribute Summon this card in Attack Position by Tributing 1 face-up Level 5 or higher monster with 1000 DEF.",
+		"requirement": "During the turn you Tribute Summoned this card in Attack Position.",
+		"effect": "Your opponent chooses 1 card on their field, and you destroy it.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2400,
 			"def": 1000,
 			"attribute": "DARK",
 			"race": "CYBERSE"
@@ -11921,6 +12069,28 @@
 		},
 		"cardObtain": [
 			"Selection Box Vol.01"
+		]
+	},
+	{
+		"id": 18998,
+		"name": "Wilhel the Mega Monarch",
+		"cardType": "EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "You can Tribute Summon this card in Attack Position by Tributing 1 face-up Level 5 or higher monster with 1000 DEF.",
+		"requirement": "During the turn you Tribute Summoned this card in Attack Position.",
+		"effect": "Your opponent chooses 1 card on their field, and you destroy it.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2400,
+			"def": 1000,
+			"attribute": "DARK",
+			"race": "CYBERSE"
+		},
+		"cardObtain": [
+			"Transcendence Miragias"
 		]
 	},
 	{
@@ -12060,6 +12230,23 @@
 			"Heavy Metal Scream",
 			"Scorching Flame Burst"
 		]
+	},
+	{
+		"id": 19268,
+		"name": "Gravity Plus Dragon",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 card from your hand to the Graveyard.",
+		"effect": "Choose 1 face-up monster on your field, and it gains ATK equal to [the number of face-up Dragon Type Normal Monsters on your field] x 400 until the end of this turn.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 1600,
+			"def": 1000,
+			"attribute": "EARTH",
+			"race": "DRAGON"
+		}
 	},
 	{
 		"id": 19314,
@@ -12460,6 +12647,27 @@
 		},
 		"cardObtain": [
 			"Heavy Strike Excavator"
+		]
+	},
+	{
+		"id": 20820,
+		"name": "Illusion Strike Dragon Miragias",
+		"cardType": "EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 Level 7 or higher Dragon Type monster from your hand to the Graveyard.",
+		"effect": "Up to 2 face-up Level 7 or lower monsters on your opponent\u0027s field lose 1500 ATK until the end of this turn. This turn, if this card destroyed a monster by battle, it can make a second attack on a monster during that Battle Phase.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2500,
+			"def": 1500,
+			"attribute": "DARK",
+			"race": "DRAGON"
+		},
+		"cardObtain": [
+			"Transcendence Miragias"
 		]
 	}
 ]
