@@ -9838,14 +9838,17 @@
 		"isLegend": false,
 		"requirement": "Send the top card of your Deck to the Graveyard.",
 		"effect": "Your opponent sends the top card of their Deck to the Graveyard. Then, if they sent a Spell/Trap Card to the Graveyard by this effect, you can draw 1 card.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 3,
 			"atk": 500,
 			"def": 900,
 			"attribute": "WATER",
 			"race": "PSYCHIC"
-		}
+		},
+		"cardObtain": [
+			"Card Trader (Featured)"
+		]
 	},
 	{
 		"id": 17290,
@@ -12239,14 +12242,17 @@
 		"isLegend": false,
 		"requirement": "Send 1 card from your hand to the Graveyard.",
 		"effect": "Choose 1 face-up monster on your field, and it gains ATK equal to [the number of face-up Dragon Type Normal Monsters on your field] x 400 until the end of this turn.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 6,
 			"atk": 1600,
 			"def": 1000,
 			"attribute": "EARTH",
 			"race": "DRAGON"
-		}
+		},
+		"cardObtain": [
+			"Tour Guide Bingo Missions"
+		]
 	},
 	{
 		"id": 19314,
