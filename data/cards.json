@@ -9777,6 +9777,26 @@
 		]
 	},
 	{
+		"id": 17284,
+		"name": "Lauan Adventurers",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "Adventurers in search of lands unknown. They used to compete how far they could fly, but became traveling companions before long.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1500,
+			"def": 0,
+			"attribute": "WIND",
+			"race": "PLANT"
+		},
+		"cardObtain": [
+			"Ranked Duels Reward Ticket"
+		]
+	},
+	{
 		"id": 17285,
 		"name": "Germalewe",
 		"cardType": "NORMAL",
