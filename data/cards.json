@@ -8778,7 +8778,7 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "An iron wolf with razor-sharp fangs that can penetrate any armor.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1200,
@@ -10407,6 +10407,23 @@
 		]
 	},
 	{
+		"id": 17521,
+		"name": "Grand Cerberus",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Inflict damage to your opponent equal to [the number of face-up EARTH Attribute Machine Type monster on your opponent\u0027s field] x 300.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2400,
+			"def": 2000,
+			"attribute": "EARTH",
+			"race": "MACHINE"
+		}
+	},
+	{
 		"id": 17531,
 		"name": "Future Mining",
 		"cardType": "SPELL",
@@ -11522,6 +11539,51 @@
 			"attribute": "FIRE",
 			"race": "PYRO"
 		}
+	},
+	{
+		"id": 18353,
+		"name": "Cyber Dragon",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "If only your opponent controls a monster, you can Special Summon this card from your hand face-up to your field.",
+		"requirement": "None",
+		"effect": "None",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 5,
+			"atk": 2100,
+			"def": 1600,
+			"attribute": "LIGHT",
+			"race": "MACHINE"
+		}
+	},
+	{
+		"id": 18355,
+		"name": "Proto-Cyber Dragon",
+		"cardType": "EFFECT",
+		"effectType": "CONTINUOUS",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "This card\u0027s name becomes \"Cyber Dragon\".",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 1100,
+			"def": 600,
+			"attribute": "LIGHT",
+			"race": "MACHINE"
+		}
+	},
+	{
+		"id": 18358,
+		"name": "Cyber Entry",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "You have 3 or more LIGHT Attribute Machine Type monsters in your Graveyard.",
+		"effect": "Special Summon 1 \"Cyber Dragon\" or \"Proto-Cyber Dragon\" from your hand or Graveyard face-up to your field. This turn, you can only attack with LIGHT Attribute Machine Type monsters.",
+		"rarity": "SR"
 	},
 	{
 		"id": 18384,
