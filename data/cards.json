@@ -1428,7 +1428,8 @@
 		"cardObtain": [
 			"Lightspeed Voltcondor",
 			"Sevens New Road",
-			"Scorching Flame Burst"
+			"Scorching Flame Burst",
+			"Cyber Dragon Launch"
 		]
 	},
 	{
@@ -2584,7 +2585,8 @@
 		"rarity": "N",
 		"cardObtain": [
 			"Heavy Metal Scream",
-			"Selection Box Vol.01"
+			"Selection Box Vol.01",
+			"Cyber Dragon Launch"
 		]
 	},
 	{
@@ -4045,7 +4047,8 @@
 		"effect": "1 face-up monster on your opponent\u0027s field loses 600 ATK until the end of this turn.",
 		"rarity": "SR",
 		"cardObtain": [
-			"Raidacross the Lionhearted"
+			"Raidacross the Lionhearted",
+			"Cyber Dragon Launch"
 		]
 	},
 	{
@@ -5047,7 +5050,8 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"Heavy Strike Excavator"
+			"Heavy Strike Excavator",
+			"Cyber Dragon Launch"
 		]
 	},
 	{
@@ -7433,7 +7437,8 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"The Ultimate Ace Breaker"
+			"The Ultimate Ace Breaker",
+			"Cyber Dragon Launch"
 		]
 	},
 	{
@@ -7815,7 +7820,8 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"Steel Kaleidomirror"
+			"Steel Kaleidomirror",
+			"Cyber Dragon Launch"
 		]
 	},
 	{
@@ -7835,7 +7841,8 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"Steel Kaleidomirror"
+			"Steel Kaleidomirror",
+			"Cyber Dragon Launch"
 		]
 	},
 	{
@@ -7930,7 +7937,8 @@
 		"rarity": "SR",
 		"cardObtain": [
 			"Genesis Maximum",
-			"Selection Box Vol.01"
+			"Selection Box Vol.01",
+			"Cyber Dragon Launch"
 		]
 	},
 	{
@@ -7956,7 +7964,8 @@
 		"effect": "Destroy 1 Spell/Trap Card on your opponent\u0027s field.",
 		"rarity": "R",
 		"cardObtain": [
-			"Genesis Maximum"
+			"Genesis Maximum",
+			"Cyber Dragon Launch"
 		]
 	},
 	{
@@ -8059,7 +8068,8 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"The Ultimate Ace Breaker"
+			"The Ultimate Ace Breaker",
+			"Cyber Dragon Launch"
 		]
 	},
 	{
@@ -8079,7 +8089,8 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"The Ultimate Ace Breaker"
+			"The Ultimate Ace Breaker",
+			"Cyber Dragon Launch"
 		]
 	},
 	{
@@ -8785,7 +8796,10 @@
 			"def": 1400,
 			"attribute": "FIRE",
 			"race": "MACHINE"
-		}
+		},
+		"cardObtain": [
+			"Cyber Dragon Launch"
+		]
 	},
 	{
 		"id": 16927,
@@ -10421,7 +10435,10 @@
 			"def": 2000,
 			"attribute": "EARTH",
 			"race": "MACHINE"
-		}
+		},
+		"cardObtain": [
+			"Cyber Dragon Launch"
+		]
 	},
 	{
 		"id": 17531,
@@ -11556,7 +11573,10 @@
 			"def": 1600,
 			"attribute": "LIGHT",
 			"race": "MACHINE"
-		}
+		},
+		"cardObtain": [
+			"Cyber Dragon Launch"
+		]
 	},
 	{
 		"id": 18355,
@@ -11573,7 +11593,10 @@
 			"def": 600,
 			"attribute": "LIGHT",
 			"race": "MACHINE"
-		}
+		},
+		"cardObtain": [
+			"Cyber Dragon Launch"
+		]
 	},
 	{
 		"id": 18358,
@@ -11583,7 +11606,10 @@
 		"isLegend": false,
 		"requirement": "You have 3 or more LIGHT Attribute Machine Type monsters in your Graveyard.",
 		"effect": "Special Summon 1 \"Cyber Dragon\" or \"Proto-Cyber Dragon\" from your hand or Graveyard face-up to your field. This turn, you can only attack with LIGHT Attribute Machine Type monsters.",
-		"rarity": "SR"
+		"rarity": "SR",
+		"cardObtain": [
+			"Cyber Dragon Launch"
+		]
 	},
 	{
 		"id": 18384,
