@@ -717,9 +717,9 @@
 	{
 		"id": 1338,
 		"name": "Ultimate Bond",
-		"condition": "This Skill can be used if the only monsters with 1400 or more ATK in your Deck are Spellcaster Type or Machine Type.",
-		"requirement": "Can be activated by revealing a Machine Type monster with 2500 ATK or above in your hand to your opponent from the second turn onwards.",
-		"effect": "Return 1 card from your hand or your field to the Deck, and add 1 \"Ultimate Flag Beast Aim Eagle\" from your Deck to your hand.",
+		"condition": "This Skill can be used if all of the monsters with 1400 or more ATK in your Deck are Spellcaster Type or Machine Type monsters, and all of the Level 5 or higher Machine Type Effect Monsters in your Deck are LIGHT Attribute monsters.",
+		"requirement": "From turn 2 onward, reveal 1 Machine Type monster with 2500 or more ATK in your hand.",
+		"effect": "Shuffle 1 card from your hand or field into the Deck and add 1 \"Ultimate Flag Beast Aim Eagle\" from your Deck to your hand.",
 		"isArchive": false,
 		"characters": [
 			701
@@ -1028,7 +1028,7 @@
 		"name": "Maximum Excavator",
 		"condition": "This Skill can be used if all of the monsters in your Deck are Wyrm Type.",
 		"requirement": "None",
-		"effect": "Choose 1 face-up monster on your field. This turn, that monster gains 100 ATK, and if there were 10 or less cards in your Deck when you used this Skill, it inflicts piercing battle damage. If you have activated \"Peaks of Blisstopia\" this turn, you can also add 1 Level 3 or 10 monster from your Graveyard to your hand. (You can only add a Maximum Monster once per Duel.)",
+		"effect": "Choose 1 face-up monster on your field. This turn, that monster gains 100 ATK, and if there were 13 or less cards in your Deck when you used this Skill, it inflicts piercing battle damage. If you have activated \"Peaks of Blisstopia\" this turn, you can also add 1 Level 3 or 10 monster from your Graveyard to your hand. (You can only add a Maximum Monster once per Duel.)",
 		"isArchive": false,
 		"characters": [
 			709
@@ -1040,8 +1040,8 @@
 	{
 		"id": 1547,
 		"name": "Pride of The Three Cavalteers",
-		"condition": "This Skill can be used if all of the monsters with 1400 ATK or higher in your Deck are \"Constructor Wyrm Buildragon\", \"Shield Boring Kong\", \"Beast Drive Mega Elephant\", and EARTH Attribute Legend Monsters.",
-		"requirement": "During the turn that you have Normal Summoned a Level 8 EARTH Attribute monster.",
+		"condition": "This Skill can be used if all of the monsters with 1600 or more ATK in your Deck are \"Constructor Wyrm Buildragon\", \"Shield Boring Kong\", \"Beast Drive Mega Elephant\", \"Night Vision the Phantom Pigeon\", and an EARTH Attribute Legend Monster.",
+		"requirement": "During a turn you have Normal Summoned a monster with 1600 or more ATK.",
 		"effect": "Change 1 Attack Position monster on your opponent\u0027s field to face-up Defense Position.",
 		"isArchive": false,
 		"characters": [
@@ -1092,7 +1092,7 @@
 		"name": "Maximum Hyper Engine",
 		"condition": "This Skill can be used if the only monsters in your Deck are Spellcaster or Warrior Type monsters with 2100 or less ATK, and the Deck contains 8 or more Maximum Monsters.",
 		"requirement": "None",
-		"effect": "Choose up to 2 face-up Maximum Monsters with 1500 or less ATK on your field. The chosen monster(s) gain 1000 ATK until the end of your opponent\u0027s next turn. Then, you can place 1 random Maximum Monster from your Deck with a different Level than the chosen monster(s) on the top of your Deck.",
+		"effect": "Choose up to 2 face-up Maximum Monsters with 1500 or less ATK on your field. The chosen monster(s) gain 1200 ATK until the end of your opponent\u0027s next turn. Then, you can place 1 random Maximum Monster from your Deck with a different Level than the chosen monster(s) on the top of your Deck.",
 		"isArchive": false,
 		"characters": [
 			701
@@ -1193,9 +1193,9 @@
 	{
 		"id": 1605,
 		"name": "Cybernetic Combat Customization",
-		"condition": "This Skill can be used if the only monsters in your Deck are Machine Type, and the Deck contains no Level 7 monsters.",
+		"condition": "This Skill can be used if all of the monsters in your Deck are Machine Type, and the Deck contains no Level 7 monsters.",
 		"requirement": "From turn 2 onward.",
-		"effect": "Choose 1 face-up monster on your field with 2100 or 2400 ATK, and it gains 500 ATK until the end of the turn. You can shuffle 1 card from your hand into the Deck, and if you do, add 1 \"Proto-Cyber Dragon\" from your Deck or Graveyard to your hand (once per Duel).",
+		"effect": "Choose 1 face-up monster on your field with 2100 or 2400 ATK, and it gains 500 ATK until the end of the turn. You can shuffle 1 card from your hand into the Deck, and if you do, add 1 \"Proto-Cyber Dragon\" or 1 \"Fusion\" from your Deck or Graveyard to your hand (each card once per Duel).",
 		"isArchive": true,
 		"mentionedCards": [
 			18355
