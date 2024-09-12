@@ -2537,14 +2537,17 @@
 		"isLegend": false,
 		"requirement": "Send the top card of your Deck to the Graveyard.",
 		"effect": "Your opponent excavates the top 5 cards of their Deck. This card gains ATK equal to [the number of excavated monsters] x 100 until the end of this turn. Your opponent places the excavated cards on the bottom of their Deck in any order.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 8,
 			"atk": 2300,
 			"def": 1600,
 			"attribute": "EARTH",
 			"race": "MACHINE"
-		}
+		},
+		"cardObtain": [
+			"Wave Duel Scramble"
+		]
 	},
 	{
 		"id": 15598,
@@ -11129,6 +11132,23 @@
 		"cardObtain": [
 			"Special Set (Bundle)"
 		]
+	},
+	{
+		"id": 17941,
+		"name": "Forkhawk",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you have 3 or more Machine Type monsters on your field, send this face-up card from your field to the Graveyard.",
+		"effect": "Change 1 face-down monster on your opponent\u0027s field to face-up Attack Position.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 400,
+			"def": 900,
+			"attribute": "WIND",
+			"race": "MACHINE"
+		}
 	},
 	{
 		"id": 17942,
