@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Collections;
+import java.util.Comparator;
 import java.util.List;
 import java.util.StringJoiner;
 import java.util.TreeMap;
@@ -41,6 +42,45 @@ public class RushCard {
 	public static Collection<RushCard> values() {
 		return Collections.unmodifiableCollection(MAPPED_CARDS.values());
 	}
+	
+	public static Comparator<RushCard> comparator() {
+		return (a, b) -> {
+			if (a == null || b == null) return Boolean.compare(a == null, b == null);
+			
+			// Effect -> Normal -> Spell -> Trap
+			if (a.getCardType().isMonster() != b.getCardType().isMonster()) return a.getCardType().isMonster() ? -1 : 1;
+			if (a.getCardType().isSpell() != b.getCardType().isSpell()) return a.getCardType().isSpell() ? -1 : 1;
+			if (a.getCardType().isMonster() && (a.getCardType() == CardType.NORMAL) != (b.getCardType() == CardType.NORMAL)) return Boolean.compare(a.getCardType() == CardType.NORMAL, b.getCardType() == CardType.NORMAL);
+			
+			// Rarity
+			if (a.getRarity() != b.getRarity()) return -a.getRarity().compareTo(b.getRarity());
+			
+			// Level
+			if (a.getLevel() != b.getLevel()) return -Integer.compare(a.getLevel(), b.getLevel());
+			
+			// Release Date
+			// TODO
+			
+			// Name
+			if (!a.getName().equals(b.getName())) return a.getName().compareTo(b.getName());
+			
+			// ID
+			return Integer.compare(a.getId(), b.getId());
+		};
+	}
+	
+	public static Comparator<RushCard> banlistComparator() {
+		return (a, b) -> {
+			if (a == null || b == null) return Boolean.compare(a == null, b == null);
+			if (a.getRarity() != b.getRarity()) return -a.getRarity().compareTo(b.getRarity());
+			if (a.getCardType().isMonster() != b.getCardType().isMonster()) return a.getCardType().isMonster() ? -1 : 1;
+			if (a.getCardType().isSpell() != b.getCardType().isSpell()) return a.getCardType().isSpell() ? -1 : 1;
+			if (a.getCardType().isMonster() && b.getCardType().isMonster() && a.getCardType() != b.getCardType()) return -a.getCardType().compareTo(b.getCardType());
+			return a.getName().compareTo(b.getName());
+		};
+	}
+	
+	/////////////////////////////////////
 	
 	private int id;
 	private String name;
@@ -192,6 +232,7 @@ public class RushCard {
 			type.add(getRace() == null ? "???" : getRace().toString());
 			if (getCardType() == CardType.MAXIMUM) type.add("Maximum");
 			if (getCardType() == CardType.FUSION) type.add("Fusion");
+			if (getCardType() == CardType.FUSION_EFFECT) type.add("Fusion").add("Effect");
 			if (getCardType() == CardType.NORMAL) type.add("Normal");
 			else type.add("Effect");
 			
@@ -203,6 +244,8 @@ public class RushCard {
 		
 		if (getCardType() == CardType.NORMAL) {
 			eb.addField(EmbedBuilder.ZERO_WIDTH_SPACE, "*" + MarkdownSanitizer.escape(getEffect()) + "*", false);
+		} else if (getCardType() == CardType.FUSION) {
+			if (hasInherentSummonCondition()) eb.addField(EmbedBuilder.ZERO_WIDTH_SPACE, getInherentSummonCondition(), false);
 		} else {
 			if (hasInherentSummonCondition()) eb.addField(EmbedBuilder.ZERO_WIDTH_SPACE, getInherentSummonCondition(), false);
 			eb.addField("[REQUIREMENT]", getRequirement(), false);
@@ -280,7 +323,16 @@ public class RushCard {
 		REPTILE("Reptile", ""),
 		PSYCHIC("Psychic", ""),
 		WYRM("Wyrm", ""),
-		CYBERSE("Cyberse", "");
+		CYBERSE("Cyberse", ""),
+		DIVINE_BEAST("Divine-Beast", ""),
+		ILLUSION("Illusion", ""),
+		CREATOR_GOD("Creator God", ""),
+		CYBORG("Cyborg", ""),
+		MAGICAL_KNIGHT("Magical Knight", ""),
+		HIGH_DRAGON("High Dragon", ""),
+		CELESTIAL_WARRIOR("Celestial Warrior", ""),
+		OMEGA_PSYCHIC("Omega Psychic", ""),
+		GALAXY("Galaxy", "");
 		
 		private String name;
 		private String emoji;

@@ -108,7 +108,7 @@
 			"Lightspeed Voltcondor",
 			"Sevens New Road",
 			"The Ultimate Ace Breaker",
-			"Selection Box Vol.01"
+			"Selection BOX Vol.01"
 		]
 	},
 	{
@@ -130,7 +130,7 @@
 		"cardObtain": [
 			"Lightspeed Voltcondor",
 			"Sevens New Road",
-			"Selection Box Vol.01"
+			"Selection BOX Vol.01"
 		]
 	},
 	{
@@ -154,8 +154,11 @@
 			"Romin Kassidy Starter Deck",
 			"Mimi Imimi Starter Deck",
 			"Roa Kassidy Starter Deck",
+			"Yuhi Ohdo Starter Deck",
 			"Yuga Ohdo Duel Reward",
-			"Gavin Sogetsu Duel Reward"
+			"Gavin Sogetsu Duel Reward",
+			"Asana Mutsuba Duel Reward",
+			"Yudias Velgear Duel Reward"
 		]
 	},
 	{
@@ -178,7 +181,7 @@
 			"Lightspeed Voltcondor",
 			"Sevens New Road",
 			"Raidacross the Lionhearted",
-			"Selection Box Vol.01"
+			"Selection BOX Vol.01"
 		]
 	},
 	{
@@ -222,7 +225,8 @@
 			"Sevens New Road",
 			"Raidacross the Lionhearted",
 			"The Ultimate Ace Breaker",
-			"Selection Box Vol.01"
+			"Selection BOX Vol.01",
+			"Fusion of Revolution"
 		]
 	},
 	{
@@ -245,7 +249,8 @@
 		"effect": "Destroy 1 Spell/Trap Card on your opponent\u0027s field.",
 		"rarity": "UR",
 		"cardObtain": [
-			"Yuga Ohdo Level Up Reward"
+			"Yuga Ohdo Level Up Reward",
+			"Card Trader (Regular)"
 		]
 	},
 	{
@@ -356,7 +361,10 @@
 			"Lucidien \"Luke\" Kallister Starter Deck",
 			"Gavin Sogetsu Starter Deck",
 			"Roa Kassidy Starter Deck",
-			"Nail Saionji Starter Deck"
+			"Nail Saionji Starter Deck",
+			"Yudias Velgear Starter Deck",
+			"Yuhi Ohdo Starter Deck",
+			"Yuo Goha Starter Deck"
 		]
 	},
 	{
@@ -378,7 +386,8 @@
 		"cardObtain": [
 			"Sevens New Road",
 			"Scorching Flame Burst",
-			"Soul with Eyes of Blue"
+			"Soul with Eyes of Blue",
+			"Selection BOX Vol.02"
 		]
 	},
 	{
@@ -400,7 +409,8 @@
 		"cardObtain": [
 			"Sevens New Road",
 			"Scorching Flame Burst",
-			"Soul with Eyes of Blue"
+			"Soul with Eyes of Blue",
+			"Selection BOX Vol.02"
 		]
 	},
 	{
@@ -424,8 +434,11 @@
 			"Romin Kassidy Starter Deck",
 			"Mimi Imimi Starter Deck",
 			"Nail Saionji Starter Deck",
+			"Yuamu Ohdo Starter Deck",
+			"Yuo Goha Starter Deck",
 			"Lucidien \"Luke\" Kallister Duel Reward",
-			"Mimi Imimi Duel Reward"
+			"Mimi Imimi Duel Reward",
+			"Yudias Velgear Duel Reward"
 		]
 	},
 	{
@@ -446,7 +459,8 @@
 		},
 		"cardObtain": [
 			"Sevens New Road",
-			"Scorching Flame Burst"
+			"Scorching Flame Burst",
+			"Selection BOX Vol.02"
 		]
 	},
 	{
@@ -491,7 +505,8 @@
 		"cardObtain": [
 			"Sevens New Road",
 			"Scorching Flame Burst",
-			"Soul with Eyes of Blue"
+			"Soul with Eyes of Blue",
+			"Selection BOX Vol.02"
 		]
 	},
 	{
@@ -518,7 +533,8 @@
 		"rarity": "UR",
 		"cardObtain": [
 			"Lucidien \"Luke\" Kallister Level Up Reward",
-			"Soul with Eyes of Blue"
+			"Soul with Eyes of Blue",
+			"Card Trader (Regular)"
 		]
 	},
 	{
@@ -722,7 +738,8 @@
 		"cardObtain": [
 			"Sevens New Road",
 			"Scorching Flame Burst",
-			"Steel Kaleidomirror"
+			"Steel Kaleidomirror",
+			"Selection BOX Vol.02"
 		]
 	},
 	{
@@ -744,7 +761,8 @@
 		"cardObtain": [
 			"Sevens New Road",
 			"Scorching Flame Burst",
-			"Steel Kaleidomirror"
+			"Steel Kaleidomirror",
+			"Selection BOX Vol.02"
 		]
 	},
 	{
@@ -892,7 +910,8 @@
 			"Gavin Sogetsu Starter Deck",
 			"Romin Kassidy Starter Deck",
 			"Nail Saionji Starter Deck",
-			"Asana Mutsuba Starter Deck"
+			"Asana Mutsuba Starter Deck",
+			"Yudias Velgear Starter Deck"
 		]
 	},
 	{
@@ -999,7 +1018,7 @@
 		"cardObtain": [
 			"Sevens New Road",
 			"Raidacross the Lionhearted",
-			"Selection Box Vol.01"
+			"Selection BOX Vol.01"
 		]
 	},
 	{
@@ -1040,7 +1059,8 @@
 		"effect": "Destroy 1 Spell/Trap Card on your opponent\u0027s field.",
 		"rarity": "SR",
 		"cardObtain": [
-			"Soul with Eyes of Blue"
+			"Soul with Eyes of Blue",
+			"Hero\u0027s Stage"
 		]
 	},
 	{
@@ -1057,7 +1077,8 @@
 			"Raidacross the Lionhearted",
 			"The Ultimate Ace Breaker",
 			"Legend of Dark Magic",
-			"Selection Box Vol.01"
+			"Selection BOX Vol.01",
+			"Galactica Go Rush"
 		]
 	},
 	{
@@ -1115,6 +1136,9 @@
 			"Mimi Imimi Starter Deck",
 			"Roa Kassidy Starter Deck",
 			"Asana Mutsuba Starter Deck",
+			"Yudias Velgear Starter Deck",
+			"Yuhi Ohdo Starter Deck",
+			"Yuo Goha Starter Deck",
 			"Tag Duel Tournament"
 		]
 	},
@@ -1173,7 +1197,8 @@
 		},
 		"cardObtain": [
 			"Genesis Maximum",
-			"Heavy Strike Excavator"
+			"Heavy Strike Excavator",
+			"Selection BOX Vol.02"
 		]
 	},
 	{
@@ -1194,7 +1219,7 @@
 		},
 		"cardObtain": [
 			"Heavy Metal Scream",
-			"Selection Box Vol.01"
+			"Selection BOX Vol.01"
 		]
 	},
 	{
@@ -1218,6 +1243,8 @@
 			"Mimi Imimi Starter Deck",
 			"Roa Kassidy Starter Deck",
 			"Nail Saionji Starter Deck",
+			"Yuhi Ohdo Starter Deck",
+			"Yuamu Ohdo Starter Deck",
 			"Lucidien \"Luke\" Kallister Duel Reward",
 			"Tag Duel Tournament",
 			"GR Festival Special Pack Vol.01",
@@ -1265,6 +1292,8 @@
 			"Lucidien \"Luke\" Kallister Starter Deck",
 			"Gavin Sogetsu Starter Deck",
 			"Roa Kassidy Starter Deck",
+			"Yuamu Ohdo Starter Deck",
+			"Yuo Goha Starter Deck",
 			"Gavin Sogetsu Duel Reward",
 			"Romin Kassidy Duel Reward",
 			"GR Festival Special Pack Vol.01",
@@ -1273,7 +1302,7 @@
 	},
 	{
 		"id": 15221,
-		"name": "Lizard Solider",
+		"name": "Lizard Soldier",
 		"cardType": "NORMAL",
 		"effectType": "NORMAL",
 		"isLegend": false,
@@ -1292,6 +1321,8 @@
 			"Gavin Sogetsu Starter Deck",
 			"Romin Kassidy Starter Deck",
 			"Nail Saionji Starter Deck",
+			"Yudias Velgear Starter Deck",
+			"Yuamu Ohdo Starter Deck",
 			"Roa Kassidy Duel Reward"
 		]
 	},
@@ -1336,8 +1367,12 @@
 			"Gavin Sogetsu Starter Deck",
 			"Mimi Imimi Starter Deck",
 			"Nail Saionji Starter Deck",
+			"Yuamu Ohdo Starter Deck",
+			"Yuo Goha Starter Deck",
 			"Romin Kassidy Duel Reward",
-			"Roa Kassidy Duel Reward"
+			"Roa Kassidy Duel Reward",
+			"Yudias Velgear Duel Reward",
+			"Yuhi Ohdo Duel Reward"
 		]
 	},
 	{
@@ -1413,7 +1448,13 @@
 			"Mimi Imimi Starter Deck",
 			"Roa Kassidy Starter Deck",
 			"Nail Saionji Starter Deck",
-			"Yuga Ohdo Duel Reward"
+			"Yudias Velgear Starter Deck",
+			"Yuhi Ohdo Starter Deck",
+			"Yuamu Ohdo Starter Deck",
+			"Yuo Goha Starter Deck",
+			"Yuga Ohdo Duel Reward",
+			"Asana Mutsuba Duel Reward",
+			"Yudias Velgear Duel Reward"
 		]
 	},
 	{
@@ -1459,8 +1500,12 @@
 			"Roa Kassidy Starter Deck",
 			"Nail Saionji Starter Deck",
 			"Asana Mutsuba Starter Deck",
+			"Yudias Velgear Starter Deck",
+			"Yuhi Ohdo Starter Deck",
+			"Yuo Goha Starter Deck",
 			"Lucidien \"Luke\" Kallister Duel Reward",
-			"Roa Kassidy Duel Reward"
+			"Roa Kassidy Duel Reward",
+			"Yuamu Ohdo Duel Reward"
 		]
 	},
 	{
@@ -1563,7 +1608,8 @@
 		},
 		"cardObtain": [
 			"Steel Kaleidomirror",
-			"Transcendence Miragias"
+			"Transcendence Miragias",
+			"Selection BOX Vol.02"
 		]
 	},
 	{
@@ -1626,7 +1672,7 @@
 		},
 		"cardObtain": [
 			"Sevens New Road",
-			"Selection Box Vol.01"
+			"Selection BOX Vol.01"
 		]
 	},
 	{
@@ -1647,7 +1693,7 @@
 		},
 		"cardObtain": [
 			"Sevens New Road",
-			"Selection Box Vol.01"
+			"Selection BOX Vol.01"
 		]
 	},
 	{
@@ -1672,7 +1718,11 @@
 			"Roa Kassidy Starter Deck",
 			"Nail Saionji Starter Deck",
 			"Asana Mutsuba Starter Deck",
+			"Yudias Velgear Starter Deck",
+			"Yuhi Ohdo Starter Deck",
+			"Yuo Goha Starter Deck",
 			"Roa Kassidy Duel Reward",
+			"Yuamu Ohdo Duel Reward",
 			"GR Festival Special Pack Vol.01",
 			"World Championship 2024 Special Pack (Rush)",
 			"Ranked Duels Reward Ticket"
@@ -1716,7 +1766,7 @@
 		},
 		"cardObtain": [
 			"Sevens New Road",
-			"Selection Box Vol.01"
+			"Selection BOX Vol.01"
 		]
 	},
 	{
@@ -1737,7 +1787,7 @@
 		},
 		"cardObtain": [
 			"Sevens New Road",
-			"Selection Box Vol.01"
+			"Selection BOX Vol.01"
 		]
 	},
 	{
@@ -1879,7 +1929,8 @@
 		"cardObtain": [
 			"Lightspeed Voltcondor",
 			"Sevens New Road",
-			"Scorching Flame Burst"
+			"Scorching Flame Burst",
+			"Selection BOX Vol.02"
 		]
 	},
 	{
@@ -1903,8 +1954,13 @@
 			"Gavin Sogetsu Starter Deck",
 			"Romin Kassidy Starter Deck",
 			"Mimi Imimi Starter Deck",
+			"Yudias Velgear Starter Deck",
+			"Yuamu Ohdo Starter Deck",
+			"Yuo Goha Starter Deck",
 			"Gavin Sogetsu Duel Reward",
-			"Mimi Imimi Duel Reward"
+			"Mimi Imimi Duel Reward",
+			"Asana Mutsuba Duel Reward",
+			"Yuhi Ohdo Duel Reward"
 		]
 	},
 	{
@@ -1925,7 +1981,7 @@
 		},
 		"cardObtain": [
 			"Genesis Maximum",
-			"Selection Box Vol.01"
+			"Selection BOX Vol.01"
 		]
 	},
 	{
@@ -2089,7 +2145,7 @@
 		},
 		"cardObtain": [
 			"Heavy Metal Scream",
-			"Selection Box Vol.01"
+			"Selection BOX Vol.01"
 		]
 	},
 	{
@@ -2370,9 +2426,13 @@
 			"Mimi Imimi Starter Deck",
 			"Roa Kassidy Starter Deck",
 			"Asana Mutsuba Starter Deck",
+			"Yudias Velgear Starter Deck",
+			"Yuhi Ohdo Starter Deck",
+			"Yuamu Ohdo Starter Deck",
 			"Lucidien \"Luke\" Kallister Duel Reward",
 			"Romin Kassidy Duel Reward",
-			"Nail Saionji Duel Reward"
+			"Nail Saionji Duel Reward",
+			"Yuo Goha Duel Reward"
 		]
 	},
 	{
@@ -2396,7 +2456,7 @@
 		"rarity": "N",
 		"cardObtain": [
 			"Heavy Metal Scream",
-			"Selection Box Vol.01"
+			"Selection BOX Vol.01"
 		]
 	},
 	{
@@ -2419,7 +2479,7 @@
 		"effect": "Change that monster to face-down Defense Position.",
 		"rarity": "SR",
 		"cardObtain": [
-			"Selection Box Vol.01"
+			"Selection BOX Vol.01"
 		]
 	},
 	{
@@ -2464,7 +2524,8 @@
 		"cardObtain": [
 			"Heavy Metal Scream",
 			"Legend of Dark Magic",
-			"Selection Box Vol.01"
+			"Selection BOX Vol.01",
+			"Galactica Go Rush"
 		]
 	},
 	{
@@ -2485,6 +2546,20 @@
 		},
 		"cardObtain": [
 			"Scorching Flame Burst"
+		]
+	},
+	{
+		"id": 15583,
+		"name": "Dragon\u0027s Fortitude",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When an opponent\u0027s monster declares an attack.",
+		"effect": "The attacking monster loses ATK equal to [the Level of 1 Dragon Type monster in your Graveyard] x 100 until the end of this turn. Then, shuffle that monster from your Graveyard into the Deck.",
+		"rarity": "R",
+		"cardObtain": [
+			"Fusion of Revolution",
+			"Selection BOX Vol.02"
 		]
 	},
 	{
@@ -2588,7 +2663,7 @@
 		"rarity": "N",
 		"cardObtain": [
 			"Heavy Metal Scream",
-			"Selection Box Vol.01",
+			"Selection BOX Vol.01",
 			"Cyber Dragon Launch"
 		]
 	},
@@ -2727,7 +2802,7 @@
 			"race": "FIEND"
 		},
 		"cardObtain": [
-			"Selection Box Vol.01"
+			"Selection BOX Vol.01"
 		]
 	},
 	{
@@ -2871,7 +2946,9 @@
 		"cardObtain": [
 			"Sevens New Road",
 			"Raidacross the Lionhearted",
-			"Scorching Flame Burst"
+			"Scorching Flame Burst",
+			"Fusion of Revolution",
+			"Hero\u0027s Stage"
 		]
 	},
 	{
@@ -2931,7 +3008,9 @@
 		"effect": "Change 1 Attack Position monster on your opponent\u0027s field to face-up Defense Position.",
 		"rarity": "R",
 		"cardObtain": [
-			"Steel Kaleidomirror"
+			"Steel Kaleidomirror",
+			"Selection BOX Vol.02",
+			"Hero\u0027s Stage"
 		]
 	},
 	{
@@ -3075,7 +3154,7 @@
 		},
 		"cardObtain": [
 			"Heavy Metal Scream",
-			"Selection Box Vol.01"
+			"Selection BOX Vol.01"
 		]
 	},
 	{
@@ -3116,7 +3195,7 @@
 		},
 		"cardObtain": [
 			"Heavy Metal Scream",
-			"Selection Box Vol.01"
+			"Selection BOX Vol.01"
 		]
 	},
 	{
@@ -3162,7 +3241,8 @@
 		"effect": "Return 1 Spell/Trap Card from your opponent\u0027s field to the owner\u0027s hand.",
 		"rarity": "UR",
 		"cardObtain": [
-			"Roa Kassidy Level Up Reward"
+			"Roa Kassidy Level Up Reward",
+			"Card Trader (Regular)"
 		]
 	},
 	{
@@ -3236,7 +3316,7 @@
 		},
 		"cardObtain": [
 			"Sevens New Road",
-			"Selection Box Vol.01"
+			"Selection BOX Vol.01"
 		]
 	},
 	{
@@ -3257,7 +3337,8 @@
 		},
 		"cardObtain": [
 			"Sevens New Road",
-			"Selection Box Vol.01"
+			"Selection BOX Vol.01",
+			"Fusion of Revolution"
 		]
 	},
 	{
@@ -3299,7 +3380,7 @@
 		},
 		"cardObtain": [
 			"Sevens New Road",
-			"Selection Box Vol.01"
+			"Selection BOX Vol.01"
 		]
 	},
 	{
@@ -3320,7 +3401,7 @@
 		},
 		"cardObtain": [
 			"Sevens New Road",
-			"Selection Box Vol.01"
+			"Selection BOX Vol.01"
 		]
 	},
 	{
@@ -3341,7 +3422,8 @@
 		},
 		"cardObtain": [
 			"Sevens New Road",
-			"Steel Kaleidomirror"
+			"Steel Kaleidomirror",
+			"Fusion of Revolution"
 		]
 	},
 	{
@@ -3364,7 +3446,8 @@
 		"effect": "Place 1 Spell/Trap Card from your opponent\u0027s field on top of the owner\u0027s Deck.",
 		"rarity": "UR",
 		"cardObtain": [
-			"Romin Kassidy Level Up Reward"
+			"Romin Kassidy Level Up Reward",
+			"Card Trader (Regular)"
 		]
 	},
 	{
@@ -3392,7 +3475,7 @@
 		"rarity": "N",
 		"cardObtain": [
 			"Sevens New Road",
-			"Selection Box Vol.01",
+			"Selection BOX Vol.01",
 			"Transcendence Miragias"
 		]
 	},
@@ -3565,7 +3648,10 @@
 			"Roa Kassidy Starter Deck",
 			"Nail Saionji Starter Deck",
 			"Asana Mutsuba Starter Deck",
+			"Yuhi Ohdo Starter Deck",
+			"Yuamu Ohdo Starter Deck",
 			"Roa Kassidy Duel Reward",
+			"Yuo Goha Duel Reward",
 			"Duel Links Mission Research",
 			"Tag Duel Tournament",
 			"GR Festival Special Pack Vol.01",
@@ -3593,9 +3679,14 @@
 			"Gavin Sogetsu Starter Deck",
 			"Romin Kassidy Starter Deck",
 			"Mimi Imimi Starter Deck",
+			"Yudias Velgear Starter Deck",
+			"Yuhi Ohdo Starter Deck",
 			"Romin Kassidy Duel Reward",
 			"Mimi Imimi Duel Reward",
 			"Nail Saionji Duel Reward",
+			"Asana Mutsuba Duel Reward",
+			"Yuamu Ohdo Duel Reward",
+			"Yuo Goha Duel Reward",
 			"GR Festival Special Pack Vol.01",
 			"World Championship 2024 Special Pack (Rush)"
 		]
@@ -3621,6 +3712,7 @@
 			"Romin Kassidy Starter Deck",
 			"Mimi Imimi Starter Deck",
 			"Asana Mutsuba Starter Deck",
+			"Yuhi Ohdo Starter Deck",
 			"Romin Kassidy Duel Reward",
 			"Mimi Imimi Duel Reward",
 			"Nail Saionji Duel Reward",
@@ -3647,7 +3739,7 @@
 		"cardObtain": [
 			"Sevens New Road",
 			"Legend of Dark Magic",
-			"Selection Box Vol.01"
+			"Selection BOX Vol.01"
 		]
 	},
 	{
@@ -3684,7 +3776,7 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Selection Box Vol.01"
+			"Selection BOX Vol.01"
 		]
 	},
 	{
@@ -3735,14 +3827,17 @@
 		"isLegend": false,
 		"requirement": "You have 4 or more Dragon Type monsters in your Graveyard during your Main Phase that you Special Summoned this card from your hand or the Graveyard.",
 		"effect": "Draw 1 card.",
-		"rarity": "NPC",
+		"rarity": "R",
 		"monsterInfo": {
 			"level": 3,
 			"atk": 1100,
 			"def": 0,
 			"attribute": "EARTH",
 			"race": "DRAGON"
-		}
+		},
+		"cardObtain": [
+			"Fusion of Revolution"
+		]
 	},
 	{
 		"id": 15796,
@@ -3761,7 +3856,8 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Genesis Maximum"
+			"Genesis Maximum",
+			"Galactica Go Rush"
 		]
 	},
 	{
@@ -3782,7 +3878,8 @@
 		},
 		"cardObtain": [
 			"Heavy Metal Scream",
-			"Scorching Flame Burst"
+			"Scorching Flame Burst",
+			"Selection BOX Vol.02"
 		]
 	},
 	{
@@ -3804,7 +3901,8 @@
 		"cardObtain": [
 			"Heavy Metal Scream",
 			"Scorching Flame Burst",
-			"Soul with Eyes of Blue"
+			"Soul with Eyes of Blue",
+			"Selection BOX Vol.02"
 		]
 	},
 	{
@@ -3824,7 +3922,8 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream"
+			"Heavy Metal Scream",
+			"Selection BOX Vol.02"
 		]
 	},
 	{
@@ -3997,7 +4096,8 @@
 		},
 		"cardObtain": [
 			"Lightspeed Voltcondor",
-			"Sevens New Road"
+			"Sevens New Road",
+			"Selection BOX Vol.02"
 		]
 	},
 	{
@@ -4051,7 +4151,8 @@
 		"rarity": "SR",
 		"cardObtain": [
 			"Raidacross the Lionhearted",
-			"Cyber Dragon Launch"
+			"Cyber Dragon Launch",
+			"Transam Universe"
 		]
 	},
 	{
@@ -4114,7 +4215,8 @@
 		"effect": "The attacking monster loses ATK equal to [the Level of the attacking monster] x 100 until the end of this turn.",
 		"rarity": "R",
 		"cardObtain": [
-			"Genesis Maximum"
+			"Genesis Maximum",
+			"Selection BOX Vol.02"
 		]
 	},
 	{
@@ -4217,6 +4319,7 @@
 		"id": 15904,
 		"name": "Yggdrago the Sky Emperor [L]",
 		"cardType": "MAXIMUM",
+		"cardStyle": "ORIGINAL",
 		"effectType": "NORMAL",
 		"isLegend": false,
 		"requirement": "Maximum Mode: Send the top 3 cards of your Deck to the Graveyard.",
@@ -4231,13 +4334,15 @@
 			"race": "CYBERSE"
 		},
 		"cardObtain": [
-			"Genesis Maximum"
+			"Genesis Maximum",
+			"Selection BOX Vol.02"
 		]
 	},
 	{
 		"id": 15905,
 		"name": "Yggdrago the Sky Emperor",
 		"cardType": "MAXIMUM",
+		"cardStyle": "ORIGINAL",
 		"effectType": "NORMAL",
 		"isLegend": false,
 		"inherentSummonCondition": "You can Maximum Summon this card together with \"Yggdrago the Sky Emperor [L]\" and \"Yggdrago the Sky Emperor [R]\".",
@@ -4260,6 +4365,7 @@
 		"id": 15906,
 		"name": "Yggdrago the Sky Emperor [R]",
 		"cardType": "MAXIMUM",
+		"cardStyle": "ORIGINAL",
 		"effectType": "NORMAL",
 		"isLegend": false,
 		"requirement": "Maximum Mode: Send the top 3 cards of your Deck to the Graveyard.",
@@ -4274,7 +4380,8 @@
 			"race": "CYBERSE"
 		},
 		"cardObtain": [
-			"Genesis Maximum"
+			"Genesis Maximum",
+			"Selection BOX Vol.02"
 		]
 	},
 	{
@@ -4381,7 +4488,21 @@
 		"effect": "1 face-up monster on your field gains ATK equal to [the Level of 1 of the monsters sent to the Graveyard to meet the requirement] x 400 until the end of this turn.",
 		"rarity": "N",
 		"cardObtain": [
-			"Genesis Maximum"
+			"Genesis Maximum",
+			"Selection BOX Vol.02"
+		]
+	},
+	{
+		"id": 15913,
+		"name": "Trap Hole",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": true,
+		"requirement": "When your opponent Normal Summons a monster with 1000 or more ATK.",
+		"effect": "Destroy that monster.",
+		"rarity": "UR",
+		"cardObtain": [
+			"Special Set (Bundle)"
 		]
 	},
 	{
@@ -4394,7 +4515,8 @@
 		"effect": "Draw 2 cards. Then, place 2 cards from your hand on the bottom of your Deck in any order.",
 		"rarity": "N",
 		"cardObtain": [
-			"Genesis Maximum"
+			"Genesis Maximum",
+			"Selection BOX Vol.02"
 		]
 	},
 	{
@@ -4731,7 +4853,8 @@
 			"race": "CYBERSE"
 		},
 		"cardObtain": [
-			"Genesis Maximum"
+			"Genesis Maximum",
+			"Selection BOX Vol.02"
 		]
 	},
 	{
@@ -4765,7 +4888,9 @@
 			"Gavin Sogetsu Starter Deck",
 			"Mimi Imimi Starter Deck",
 			"Roa Kassidy Starter Deck",
-			"Asana Mutsuba Starter Deck"
+			"Asana Mutsuba Starter Deck",
+			"Yudias Velgear Starter Deck",
+			"Yuhi Ohdo Starter Deck"
 		]
 	},
 	{
@@ -4910,8 +5035,11 @@
 			"Roa Kassidy Starter Deck",
 			"Nail Saionji Starter Deck",
 			"Asana Mutsuba Starter Deck",
+			"Yuamu Ohdo Starter Deck",
+			"Yuo Goha Starter Deck",
 			"Yuga Ohdo Duel Reward",
 			"Lucidien \"Luke\" Kallister Duel Reward",
+			"Yuhi Ohdo Duel Reward",
 			"Ranked Duels Reward Ticket"
 		]
 	},
@@ -5201,7 +5329,7 @@
 		},
 		"cardObtain": [
 			"Sevens New Road",
-			"Selection Box Vol.01"
+			"Selection BOX Vol.01"
 		]
 	},
 	{
@@ -5847,7 +5975,8 @@
 			"race": "WINGED_BEAST"
 		},
 		"cardObtain": [
-			"Genesis Maximum"
+			"Genesis Maximum",
+			"Selection BOX Vol.02"
 		]
 	},
 	{
@@ -5887,7 +6016,8 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Steel Kaleidomirror"
+			"Steel Kaleidomirror",
+			"Selection BOX Vol.02"
 		]
 	},
 	{
@@ -6271,14 +6401,17 @@
 		"isLegend": false,
 		"requirement": "Send the top card of your Deck to the Graveyard.",
 		"effect": "1 face-up monster with 2000 or more ATK on your opponent\u0027s field loses 400 ATK until the end of this turn. Then, you can Set 1 \"Dragon\u0027s Fortitude\" from your Graveyard in your Spell \u0026 Trap Zone.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 900,
 			"def": 1100,
 			"attribute": "DARK",
 			"race": "DRAGON"
-		}
+		},
+		"cardObtain": [
+			"Selection BOX Vol.02"
+		]
 	},
 	{
 		"id": 16325,
@@ -6371,7 +6504,8 @@
 			"race": "WINGED_BEAST"
 		},
 		"cardObtain": [
-			"Steel Kaleidomirror"
+			"Steel Kaleidomirror",
+			"Selection BOX Vol.02"
 		]
 	},
 	{
@@ -6551,7 +6685,7 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Selection Box Vol.01"
+			"Selection BOX Vol.01"
 		]
 	},
 	{
@@ -6646,7 +6780,8 @@
 		"effect": "Change the battle position of 1 monster on your opponent\u0027s field (Attack Position becomes face-up Defense Position, Defense Position becomes face-up Attack Position). Then, if you have a face-up Level 10 monster on your field, you can draw 1 card.",
 		"rarity": "SR",
 		"cardObtain": [
-			"Steel Kaleidomirror"
+			"Steel Kaleidomirror",
+			"Selection BOX Vol.02"
 		]
 	},
 	{
@@ -6695,7 +6830,8 @@
 		"effect": "Destroy 1 Spell/Trap Card on your opponent\u0027s field. Then, you can place 1 Level 8 or lower Warrior Type or Winged Beast Type monster from your Graveyard on top of your Deck.",
 		"rarity": "SR",
 		"cardObtain": [
-			"Steel Kaleidomirror"
+			"Steel Kaleidomirror",
+			"Selection BOX Vol.02"
 		]
 	},
 	{
@@ -6742,7 +6878,7 @@
 		"rarity": "SR",
 		"cardObtain": [
 			"Heavy Metal Scream",
-			"Selection Box Vol.01"
+			"Selection BOX Vol.01"
 		]
 	},
 	{
@@ -7106,7 +7242,8 @@
 			"race": "CYBERSE"
 		},
 		"cardObtain": [
-			"Steel Kaleidomirror"
+			"Steel Kaleidomirror",
+			"Selection BOX Vol.02"
 		]
 	},
 	{
@@ -7383,7 +7520,8 @@
 		"effect": "Destroy 1 Spell/Trap Card on your opponent\u0027s field.",
 		"rarity": "SR",
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road",
+			"Hero\u0027s Stage"
 		]
 	},
 	{
@@ -7678,6 +7816,7 @@
 		"id": 16674,
 		"name": "Steel Strike Dragon Metagias",
 		"cardType": "EFFECT",
+		"cardStyle": "ORIGINAL",
 		"effectType": "NORMAL",
 		"isLegend": false,
 		"requirement": "Send 1 Level 7 or higher Dragon Type monster from your hand to the Graveyard.",
@@ -7712,7 +7851,7 @@
 		},
 		"cardObtain": [
 			"Heavy Metal Scream",
-			"Selection Box Vol.01"
+			"Selection BOX Vol.01"
 		]
 	},
 	{
@@ -7882,7 +8021,8 @@
 			"race": "CYBERSE"
 		},
 		"cardObtain": [
-			"Genesis Maximum"
+			"Genesis Maximum",
+			"Selection BOX Vol.02"
 		]
 	},
 	{
@@ -7940,7 +8080,7 @@
 		"rarity": "SR",
 		"cardObtain": [
 			"Genesis Maximum",
-			"Selection Box Vol.01",
+			"Selection BOX Vol.01",
 			"Cyber Dragon Launch"
 		]
 	},
@@ -8208,14 +8348,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "A magician who inhabits a pure and innocent soul. Those clear eyes were said to see all reason, but as time passed, he began to hide them behind a mask.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1500,
 			"def": 0,
 			"attribute": "WATER",
 			"race": "SPELLCASTER"
-		}
+		},
+		"cardObtain": [
+			"Fusion of Revolution"
+		]
 	},
 	{
 		"id": 16774,
@@ -8251,7 +8394,9 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Transcendence Miragias"
+			"Transcendence Miragias",
+			"Galactica Go Rush",
+			"Selection BOX Vol.02"
 		]
 	},
 	{
@@ -8284,7 +8429,9 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Steel Kaleidomirror"
+			"Steel Kaleidomirror",
+			"Fusion of Revolution",
+			"Hero\u0027s Stage"
 		]
 	},
 	{
@@ -8345,7 +8492,7 @@
 		},
 		"cardObtain": [
 			"Heavy Metal Scream",
-			"Selection Box Vol.01"
+			"Selection BOX Vol.01"
 		]
 	},
 	{
@@ -8366,7 +8513,7 @@
 		},
 		"cardObtain": [
 			"Heavy Metal Scream",
-			"Selection Box Vol.01"
+			"Selection BOX Vol.01"
 		]
 	},
 	{
@@ -8570,6 +8717,110 @@
 		]
 	},
 	{
+		"id": 16886,
+		"name": "Metarion Ashurastar",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "MULTICHOICE",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Imaginary Actor\" + \"Sword Dancer\"",
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "⬤ Destroy 1 face-down card on your opponent\u0027s field. ⬤ 1 face-up Cyborg Type monster on your field gains ATK equal to [the total ATK of all face-up Warrior Type monsters on your opponent\u0027s field] until the end of this turn.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 2800,
+			"def": 2500,
+			"attribute": "LIGHT",
+			"race": "CYBORG"
+		},
+		"cardObtain": [
+			"Fusion of Revolution"
+		]
+	},
+	{
+		"id": 16887,
+		"name": "Metarion Vritrastar",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "MULTICHOICE",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Imaginary Actor\" + \"Serpainter\"",
+		"requirement": "None",
+		"effect": "⬤ Choose 1 monster on your opponent\u0027s field and change it to face-up Attack Position or face-down Defense Position. ⬤ Destroy Dragon Type monsters on your opponent\u0027s field up to [the number of face-up Cyborg Type monsters on your field].",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 2800,
+			"def": 2500,
+			"attribute": "LIGHT",
+			"race": "CYBORG"
+		},
+		"cardObtain": [
+			"Fusion of Revolution"
+		]
+	},
+	{
+		"id": 16888,
+		"name": "Metarion Herculestar",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "MULTICHOICE",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Imaginary Actor\" + \"Magic Juggler\"",
+		"requirement": "Place 1 card from your Graveyard on the bottom of the Deck.",
+		"effect": "⬤ Shuffle up to 3 monsters from your opponent\u0027s Graveyard into the Deck. ⬤ Shuffle up to 2 face-up Spellcaster Type monsters on your opponent\u0027s field into the Deck.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 2800,
+			"def": 2500,
+			"attribute": "LIGHT",
+			"race": "CYBORG"
+		},
+		"cardObtain": [
+			"Yuo Goha Level Up Reward"
+		]
+	},
+	{
+		"id": 16889,
+		"name": "Metarion Ladonstar",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "MULTICHOICE",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Imaginary Actor\" + \"Glaciasaurus\"",
+		"requirement": "Send 1 card from your hand to the Graveyard.",
+		"effect": "⬤ Make 1 face-up monster on your opponent\u0027s field loses 1500 ATK/DEF until the end of this turn. ⬤ All face-up Dinosaur Type monsters on your opponent\u0027s field lose 2000 ATK/DEF until the end of this turn.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 2800,
+			"def": 2500,
+			"attribute": "LIGHT",
+			"race": "CYBORG"
+		},
+		"cardObtain": [
+			"Yuo Goha Duel Reward"
+		]
+	},
+	{
+		"id": 16890,
+		"name": "Fire Jester",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you have a face-up Level 5 or higher LIGHT Attribute monster on your field, send the top card of your Deck to the Graveyard.",
+		"effect": "Make 1 face-up Level 8 or lower monster on your opponent\u0027s field lose 500 ATK/DEF until the end of this turn.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 0,
+			"atk": 1000,
+			"def": 500,
+			"attribute": "LIGHT",
+			"race": "PYRO"
+		},
+		"cardObtain": [
+			"Yuo Goha Duel Reward"
+		]
+	},
+	{
 		"id": 16891,
 		"name": "Imaginary Actor",
 		"cardType": "NORMAL",
@@ -8577,14 +8828,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "A mechanical doll that has no emotional expression other than a smile. The emotional response from the audience is its main source of energy.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 1,
 			"atk": 500,
 			"def": 500,
 			"attribute": "LIGHT",
 			"race": "MACHINE"
-		}
+		},
+		"cardObtain": [
+			"Fusion of Revolution"
+		]
 	},
 	{
 		"id": 16892,
@@ -8614,14 +8868,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "A marvelous dragon that lives beneath the clear waters. He is now the popular mascot of a circus.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1400,
 			"def": 500,
 			"attribute": "LIGHT",
 			"race": "DRAGON"
-		}
+		},
+		"cardObtain": [
+			"Fusion of Revolution"
+		]
 	},
 	{
 		"id": 16894,
@@ -8631,14 +8888,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "A skilled swordsmen that had once served a powerful nation. His sword flies through with unrivaled precision as the crowd holds their breath.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1400,
 			"def": 500,
 			"attribute": "LIGHT",
 			"race": "WARRIOR"
-		}
+		},
+		"cardObtain": [
+			"Fusion of Revolution"
+		]
 	},
 	{
 		"id": 16895,
@@ -8663,6 +8923,91 @@
 		]
 	},
 	{
+		"id": 16896,
+		"name": "Imaginary Arc Turbo",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 card from your hand to the Graveyard.",
+		"effect": "Make 1 face-up Level 9 LIGHT Attribute monster or 1 face-up LIGHT Attribute Normal Monster on your field gain 500 ATK until the end of this turn. If you have \"Imaginary Actor\" in your Graveyard, that monster gains an additional 1000 ATK until the end of this turn.",
+		"rarity": "R",
+		"cardObtain": [
+			"Fusion of Revolution"
+		]
+	},
+	{
+		"id": 16897,
+		"name": "Imaginary Arc Tower",
+		"cardType": "FIELD",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "You have a LIGHT Attribute Normal Monster with 500 DEF in your Graveyard.",
+		"effect": "While this card is face-up in the Field Zone, face-up non-LIGHT Attribute monsters on the field lose 300 ATK, and face-up Level 9 LIGHT Attribute monsters on the field cannot be destroyed by Trap Card effects.",
+		"rarity": "NPC"
+	},
+	{
+		"id": 16898,
+		"name": "Imaginary Arc Turbulence",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When your opponent Normal or Special Summons a monster while you have a LIGHT Attribute Normal Monster with 500 DEF in your Graveyard.",
+		"effect": "Change 1 Attack Position Level 8 or higher LIGHT Attribute monster on your field to face-up Defense Position. Then, you can destroy 1 face-up monster on your opponent\u0027s field with the same Type as a Normal Monster in your Graveyard.",
+		"rarity": "NPC"
+	},
+	{
+		"id": 16899,
+		"name": "Imaginary Arc Turnback",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When your Attack Position LIGHT Attribute monster is destroyed by an opponent\u0027s attack.",
+		"effect": "Special Summon 1 Cyborg Type monster or 1 LIGHT Attribute Normal Monster with 500 DEF from your Graveyard face-up to your field.",
+		"rarity": "NPC"
+	},
+	{
+		"id": 16900,
+		"name": "Sevens Paladin",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "MULTICHOICE",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Sevens Road Magician\" + \"Swordsman of Roadstar\"",
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "⬤ This card gains ATK equal to [the number of different Attributes in both players\u0027 Graveyards] x 400 until the end of this turn. ⬤ Shuffle 1 monster from your Graveyard into the Deck. You can draw 1 card.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 2900,
+			"def": 2400,
+			"attribute": "DARK",
+			"race": "MAGICAL_KNIGHT"
+		},
+		"cardObtain": [
+			"Fusion of Revolution"
+		]
+	},
+	{
+		"id": 16902,
+		"name": "Straynge Clowder",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Straynge Cat\" + \"Straynge Cat\"",
+		"requirement": "None",
+		"effect": "Special Summon 1 Spellcaster Type monster from your Graveyard face-up to your field. If you Special Summoned \"Straynge Cat\" by this effect, this card also gains 1400 ATK until the end of this turn.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 200,
+			"def": 2600,
+			"attribute": "EARTH",
+			"race": "SPELLCASTER"
+		},
+		"cardObtain": [
+			"Fusion of Revolution"
+		]
+	},
+	{
 		"id": 16904,
 		"name": "Mr. Alchemy",
 		"cardType": "EFFECT",
@@ -8670,14 +9015,17 @@
 		"isLegend": false,
 		"requirement": "If you have no other monsters on your field, send this face-up card from your field to the Graveyard.",
 		"effect": "Add 1 \"Straynge Cat\" from your Graveyard to your hand. Then, you can draw 1 card. If you drew by this effect, your Level 6 or lower monsters cannot attack this turn.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 1,
 			"atk": 100,
 			"def": 500,
 			"attribute": "WATER",
 			"race": "SPELLCASTER"
-		}
+		},
+		"cardObtain": [
+			"Fusion of Revolution"
+		]
 	},
 	{
 		"id": 16905,
@@ -8687,14 +9035,38 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "A meteoric swordsman with powers to pave the ways for miracles.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 3,
 			"atk": 1200,
 			"def": 500,
 			"attribute": "LIGHT",
 			"race": "WARRIOR"
-		}
+		},
+		"cardObtain": [
+			"Fusion of Revolution"
+		]
+	},
+	{
+		"id": 16906,
+		"name": "Hyperstrike Dragon Dragiastar F",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "MULTICHOICE",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Multistrike Dragon Dragias\" + \"The Dragon\"",
+		"requirement": "If the only monsters in your Graveyard are High Dragon and/or Dragon Type monsters, send the top card of your Deck to the Graveyard.",
+		"effect": "⬤ This turn, this card gains 900 ATK, and it can make up to 2 attacks on monsters. ⬤ This turn, this card can make up to 2 attacks, and it inflicts piercing damage.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 3000,
+			"def": 2000,
+			"attribute": "LIGHT",
+			"race": "HIGH_DRAGON"
+		},
+		"cardObtain": [
+			"Fusion of Revolution"
+		]
 	},
 	{
 		"id": 16909,
@@ -8704,14 +9076,17 @@
 		"isLegend": false,
 		"requirement": "Send 1 Spell/Trap Card from your hand to the Graveyard.",
 		"effect": "Special Summon 1 Level 6 or lower Dragon Type Normal Monster from your Graveyard face-up to your field.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 5,
 			"atk": 500,
 			"def": 1500,
 			"attribute": "LIGHT",
 			"race": "DRAGON"
-		}
+		},
+		"cardObtain": [
+			"Fusion of Revolution"
+		]
 	},
 	{
 		"id": 16910,
@@ -8721,14 +9096,30 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "A dragon of justice that makes you envision a supernova clash! The name is, The Dragon!",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 1,
 			"atk": 0,
 			"def": 0,
 			"attribute": "LIGHT",
 			"race": "DRAGON"
-		}
+		},
+		"cardObtain": [
+			"Fusion of Revolution"
+		]
+	},
+	{
+		"id": 16911,
+		"name": "The Power Up",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Shuffle 3 monsters from your Graveyard into the Deck.",
+		"effect": "Make 1 face-up monster on your field gain 500 ATK/DEF until the end of this turn.",
+		"rarity": "N",
+		"cardObtain": [
+			"Fusion of Revolution"
+		]
 	},
 	{
 		"id": 16912,
@@ -8743,7 +9134,29 @@
 			"Heavy Metal Scream",
 			"Raidacross the Lionhearted",
 			"The Ultimate Ace Breaker",
-			"Legend of Dark Magic"
+			"Legend of Dark Magic",
+			"Hero\u0027s Stage"
+		]
+	},
+	{
+		"id": 16913,
+		"name": "Amusi Howling Performer",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Amusi Performer\" + \"Howlingbird\"",
+		"requirement": "Place 1 \"Amusi Performer\" or \"Howlingbird\" from your Graveyard on the bottom of the Deck.",
+		"effect": "Inflict 800 damage to your opponent.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2500,
+			"def": 1700,
+			"attribute": "FIRE",
+			"race": "PSYCHIC"
+		},
+		"cardObtain": [
+			"Fusion of Revolution"
 		]
 	},
 	{
@@ -8779,9 +9192,34 @@
 			"Roa Kassidy Starter Deck",
 			"Nail Saionji Starter Deck",
 			"Asana Mutsuba Starter Deck",
+			"Yudias Velgear Starter Deck",
+			"Yuhi Ohdo Starter Deck",
 			"Yuga Ohdo Duel Reward",
 			"Gavin Sogetsu Duel Reward",
-			"Mimi Imimi Duel Reward"
+			"Mimi Imimi Duel Reward",
+			"Yuamu Ohdo Duel Reward",
+			"Yuo Goha Duel Reward"
+		]
+	},
+	{
+		"id": 16917,
+		"name": "Crescent Moon Swordmaster",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Masaki the Legendary Samurai\" + \"Hero of the Yeast\"",
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "This turn, this card cannot be destroyed by your opponent\u0027s Trap Card effects.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2600,
+			"def": 2000,
+			"attribute": "EARTH",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"Fusion of Revolution"
 		]
 	},
 	{
@@ -8812,14 +9250,30 @@
 		"isLegend": false,
 		"requirement": "Send 1 Spell/Trap Card from your hand to the Graveyard.",
 		"effect": "1 face-up monster on your opponent\u0027s field loses 300 ATK until the end of this turn. Then, if you have \"Fusion\" in your Graveyard, you can destroy 1 Spell/Trap Card on your opponent\u0027s field.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1000,
 			"def": 1200,
 			"attribute": "EARTH",
 			"race": "WARRIOR"
-		}
+		},
+		"cardObtain": [
+			"Fusion of Revolution"
+		]
+	},
+	{
+		"id": 16929,
+		"name": "Star Restart",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Place 1 card from your hand on the bottom of the Deck.",
+		"effect": "Special Summon 1 Level 5 or lower Normal Monster from your Graveyard face-up to your field. Then, you can add 1 \"Fusion\" from your Graveyard to your hand.",
+		"rarity": "SR",
+		"cardObtain": [
+			"Fusion of Revolution"
+		]
 	},
 	{
 		"id": 16932,
@@ -8845,6 +9299,21 @@
 		"rarity": "NPC"
 	},
 	{
+		"id": 16934,
+		"name": "Fusion",
+		"cardType": "SPELL",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Fusion Summon by sending face-up monsters from your field to the Graveyard as material.",
+		"rarity": "R",
+		"cardObtain": [
+			"Fusion of Revolution",
+			"Hero\u0027s Stage"
+		]
+	},
+	{
 		"id": 16951,
 		"name": "The Star Dragon",
 		"cardType": "EFFECT",
@@ -8852,14 +9321,17 @@
 		"isLegend": false,
 		"requirement": "Send the top card of your Deck to the Graveyard.",
 		"effect": "This card loses 500 ATK until the end of this turn. Then, you can make 1 face-up monster on your opponent\u0027s field lose 1000 ATK until the end of this turn.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 7,
 			"atk": 2500,
 			"def": 1500,
 			"attribute": "LIGHT",
 			"race": "DRAGON"
-		}
+		},
+		"cardObtain": [
+			"Fusion of Revolution"
+		]
 	},
 	{
 		"id": 16953,
@@ -8887,6 +9359,20 @@
 		"requirement": "When an opponent\u0027s monster declares an attack.",
 		"effect": "Destroy all Attack Position monsters on your opponent\u0027s field.",
 		"rarity": "NPC"
+	},
+	{
+		"id": 16955,
+		"name": "Fusion",
+		"cardType": "SPELL",
+		"cardStyle": "ALT_ART",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Fusion Summon by sending face-up monsters from your field to the Graveyard as material.",
+		"rarity": "R",
+		"cardObtain": [
+			"Code-Entry Campaign"
+		]
 	},
 	{
 		"id": 16957,
@@ -8925,7 +9411,7 @@
 			"Lightspeed Voltcondor",
 			"Sevens New Road",
 			"Scorching Flame Burst",
-			"Selection Box Vol.01"
+			"Selection BOX Vol.01"
 		]
 	},
 	{
@@ -8947,7 +9433,7 @@
 		"cardObtain": [
 			"Heavy Metal Scream",
 			"Legend of Dark Magic",
-			"Selection Box Vol.01"
+			"Selection BOX Vol.01"
 		]
 	},
 	{
@@ -8971,8 +9457,10 @@
 			"Gavin Sogetsu Starter Deck",
 			"Roa Kassidy Starter Deck",
 			"Asana Mutsuba Starter Deck",
+			"Yudias Velgear Starter Deck",
 			"Gavin Sogetsu Duel Reward",
 			"Nail Saionji Duel Reward",
+			"Yuo Goha Duel Reward",
 			"Tag Duel Tournament"
 		]
 	},
@@ -9124,14 +9612,17 @@
 		"isLegend": false,
 		"requirement": "You Normal Summoned this card this turn and your opponent has a face-up Level 7 or higher monster on their field.",
 		"effect": "Special Summon 1 Level 3 Normal Monster from your Graveyard face-up to your field.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 3,
 			"atk": 1000,
 			"def": 0,
 			"attribute": "DARK",
 			"race": "ZOMBIE"
-		}
+		},
+		"cardObtain": [
+			"Fusion of Revolution"
+		]
 	},
 	{
 		"id": 16978,
@@ -9218,7 +9709,8 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream"
+			"Heavy Metal Scream",
+			"Hero\u0027s Stage"
 		]
 	},
 	{
@@ -9488,6 +9980,19 @@
 		"rarity": "NPC"
 	},
 	{
+		"id": 17029,
+		"name": "Spiral Geyser",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When your opponent Normal Summons or Sets a monster.",
+		"effect": "Inflict 400 damage to your opponent. This turn, your opponent cannot use face-down monsters for a Tribute Summon.",
+		"rarity": "R",
+		"cardObtain": [
+			"Fusion of Revolution"
+		]
+	},
+	{
 		"id": 17197,
 		"name": "Ultimate Flag Mech Gold Rush",
 		"cardType": "EFFECT",
@@ -9542,7 +10047,48 @@
 			"race": "CYBERSE"
 		},
 		"cardObtain": [
-			"Genesis Maximum"
+			"Genesis Maximum",
+			"Selection BOX Vol.02"
+		]
+	},
+	{
+		"id": 17205,
+		"name": "Elegant Firebird Harpyia",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Draw 1 card. Then, send 1 card from your hand to the Graveyard.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2500,
+			"def": 1500,
+			"attribute": "FIRE",
+			"race": "WINGED_BEAST"
+		},
+		"cardObtain": [
+			"Selection BOX Vol.02"
+		]
+	},
+	{
+		"id": 17206,
+		"name": "Daigyakutenno Megami",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "You have \"Gyakutenno Megami\" in your Graveyard.",
+		"effect": "Draw 1 card and send the top card of your Deck to the Graveyard. If a monster was sent to the Graveyard by this effect, you can also destroy 2 face-up monsters on your opponent\u0027s field with the same Type as that monster.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2400,
+			"def": 2000,
+			"attribute": "LIGHT",
+			"race": "FAIRY"
+		},
+		"cardObtain": [
+			"Yuo Goha Level Up Reward"
 		]
 	},
 	{
@@ -9561,6 +10107,26 @@
 			"attribute": "WATER",
 			"race": "CYBERSE"
 		}
+	},
+	{
+		"id": 17208,
+		"name": "Ether Finder",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 Spell/Trap Card from your hand to the Graveyard.",
+		"effect": "Make 1 face-up monster on your field gain 300 ATK until the end of this turn. If you have \"Fusion\" in your Graveyard, you can also Special Summon 1 \"Ether Seeker\" from your Graveyard face-up to your field.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1000,
+			"def": 1200,
+			"attribute": "EARTH",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"Fusion of Revolution"
+		]
 	},
 	{
 		"id": 17210,
@@ -9586,6 +10152,17 @@
 		"rarity": "NPC"
 	},
 	{
+		"id": 17212,
+		"name": "Secret Order",
+		"cardType": "SPELL",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Special Summon 1 Level 7 Normal Monster from your hand or Graveyard face-up to your field. This turn, the monster Special Summoned by this effect gains 700 ATK and cannot be destroyed by your opponent\u0027s Trap Card effects.",
+		"rarity": "UR"
+	},
+	{
 		"id": 17215,
 		"name": "Heavenly Bliss",
 		"cardType": "TRAP",
@@ -9595,7 +10172,28 @@
 		"effect": "Change 1 face-up monster on your opponent\u0027s field to face-down Defense Position. If the original Level of the destroyed monster was 10, you can destroy 1 face-down card on your opponent\u0027s field.",
 		"rarity": "SR",
 		"cardObtain": [
-			"Heavy Strike Excavator"
+			"Heavy Strike Excavator",
+			"Selection BOX Vol.02"
+		]
+	},
+	{
+		"id": 17216,
+		"name": "Gyakutenno Megami",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "This fairy uses her mystical power to protect the weak and provide spiritual support.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 1800,
+			"def": 2000,
+			"attribute": "LIGHT",
+			"race": "FAIRY"
+		},
+		"cardObtain": [
+			"Yuo Goha Level Up Reward"
 		]
 	},
 	{
@@ -9652,7 +10250,8 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Genesis Maximum"
+			"Genesis Maximum",
+			"Hero\u0027s Stage"
 		]
 	},
 	{
@@ -9696,7 +10295,10 @@
 			"Lucidien \"Luke\" Kallister Starter Deck",
 			"Gavin Sogetsu Starter Deck",
 			"Asana Mutsuba Starter Deck",
-			"Nail Saionji Duel Reward"
+			"Yuamu Ohdo Starter Deck",
+			"Yuo Goha Starter Deck",
+			"Nail Saionji Duel Reward",
+			"Yuhi Ohdo Duel Reward"
 		]
 	},
 	{
@@ -9716,8 +10318,26 @@
 			"race": "CYBERSE"
 		},
 		"cardObtain": [
-			"Genesis Maximum"
+			"Genesis Maximum",
+			"Selection BOX Vol.02"
 		]
+	},
+	{
+		"id": 17278,
+		"name": "Snake Clown",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "A charming serpent that\u0027s super adorable. It performs a slithery dance to the tune of a flute, turning spectators\u0027 frowns upside down.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 5,
+			"atk": 1700,
+			"def": 500,
+			"attribute": "LIGHT",
+			"race": "REPTILE"
+		}
 	},
 	{
 		"id": 17279,
@@ -10039,6 +10659,45 @@
 		]
 	},
 	{
+		"id": 17315,
+		"name": "Metarion King Cobrastar",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "MULTICHOICE",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Imaginary Actor\" + \"Snake Clown\"",
+		"requirement": "Send 1 card from your hand to the Graveyard.",
+		"effect": "⬤ Draw 2 cards. Send 1 card from your hand to the Graveyard. ⬤ Make up to 3 face-up Reptile Type monsters on your opponent\u0027s field lose 1000 ATK/DEF until the end of this turn. This turn, this card can make up to 2 attacks.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 3000,
+			"def": 2500,
+			"attribute": "LIGHT",
+			"race": "CYBORG"
+		}
+	},
+	{
+		"id": 17320,
+		"name": "Ether F Striker",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Ether Seeker\" + \"Ether Finder\"",
+		"requirement": "Place 1 \"Fusion\" from your Graveyard on either the top or bottom of the Deck.",
+		"effect": "This card gains 600 ATK until the end of this turn. Then, you can place 1 Normal Monster from your Graveyard on top of the Deck.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2400,
+			"def": 2000,
+			"attribute": "DARK",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"Fusion of Revolution"
+		]
+	},
+	{
 		"id": 17321,
 		"name": "Vulcan Ignite Hyperdrive",
 		"cardType": "SPELL",
@@ -10164,7 +10823,29 @@
 			"Romin Kassidy Starter Deck",
 			"Roa Kassidy Starter Deck",
 			"Nail Saionji Starter Deck",
-			"Asana Mutsuba Starter Deck"
+			"Asana Mutsuba Starter Deck",
+			"Yudias Velgear Starter Deck",
+			"Yuamu Ohdo Starter Deck"
+		]
+	},
+	{
+		"id": 17483,
+		"name": "Transam Linac",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "Fight for the Light! Pure Finish!",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1600,
+			"def": 0,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Transam Universe"
 		]
 	},
 	{
@@ -10188,6 +10869,9 @@
 			"Mimi Imimi Starter Deck",
 			"Roa Kassidy Starter Deck",
 			"Asana Mutsuba Starter Deck",
+			"Yuhi Ohdo Starter Deck",
+			"Yuamu Ohdo Starter Deck",
+			"Yuo Goha Starter Deck",
 			"Lucidien \"Luke\" Kallister Duel Reward"
 		]
 	},
@@ -10209,6 +10893,125 @@
 		},
 		"cardObtain": [
 			"Special Set (Bundle)"
+		]
+	},
+	{
+		"id": 17487,
+		"name": "Milky Wave Neo",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "A young galactic warrior birthed from the Milky Way itself. It takes in enormous amounts of energy from the stars as it battles. Gyanahri Du Zuwahi!",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2500,
+			"def": 1000,
+			"attribute": "WIND",
+			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Galactica Go Rush",
+			"Transam Universe"
+		]
+	},
+	{
+		"id": 17488,
+		"name": "Galactica Oblivion",
+		"cardType": "NORMAL",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "Fight for the Light! Good Night!",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2500,
+			"def": 2500,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		}
+	},
+	{
+		"id": 17489,
+		"name": "Wooly Wonderland Ground Mouton",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "The newcomer of the Wooly Wonderland flock. A dyed-in-the-wool slacker.",
+		"rarity": "N",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 0,
+			"def": 1500,
+			"attribute": "EARTH",
+			"race": "BEAST"
+		},
+		"cardObtain": [
+			"Galactica Go Rush"
+		]
+	},
+	{
+		"id": 17490,
+		"name": "Wooly Wonderland Pyro Wool",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "The elder of the Wooly Wonderland flock. It tries to ram through its decisions but the others refuse to be herded.",
+		"rarity": "N",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1400,
+			"def": 800,
+			"attribute": "FIRE",
+			"race": "BEAST"
+		},
+		"cardObtain": [
+			"Galactica Go Rush"
+		]
+	},
+	{
+		"id": 17491,
+		"name": "Wooly Wonderland Night Mutton",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "The most pensive of the Wooly Wonderland flock. Something of a black sheep, it prefers to stick to its own knitting.",
+		"rarity": "N",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1500,
+			"def": 100,
+			"attribute": "DARK",
+			"race": "BEAST"
+		},
+		"cardObtain": [
+			"Galactica Go Rush"
+		]
+	},
+	{
+		"id": 17492,
+		"name": "Princess of the Flock - Miss Mutton",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "Baa-dum, baa-dum, baa-dum, baa-dum, baaaaa-dum! The sheep\u0027s in the meadow, the cow\u0027s in the corn! You can call me \"miss\", but I\u0027m actually Wooly Wonderland royalty. I\u0027m never sheepish about chowing on paper (even if it happens to be an important letter).",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2500,
+			"def": 1600,
+			"attribute": "LIGHT",
+			"race": "BEAST"
+		},
+		"cardObtain": [
+			"Galactica Go Rush"
 		]
 	},
 	{
@@ -10314,6 +11117,108 @@
 		}
 	},
 	{
+		"id": 17501,
+		"name": "Ozone Slayer",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 card from your hand to the Graveyard.",
+		"effect": "Choose 1 face-up Galaxy Type monster on your field. This turn, that monster cannot be destroyed by your opponent\u0027s Trap Card effects.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 1200,
+			"def": 900,
+			"attribute": "WIND",
+			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Galactica Go Rush",
+			"Transam Universe"
+		]
+	},
+	{
+		"id": 17502,
+		"name": "Transam Ephyrai",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If your opponent has a monster on their field, send the top card of your Deck to the Graveyard.",
+		"effect": "Make 1 face-up \"Transam Linac\" on your field gain 1000 ATK until the end of this turn.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1200,
+			"def": 500,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Yudias Velgear Level Up Reward",
+			"Yudias Velgear Duel Reward"
+		]
+	},
+	{
+		"id": 17504,
+		"name": "Great Cosmonarch",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 card from your hand to the Graveyard.",
+		"effect": "This card gains 800 ATK until the end of this turn.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2400,
+			"def": 1700,
+			"attribute": "FIRE",
+			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Card Trader (Featured)"
+		]
+	},
+	{
+		"id": 17505,
+		"name": "Jointech Rex",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During the turn you Normal Summoned this card, shuffle 3 monsters from your Graveyard into the Deck.",
+		"effect": "Destroy 1 card in your opponent\u0027s Spell \u0026 Trap Zone.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2500,
+			"def": 1500,
+			"attribute": "EARTH",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"Galactica Go Rush"
+		]
+	},
+	{
+		"id": 17506,
+		"name": "Wooly Wonderland Planewe",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "You have a face-up Beast Type Normal Monster on your field.",
+		"effect": "Set 1 \"Meet and Greed\" or \"Wooly Wonderland - Graveyard Grudge\" from your Graveyard to your Spell \u0026 Trap Zone. If you have \"Princess of the Flock - Miss Mutton\" face-up on your field, you can also gain 600 LP.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 1100,
+			"def": 200,
+			"attribute": "EARTH",
+			"race": "BEAST"
+		},
+		"cardObtain": [
+			"Galactica Go Rush"
+		]
+	},
+	{
 		"id": 17509,
 		"name": "Princess Ladybug White",
 		"cardType": "EFFECT",
@@ -10349,7 +11254,8 @@
 		"cardObtain": [
 			"Heavy Metal Scream",
 			"Legend of Dark Magic",
-			"Selection Box Vol.01"
+			"Selection BOX Vol.01",
+			"Galactica Go Rush"
 		]
 	},
 	{
@@ -10424,6 +11330,46 @@
 		]
 	},
 	{
+		"id": 17517,
+		"name": "Crusher Drone",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you have another face-up EARTH Attribute Machine Type monster on your field, send the top 2 cards of your Deck to the Graveyard.",
+		"effect": "This card gains 400 ATK until the end of this turn.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1200,
+			"def": 200,
+			"attribute": "EARTH",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"Galactica Go Rush"
+		]
+	},
+	{
+		"id": 17519,
+		"name": "Executie Phermi",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you have a face-up Normal Monster on your field, send the top card of your Deck to the Graveyard.",
+		"effect": "This card gains 500 ATK until the end of this turn.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 1800,
+			"def": 500,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Galactica Go Rush"
+		]
+	},
+	{
 		"id": 17521,
 		"name": "Grand Cerberus",
 		"cardType": "EFFECT",
@@ -10441,6 +11387,32 @@
 		},
 		"cardObtain": [
 			"Cyber Dragon Launch"
+		]
+	},
+	{
+		"id": 17529,
+		"name": "Meteor Charge",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Choose 1 face-up Galaxy Type monster on your field. This turn, that monster inflicts piercing battle damage. If it is a Normal Monster, you can also change the battle position of 1 monster on your opponent\u0027s field (Attack Position becomes face-up Defense Position, Defense Position becomes face-up Attack Position).",
+		"rarity": "SR",
+		"cardObtain": [
+			"Galactica Go Rush"
+		]
+	},
+	{
+		"id": 17530,
+		"name": "Meet and Greed",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 2 cards from your hand to the Graveyard.",
+		"effect": "Choose 1 face-up Beast Type Normal Monster on your field. This turn, that monster can make up to 3 attacks on monsters. If you have \"Princess of the Flock - Miss Mutton\" face-up on your field, you can also make all face-up Effect Monsters on your opponent\u0027s field lose 500 ATK until the end of this turn.",
+		"rarity": "R",
+		"cardObtain": [
+			"Galactica Go Rush"
 		]
 	},
 	{
@@ -10497,6 +11469,46 @@
 		]
 	},
 	{
+		"id": 17540,
+		"name": "Strange Wall",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When an opponent\u0027s monster declares an attack while you have a Galaxy Type monster in your Graveyard.",
+		"effect": "The attacking monster loses 500 ATK until the end of this turn.",
+		"rarity": "N",
+		"cardObtain": [
+			"Galactica Go Rush",
+			"Transam Universe"
+		]
+	},
+	{
+		"id": 17541,
+		"name": "Wooly Wonderland - Graveyard Grudge",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When an opponent\u0027s monster declares an attack targeting your Attack Position Beast Type Normal Monster, send the top 4 cards of your Deck to the Graveyard.",
+		"effect": "The attacked monster loses 2000 ATK until the end of this turn. Then, you can add up to 4 cards sent to the Graveyard to meet the requirement to your hand.",
+		"rarity": "R",
+		"cardObtain": [
+			"Galactica Go Rush"
+		]
+	},
+	{
+		"id": 17543,
+		"name": "Card Restoration",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When an opponent\u0027s monster declares an attack.",
+		"effect": "Draw until you have 5 cards in your hand and reveal your hand. If you have a monster in your hand, also gain LP equal to [the number of monsters in your hand] x 200.",
+		"rarity": "R",
+		"cardObtain": [
+			"Fusion of Revolution"
+		]
+	},
+	{
 		"id": 17555,
 		"name": "Fancy Ladybug Pastel",
 		"cardType": "NORMAL",
@@ -10541,6 +11553,405 @@
 		"rarity": "NPC"
 	},
 	{
+		"id": 17565,
+		"name": "Cosmo Titan",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "An instrument of conquest controlled by 5 rings. It reduces the civilizations in its path to mere dust. Duguyahi Bu Zuwahi!",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2300,
+			"def": 1800,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Yudias Velgear Level Up Reward",
+			"Yudias Velgear Duel Reward"
+		]
+	},
+	{
+		"id": 17566,
+		"name": "Universe Dea",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 card from your hand to the Graveyard.",
+		"effect": "Make 1 face-up monster on your opponent\u0027s field lose 800 ATK until the end of this turn. If you sent a Galaxy Type Normal Monster to the Graveyard to meet the requirement, gain 800 LP.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2200,
+			"def": 2000,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Galactica Go Rush"
+		]
+	},
+	{
+		"id": 17567,
+		"name": "Celestial Ganzel",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "This etherial dragon carries the hopes of many an innocent star. Its attacks draw strength by resonating with the pure of heart. Ungoldo Guwahi!",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 2100,
+			"def": 400,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		}
+	},
+	{
+		"id": 17568,
+		"name": "Silver Seyfert",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "A knight who wanders the cosmos in search of worthy opponents. Quindoragewomai Guindulijimai!",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 2000,
+			"def": 800,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Galactica Go Rush",
+			"Transam Universe"
+		]
+	},
+	{
+		"id": 17569,
+		"name": "Cyclinne",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Shuffle 4 Galaxy Type monsters from your Graveyard into the Deck.",
+		"effect": "Draw 1 card.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 1600,
+			"def": 0,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		}
+	},
+	{
+		"id": 17570,
+		"name": "Galactica Amnesia",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Place 1 card from your hand on the bottom of the Deck.",
+		"effect": "Special Summon 2 Level 6 or lower Galaxy Type Normal Monsters from your Graveyard face-up to your field. This turn, you can only attack with Galaxy Type monsters.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 1600,
+			"def": 1500,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		}
+	},
+	{
+		"id": 17571,
+		"name": "Meteorhino",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "A mysterious creature that has fortified its delicate hide with meteorites to protect itself from cosmic carnivores. Egyahi Du Uvahi!",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 5,
+			"atk": 1700,
+			"def": 800,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Card Trader (Featured)"
+		]
+	},
+	{
+		"id": 17572,
+		"name": "Bright Sentinel",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "A galactic warrior who guards order. It charges at extreme speed to rescue allies from danger, leaving a jet of light in its wake. Migui Gyaran Gonaidewei!",
+		"rarity": "N",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1500,
+			"def": 100,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Galactica Go Rush",
+			"Transam Universe"
+		]
+	},
+	{
+		"id": 17573,
+		"name": "Shadow Sentinel",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "A galactic warrior with no tolerance for villainry. Its strikes cleave apart even the deepest of darkness. Hideunri Va Yamerdei!",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1500,
+			"def": 100,
+			"attribute": "DARK",
+			"race": "GALAXY"
+		}
+	},
+	{
+		"id": 17574,
+		"name": "Vortex Shooter",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "A galactic warrior who attacks by launching saucers. Igyah Du Zuwahi!",
+		"rarity": "N",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1400,
+			"def": 1000,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Galactica Go Rush"
+		]
+	},
+	{
+		"id": 17575,
+		"name": "Galactic Enforcer",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "A space weapon whose structure resembles a spiral galaxy. It attacks with highly maneuverable appendages. Wuhjah!",
+		"rarity": "N",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1300,
+			"def": 1300,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Transam Universe"
+		]
+	},
+	{
+		"id": 17576,
+		"name": "Strange Traveler",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you have a face-up Galaxy Type Normal Monster on your field, send the top card of your Deck to the Graveyard.",
+		"effect": "Make 1 face-up monster on your opponent\u0027s field lose 500 ATK until the end of this turn.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1100,
+			"def": 200,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Galactica Go Rush"
+		]
+	},
+	{
+		"id": 17577,
+		"name": "Orbit Skater",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "This free-wheeling gravity-defier tears across the stars. These days, he can be found weaving amid the crowd of grown-ups on interplanetary street. Izundewmo Idohshowar!",
+		"rarity": "N",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 800,
+			"def": 1400,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Transam Universe"
+		]
+	},
+	{
+		"id": 17578,
+		"name": "Transam Kleine",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "You have no other monsters on your field.",
+		"effect": "Add 1 LIGHT Attribute Galaxy Type Normal Monster from your Graveyard to your hand. This turn, you can only attack with Galaxy Type monsters.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 2,
+			"atk": 500,
+			"def": 500,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Galactica Go Rush"
+		]
+	},
+	{
+		"id": 17579,
+		"name": "Sora Puyo",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "You have 10 or more monsters in your Graveyard.",
+		"effect": "Draw 1 card. Send 1 card from your hand to the Graveyard.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 2,
+			"atk": 1000,
+			"def": 0,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Galactica Go Rush",
+			"Transam Universe"
+		]
+	},
+	{
+		"id": 17580,
+		"name": "Interstellime",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "Slime formed from interstellar gaseous matter. Smells faintly of lime. Iyashgewei!",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 1000,
+			"def": 0,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Yudias Velgear Level Up Reward",
+			"Yudias Velgear Duel Reward"
+		]
+	},
+	{
+		"id": 17581,
+		"name": "Astroeva",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "A cosmic creature who controls an asteroid-like UFO to move through space. Jubidogew Higewmei!",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 900,
+			"def": 100,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		}
+	},
+	{
+		"id": 17582,
+		"name": "Universal Storm",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "You have a face-up Galaxy Type monster on your field.",
+		"effect": "Destroy 1 Spell/Trap Card on your opponent\u0027s field.",
+		"rarity": "UR",
+		"cardObtain": [
+			"Yudias Velgear Level Up Reward",
+			"Yudias Velgear Duel Reward"
+		]
+	},
+	{
+		"id": 17583,
+		"name": "Galactica Force",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Shuffle 3 Galaxy Type monsters from your Graveyard into the Deck.",
+		"effect": "All face-up Galaxy Type Normal Monsters on your field gain ATK equal to [the number of face-up Normal Monsters on the field] x 300 until the end of this turn.",
+		"rarity": "R",
+		"cardObtain": [
+			"Galactica Go Rush",
+			"Transam Universe"
+		]
+	},
+	{
+		"id": 17588,
+		"name": "Coilephant",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "It pings its position to others by emitting electromagnetic waves. Audiences gather from all around to witness its fantastic trunk tricks.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 5,
+			"atk": 1700,
+			"def": 500,
+			"attribute": "EARTH",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"Yuhi Ohdo Level Up Reward",
+			"Yuhi Ohdo Duel Reward"
+		]
+	},
+	{
+		"id": 17589,
+		"name": "Jointech Ace",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "An autonomous robot with a knack for building things. No one yet knows the power embedded in its joints.",
+		"rarity": "N",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1500,
+			"def": 0,
+			"attribute": "EARTH",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"Galactica Go Rush"
+		]
+	},
+	{
 		"id": 17590,
 		"name": "Flare Sorcerer",
 		"cardType": "NORMAL",
@@ -10558,6 +11969,47 @@
 		},
 		"cardObtain": [
 			"Transcendence Miragias"
+		]
+	},
+	{
+		"id": 17592,
+		"name": "Lightning Braver",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Shuffle 3 monsters from your Graveyard into the Deck.",
+		"effect": "Change 1 face-down Defense Position monster on your opponent\u0027s field to face-up Defense Position. Then, you can make all face-up monsters on your opponent\u0027s field lose 800 DEF until the end of this turn.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 1200,
+			"def": 700,
+			"attribute": "LIGHT",
+			"race": "THUNDER"
+		},
+		"cardObtain": [
+			"Selection BOX Vol.02"
+		]
+	},
+	{
+		"id": 17593,
+		"name": "Tamabot",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "Although it hatched without any exact plan, it\u0027s always ready to roll.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 200,
+			"def": 0,
+			"attribute": "EARTH",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"Yuhi Ohdo Level Up Reward",
+			"Yuhi Ohdo Duel Reward"
 		]
 	},
 	{
@@ -10775,12 +12227,13 @@
 			"race": "ZOMBIE"
 		},
 		"cardObtain": [
-			"Evolving Rising Heart"
+			"Evolving Rising Heart",
+			"Selection BOX Vol.02"
 		]
 	},
 	{
 		"id": 17701,
-		"name": "Goulish Gal",
+		"name": "Ghoulish Gal",
 		"cardType": "NORMAL",
 		"effectType": "NORMAL",
 		"isLegend": false,
@@ -10795,7 +12248,8 @@
 			"race": "ZOMBIE"
 		},
 		"cardObtain": [
-			"Evolving Rising Heart"
+			"Evolving Rising Heart",
+			"Selection BOX Vol.02"
 		]
 	},
 	{
@@ -10815,7 +12269,8 @@
 			"race": "ZOMBIE"
 		},
 		"cardObtain": [
-			"Evolving Rising Heart"
+			"Evolving Rising Heart",
+			"Selection BOX Vol.02"
 		]
 	},
 	{
@@ -10835,7 +12290,8 @@
 			"race": "ZOMBIE"
 		},
 		"cardObtain": [
-			"Evolving Rising Heart"
+			"Evolving Rising Heart",
+			"Selection BOX Vol.02"
 		]
 	},
 	{
@@ -10855,7 +12311,8 @@
 			"race": "ZOMBIE"
 		},
 		"cardObtain": [
-			"Evolving Rising Heart"
+			"Evolving Rising Heart",
+			"Selection BOX Vol.02"
 		]
 	},
 	{
@@ -11016,6 +12473,43 @@
 		]
 	},
 	{
+		"id": 17865,
+		"name": "Blue-Fang Burst Dragon",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "Destroy all face-up monsters with 1500 or less ATK on your opponent\u0027s field. Then, this card gains ATK equal to [the number of monsters destroyed by this effect] x 300 until the end of this turn.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2500,
+			"def": 1500,
+			"attribute": "LIGHT",
+			"race": "DRAGON"
+		},
+		"cardObtain": [
+			"Galactica Go Rush"
+		]
+	},
+	{
+		"id": 17871,
+		"name": "Star Trancer",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send this face-up card from your field to the Graveyard.",
+		"effect": "Special Summon 1 Galaxy Type monster from your hand, face-up to your field. If you Special Summoned a Level 8 monster by this effect, this turn, it gains 400 ATK and inflicts piercing battle damage.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 1700,
+			"def": 1200,
+			"attribute": "DARK",
+			"race": "GALAXY"
+		}
+	},
+	{
 		"id": 17881,
 		"name": "Beast Gear Sage Roller Stag",
 		"cardType": "EFFECT",
@@ -11134,6 +12628,100 @@
 		]
 	},
 	{
+		"id": 17931,
+		"name": "Transam Jelai",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you have a face-up monster with 1600 or more ATK on your field, send the top card of your Deck to the Graveyard.",
+		"effect": "Choose 1 face-up Level 4 LIGHT Attribute Galaxy Type monster on the field. This turn, that monster can make up to 2 attacks on monsters.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1000,
+			"def": 500,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		}
+	},
+	{
+		"id": 17932,
+		"name": "Galactica Jamaisvu",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you have no other monsters on your field during the turn you Normal Summoned this card, shuffle 2 Spell Cards from your Graveyard into the Deck.",
+		"effect": "Draw 1 card.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 2,
+			"atk": 0,
+			"def": 1200,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		}
+	},
+	{
+		"id": 17937,
+		"name": "Jointech Tosceratops",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "This card is in Attack Position.",
+		"effect": "Toss a coin. Heads: This turn, this card gains 1500 ATK and your opponent cannot activate Trap Cards when it declares an attack. Tails: Change this card to face-up Defense Position.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 1900,
+			"def": 2500,
+			"attribute": "EARTH",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"Galactica Go Rush"
+		]
+	},
+	{
+		"id": 17939,
+		"name": "Corktrooper",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "You have no other monsters on your field and your opponent has 2 or less Spell/Trap Cards on their field.",
+		"effect": "Inflict damage to your opponent equal to [the number of Spell/Trap Cards on their field] x 300.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1400,
+			"def": 900,
+			"attribute": "EARTH",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"Galactica Go Rush"
+		]
+	},
+	{
+		"id": 17940,
+		"name": "Carpendra",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "A mass-produced mobile dismantler that\u0027s furnished with a multipurpose set of tools. Its limbs and wings are loosely fixed, so it often loses them.",
+		"rarity": "N",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1400,
+			"def": 0,
+			"attribute": "EARTH",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"Galactica Go Rush"
+		]
+	},
+	{
 		"id": 17941,
 		"name": "Forkhawk",
 		"cardType": "EFFECT",
@@ -11158,14 +12746,59 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "A crafting robot popular among children, who also serves as an amusement park mascot. Turn its central handle and it will transform.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 3,
 			"atk": 1100,
 			"def": 0,
 			"attribute": "EARTH",
 			"race": "MACHINE"
-		}
+		},
+		"cardObtain": [
+			"Galactica Go Rush"
+		]
+	},
+	{
+		"id": 17943,
+		"name": "Nail Hedgehog",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Send the top card of your Deck to the Graveyard. If a monster was sent to the Graveyard by this effect, you can also make 1 face-up monster on your opponent\u0027s field lose 500 ATK until the end of this turn.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 2,
+			"atk": 800,
+			"def": 900,
+			"attribute": "EARTH",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"Yuhi Ohdo Level Up Reward",
+			"Yuhi Ohdo Duel Reward"
+		]
+	},
+	{
+		"id": 17944,
+		"name": "Screwmadillo",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 Machine Type monster from your hand to the Graveyard.",
+		"effect": "Change 1 Level 6 or lower face-up Attack Position monster on your opponent\u0027s field to face-down Defense Position.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 0,
+			"def": 1000,
+			"attribute": "EARTH",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"Yuhi Ohdo Level Up Reward",
+			"Yuhi Ohdo Duel Reward"
+		]
 	},
 	{
 		"id": 17945,
@@ -11181,6 +12814,47 @@
 		]
 	},
 	{
+		"id": 17947,
+		"name": "Dual Coratlus",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "This card gains 400 ATK until the end of this turn. This turn, this card cannot attack directly, but can make up to 2 attacks on monsters.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 5,
+			"atk": 1700,
+			"def": 0,
+			"attribute": "LIGHT",
+			"race": "DRAGON"
+		},
+		"cardObtain": [
+			"Galactica Go Rush"
+		]
+	},
+	{
+		"id": 17948,
+		"name": "Beta Burn Dragon",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "You have another face-up Dragon Type monster on your field during the turn you Normal Summoned this card.",
+		"effect": "Inflict damage to your opponent equal to [the number of monsters on their field] x 100.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1400,
+			"def": 0,
+			"attribute": "LIGHT",
+			"race": "DRAGON"
+		},
+		"cardObtain": [
+			"Yuamu Ohdo Level Up Reward",
+			"Yuamu Ohdo Duel Reward"
+		]
+	},
+	{
 		"id": 17949,
 		"name": "Applizard",
 		"cardType": "NORMAL",
@@ -11188,14 +12862,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "An Dragonic Anthropo reborn from a soul of a Dragon. He exhibits a high level of agility and intelligence, and wields a tablet used as a sword or shield.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1500,
 			"def": 0,
 			"attribute": "LIGHT",
 			"race": "DRAGON"
-		}
+		},
+		"cardObtain": [
+			"Galactica Go Rush"
+		]
 	},
 	{
 		"id": 17951,
@@ -11205,14 +12882,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "An Electro organism dweling inside network circuits. They do not enjoy conflicts and would eat bugs to resolve it.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 2,
 			"atk": 0,
 			"def": 1500,
 			"attribute": "LIGHT",
 			"race": "DRAGON"
-		}
+		},
+		"cardObtain": [
+			"Galactica Go Rush"
+		]
 	},
 	{
 		"id": 17952,
@@ -11222,14 +12902,18 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "A dragon child with hidden potential. It dreams of those goggles that show a vast virtual world.",
-		"rarity": "NPC",
+		"rarity": "R",
 		"monsterInfo": {
 			"level": 1,
 			"atk": 600,
 			"def": 1000,
 			"attribute": "LIGHT",
 			"race": "DRAGON"
-		}
+		},
+		"cardObtain": [
+			"Yuamu Ohdo Level Up Reward",
+			"Yuamu Ohdo Duel Reward"
+		]
 	},
 	{
 		"id": 17953,
@@ -11280,7 +12964,45 @@
 		"cardObtain": [
 			"Sevens New Road",
 			"Legend of Dark Magic",
-			"Scorching Flame Burst"
+			"Scorching Flame Burst",
+			"Hero\u0027s Stage"
+		]
+	},
+	{
+		"id": 17959,
+		"name": "Dr. Red Robe",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "A leading light in the field of combustion research. Fiercely proud of his gloves, which come in handy any time something needs turning to ash.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1500,
+			"def": 0,
+			"attribute": "FIRE",
+			"race": "PYRO"
+		}
+	},
+	{
+		"id": 17978,
+		"name": "Gray Storm Reverie",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 other card from your field to the Graveyard.",
+		"effect": "This card gains 500 ATK until the end of this turn. If no Spell/Trap Cards are on the field, this card can make up to 2 attacks on monsters this turn.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2500,
+			"def": 2000,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Transam Universe"
 		]
 	},
 	{
@@ -11313,6 +13035,26 @@
 		"requirement": "None",
 		"effect": "Destroy all Spell/Trap Cards on the field.",
 		"rarity": "NPC"
+	},
+	{
+		"id": 17981,
+		"name": "Cosmo Predictor",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "You have no other monsters on your field during the turn you Normal Summoned this card.",
+		"effect": "Add 1 Level 8 Galaxy Type monster from your Graveyard to your hand. This turn, this face-up card can be treated as 2 Tributes for the Tribute Summon of \"Gray Storm Reverie\" in Attack Position.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 2,
+			"atk": 600,
+			"def": 0,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Transam Universe"
+		]
 	},
 	{
 		"id": 18233,
@@ -11527,6 +13269,27 @@
 		"rarity": "NPC"
 	},
 	{
+		"id": 18298,
+		"name": "Gaia the Dragon Champion",
+		"cardType": "FUSION",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Gaia The Fierce Knight\" + \"Curse of Dragon\"",
+		"requirement": "Unknown",
+		"effect": "Unknown",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2600,
+			"def": 2100,
+			"attribute": "WIND",
+			"race": "DRAGON"
+		},
+		"cardObtain": [
+			"Card Trader (Featured)"
+		]
+	},
+	{
 		"id": 18300,
 		"name": "Update Wyvern",
 		"cardType": "NORMAL",
@@ -11534,14 +13297,18 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "A flying dragon that can transform itself freely. By logging the enemy\u0027s movement, it performs the most optimal update for itself.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 5,
 			"atk": 1800,
 			"def": 1600,
 			"attribute": "LIGHT",
 			"race": "DRAGON"
-		}
+		},
+		"cardObtain": [
+			"Yuamu Ohdo Level Up Reward",
+			"Yuamu Ohdo Duel Reward"
+		]
 	},
 	{
 		"id": 18304,
@@ -11578,6 +13345,65 @@
 		}
 	},
 	{
+		"id": 18348,
+		"name": "Cyber End Dragon",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "CONTINUOUS",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Cyber Dragon\" + \"Cyber Dragon\" + \"Cyber Dragon\"",
+		"requirement": "None",
+		"effect": "This card inflicts piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference), if it attacks a Defense Position monster.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 10,
+			"atk": 4000,
+			"def": 2800,
+			"attribute": "LIGHT",
+			"race": "MACHINE"
+		}
+	},
+	{
+		"id": 18349,
+		"name": "Cyber Twin Dragon",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "CONTINUOUS",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Cyber Dragon\" + \"Cyber Dragon\"",
+		"requirement": "None",
+		"effect": "This card can attack twice per turn.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2800,
+			"def": 2100,
+			"attribute": "LIGHT",
+			"race": "MACHINE"
+		}
+	},
+	{
+		"id": 18351,
+		"name": "Cyber Assault Dragon",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "You can Tribute Summon this card in Attack Position by Tributing 1 face-up \"Cyber Dragon\".",
+		"requirement": "Place 1 \"Cyber Dragon\" from your Graveyard on top of your Deck.",
+		"effect": "Destroy 1 face-up Level 8 or lower monster with 2400 or higher ATK on your opponent\u0027s field.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2400,
+			"def": 1800,
+			"attribute": "LIGHT",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"Special Set (Bundle)"
+		]
+	},
+	{
 		"id": 18353,
 		"name": "Cyber Dragon",
 		"cardType": "EFFECT",
@@ -11599,6 +13425,23 @@
 		]
 	},
 	{
+		"id": 18354,
+		"name": "Cyber Gryphon",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 card from your hand to the Graveyard.",
+		"effect": "Choose 1 face-up Level 5 or higher Machine Type monster on your field. This turn, that monster cannot be destroyed by your opponent\u0027s Trap Card effects. If that monster is LIGHT Attribute, you can also draw 1 card.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1200,
+			"def": 1300,
+			"attribute": "LIGHT",
+			"race": "MACHINE"
+		}
+	},
+	{
 		"id": 18355,
 		"name": "Proto-Cyber Dragon",
 		"cardType": "EFFECT",
@@ -11617,6 +13460,23 @@
 		"cardObtain": [
 			"Cyber Dragon Launch"
 		]
+	},
+	{
+		"id": 18356,
+		"name": "Cyber Serpent",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "You have another face-up LIGHT Attribute Machine Type monster on your field.",
+		"effect": "Send the top 3 cards of your Deck to the Graveyard. If 2 or more LIGHT Attribute Machine Type monsters were sent to the Graveyard by this effect, you can also draw 1 card.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 0,
+			"def": 0,
+			"attribute": "LIGHT",
+			"race": "MACHINE"
+		}
 	},
 	{
 		"id": 18358,
@@ -11737,6 +13597,47 @@
 		]
 	},
 	{
+		"id": 18446,
+		"name": "Star Traleo",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "You have no other monsters on your field during the turn you Normal Summoned this card.",
+		"effect": "Excavate the top 3 cards of your Deck. Send all excavated Galaxy Type monsters to the Graveyard. Place the other cards on the bottom of your Deck in any order.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 300,
+			"def": 1300,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Transam Universe"
+		]
+	},
+	{
+		"id": 18463,
+		"name": "Cyber Search Dragon",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "You can Tribute Summon this card in Attack Position by Tributing 1 face-up \"Cyber Dragon\".",
+		"requirement": "During your Main Phase that you Normal or Special Summoned this card, place 1 card from your hand on top of your Deck.",
+		"effect": "Special Summon 1 \"Cyber Dragon\" from your Graveyard face-up to your field.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2400,
+			"def": 1600,
+			"attribute": "LIGHT",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"Fusion of Revolution"
+		]
+	},
+	{
 		"id": 18547,
 		"name": "Blue-Eyes White Dragon",
 		"cardType": "NORMAL",
@@ -11758,6 +13659,27 @@
 		]
 	},
 	{
+		"id": 18548,
+		"name": "Galactica Oblivion",
+		"cardType": "NORMAL",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "Fight for the Light! Good Night!",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2500,
+			"def": 2500,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Galactica Go Rush"
+		]
+	},
+	{
 		"id": 18549,
 		"name": "Sevens Road Magician",
 		"cardType": "EFFECT",
@@ -11775,7 +13697,7 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Selection Box Vol.01"
+			"Selection BOX Vol.01"
 		]
 	},
 	{
@@ -11797,7 +13719,7 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"Selection Box Vol.01"
+			"Selection BOX Vol.01"
 		]
 	},
 	{
@@ -11820,7 +13742,7 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"Selection Box Vol.01"
+			"Selection BOX Vol.01"
 		]
 	},
 	{
@@ -11842,7 +13764,71 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"Selection Box Vol.01"
+			"Selection BOX Vol.01"
+		]
+	},
+	{
+		"id": 18556,
+		"name": "Cyber End Dragon",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "CONTINUOUS",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Cyber Dragon\" + \"Cyber Dragon\" + \"Cyber Dragon\"",
+		"requirement": "None",
+		"effect": "This card inflicts piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference), if it attacks a Defense Position monster.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 10,
+			"atk": 4000,
+			"def": 2800,
+			"attribute": "LIGHT",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"Fusion of Revolution"
+		]
+	},
+	{
+		"id": 18557,
+		"name": "Cyber Twin Dragon",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "CONTINUOUS",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Cyber Dragon\" + \"Cyber Dragon\"",
+		"requirement": "None",
+		"effect": "This card can attack twice per turn.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2800,
+			"def": 2100,
+			"attribute": "LIGHT",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"Fusion of Revolution"
+		]
+	},
+	{
+		"id": 18574,
+		"name": "Hacking Dragon",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Special Summon 1 Dragon Type monster from your hand to your opponent\u0027s field in face-up Defense Position. Then, you can return 1 Level 8 or lower Attack Position monster on your opponent\u0027s field to the hand.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2300,
+			"def": 2000,
+			"attribute": "LIGHT",
+			"race": "DRAGON"
+		},
+		"cardObtain": [
+			"Galactica Go Rush"
 		]
 	},
 	{
@@ -11920,6 +13906,23 @@
 		}
 	},
 	{
+		"id": 18600,
+		"name": "Cyber Coatl",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "You have no other monsters on your field.",
+		"effect": "Excavate the top 3 cards of your Deck. You can Special Summon 1 excavated Level 5 Machine Type monster face-up to your field. Place the other cards on the bottom of your Deck in any order.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 500,
+			"def": 1200,
+			"attribute": "LIGHT",
+			"race": "MACHINE"
+		}
+	},
+	{
 		"id": 18609,
 		"name": "Engine Reviver",
 		"cardType": "EFFECT",
@@ -11935,6 +13938,20 @@
 			"attribute": "FIRE",
 			"race": "WARRIOR"
 		}
+	},
+	{
+		"id": 18624,
+		"name": "Stealthagic",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 card from your hand to the Graveyard.",
+		"effect": "Draw 1 card. If you sent a Spell Card to the Graveyard to meet the requirement and your LP are 1000 or lower, draw 1 additional card.",
+		"rarity": "UR",
+		"cardObtain": [
+			"Yuamu Ohdo Level Up Reward",
+			"Yuamu Ohdo Duel Reward"
+		]
 	},
 	{
 		"id": 18635,
@@ -12011,6 +14028,44 @@
 		}
 	},
 	{
+		"id": 18656,
+		"name": "Multistrike Dragon Dragias",
+		"cardType": "EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "This turn, if this card destroyed a monster by battle, it can make a second attack during that Battle Phase.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2500,
+			"def": 1500,
+			"attribute": "LIGHT",
+			"race": "DRAGON"
+		},
+		"cardObtain": [
+			"Selection BOX Vol.02"
+		]
+	},
+	{
+		"id": 18660,
+		"name": "Transam Lika",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 card from your hand to the Graveyard.",
+		"effect": "Choose 1 face-up LIGHT Attribute Galaxy Type monster on your field. This turn, that monster inflicts piercing damage. If you have \"Transam Linac\" face-up on your field, you can change the battle position of 1 face-up monster on your opponent\u0027s field.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1000,
+			"def": 1000,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		}
+	},
+	{
 		"id": 18692,
 		"name": "Dark Magician\u0027s Curtain",
 		"cardType": "EFFECT",
@@ -12028,6 +14083,39 @@
 		},
 		"cardObtain": [
 			"Transcendence Miragias"
+		]
+	},
+	{
+		"id": 18694,
+		"name": "Steel Steed Martin Vainari",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Toss a coin a number of times equal to [the number of face-up monsters on your opponent\u0027s field]. 1/2/3 head(s): This turn, this card can attack twice. 3 heads: This turn, this card also inflicts piercing battle damage.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2400,
+			"def": 1700,
+			"attribute": "EARTH",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"Selection BOX Vol.02"
+		]
+	},
+	{
+		"id": 18700,
+		"name": "Night Before the Big March",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Reveal 1 Level 7 or higher Beast Type monster in your hand.",
+		"effect": "Excavate the top 3 cards of your Deck. You can Special Summon up to 2 excavated Level 4 or lower Beast Type monsters to your field in face-down Defense Position. Send the other cards to the Graveyard.",
+		"rarity": "SR",
+		"cardObtain": [
+			"Galactica Go Rush"
 		]
 	},
 	{
@@ -12079,6 +14167,97 @@
 		"requirement": "None",
 		"effect": "Send the top 3 cards of your Deck to the Graveyard. Then, if you have no monsters on your field, you can add 1 Level 10 monster from your Graveyard to your hand.",
 		"rarity": "NPC"
+	},
+	{
+		"id": 18930,
+		"name": "Earth Sorcerer",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "Although he fled his hometown one fateful day, this sorcerer still harbors unshakable pride in his clan.",
+		"rarity": "N",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1500,
+			"def": 0,
+			"attribute": "EARTH",
+			"race": "SPELLCASTER"
+		},
+		"cardObtain": [
+			"Fusion of Revolution"
+		]
+	},
+	{
+		"id": 18931,
+		"name": "Aero Sorcerer",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "Inspired by the wind, he is devoted to freedom above all else. However, his willful ways will end up leading him down a path that limits his liberty.",
+		"rarity": "N",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1500,
+			"def": 0,
+			"attribute": "WIND",
+			"race": "SPELLCASTER"
+		},
+		"cardObtain": [
+			"Fusion of Revolution"
+		]
+	},
+	{
+		"id": 18932,
+		"name": "Galactica Dejavu",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If your opponent\u0027s LP are 4000 or higher, send this face-up card from your field to the Graveyard.",
+		"effect": "Send the top card of your Deck to the Graveyard. If you sent a Level 4 or lower LIGHT Attribute Galaxy Type Normal Monster to the Graveyard by this effect, you can Special Summon that monster face-up to your field. Inflict damage to your opponent equal to [the original ATK of the monster Special Summoned by this effect].",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 2,
+			"atk": 0,
+			"def": 1200,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		}
+	},
+	{
+		"id": 18933,
+		"name": "Booster Wyvern",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "You have \"Blue-Fang Burst Dragon\" or \"Red Boot Boost Dragon\" face-up on your field during your Main Phase that you Normal or Special Summoned this card.",
+		"effect": "Inflict 600 damage to your opponent.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 300,
+			"def": 300,
+			"attribute": "LIGHT",
+			"race": "DRAGON"
+		}
+	},
+	{
+		"id": 18934,
+		"name": "DBF Rebuildra",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During your Main Phase that you Normal or Special Summoned this card, reveal 1 \"Blue-Fang Burst Dragon\" or \"Red Boot Boost Dragon\" in your hand.",
+		"effect": "Set 1 \"Dragon\u0027s Burst Fusion\" or \"Dragon\u0027s Boost Fusion\" from your Graveyard to your Spell \u0026 Trap Zone.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 2,
+			"atk": 900,
+			"def": 900,
+			"attribute": "LIGHT",
+			"race": "DRAGON"
+		}
 	},
 	{
 		"id": 18943,
@@ -12140,6 +14319,24 @@
 		}
 	},
 	{
+		"id": 18950,
+		"name": "Cyber Processor",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "If you have a face-up Machine Type monster on your field, you can Special Summon this card from your hand face-up to your field.",
+		"requirement": "Send 1 other card from your field to the Graveyard.",
+		"effect": "This turn, this card\u0027s name becomes \"Cyber Dragon\". Then, you can Special Summon 1 \"Cyber Dragon\" from your Graveyard face-up to your field.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 5,
+			"atk": 1500,
+			"def": 1600,
+			"attribute": "LIGHT",
+			"race": "MACHINE"
+		}
+	},
+	{
 		"id": 18958,
 		"name": "Plaster Scout",
 		"cardType": "EFFECT",
@@ -12158,7 +14355,8 @@
 		"cardObtain": [
 			"Raidacross the Lionhearted",
 			"Genesis Maximum",
-			"Heavy Strike Excavator"
+			"Heavy Strike Excavator",
+			"Hero\u0027s Stage"
 		]
 	},
 	{
@@ -12199,7 +14397,7 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Selection Box Vol.01"
+			"Selection BOX Vol.01"
 		]
 	},
 	{
@@ -12404,6 +14602,43 @@
 		]
 	},
 	{
+		"id": 19315,
+		"name": "Galacterial Ore",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "You have 3 or more Galaxy Type monsters in your Graveyard during your Main Phase that you Normal or Special Summoned this card.",
+		"effect": "Add 1 \"Galactica Xiphos\" from your Graveyard to your hand.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1000,
+			"def": 1300,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		}
+	},
+	{
+		"id": 19317,
+		"name": "All-Seeing Harvey",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During your Main Phase that you Normal or Special Summoned this card.",
+		"effect": "Look at 1 face-down card on your opponent\u0027s field. If that card is a Monster Card with 1500 or more DEF, you can also destroy it.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1300,
+			"def": 1000,
+			"attribute": "EARTH",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"Selection BOX Vol.02"
+		]
+	},
+	{
 		"id": 19342,
 		"name": "Negate Attack",
 		"cardType": "TRAP",
@@ -12434,7 +14669,7 @@
 			"race": "FAIRY"
 		},
 		"cardObtain": [
-			"Selection Box Vol.01"
+			"Selection BOX Vol.01"
 		]
 	},
 	{
@@ -12529,7 +14764,7 @@
 		"effect": "Special Summon 1 Level 7 or lower Effect Monster from your hand face-up to your field.",
 		"rarity": "UR",
 		"cardObtain": [
-			"Selection Box Vol.01"
+			"Selection BOX Vol.01"
 		]
 	},
 	{
@@ -12584,7 +14819,160 @@
 			"race": "PSYCHIC"
 		},
 		"cardObtain": [
-			"Selection Box Vol.01"
+			"Selection BOX Vol.01"
+		]
+	},
+	{
+		"id": 19640,
+		"name": "Striping Wyvern",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send the top 2 cards of your Deck and this face-up card from your field to the Graveyard.",
+		"effect": "Special Summon 1 \"Blue-Fang Burst Dragon\" or \"Red Boot Boost Dragon\" from your hand to your field in face-up Defense Position. Then, you can add 1 \"Dragon\u0027s Burst Fusion\" or \"Dragon\u0027s Boost Fusion\" from your Graveyard to your hand.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 0,
+			"def": 0,
+			"attribute": "LIGHT",
+			"race": "DRAGON"
+		}
+	},
+	{
+		"id": 19641,
+		"name": "Flap Dragon",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 Dragon Type monster from your hand to the Graveyard.",
+		"effect": "Change 1 face-down monster on your opponent\u0027s field to face-up Attack Position. Then, if the only face-up monsters on your field are Dragon Type monsters, you can Special Summon 1 \"Flip Dragon\" from your Graveyard to your field in face-up Defense Position.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 0,
+			"def": 200,
+			"attribute": "LIGHT",
+			"race": "DRAGON"
+		}
+	},
+	{
+		"id": 19642,
+		"name": "Flip Dragon",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 Dragon Type monster from your hand to the Graveyard.",
+		"effect": "Change 1 Attack Position monster on your opponent\u0027s field to face-down Defense Position. Then, if the only face-up monsters on your field are Dragon Type monsters, you can Special Summon 1 \"Flap Dragon\" from your Graveyard to your field in face-up Defense Position.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 2,
+			"atk": 200,
+			"def": 0,
+			"attribute": "LIGHT",
+			"race": "DRAGON"
+		}
+	},
+	{
+		"id": 19685,
+		"name": "Dragonic Progression",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Place 1 card from your hand on the bottom of the Deck.",
+		"effect": "Add 1 Level 1 LIGHT or DARK Attribute Dragon Type monster from your Graveyard to your hand. Then, you can add 1 \"Dragon\u0027s Burst Fusion\" or 1 \"Dragon\u0027s Boost Fusion\" from your Graveyard to your hand.",
+		"rarity": "NPC"
+	},
+	{
+		"id": 19768,
+		"name": "Gravitiara Eye",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Durnig the turn you Normal Summoned this card.",
+		"effect": "Excavate the top 5 cards of your Deck. Place all excavated LIGHT Attribute Galaxy Type monsters on the top of your Deck in any order. Place the other cards on the bottom of your Deck in any order. If you placed 4 or more cards on the top of your Deck by this effect, draw 1 card.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 0,
+			"def": 0,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		}
+	},
+	{
+		"id": 19793,
+		"name": "Twin Coolstars",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "Increase this card\u0027s Level by 2 until the end of this turn. If you sent a LIGHT Attribute Galaxy Type monster to the Graveyard to meet the requirement, additionally this turn, this face-up card can be treated as 2 Tributes for the Tribute Summon of a LIGHT Attribute Galaxy Type monster in Attack Position.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1200,
+			"def": 200,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		}
+	},
+	{
+		"id": 19927,
+		"name": "Interstellive",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "You have 10 or more cards in your Deck and a total of 2 \"Interstellive\" and/or \"Interstellime\" face-up on your field.",
+		"effect": "Draw 1 card.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 1000,
+			"def": 0,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		}
+	},
+	{
+		"id": 19974,
+		"name": "Jinzo #7.7",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Place 1 monster from your Graveyard on the bottom of the Deck.",
+		"effect": "This turn, this card can attack directly. You can also add 1 \"Machine Inspector\" or \"Accelerator\" from your Graveyard to your hand.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 2,
+			"atk": 700,
+			"def": 700,
+			"attribute": "DARK",
+			"race": "MACHINE"
+		}
+	},
+	{
+		"id": 20005,
+		"name": "Machine Inspector",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Both players excavate the top 4 cards of their Deck. You can send up to a total of 2 excavated Machine Type monsters and/or Trap Cards among those 8 cards to the Graveyard. Both players place the other cards on the bottom of their Deck in any order. If you sent a Trap Card to the Graveyard by this effect, also draw 1 card.",
+		"rarity": "NPC"
+	},
+	{
+		"id": 20046,
+		"name": "Secret Order",
+		"cardType": "SPELL",
+		"cardStyle": "ALT_ART",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Special Summon 1 Level 7 Normal Monster from your hand or Graveyard face-up to your field. This turn, the monster Special Summoned by this effect gains 700 ATK and cannot be destroyed by your opponent\u0027s Trap Card effects.",
+		"rarity": "UR",
+		"cardObtain": [
+			"Galactica Go Rush"
 		]
 	},
 	{
@@ -12604,7 +14992,197 @@
 			"race": "CYBERSE"
 		},
 		"cardObtain": [
-			"Steel Kaleidomirror"
+			"Steel Kaleidomirror",
+			"Selection BOX Vol.02"
+		]
+	},
+	{
+		"id": 20157,
+		"name": "Yggdrago the Sky Emperor [L]",
+		"cardType": "MAXIMUM",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Maximum Mode: Send the top 3 cards of your Deck to the Graveyard.",
+		"effect": "Destroy 1 face-up Level 8 or lower monster on your opponent\u0027s field.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 900,
+			"def": 0,
+			"maxAtk": 0,
+			"attribute": "LIGHT",
+			"race": "CYBERSE"
+		},
+		"cardObtain": [
+			"Selection BOX Vol.02"
+		]
+	},
+	{
+		"id": 20158,
+		"name": "Yggdrago the Sky Emperor",
+		"cardType": "MAXIMUM",
+		"cardStyle": "OR_STYLE",
+		"effectType": "CONTINUOUS",
+		"isLegend": false,
+		"inherentSummonCondition": "You can Maximum Summon this card together with \"Yggdrago the Sky Emperor [L]\" and \"Yggdrago the Sky Emperor [R]\".",
+		"requirement": "Maximum Mode",
+		"effect": "This card cannot be destroyed by your opponent\u0027s Trap Card effects.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 10,
+			"atk": 2000,
+			"def": 0,
+			"maxAtk": 4000,
+			"attribute": "LIGHT",
+			"race": "CYBERSE"
+		},
+		"cardObtain": [
+			"Selection BOX Vol.02"
+		]
+	},
+	{
+		"id": 20159,
+		"name": "Yggdrago the Sky Emperor [R]",
+		"cardType": "MAXIMUM",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Maximum Mode: Send the top 3 cards of your Deck to the Graveyard.",
+		"effect": "Change 1 Defense Position monster on your opponent\u0027s field to face-up Attack Position.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 600,
+			"def": 0,
+			"maxAtk": 0,
+			"attribute": "LIGHT",
+			"race": "CYBERSE"
+		},
+		"cardObtain": [
+			"Selection BOX Vol.02"
+		]
+	},
+	{
+		"id": 20453,
+		"name": "Elemental HERO Flame Wingman",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "CONTINUOUS",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Elemental HERO Avian\" + \"Elemental HERO Burstinatrix\"\nMust be Fusion Summoned.",
+		"requirement": "None",
+		"effect": "If this card destroys a monster by battle and sends it to the Graveyard, inflict damage to your opponent equal to [that monster\u0027s original ATK].",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 2100,
+			"def": 1200,
+			"attribute": "WIND",
+			"race": "WARRIOR"
+		}
+	},
+	{
+		"id": 20459,
+		"name": "Elemental HERO Burstinatrix",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "A flame manipulator who was the first Elemental HERO woman. Her Burstfire burns away villainy.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 1200,
+			"def": 800,
+			"attribute": "FIRE",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"Hero\u0027s Stage"
+		]
+	},
+	{
+		"id": 20460,
+		"name": "Elemental HERO Avian",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "A winged Elemental HERO who wheels through the sky and manipulates the wind. His signature move, Featherbreak, gives villainy a blow from sky-high.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 1000,
+			"def": 1000,
+			"attribute": "WIND",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"Hero\u0027s Stage"
+		]
+	},
+	{
+		"id": 20461,
+		"name": "Rising HERO Argent",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Reveal 1 Level 6 or 7 Warrior Type monster in your Extra Deck.",
+		"effect": "Excavate the top 4 cards of your Deck. You can add up to 2 excavated Normal Monsters listed as materials on the monster you revealed to meet the requirement to your hand. Place the other cards on the bottom of your Deck in any order.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1000,
+			"def": 1000,
+			"attribute": "LIGHT",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"Hero\u0027s Stage"
+		]
+	},
+	{
+		"id": 20470,
+		"name": "Elemental HERO Bubbleman",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "You have no other cards in your hand or on your field during your Main Phase that you Normal or Special Summoned this card.",
+		"effect": "Draw 2 cards.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 800,
+			"def": 1200,
+			"attribute": "WATER",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"Fusion of Revolution",
+			"Hero\u0027s Stage"
+		]
+	},
+	{
+		"id": 20474,
+		"name": "Elemental HERO Flame Wingman",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Elemental HERO Avian\" + \"Elemental HERO Burstinatrix\"\nMust be Fusion Summoned.",
+		"requirement": "None",
+		"effect": "If this card destroys a monster by battle and sends it to the Graveyard, inflict damage to your opponent equal to [that monster\u0027s original ATK].",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 2100,
+			"def": 1200,
+			"attribute": "WIND",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"Hero\u0027s Stage"
 		]
 	},
 	{
@@ -12625,7 +15203,27 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"Selection Box Vol.01"
+			"Selection BOX Vol.01"
+		]
+	},
+	{
+		"id": 20630,
+		"name": "Rising HERO Tantalum",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "This card gains 400 ATK until the end of this turn. If you have a face-up Warrior Type Fusion Monster on your field, you can also return 1 face-up Level 8 or lower monster on your opponent\u0027s field to the hand.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2500,
+			"def": 1000,
+			"attribute": "LIGHT",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"Hero\u0027s Stage"
 		]
 	},
 	{
@@ -12802,6 +15400,88 @@
 		},
 		"cardObtain": [
 			"Transcendence Miragias"
+		]
+	},
+	{
+		"id": 20838,
+		"name": "Ancient Gear Golem",
+		"cardType": "EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "CONTINUOUS",
+		"isLegend": true,
+		"inherentSummonCondition": "This card cannot be Special Summoned.",
+		"requirement": "None",
+		"effect": "This card inflicts piercing battle damage and your opponent cannot activate Trap Cards when t declares an attack.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 3000,
+			"def": 3000,
+			"attribute": "EARTH",
+			"race": "MACHINE"
+		}
+	},
+	{
+		"id": 20854,
+		"name": "Imaginary Reactor",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you have 10 or more cards in your Deck, send the top 2 cards of your Deck to the Graveyard.",
+		"effect": "This card\u0027s name becomes \"Imaginary Actor\" until the end of your opponent\u0027s next turn. Then, you can place 1 \"Monster Reincarnation\" from your Graveyard on the bottom of the Deck. If you do, you can also draw 2 cards.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 500,
+			"def": 500,
+			"attribute": "LIGHT",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"Fusion of Revolution"
+		]
+	},
+	{
+		"id": 20886,
+		"name": "Ancient Gear Golem",
+		"cardType": "EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "CONTINUOUS",
+		"isLegend": true,
+		"inherentSummonCondition": "This card cannot be Special Summoned.",
+		"requirement": "None",
+		"effect": "This card inflicts piercing battle damage and your opponent cannot activate Trap Cards when t declares an attack.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 3000,
+			"def": 3000,
+			"attribute": "EARTH",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"GO RUSH!! World Release Celebration Campaign"
+		]
+	},
+	{
+		"id": 21034,
+		"name": "Steel Strike Dragon Metagias",
+		"cardType": "EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 Level 7 or higher Dragon Type monster from your hand to the Graveyard.",
+		"effect": "This turn, this card cannot be destroyed by battle or your opponent\u0027s Trap Card effects. Also, if this card attacked a monster, it can make a second attack on a monster during that Battle Phase.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2500,
+			"def": 1500,
+			"attribute": "DARK",
+			"race": "DRAGON"
+		},
+		"cardObtain": [
+			"Selection BOX Vol.02"
 		]
 	}
 ]

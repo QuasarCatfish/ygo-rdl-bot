@@ -44,12 +44,44 @@
 		"name": "Seatbastian"
 	},
 	{
+		"id": 713,
+		"name": "Yuro Goha"
+	},
+	{
+		"id": 714,
+		"name": "Yujin Goha"
+	},
+	{
+		"id": 715,
+		"name": "Yuka Goha"
+	},
+	{
+		"id": 716,
+		"name": "Yuran Goha"
+	},
+	{
+		"id": 717,
+		"name": "Yuo Goha"
+	},
+	{
 		"id": 731,
 		"name": "Kaizo"
 	},
 	{
-		"id": 711,
+		"id": 732,
 		"name": "Kaizo (Duel-cycle)"
+	},
+	{
+		"id": 733,
+		"name": "President Drone"
+	},
+	{
+		"id": 734,
+		"name": "President Mimi Imimi"
+	},
+	{
+		"id": 735,
+		"name": "Swirls"
 	},
 	{
 		"id": 853,
@@ -70,5 +102,37 @@
 	{
 		"id": 857,
 		"name": "Good Yosh the Overcrusher"
+	},
+	{
+		"id": 858,
+		"name": "Prioria Sweetalina"
+	},
+	{
+		"id": 862,
+		"name": "Chupataro Kaburagi"
+	},
+	{
+		"id": 863,
+		"name": "Teru Kawai"
+	},
+	{
+		"id": 864,
+		"name": "Jaburamen"
+	},
+	{
+		"id": 865,
+		"name": "Fisher Sky"
+	},
+	{
+		"id": 901,
+		"name": "Yudias Velgear"
+	},
+	{
+		"id": 902,
+		"name": "Yuhi Ohdo"
+	},
+	{
+		"id": 903,
+		"name": "Yuamu Ohdo"
 	}
 ]

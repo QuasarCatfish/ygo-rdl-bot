@@ -7,7 +7,6 @@ import java.io.IOException;
 import java.util.ArrayDeque;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.concurrent.ThreadLocalRandom;
 import java.util.stream.IntStream;
 
 import javax.imageio.ImageIO;
@@ -17,6 +16,7 @@ import com.quas.ygo_rdl_bot.commands.CommandInfo;
 import com.quas.ygo_rdl_bot.commands.CommandInfo.DeferType;
 import com.quas.ygo_rdl_bot.data.RushCard;
 import com.quas.ygo_rdl_bot.data.RushSkill;
+import com.quas.ygo_rdl_bot.data.Util;
 
 import net.dv8tion.jda.api.EmbedBuilder;
 import net.dv8tion.jda.api.events.interaction.command.CommandAutoCompleteInteractionEvent;
@@ -55,11 +55,11 @@ public class SearchSkillCommand extends Command {
 			eb.setTitle(skill.getName());
 			if (skill.hasCondition()) eb.setDescription(skill.getCondition());
 			eb.addField("[REQUIREMENT]", skill.getRequirement(), false);
-			eb.addField("[EFFECT]", skill.getEffect(), false);
+			eb.addField("[" + skill.getEffectType().toString() + "]", skill.getEffect(), false);
 			
 			List<ActionRow> mentionedCards = ActionRow.partitionOf(IntStream.of(skill.getMentionedCards()).boxed().map(i -> {
 					RushCard card = RushCard.get(i);
-					return Button.primary(componentId(ANY_PLAYER, i), card.getName()).withEmoji(card.getCardType().getEmoji());
+					return Button.primary(componentId(ANY_USER, i), card.getName()).withEmoji(card.getCardType().getEmoji());
 			}).toList());
 			
 			if (skill.isArchive()) {
@@ -137,12 +137,6 @@ public class SearchSkillCommand extends Command {
 	private static final int CHARACTER_WIDTH = 124;
 	private static final int CHARACTER_HEIGHT = 146;
 	
-	public static String nextDigitString() {
-		StringBuilder sb = new StringBuilder();
-		for (int q = 0; q < 30; q++) sb.append(ThreadLocalRandom.current().nextInt(10));
-		return sb.toString();
-	}
-	
 	private File generateCharacterImage(int[] characters) {
 		String[][] arr = format(characters);
 		
@@ -161,7 +155,7 @@ public class SearchSkillCommand extends Command {
 			}
 		}
 		
-		File f = new File("data/tmp/" + nextDigitString() + ".png");
+		File f = new File("data/tmp/" + Util.nextDigitString() + ".png");
 		f.mkdirs();
 		try {
 			ImageIO.write(image, "PNG", f);

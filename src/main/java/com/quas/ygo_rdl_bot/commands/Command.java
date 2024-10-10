@@ -26,7 +26,7 @@ import net.dv8tion.jda.api.interactions.commands.build.SlashCommandData;
 
 public abstract class Command extends ListenerAdapter {
 
-	public static String ANY_PLAYER = "any";
+	public static String ANY_USER = "any";
 	
 	private List<Subcommand> subcommands = Collections.synchronizedList(new ArrayList<Subcommand>());
 	public final void addSubcommand(Subcommand sc) {
@@ -103,7 +103,7 @@ public abstract class Command extends ListenerAdapter {
 		if (subcommands.isEmpty()) {
 			if (ci.requiresPermissionView() && !event.getGuildChannel().canTalk()) {
 				noPermission(event);
-			} else if (id[1].equals(ANY_PLAYER) || id[1].equals(event.getUser().getId())) {
+			} else if (id[1].equals(ANY_USER) || id[1].equals(event.getUser().getId())) {
 				String[] args = Arrays.copyOfRange(id, 2, id.length);
 				if (ci.deferButton() == DeferType.Reply) event.deferReply(isEphemeral(event)).queue(hook -> handle(event, args));
 				else if (ci.deferButton() == DeferType.Edit) event.deferEdit().queue(hook -> handle(event, args));
@@ -118,7 +118,7 @@ public abstract class Command extends ListenerAdapter {
 				
 				if (sci.requiresPermissionView() && !event.getGuildChannel().canTalk()) {
 					noPermission(event);
-				} else if (id[2].equals(ANY_PLAYER) || id[2].equals(event.getUser().getId())) {
+				} else if (id[2].equals(ANY_USER) || id[2].equals(event.getUser().getId())) {
 					String[] args = Arrays.copyOfRange(id, 3, id.length);
 					if (sci.deferButton() == DeferType.Reply) event.deferReply(isEphemeral(event)).queue(hook -> sc.handle(event, args));
 					else if (sci.deferButton() == DeferType.Edit) event.deferEdit().queue(hook -> sc.handle(event, args));
@@ -143,7 +143,7 @@ public abstract class Command extends ListenerAdapter {
 		if (subcommands.isEmpty()) {
 			if (ci.requiresPermissionView() && !event.getGuildChannel().canTalk()) {
 				noPermission(event);
-			} else if (id[1].equals(ANY_PLAYER) || id[1].equals(event.getUser().getId())) {
+			} else if (id[1].equals(ANY_USER) || id[1].equals(event.getUser().getId())) {
 				String[] args = Arrays.copyOfRange(id, 2, id.length);
 				if (ci.deferModal() == DeferType.Reply) event.deferReply(isEphemeral(event)).queue(hook -> handle(event, args));
 				else if (ci.deferModal() == DeferType.Edit) event.deferEdit().queue(hook -> handle(event, args));
@@ -158,7 +158,7 @@ public abstract class Command extends ListenerAdapter {
 				
 				if (sci.requiresPermissionView() && !event.getGuildChannel().canTalk()) {
 					noPermission(event);
-				} else if (id[2].equals(ANY_PLAYER) || id[2].equals(event.getUser().getId())) {
+				} else if (id[2].equals(ANY_USER) || id[2].equals(event.getUser().getId())) {
 					String[] args = Arrays.copyOfRange(id, 3, id.length);
 					if (sci.deferModal() == DeferType.Reply) event.deferReply(isEphemeral(event)).queue(hook -> sc.handle(event, args));
 					else if (sci.deferModal() == DeferType.Edit) event.deferEdit().queue(hook -> sc.handle(event, args));
@@ -176,13 +176,13 @@ public abstract class Command extends ListenerAdapter {
 	
 	///////////////////////////////////
 	
-	protected final String componentId(String player, Object...args) {
+	protected final String componentId(String user, Object...args) {
 		StringJoiner sj = new StringJoiner(":");
 		
 		CommandInfo ci = this.getClass().getAnnotation(CommandInfo.class);
 		if (ci.parent() != void.class) sj.add(ci.parent().getAnnotation(CommandInfo.class).name());
 		sj.add(ci.name());
-		sj.add(player);
+		sj.add(user);
 		
 		for (Object obj : args) sj.add(Objects.toString(obj));
 		return sj.toString();

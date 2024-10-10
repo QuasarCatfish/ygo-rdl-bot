@@ -9,6 +9,7 @@ import java.util.List;
 import java.util.TreeMap;
 
 import com.google.gson.Gson;
+import com.quas.ygo_rdl_bot.data.RushCard.EffectType;
 
 public class RushSkill {
 
@@ -36,6 +37,7 @@ public class RushSkill {
 	private String condition;
 	private String requirement;
 	private String effect;
+	private EffectType effectType;
 	
 	private boolean isArchive;
 	private int[] characters;
@@ -65,6 +67,10 @@ public class RushSkill {
 	
 	public String getEffect() {
 		return effect;
+	}
+	
+	public EffectType getEffectType() {
+		return effectType;
 	}
 	
 	public boolean isArchive() {

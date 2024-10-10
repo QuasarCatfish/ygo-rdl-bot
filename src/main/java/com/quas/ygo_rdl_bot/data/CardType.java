@@ -56,4 +56,12 @@ public enum CardType {
 	public boolean isTrap() {
 		return List.of(TRAP).contains(this);
 	}
+	
+	public boolean isMainDeck() {
+		return List.of(NORMAL, EFFECT, MAXIMUM, SPELL, FIELD, EQUIP, TRAP).contains(this);
+	}
+	
+	public boolean isExtraDeck() {
+		return List.of(FUSION, FUSION_EFFECT).contains(this);
+	}
 }
