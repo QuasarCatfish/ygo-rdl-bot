@@ -739,7 +739,8 @@
 			"Sevens New Road",
 			"Scorching Flame Burst",
 			"Steel Kaleidomirror",
-			"Selection BOX Vol.02"
+			"Selection BOX Vol.02",
+			"Divine Genesis Blade"
 		]
 	},
 	{
@@ -762,7 +763,8 @@
 			"Sevens New Road",
 			"Scorching Flame Burst",
 			"Steel Kaleidomirror",
-			"Selection BOX Vol.02"
+			"Selection BOX Vol.02",
+			"Divine Genesis Blade"
 		]
 	},
 	{
@@ -790,6 +792,7 @@
 		"id": 15194,
 		"name": "Yamiruler the Dark Delayer",
 		"cardType": "EFFECT",
+		"cardStyle": "ORIGINAL",
 		"effectType": "NORMAL",
 		"isLegend": false,
 		"requirement": "During the turn you Normal Summoned this card, change its battle position (Attack Position becomes face-up Defense Position, Defense Position becomes face-up Attack Position).",
@@ -824,7 +827,8 @@
 		},
 		"cardObtain": [
 			"Sevens New Road",
-			"Scorching Flame Burst"
+			"Scorching Flame Burst",
+			"Divine Genesis Blade"
 		]
 	},
 	{
@@ -1430,7 +1434,8 @@
 		"rarity": "N",
 		"cardObtain": [
 			"Sevens New Road",
-			"Scorching Flame Burst"
+			"Scorching Flame Burst",
+			"Divine Genesis Blade"
 		]
 	},
 	{
@@ -1470,7 +1475,8 @@
 			"Lightspeed Voltcondor",
 			"Sevens New Road",
 			"Scorching Flame Burst",
-			"Cyber Dragon Launch"
+			"Cyber Dragon Launch",
+			"Divine Genesis Blade"
 		]
 	},
 	{
@@ -1609,7 +1615,8 @@
 		"cardObtain": [
 			"Steel Kaleidomirror",
 			"Transcendence Miragias",
-			"Selection BOX Vol.02"
+			"Selection BOX Vol.02",
+			"Divine Genesis Blade"
 		]
 	},
 	{
@@ -1651,7 +1658,8 @@
 		},
 		"cardObtain": [
 			"Heavy Metal Scream",
-			"Steel Kaleidomirror"
+			"Steel Kaleidomirror",
+			"Divine Genesis Blade"
 		]
 	},
 	{
@@ -1672,7 +1680,8 @@
 		},
 		"cardObtain": [
 			"Sevens New Road",
-			"Selection BOX Vol.01"
+			"Selection BOX Vol.01",
+			"Divine Genesis Blade"
 		]
 	},
 	{
@@ -1693,7 +1702,8 @@
 		},
 		"cardObtain": [
 			"Sevens New Road",
-			"Selection BOX Vol.01"
+			"Selection BOX Vol.01",
+			"Divine Genesis Blade"
 		]
 	},
 	{
@@ -2042,7 +2052,8 @@
 		},
 		"cardObtain": [
 			"Heavy Metal Scream",
-			"Steel Kaleidomirror"
+			"Steel Kaleidomirror",
+			"Divine Genesis Blade"
 		]
 	},
 	{
@@ -2062,7 +2073,8 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Genesis Maximum"
+			"Genesis Maximum",
+			"Divine Genesis Blade"
 		]
 	},
 	{
@@ -2187,7 +2199,8 @@
 		"cardObtain": [
 			"Sevens New Road",
 			"Raidacross the Lionhearted",
-			"Scorching Flame Burst"
+			"Scorching Flame Burst",
+			"Divine Genesis Blade"
 		]
 	},
 	{
@@ -2343,7 +2356,8 @@
 		"effect": "Change 1 face-up monster on your opponent\u0027s field to face-down Defense Position.",
 		"rarity": "R",
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road",
+			"Divine Genesis Blade"
 		]
 	},
 	{
@@ -2649,7 +2663,8 @@
 		"rarity": "N",
 		"cardObtain": [
 			"Sevens New Road",
-			"Scorching Flame Burst"
+			"Scorching Flame Burst",
+			"Divine Genesis Blade"
 		]
 	},
 	{
@@ -2822,7 +2837,8 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road",
+			"Divine Genesis Blade"
 		]
 	},
 	{
@@ -2948,7 +2964,8 @@
 			"Raidacross the Lionhearted",
 			"Scorching Flame Burst",
 			"Fusion of Revolution",
-			"Hero\u0027s Stage"
+			"Hero\u0027s Stage",
+			"Divine Genesis Blade"
 		]
 	},
 	{
@@ -2968,7 +2985,8 @@
 			"race": "BEAST"
 		},
 		"cardObtain": [
-			"Steel Kaleidomirror"
+			"Steel Kaleidomirror",
+			"Divine Genesis Blade"
 		]
 	},
 	{
@@ -3316,7 +3334,8 @@
 		},
 		"cardObtain": [
 			"Sevens New Road",
-			"Selection BOX Vol.01"
+			"Selection BOX Vol.01",
+			"Divine Genesis Blade"
 		]
 	},
 	{
@@ -3338,7 +3357,8 @@
 		"cardObtain": [
 			"Sevens New Road",
 			"Selection BOX Vol.01",
-			"Fusion of Revolution"
+			"Fusion of Revolution",
+			"Divine Genesis Blade"
 		]
 	},
 	{
@@ -3380,7 +3400,8 @@
 		},
 		"cardObtain": [
 			"Sevens New Road",
-			"Selection BOX Vol.01"
+			"Selection BOX Vol.01",
+			"Divine Genesis Blade"
 		]
 	},
 	{
@@ -3401,7 +3422,8 @@
 		},
 		"cardObtain": [
 			"Sevens New Road",
-			"Selection BOX Vol.01"
+			"Selection BOX Vol.01",
+			"Divine Genesis Blade"
 		]
 	},
 	{
@@ -3423,7 +3445,8 @@
 		"cardObtain": [
 			"Sevens New Road",
 			"Steel Kaleidomirror",
-			"Fusion of Revolution"
+			"Fusion of Revolution",
+			"Divine Genesis Blade"
 		]
 	},
 	{
@@ -3476,7 +3499,8 @@
 		"cardObtain": [
 			"Sevens New Road",
 			"Selection BOX Vol.01",
-			"Transcendence Miragias"
+			"Transcendence Miragias",
+			"Divine Genesis Blade"
 		]
 	},
 	{
@@ -4937,7 +4961,8 @@
 		"effect": "Send the top 2 cards of your Deck to the Graveyard. Then, if your opponent has 3 monsters on their field, you can send 1 card from the top of your Deck to the Graveyard.",
 		"rarity": "R",
 		"cardObtain": [
-			"Transcendence Miragias"
+			"Transcendence Miragias",
+			"Divine Genesis Blade"
 		]
 	},
 	{
@@ -5329,7 +5354,8 @@
 		},
 		"cardObtain": [
 			"Sevens New Road",
-			"Selection BOX Vol.01"
+			"Selection BOX Vol.01",
+			"Divine Genesis Blade"
 		]
 	},
 	{
@@ -5665,14 +5691,17 @@
 		"isLegend": false,
 		"requirement": "You have a face-up Warrior Type monster other than this card on your field.",
 		"effect": "Shuffle monsters from your opponent\u0027s Graveyard into the Deck up to [the number of Spell/Trap Cards on your opponent\u0027s field].",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 3,
 			"atk": 1000,
 			"def": 1000,
 			"attribute": "WIND",
 			"race": "WARRIOR"
-		}
+		},
+		"cardObtain": [
+			"Divine Genesis Blade"
+		]
 	},
 	{
 		"id": 16160,
@@ -7851,7 +7880,8 @@
 		},
 		"cardObtain": [
 			"Heavy Metal Scream",
-			"Selection BOX Vol.01"
+			"Selection BOX Vol.01",
+			"Divine Genesis Blade"
 		]
 	},
 	{
@@ -8368,14 +8398,17 @@
 		"isLegend": false,
 		"requirement": "If your opponent has an Attack Position Level 9 or lower monster on their field, pay 3000 LP.",
 		"effect": "This card gains 2000 ATK until the end of this turn. If your opponent has more than 8 monsters in their Graveyard, this card cannot be destroyed by your opponent\u0027s Trap Card effects this turn.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 7,
 			"atk": 2200,
 			"def": 1300,
 			"attribute": "FIRE",
 			"race": "DRAGON"
-		}
+		},
+		"cardObtain": [
+			"Divine Genesis Blade"
+		]
 	},
 	{
 		"id": 16775,
@@ -8413,6 +8446,19 @@
 		]
 	},
 	{
+		"id": 16777,
+		"name": "Sportsdragon Connection",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Special Summon 1 Level 5-6 Dragon Type Normal Monster from your hand or Graveyard face-up to your field. Then, if you have \"Sportsdragon Keeper\" face-up on your field, you can add 1 \"Sportsdragon Striker\" or \"Sportsdragon Defender\" from your Graveyard to your hand.",
+		"rarity": "SR",
+		"cardObtain": [
+			"Divine Genesis Blade"
+		]
+	},
+	{
 		"id": 16780,
 		"name": "Hero of the Yeast",
 		"cardType": "NORMAL",
@@ -8431,7 +8477,8 @@
 		"cardObtain": [
 			"Steel Kaleidomirror",
 			"Fusion of Revolution",
-			"Hero\u0027s Stage"
+			"Hero\u0027s Stage",
+			"Divine Genesis Blade"
 		]
 	},
 	{
@@ -8492,7 +8539,8 @@
 		},
 		"cardObtain": [
 			"Heavy Metal Scream",
-			"Selection BOX Vol.01"
+			"Selection BOX Vol.01",
+			"Divine Genesis Blade"
 		]
 	},
 	{
@@ -9310,7 +9358,8 @@
 		"rarity": "R",
 		"cardObtain": [
 			"Fusion of Revolution",
-			"Hero\u0027s Stage"
+			"Hero\u0027s Stage",
+			"Divine Genesis Blade"
 		]
 	},
 	{
@@ -9489,14 +9538,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "A messenger who illuminates the way to the higher realm. Darkness flees against the light of the chosen.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 1,
 			"atk": 0,
 			"def": 1400,
 			"attribute": "LIGHT",
 			"race": "FAIRY"
-		}
+		},
+		"cardObtain": [
+			"Divine Genesis Blade"
+		]
 	},
 	{
 		"id": 16970,
@@ -9721,14 +9773,17 @@
 		"isLegend": false,
 		"requirement": "None",
 		"effect": "Change the battle position of up to 2 monsters on your opponent\u0027s field (Attack Position becomes face-up Defense Position, Defense Position becomes face-up Attack Position). If you changed a battle position by this effect, you can change the battle position of 1 face-up monster on your field.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 8,
 			"atk": 0,
 			"def": 2500,
 			"attribute": "DARK",
 			"race": "WARRIOR"
-		}
+		},
+		"cardObtain": [
+			"Divine Genesis Blade"
+		]
 	},
 	{
 		"id": 16984,
@@ -9907,6 +9962,27 @@
 		]
 	},
 	{
+		"id": 17002,
+		"name": "Yamiterasu the Divine Ruler",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "MULTICHOICE",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Yamiruler the Dark Delayer\" + \"Needlkyrie the Celestial Seamstress\"",
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "⬤ Until the end of your opponent\u0027s next turn, while this card is face-up, it gains 500 ATK, and neither player can Special Summon Level 9 or lower monters in face-up Attack Position. ⬤ Change the battle position of 1 monster on the field.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 3000,
+			"def": 3000,
+			"attribute": "LIGHT",
+			"race": "CELESTIAL_WARRIOR"
+		},
+		"cardObtain": [
+			"Divine Genesis Blade"
+		]
+	},
+	{
 		"id": 17010,
 		"name": "Bizarrmor",
 		"cardType": "SPELL",
@@ -9993,6 +10069,27 @@
 		]
 	},
 	{
+		"id": 17194,
+		"name": "Doma the Talismanic Master",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Sakakaze the Talismanic Warrior\" + \"Karatake the Talismanic Warrior\"",
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "This card gains ATK equal to [the number of cards on your opponent\u0027s field] x 200 until the end of this turn.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2500,
+			"def": 1600,
+			"attribute": "LIGHT",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"Divine Genesis Blade"
+		]
+	},
+	{
 		"id": 17197,
 		"name": "Ultimate Flag Mech Gold Rush",
 		"cardType": "EFFECT",
@@ -10028,6 +10125,27 @@
 		},
 		"cardObtain": [
 			"Transcendence Miragias"
+		]
+	},
+	{
+		"id": 17200,
+		"name": "Kimeterasu the Divine Luna",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "MULTICHOICE",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Kimeluna the Dark Shifter\" + \"Needlkyrie the Celestial Seamstress\"",
+		"requirement": "None",
+		"effect": "⬤ Add 1 monster with 0 ATK from your Graveyard to your hand. ⬤ Destroy up to 2 Defense Position monsters on your opponent\u0027s field.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 2500,
+			"def": 3000,
+			"attribute": "LIGHT",
+			"race": "CELESTIAL_WARRIOR"
+		},
+		"cardObtain": [
+			"Divine Genesis Blade"
 		]
 	},
 	{
@@ -10251,7 +10369,8 @@
 		},
 		"cardObtain": [
 			"Genesis Maximum",
-			"Hero\u0027s Stage"
+			"Hero\u0027s Stage",
+			"Divine Genesis Blade"
 		]
 	},
 	{
@@ -10300,6 +10419,23 @@
 			"Nail Saionji Duel Reward",
 			"Yuhi Ohdo Duel Reward"
 		]
+	},
+	{
+		"id": 17274,
+		"name": "Handstray Destleo",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Send up to 2 random cards from your opponent\u0027s hand to the Graveyard.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2300,
+			"def": 1900,
+			"attribute": "LIGHT",
+			"race": "THUNDER"
+		}
 	},
 	{
 		"id": 17277,
@@ -10657,6 +10793,24 @@
 		"cardObtain": [
 			"Genesis Maximum"
 		]
+	},
+	{
+		"id": 17311,
+		"name": "Hero of the Kin",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Hero of the Yeast\" + \"Hero of the Yeast\"",
+		"requirement": "None",
+		"effect": "Add 1 Level 4 or lower Warrior Type Normal Monster from your Graveyard to your hand.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2600,
+			"def": 2000,
+			"attribute": "EARTH",
+			"race": "WARRIOR"
+		}
 	},
 	{
 		"id": 17315,
@@ -12736,7 +12890,10 @@
 			"def": 900,
 			"attribute": "WIND",
 			"race": "MACHINE"
-		}
+		},
+		"cardObtain": [
+			"Ranked Duels Reward Ticket"
+		]
 	},
 	{
 		"id": 17942,
@@ -14169,6 +14326,40 @@
 		"rarity": "NPC"
 	},
 	{
+		"id": 18893,
+		"name": "Crack Neutron",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "A mysterious life form born from the final spark. Energy emanating from its cracks carries a will of its own. Hyudury Vaza Vizy!",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 0,
+			"def": 1500,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		}
+	},
+	{
+		"id": 18907,
+		"name": "Satellite Soldier",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "Increase the Level of 1 face-up Level 6 or lower monster on your field with 1000 DEF by 2 until the end of this turn.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 5,
+			"atk": 1700,
+			"def": 1000,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		}
+	},
+	{
 		"id": 18930,
 		"name": "Earth Sorcerer",
 		"cardType": "NORMAL",
@@ -14802,6 +14993,48 @@
 		},
 		"cardObtain": [
 			"Legend of Dark Magic"
+		]
+	},
+	{
+		"id": 19603,
+		"name": "Prima Guitarna the Shining Superstar",
+		"cardType": "EFFECT",
+		"cardStyle": "ALT_ART",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Pay 1000 LP.",
+		"effect": "All face-up monsters on your field gain ATK equal to [the number of monsters on your opponent\u0027s field] x 300 until the end of this turn.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2200,
+			"def": 0,
+			"attribute": "LIGHT",
+			"race": "PSYCHIC"
+		},
+		"cardObtain": [
+			"Divine Genesis Blade"
+		]
+	},
+	{
+		"id": 19604,
+		"name": "Yamiruler the Dark Delayer",
+		"cardType": "EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During the turn you Normal Summoned this card, change its battle position (Attack Position becomes face-up Defense Position, Defense Position becomes face-up Attack Position).",
+		"effect": "Until the end of the opponent\u0027s next turn, while this card is face-up, neither player can Tribute Summon Level 7 or higher monsters.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2500,
+			"def": 2500,
+			"attribute": "DARK",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"Divine Genesis Blade"
 		]
 	},
 	{

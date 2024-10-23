@@ -1644,5 +1644,100 @@
 		"mentionedCards": [
 			16934
 		]
+	},
+	{
+		"id": 5101,
+		"name": "Celestial Guidance",
+		"requirement": "This Skill can be used if all of the monsters in your constructed Deck are LIGHT, DARK, EARTH, and/or WIND Attribute Warrior and/or Fairy Type monsters.",
+		"effect": "⬤ Make up to 2 face-up monsters on your field with 0 ATK gain ATK equal to [the respective monster\u0027s DEF + 100] until the end of your opponent\u0027s next turn. Then, you can Set 1 \"Fusion\" from your Deck or Graveyard to your Spell \u0026 Trap Zone.\n⬤ Make the original DEF of 1 face-up monster on your opponent\u0027s field become 800 until the end of this turn.",
+		"effectType": "MULTICHOICE",
+		"isArchive": false,
+		"characters": [
+			703
+		],
+		"mentionedCards": [
+			16934
+		]
+	},
+	{
+		"id": 5102,
+		"name": "Divine Guardian of Fire",
+		"requirement": "This Skill can be used if all of the monsters with 1400 or more ATK in your constructed Deck are Dragon and/or Psychic Type monsters.",
+		"effect": "Until the end of this turn, 1 face-up Level 7 FIRE Attribute monster with 2300 or less ATK on your field gains 900 ATK, but neither player can activate its effects.",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			702,
+			704
+		],
+		"mentionedCards": []
+	},
+	{
+		"id": 5103,
+		"name": "Darkstar Sign",
+		"condition": "You can only Fusion Summon once per Duel.",
+		"requirement": "Twice per Duel.",
+		"effect": "Reveal 1 DARK Attribute Fusion Monster in your Extra Deck, and the original ATK of 1 face-up monster on your field whose name is specifically listed as material on that Fusion Monster becomes 1600 until the end of the turn. Then, you can add 1 \"Fusion\" from outside of your Deck to your hand (once per Duel).",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			701,
+			702,
+			704
+		],
+		"mentionedCards": [
+			16934
+		]
+	},
+	{
+		"id": 5104,
+		"name": "Lightstar Sign",
+		"condition": "You can only Fusion Summon once per Duel.",
+		"requirement": "Twice per Duel.",
+		"effect": "Reveal 1 LIGHT Attribute Fusion Monster in your Extra Deck, and the original ATK of 1 face-up monster on your field whose name is specifically listed as material on that Fusion Monster becomes 1600 until the end of the turn. Then, you can add 1 \"Fusion\" from outside of your Deck to your hand (once per Duel).",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			702,
+			704,
+			706,
+			717
+		],
+		"mentionedCards": [
+			16934
+		]
+	},
+	{
+		"id": 5105,
+		"name": "Earthstar Sign",
+		"condition": "You can only Fusion Summon once per Duel.",
+		"requirement": "Twice per Duel.",
+		"effect": "Reveal 1 EARTH Attribute Fusion Monster in your Extra Deck, and the original ATK of 1 face-up monster on your field whose name is specifically listed as material on that Fusion Monster becomes 1600 until the end of the turn. Then, you can add 1 \"Fusion\" from outside of your Deck to your hand (once per Duel).",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			701,
+			703,
+			709
+		],
+		"mentionedCards": [
+			16934
+		]
+	},
+	{
+		"id": 5106,
+		"name": "Firestar Sign",
+		"condition": "You can only Fusion Summon once per Duel.",
+		"requirement": "Twice per Duel.",
+		"effect": "Reveal 1 FIRE Attribute Fusion Monster in your Extra Deck, and the original ATK of 1 face-up monster on your field whose name is specifically listed as material on that Fusion Monster becomes 1600 until the end of the turn. Then, you can add 1 \"Fusion\" from outside of your Deck to your hand (once per Duel).",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			701,
+			704
+		],
+		"mentionedCards": [
+			16934
+		]
 	}
 ]
