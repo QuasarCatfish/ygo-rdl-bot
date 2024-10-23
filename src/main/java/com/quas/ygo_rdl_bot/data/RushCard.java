@@ -232,7 +232,7 @@ public class RushCard {
 			type.add(getRace() == null ? "???" : getRace().toString());
 			if (getCardType() == CardType.MAXIMUM) type.add("Maximum");
 			if (getCardType() == CardType.FUSION) type.add("Fusion");
-			if (getCardType() == CardType.FUSION_EFFECT) type.add("Fusion").add("Effect");
+			if (getCardType() == CardType.FUSION_EFFECT) type.add("Fusion");
 			if (getCardType() == CardType.NORMAL) type.add("Normal");
 			else type.add("Effect");
 			
