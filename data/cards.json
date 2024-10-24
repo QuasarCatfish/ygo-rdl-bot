@@ -4286,7 +4286,6 @@
 			"level": 4,
 			"atk": 800,
 			"def": 0,
-			"maxAtk": 0,
 			"attribute": "DARK",
 			"race": "MACHINE"
 		},
@@ -4331,7 +4330,6 @@
 			"level": 3,
 			"atk": 500,
 			"def": 0,
-			"maxAtk": 0,
 			"attribute": "DARK",
 			"race": "MACHINE"
 		},
@@ -4353,7 +4351,6 @@
 			"level": 4,
 			"atk": 900,
 			"def": 0,
-			"maxAtk": 0,
 			"attribute": "LIGHT",
 			"race": "CYBERSE"
 		},
@@ -4399,7 +4396,6 @@
 			"level": 3,
 			"atk": 600,
 			"def": 0,
-			"maxAtk": 0,
 			"attribute": "LIGHT",
 			"race": "CYBERSE"
 		},
@@ -5480,7 +5476,6 @@
 			"level": 3,
 			"atk": 800,
 			"def": 0,
-			"maxAtk": 0,
 			"attribute": "EARTH",
 			"race": "WYRM"
 		}
@@ -5519,7 +5514,6 @@
 			"level": 3,
 			"atk": 800,
 			"def": 0,
-			"maxAtk": 0,
 			"attribute": "EARTH",
 			"race": "WYRM"
 		}
@@ -6378,7 +6372,6 @@
 			"level": 4,
 			"atk": 900,
 			"def": 0,
-			"maxAtk": 0,
 			"attribute": "FIRE",
 			"race": "WARRIOR"
 		}
@@ -6417,7 +6410,6 @@
 			"level": 3,
 			"atk": 600,
 			"def": 0,
-			"maxAtk": 0,
 			"attribute": "FIRE",
 			"race": "WARRIOR"
 		}
@@ -7045,7 +7037,6 @@
 			"level": 4,
 			"atk": 1300,
 			"def": 0,
-			"maxAtk": 0,
 			"attribute": "EARTH",
 			"race": "DINOSAUR"
 		},
@@ -7088,7 +7079,6 @@
 			"level": 4,
 			"atk": 1300,
 			"def": 0,
-			"maxAtk": 0,
 			"attribute": "EARTH",
 			"race": "DINOSAUR"
 		},
@@ -13871,7 +13861,6 @@
 			"level": 4,
 			"atk": 800,
 			"def": 0,
-			"maxAtk": 0,
 			"attribute": "DARK",
 			"race": "MACHINE"
 		},
@@ -13916,7 +13905,6 @@
 			"level": 3,
 			"atk": 500,
 			"def": 0,
-			"maxAtk": 0,
 			"attribute": "DARK",
 			"race": "MACHINE"
 		},
@@ -14648,7 +14636,6 @@
 			"level": 5,
 			"atk": 2100,
 			"def": 0,
-			"maxAtk": 0,
 			"attribute": "WIND",
 			"race": "WINGED_BEAST"
 		},
@@ -14694,7 +14681,6 @@
 			"level": 5,
 			"atk": 2100,
 			"def": 0,
-			"maxAtk": 0,
 			"attribute": "WIND",
 			"race": "WINGED_BEAST"
 		},
@@ -15246,7 +15232,6 @@
 			"level": 4,
 			"atk": 900,
 			"def": 0,
-			"maxAtk": 0,
 			"attribute": "LIGHT",
 			"race": "CYBERSE"
 		},
@@ -15291,7 +15276,6 @@
 			"level": 3,
 			"atk": 600,
 			"def": 0,
-			"maxAtk": 0,
 			"attribute": "LIGHT",
 			"race": "CYBERSE"
 		},
@@ -15497,7 +15481,6 @@
 			"level": 3,
 			"atk": 800,
 			"def": 0,
-			"maxAtk": 0,
 			"attribute": "EARTH",
 			"race": "WYRM"
 		},
@@ -15542,7 +15525,6 @@
 			"level": 3,
 			"atk": 800,
 			"def": 0,
-			"maxAtk": 0,
 			"attribute": "EARTH",
 			"race": "WYRM"
 		},
@@ -15564,7 +15546,6 @@
 			"level": 4,
 			"atk": 900,
 			"def": 0,
-			"maxAtk": 0,
 			"attribute": "FIRE",
 			"race": "WARRIOR"
 		},
@@ -15609,7 +15590,6 @@
 			"level": 3,
 			"atk": 600,
 			"def": 0,
-			"maxAtk": 0,
 			"attribute": "FIRE",
 			"race": "WARRIOR"
 		},

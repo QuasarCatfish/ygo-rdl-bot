@@ -18,6 +18,8 @@ import net.dv8tion.jda.api.utils.MarkdownSanitizer;
 
 public class RushCard {
 
+	public static int INVALID_STAT = -1;
+	
 	private static TreeMap<Integer, RushCard> MAPPED_CARDS = new TreeMap<>();
 	private static TreeMap<String, ArrayList<RushCard>> NAMED_CARDS = new TreeMap<>();
 	static {
@@ -149,19 +151,19 @@ public class RushCard {
 	}
 	
 	public int getLevel() {
-		return monsterInfo == null ? -1 : monsterInfo.level;
+		return monsterInfo == null ? INVALID_STAT : monsterInfo.level;
 	}
 	
 	public int getAtk() {
-		return monsterInfo == null ? -1 : monsterInfo.atk;
+		return monsterInfo == null ? INVALID_STAT : monsterInfo.atk;
 	}
 	
 	public int getDef() {
-		return monsterInfo == null ? -1 : monsterInfo.def;
+		return monsterInfo == null ? INVALID_STAT : monsterInfo.def;
 	}
 	
 	public int getMaximumAtk() {
-		return monsterInfo == null ? -1 : monsterInfo.maxAtk == null ? -1 : monsterInfo.maxAtk;
+		return monsterInfo == null || monsterInfo.maxAtk == null ? INVALID_STAT : monsterInfo.maxAtk;
 	}
 	
 	public Attribute getAttribute() {
@@ -237,7 +239,7 @@ public class RushCard {
 			else type.add("Effect");
 			
 			eb.appendDescription(String.format("%s\n%s\nLevel: %d\nATK %d / DEF %d", type.toString(), getAttribute(), getLevel(), getAtk(), getDef()));
-			if (getCardType() == CardType.MAXIMUM) eb.appendDescription("\nMAXIMUM ATK: " + getMaximumAtk());
+			if (getCardType() == CardType.MAXIMUM && getMaximumAtk() != INVALID_STAT) eb.appendDescription("\nMAXIMUM ATK: " + getMaximumAtk());
 		} else {
 			eb.appendDescription(getCardType().toString());
 		}
