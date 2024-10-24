@@ -1387,7 +1387,7 @@
 	{
 		"id": 5006,
 		"name": "Universtorm Bringer",
-		"requirement": "Can be activated from turn 2 onward, if all of the monsters in your constructed Deck are Galaxy Type monsters and all of the Level 5 or higher monsters in your constructed Deck are LIGHT Attribute monsters with 2500 ATK nd 2000 or more DEF.",
+		"requirement": "Can be activated from turn 2 onward, if all of the monsters in your constructed Deck are Galaxy Type monsters and all of the Level 5 or higher monsters in your constructed Deck are LIGHT Attribute monsters with 2500 ATK and 2000 or more DEF.",
 		"effect": "Send 1 card from your hand or field to the Graveyard and reveal 1 Level 7 or higher monster in your hand. Then, add 1 \"Universal Storm\" from your Deck or Graveyard to your hand.",
 		"effectType": "NORMAL",
 		"isArchive": false,
@@ -1515,7 +1515,7 @@
 	{
 		"id": 5015,
 		"name": "Rush On - High-Tech Dragon",
-		"requirement": "Activated att he beginning of the Duel.",
+		"requirement": "Activated at the beginning of the Duel.",
 		"effect": "Add 1 \"Blue-Fang Burst Dragon\" to your Deck. (You can only have at most 3 copies.)",
 		"effectType": "NORMAL",
 		"isArchive": false,
