@@ -187,7 +187,7 @@ public class RushCard {
 	}
 	
 	public String getImage() {
-		return String.format("https://raw.githubusercontent.com/QuasarCatfish/ygo-rdl-assets/main/art/%d.png", getId());
+		return String.format("https://raw.githubusercontent.com/QuasarCatfish/ygo-rdl-assets/refs/heads/main/art/%d.png", getId());
 	}
 	
 	public List<String> getSearchableText() {
