@@ -10418,14 +10418,17 @@
 		"isLegend": false,
 		"requirement": "None",
 		"effect": "Send up to 2 random cards from your opponent\u0027s hand to the Graveyard.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 7,
 			"atk": 2300,
 			"def": 1900,
 			"attribute": "LIGHT",
 			"race": "THUNDER"
-		}
+		},
+		"cardObtain": [
+			"Ranked Duels Reward Ticket"
+		]
 	},
 	{
 		"id": 17277,
@@ -10793,14 +10796,17 @@
 		"inherentSummonCondition": "\"Hero of the Yeast\" + \"Hero of the Yeast\"",
 		"requirement": "None",
 		"effect": "Add 1 Level 4 or lower Warrior Type Normal Monster from your Graveyard to your hand.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 8,
 			"atk": 2600,
 			"def": 2000,
 			"attribute": "EARTH",
 			"race": "WARRIOR"
-		}
+		},
+		"cardObtain": [
+			"Duel Links Mission Research"
+		]
 	},
 	{
 		"id": 17315,
