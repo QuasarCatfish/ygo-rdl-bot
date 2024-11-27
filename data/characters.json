@@ -108,6 +108,10 @@
 		"name": "Prioria Sweetalina"
 	},
 	{
+		"id": 859,
+		"name": "Oceania Illumilina"
+	},
+	{
 		"id": 862,
 		"name": "Chupataro Kaburagi"
 	},
@@ -124,6 +128,18 @@
 		"name": "Fisher Sky"
 	},
 	{
+		"id": 866,
+		"name": "Terza Flatwood"
+	},
+	{
+		"id": 867,
+		"name": "Chupataro Kaburagi (Alien)"
+	},
+	{
+		"id": 868,
+		"name": "Terza Flatwood (Suit)"
+	},
+	{
 		"id": 901,
 		"name": "Yudias Velgear"
 	},
@@ -134,6 +150,10 @@
 	{
 		"id": 903,
 		"name": "Yuamu Ohdo"
+	},
+	{
+		"id": 904,
+		"name": "Zuwijo Zwil Velgear"
 	},
 	{
 		"id": 933,

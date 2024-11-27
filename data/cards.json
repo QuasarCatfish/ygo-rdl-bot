@@ -1376,7 +1376,8 @@
 			"Romin Kassidy Duel Reward",
 			"Roa Kassidy Duel Reward",
 			"Yudias Velgear Duel Reward",
-			"Yuhi Ohdo Duel Reward"
+			"Yuhi Ohdo Duel Reward",
+			"Zuwijo Zwil Velgear Duel Reward"
 		]
 	},
 	{
@@ -1459,7 +1460,8 @@
 			"Yuo Goha Starter Deck",
 			"Yuga Ohdo Duel Reward",
 			"Asana Mutsuba Duel Reward",
-			"Yudias Velgear Duel Reward"
+			"Yudias Velgear Duel Reward",
+			"Zuwijo Zwil Velgear Duel Reward"
 		]
 	},
 	{
@@ -3335,7 +3337,8 @@
 		"cardObtain": [
 			"Sevens New Road",
 			"Selection BOX Vol.01",
-			"Divine Genesis Blade"
+			"Divine Genesis Blade",
+			"Requiem of Collapse"
 		]
 	},
 	{
@@ -3676,6 +3679,7 @@
 			"Yuamu Ohdo Starter Deck",
 			"Roa Kassidy Duel Reward",
 			"Yuo Goha Duel Reward",
+			"Zuwijo Zwil Velgear Duel Reward",
 			"Duel Links Mission Research",
 			"Tag Duel Tournament",
 			"GR Festival Special Pack Vol.01",
@@ -4101,6 +4105,23 @@
 		"cardObtain": [
 			"Scorching Flame Burst"
 		]
+	},
+	{
+		"id": 15808,
+		"name": "Anchor Moray",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "You have \"Umi\" or \"Big Umi\" face-up on your field.",
+		"effect": "Add 1 Level 3 or lower Fish Type Normal Monster from your Graveyard to your hand.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 900,
+			"def": 600,
+			"attribute": "WATER",
+			"race": "FISH"
+		}
 	},
 	{
 		"id": 15809,
@@ -5128,7 +5149,8 @@
 			"race": "WYRM"
 		},
 		"cardObtain": [
-			"Heavy Strike Excavator"
+			"Heavy Strike Excavator",
+			"Requiem of Collapse"
 		]
 	},
 	{
@@ -5214,14 +5236,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "An ant who is oppressed, but believes it will have freedom someday.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 1,
 			"atk": 100,
 			"def": 200,
 			"attribute": "WATER",
 			"race": "INSECT"
-		}
+		},
+		"cardObtain": [
+			"Card Trader (Featured)"
+		]
 	},
 	{
 		"id": 16131,
@@ -5231,14 +5256,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "Ants that gather to swear to fight their oppressors. A revolution is coming.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 1,
 			"atk": 100,
 			"def": 400,
 			"attribute": "WIND",
 			"race": "INSECT"
-		}
+		},
+		"cardObtain": [
+			"Card Trader (Featured)"
+		]
 	},
 	{
 		"id": 16132,
@@ -5248,14 +5276,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "Although they always suffer in silence, they swear an oath to inevitably revolt.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 1,
 			"atk": 100,
 			"def": 600,
 			"attribute": "FIRE",
 			"race": "INSECT"
-		}
+		},
+		"cardObtain": [
+			"Card Trader (Featured)"
+		]
 	},
 	{
 		"id": 16133,
@@ -5651,14 +5682,17 @@
 		"isLegend": false,
 		"requirement": "Pay 100 LP.",
 		"effect": "All Attack Position Insect Type monsters with 100 or less ATK on your field gain ATK equal to [the number of monsters on your field] x 800 until the end of this turn.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 7,
 			"atk": 100,
 			"def": 100,
 			"attribute": "EARTH",
 			"race": "INSECT"
-		}
+		},
+		"cardObtain": [
+			"Card Trader (Featured)"
+		]
 	},
 	{
 		"id": 16155,
@@ -7357,14 +7391,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "A Constructor Wyrm enveloped in specialized construction gear. It is said that no matter the size of the project, the wyrm could demolish the site in one blow.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 7,
 			"atk": 2400,
 			"def": 1900,
 			"attribute": "EARTH",
 			"race": "WYRM"
-		}
+		},
+		"cardObtain": [
+			"Requiem of Collapse"
+		]
 	},
 	{
 		"id": 16598,
@@ -7374,7 +7411,10 @@
 		"isLegend": false,
 		"requirement": "Your opponnet has a face-up Level 7 or higher monster on their field.",
 		"effect": "While this card is face-up in the Field Zone, both players can Tribute Summon Level 7 or higher Wyrm Type monsters in Attack Position with only 1 Tribute.",
-		"rarity": "NPC"
+		"rarity": "R",
+		"cardObtain": [
+			"Requiem of Collapse"
+		]
 	},
 	{
 		"id": 16600,
@@ -8046,6 +8086,26 @@
 		]
 	},
 	{
+		"id": 16690,
+		"name": "Rindrmuhle",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If a face-up Field Spell Card is on the field, send the top card of your Deck to the Graveyard.",
+		"effect": "This card gains 500 ATK until the end of this turn.",
+		"rarity": "N",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1100,
+			"def": 0,
+			"attribute": "WIND",
+			"race": "WYRM"
+		},
+		"cardObtain": [
+			"Requiem of Collapse"
+		]
+	},
+	{
 		"id": 16691,
 		"name": "Gate Gargoyle",
 		"cardType": "EFFECT",
@@ -8139,7 +8199,10 @@
 		"isLegend": false,
 		"requirement": "When your opponent Normal Summons a Level 5 or higher monster.",
 		"effect": "Special Summon 1 Level 5 or lower Normal Monster from your Graveyard to your field in face-up Attack Position.",
-		"rarity": "NPC"
+		"rarity": "R",
+		"cardObtain": [
+			"Requiem of Collapse"
+		]
 	},
 	{
 		"id": 16714,
@@ -8530,7 +8593,8 @@
 		"cardObtain": [
 			"Heavy Metal Scream",
 			"Selection BOX Vol.01",
-			"Divine Genesis Blade"
+			"Divine Genesis Blade",
+			"Requiem of Collapse"
 		]
 	},
 	{
@@ -9349,7 +9413,8 @@
 		"cardObtain": [
 			"Fusion of Revolution",
 			"Hero\u0027s Stage",
-			"Divine Genesis Blade"
+			"Divine Genesis Blade",
+			"Requiem of Collapse"
 		]
 	},
 	{
@@ -9708,14 +9773,17 @@
 		"isLegend": false,
 		"requirement": "During your Main Phase that you Normal Summoned or Special Summoned this card, send the top card of your Deck to the Graveyard.",
 		"effect": "This card loses 800 ATK until the end of this turn. Then, you can gain 800 LP.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 6,
 			"atk": 1800,
 			"def": 0,
 			"attribute": "DARK",
 			"race": "PSYCHIC"
-		}
+		},
+		"cardObtain": [
+			"Requiem of Collapse"
+		]
 	},
 	{
 		"id": 16981,
@@ -9952,6 +10020,25 @@
 		]
 	},
 	{
+		"id": 17001,
+		"name": "CAN:D LIVE",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "MULTICHOICE",
+		"isLegend": false,
+		"inherentSummonCondition": "\"CAN:D\" + \"Psypickupper\"",
+		"requirement": "Your opponent has a monster on their field.",
+		"effect": "⬤ Take 2000 damage. You can make all face-up monsters on your opponent\u0027s field lose 3000 ATK until the end of this turn. ⬤ Gain 1000 LP. You can choose 1 Level 7 or higher Psychic Type monster in your Graveyard and Special Summon it face-up to your field.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 2800,
+			"def": 2400,
+			"attribute": "LIGHT",
+			"race": "OMEGA_PSYCHIC"
+		}
+	},
+	{
 		"id": 17002,
 		"name": "Yamiterasu the Divine Ruler",
 		"cardType": "FUSION_EFFECT",
@@ -10158,6 +10245,25 @@
 			"Genesis Maximum",
 			"Selection BOX Vol.02"
 		]
+	},
+	{
+		"id": 17203,
+		"name": "Infinite Constructor Wyrm Buildream",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Constructor Wyrm Buildragon\" + \"Constructor Princess Pylon\"",
+		"requirement": "Send 1 card from your Field Zone to the Graveyard.",
+		"effect": "Destroy 2 monsters on your opponent\u0027s field.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 3000,
+			"def": 2500,
+			"attribute": "EARTH",
+			"race": "WYRM"
+		}
 	},
 	{
 		"id": 17205,
@@ -10384,6 +10490,23 @@
 		]
 	},
 	{
+		"id": 17270,
+		"name": "Mechaleon",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "This monster can hide just about anywhere by adopting the colors of its surroundings.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 2,
+			"atk": 800,
+			"def": 600,
+			"attribute": "WATER",
+			"race": "REPTILE"
+		}
+	},
+	{
 		"id": 17271,
 		"name": "Blue-Eyed Silver Zombie",
 		"cardType": "NORMAL",
@@ -10407,8 +10530,26 @@
 			"Yuamu Ohdo Starter Deck",
 			"Yuo Goha Starter Deck",
 			"Nail Saionji Duel Reward",
-			"Yuhi Ohdo Duel Reward"
+			"Yuhi Ohdo Duel Reward",
+			"Zuwijo Zwil Velgear Duel Reward"
 		]
+	},
+	{
+		"id": 17272,
+		"name": "Yormungarde",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "An extremely long snake that dwells in the world of myth.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 1200,
+			"def": 900,
+			"attribute": "EARTH",
+			"race": "REPTILE"
+		}
 	},
 	{
 		"id": 17274,
@@ -10519,7 +10660,8 @@
 			"race": "THUNDER"
 		},
 		"cardObtain": [
-			"Genesis Maximum"
+			"Genesis Maximum",
+			"Requiem of Collapse"
 		]
 	},
 	{
@@ -10539,7 +10681,8 @@
 			"race": "THUNDER"
 		},
 		"cardObtain": [
-			"Genesis Maximum"
+			"Genesis Maximum",
+			"Requiem of Collapse"
 		]
 	},
 	{
@@ -10587,14 +10730,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "Ants thanking each other for their support. They are determined to reproduce for more soldiers to thank.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 1,
 			"atk": 100,
 			"def": 1500,
 			"attribute": "LIGHT",
 			"race": "INSECT"
-		}
+		},
+		"cardObtain": [
+			"Duel Links Appreciation Campaign"
+		]
 	},
 	{
 		"id": 17287,
@@ -10654,6 +10800,23 @@
 		}
 	},
 	{
+		"id": 17293,
+		"name": "Kamaleon",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Pay 300 LP.",
+		"effect": "Send the top 3 cards of your Deck to the Graveyard. If a Reptile Type Normal Monster(s) is among the cards sent, also add 1 Reptile Type Normal Monster from your Graveyard to your hand. This turn, you can only attack with Reptile Type monsters.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 1000,
+			"def": 600,
+			"attribute": "WIND",
+			"race": "REPTILE"
+		}
+	},
+	{
 		"id": 17295,
 		"name": "Fiery Infernleon",
 		"cardType": "EFFECT",
@@ -10671,6 +10834,23 @@
 		}
 	},
 	{
+		"id": 17299,
+		"name": "Spyturtle",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "Reduce the Level of 1 face-up monster with a Level between 3 and 8 on your opponent\u0027s field by 2 until the end of this turn.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 800,
+			"def": 1300,
+			"attribute": "LIGHT",
+			"race": "REPTILE"
+		}
+	},
+	{
 		"id": 17301,
 		"name": "Zap Zap Octospark",
 		"cardType": "EFFECT",
@@ -10678,14 +10858,17 @@
 		"isLegend": false,
 		"requirement": "You Normal Summoned this card this turn and you have a face-up Thunder Type Normal Monster on your field.",
 		"effect": "This card gains 400 ATK until the end of this turn. Then, inflict 400 damage to your opponent.",
-		"rarity": "NPC",
+		"rarity": "R",
 		"monsterInfo": {
 			"level": 6,
 			"atk": 1600,
 			"def": 800,
 			"attribute": "WATER",
 			"race": "THUNDER"
-		}
+		},
+		"cardObtain": [
+			"Requiem of Collapse"
+		]
 	},
 	{
 		"id": 17302,
@@ -10825,6 +11008,48 @@
 			"attribute": "LIGHT",
 			"race": "CYBORG"
 		}
+	},
+	{
+		"id": 17316,
+		"name": "Poseigyon Adventurer",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Anglercoilfish\" + \"Pluggyfish\"",
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "All face-up Thunder Type monsters on your field gain 400 ATK until the end of this turn.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2600,
+			"def": 1800,
+			"attribute": "WATER",
+			"race": "THUNDER"
+		},
+		"cardObtain": [
+			"Requiem of Collapse"
+		]
+	},
+	{
+		"id": 17317,
+		"name": "Showering Seaferno",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Zap Zap Octospark\" + \"Pluggyfish\"",
+		"requirement": "None",
+		"effect": "Add 1 \"Zap Zap Octospark\" from your Graveyard to your hand. Then, inflict 800 damage to your opponent. If your opponent has a face-up Level 8 monster on their field, this turn, also all face-up Level 8 monsters on your opponent\u0027s field lose 800 ATK and this card gains 800 ATK.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2800,
+			"def": 2400,
+			"attribute": "WATER",
+			"race": "THUNDER"
+		},
+		"cardObtain": [
+			"Requiem of Collapse"
+		]
 	},
 	{
 		"id": 17320,
@@ -11267,6 +11492,43 @@
 		}
 	},
 	{
+		"id": 17499,
+		"name": "Dark Handshaker",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Shuffle 1 card from your opponent\u0027s Graveyard into the Deck. If you have a face-up Level 7 or higher Normal Monster on your field, you can change 1 Attack Position monster on your opponent\u0027s field to face-down Defense Position.",
+		"rarity": "N",
+		"monsterInfo": {
+			"level": 2,
+			"atk": 800,
+			"def": 1000,
+			"attribute": "DARK",
+			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Requiem of Collapse"
+		]
+	},
+	{
+		"id": 17500,
+		"name": "Astro Rescue",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Your opponent has a monster on their field and you have 2 face-up Normal Monsters on your field.",
+		"effect": "Add 1 Normal Monster from your Graveyard to your hand. This turn, you cannot attack with Level 8 or lower Effect Monsters.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 1000,
+			"def": 1100,
+			"attribute": "WATER",
+			"race": "GALAXY"
+		}
+	},
+	{
 		"id": 17501,
 		"name": "Ozone Slayer",
 		"cardType": "EFFECT",
@@ -11426,6 +11688,23 @@
 		}
 	},
 	{
+		"id": 17512,
+		"name": "Therappi",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Shuffle 2 Reptile Type monsters from your Graveyard into the Deck.",
+		"effect": "Gain 500 LP.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 200,
+			"def": 1200,
+			"attribute": "EARTH",
+			"race": "REPTILE"
+		}
+	},
+	{
 		"id": 17513,
 		"name": "Rapid Carriearth",
 		"cardType": "EFFECT",
@@ -11480,6 +11759,23 @@
 		]
 	},
 	{
+		"id": 17516,
+		"name": "Bio Mechmantis",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Shuffle 1 Insect Type monster from your Graveyard into the Deck.",
+		"effect": "1 face-up monster on your opponent\u0027s field loses 300 ATK until the end of this turn. Then, you can make that monster become Insect Type until the end of this turn.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1200,
+			"def": 0,
+			"attribute": "EARTH",
+			"race": "INSECT"
+		}
+	},
+	{
 		"id": 17517,
 		"name": "Crusher Drone",
 		"cardType": "EFFECT",
@@ -11520,6 +11816,23 @@
 		]
 	},
 	{
+		"id": 17520,
+		"name": "Ungrad Diggra",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Send the top 2 cards of your Deck to the Graveyard. If an Insect Type monster(s) is among the cards sent, this card also gains ATK equal to [the number of monsters sent to the Graveyard by this effect] x 400 until the end of this turn.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2400,
+			"def": 1600,
+			"attribute": "EARTH",
+			"race": "INSECT"
+		}
+	},
+	{
 		"id": 17521,
 		"name": "Grand Cerberus",
 		"cardType": "EFFECT",
@@ -11537,6 +11850,27 @@
 		},
 		"cardObtain": [
 			"Cyber Dragon Launch"
+		]
+	},
+	{
+		"id": 17524,
+		"name": "Constructor Chief Wyrm Handtoolon",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Constructor Warrior Shovelon\" + \"Picklon the Constructor Fairy\"",
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "This card gains 200 ATK until the end of this turn. If there is no face-up Field Spell Card on your field, you can also add 1 \"Peaks of Blisstopia\" or \"Silvermountain of Blisstopia\" from your Graveyard to your hand.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2500,
+			"def": 1300,
+			"attribute": "EARTH",
+			"race": "WYRM"
+		},
+		"cardObtain": [
+			"Requiem of Collapse"
 		]
 	},
 	{
@@ -11593,6 +11927,16 @@
 		"isLegend": false,
 		"requirement": "None",
 		"effect": "While this card is face-up in the Field Zone, all face-up Defense Position Insect Type monsters on the field cannot be destroyed by card effects.",
+		"rarity": "NPC"
+	},
+	{
+		"id": 17536,
+		"name": "Insect Rampage",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Shuffle 2 monsters from your Graveyard into the Deck.",
+		"effect": "All face-up Insect Type monsters on your field gain 300 ATK until the end of this turn. If your opponent has a face-up Insect Type monster on their field, you can also destroy 1 face-up Level 8 or lower monster on their field.",
 		"rarity": "NPC"
 	},
 	{
@@ -11751,14 +12095,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "This etherial dragon carries the hopes of many an innocent star. Its attacks draw strength by resonating with the pure of heart. Ungoldo Guwahi!",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 6,
 			"atk": 2100,
 			"def": 400,
 			"attribute": "LIGHT",
 			"race": "GALAXY"
-		}
+		},
+		"cardObtain": [
+			"Requiem of Collapse"
+		]
 	},
 	{
 		"id": 17568,
@@ -11789,14 +12136,17 @@
 		"isLegend": false,
 		"requirement": "Shuffle 4 Galaxy Type monsters from your Graveyard into the Deck.",
 		"effect": "Draw 1 card.",
-		"rarity": "NPC",
+		"rarity": "R",
 		"monsterInfo": {
 			"level": 6,
 			"atk": 1600,
 			"def": 0,
 			"attribute": "LIGHT",
 			"race": "GALAXY"
-		}
+		},
+		"cardObtain": [
+			"Requiem of Collapse"
+		]
 	},
 	{
 		"id": 17570,
@@ -11806,14 +12156,17 @@
 		"isLegend": false,
 		"requirement": "Place 1 card from your hand on the bottom of the Deck.",
 		"effect": "Special Summon 2 Level 6 or lower Galaxy Type Normal Monsters from your Graveyard face-up to your field. This turn, you can only attack with Galaxy Type monsters.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 6,
 			"atk": 1600,
 			"def": 1500,
 			"attribute": "LIGHT",
 			"race": "GALAXY"
-		}
+		},
+		"cardObtain": [
+			"Requiem of Collapse"
+		]
 	},
 	{
 		"id": 17571,
@@ -11864,14 +12217,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "A galactic warrior with no tolerance for villainry. Its strikes cleave apart even the deepest of darkness. Hideunri Va Yamerdei!",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1500,
 			"def": 100,
 			"attribute": "DARK",
 			"race": "GALAXY"
-		}
+		},
+		"cardObtain": [
+			"Requiem of Collapse"
+		]
 	},
 	{
 		"id": 17574,
@@ -11910,7 +12266,8 @@
 			"race": "GALAXY"
 		},
 		"cardObtain": [
-			"Transam Universe"
+			"Transam Universe",
+			"Requiem of Collapse"
 		]
 	},
 	{
@@ -11950,7 +12307,8 @@
 			"race": "GALAXY"
 		},
 		"cardObtain": [
-			"Transam Universe"
+			"Transam Universe",
+			"Requiem of Collapse"
 		]
 	},
 	{
@@ -12223,6 +12581,47 @@
 		]
 	},
 	{
+		"id": 17680,
+		"name": "CAN:D ALL",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"CAN:D\" + \"Ice Pop Bear\"",
+		"requirement": "None",
+		"effect": "Special Summon 1 Level 6 or lower Psychic Type monster from your Graveyard face-up to your field.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 2000,
+			"def": 1500,
+			"attribute": "LIGHT",
+			"race": "PSYCHIC"
+		},
+		"cardObtain": [
+			"Requiem of Collapse"
+		]
+	},
+	{
+		"id": 17683,
+		"name": "Ice Pop Bear",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During the turn you Normal Summoned this card.",
+		"effect": "Special Summon 1 \"CAN:D\" or \"Ama Lilith\" from your Graveyard face-up to your field. This turn, you can only attack with Omega Psychic Type and/or Psychic Type monsters.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 600,
+			"def": 600,
+			"attribute": "LIGHT",
+			"race": "PSYCHIC"
+		},
+		"cardObtain": [
+			"Requiem of Collapse"
+		]
+	},
+	{
 		"id": 17684,
 		"name": "Ama Lilith",
 		"cardType": "NORMAL",
@@ -12230,14 +12629,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "A girl that sings her feelings freely. The love will never fade away.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 2,
 			"atk": 400,
 			"def": 400,
 			"attribute": "DARK",
 			"race": "PSYCHIC"
-		}
+		},
+		"cardObtain": [
+			"Requiem of Collapse"
+		]
 	},
 	{
 		"id": 17689,
@@ -12543,7 +12945,10 @@
 		"isLegend": true,
 		"requirement": "Shuffle 5 monsters from your Graveyard into the Deck.",
 		"effect": "Draw 2 cards.",
-		"rarity": "NPC"
+		"rarity": "UR",
+		"cardObtain": [
+			"Special Set (Bundle)"
+		]
 	},
 	{
 		"id": 17744,
@@ -12584,6 +12989,125 @@
 		"cardObtain": [
 			"Card Trader (Featured)"
 		]
+	},
+	{
+		"id": 17843,
+		"name": "Psychic Kappa",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "An amphibian with a myriad of powers to shield it from enemy attacks.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 2,
+			"atk": 400,
+			"def": 1000,
+			"attribute": "WATER",
+			"race": "AQUA"
+		}
+	},
+	{
+		"id": 17844,
+		"name": "Kappa Rapper",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "A rhymester representin\u0027 the riverside. He stirs up passersby who approach the water.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 800,
+			"def": 1300,
+			"attribute": "WATER",
+			"race": "AQUA"
+		}
+	},
+	{
+		"id": 17845,
+		"name": "Kappa Avenger",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "An amphibian that sold his soul for unlimited power to avenge his late friend.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 1200,
+			"def": 900,
+			"attribute": "WATER",
+			"race": "AQUA"
+		}
+	},
+	{
+		"id": 17849,
+		"name": "Wooly Wonderland Aqua Sheep",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "The most buoyant of the Wooly Wonderland flock. It always remains serene and laid baaack.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 2,
+			"atk": 1000,
+			"def": 500,
+			"attribute": "WATER",
+			"race": "BEAST"
+		}
+	},
+	{
+		"id": 17850,
+		"name": "Wooly Wonderland Thunder Rambda",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "The most lambent of the Wooly Wonderland flock. It conducts the others\u0027 activities, always with a twinkle in its eye.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 1200,
+			"def": 400,
+			"attribute": "LIGHT",
+			"race": "BEAST"
+		}
+	},
+	{
+		"id": 17851,
+		"name": "Wooly Wonderland Air Aries",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "The free-roamer of the Wooly Wonderland flock. It remains blase even while others around are venting.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 1300,
+			"def": 200,
+			"attribute": "WIND",
+			"race": "BEAST"
+		}
+	},
+	{
+		"id": 17860,
+		"name": "Aliyen 33",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "A specialist in spacecraft design and maintenance. Currently assisting with an outlandish project at a certain facility.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 1100,
+			"def": 1100,
+			"attribute": "LIGHT",
+			"race": "REPTILE"
+		}
 	},
 	{
 		"id": 17863,
@@ -12643,6 +13167,46 @@
 		]
 	},
 	{
+		"id": 17869,
+		"name": "Parafungus Colony",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "You have a face-up Level 7 or higher Galaxy Type monster on your field.",
+		"effect": "Special Summon 1 \"Parafungus Colony\" from your Graveyard, face-up to your field.",
+		"rarity": "N",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1000,
+			"def": 1000,
+			"attribute": "DARK",
+			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Requiem of Collapse"
+		]
+	},
+	{
+		"id": 17870,
+		"name": "Burst Ray Blaster",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Reveal 1 Level 7 or higher Galaxy Type monster in your hand.",
+		"effect": "Inflict damage to your opponent equal to [the number of face-up monsters on their field] x 200. You can change 1 face-up monster on your opponent\u0027s field to LIGHT Attribute until the end of this turn.",
+		"rarity": "N",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1200,
+			"def": 200,
+			"attribute": "DARK",
+			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Requiem of Collapse"
+		]
+	},
+	{
 		"id": 17871,
 		"name": "Star Trancer",
 		"cardType": "EFFECT",
@@ -12650,13 +13214,68 @@
 		"isLegend": false,
 		"requirement": "Send this face-up card from your field to the Graveyard.",
 		"effect": "Special Summon 1 Galaxy Type monster from your hand, face-up to your field. If you Special Summoned a Level 8 monster by this effect, this turn, it gains 400 ATK and inflicts piercing battle damage.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 6,
 			"atk": 1700,
 			"def": 1200,
 			"attribute": "DARK",
 			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Zuwijo Zwil Velgear Duel Reward"
+		]
+	},
+	{
+		"id": 17873,
+		"name": "Voidvelg Requiem",
+		"cardType": "EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "This card gains ATK equal to [the number of face-up DARK Attribute monsters on your field] x 300 until the end of this turn. Then, if your opponent has a face-up LIGHT Attribute monster on their fild, this card gains 600 ATK until the end of this turn.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2500,
+			"def": 2000,
+			"attribute": "DARK",
+			"race": "GALAXY"
+		}
+	},
+	{
+		"id": 17874,
+		"name": "Wooly Wonderland Wave Schaf",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "Gain 200 LP. If you have 3 or more Beast Type Normal Monsters with different Attributes in your Graveyard, you can also Special Summon 1 \"Princess of the Flock - Miss Mutton\" from your Graveyard face-up to your field.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 800,
+			"def": 300,
+			"attribute": "WATER",
+			"race": "BEAST"
+		}
+	},
+	{
+		"id": 17875,
+		"name": "Pandemonium Kappa Dive Wet",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During the turn you Normal Summoned this card.",
+		"effect": "Shuffle Level 7 Normal Monster(s) from your opponent\u0027s Graveyard into the Deck equal to [the number of Spell Cards in your opponent\u0027s Graveyard]. Then, you can Special Summon 1 \"Kappa Emperor River Slider\" from your Graveyard face-up to your field.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 100,
+			"def": 1000,
+			"attribute": "WATER",
+			"race": "AQUA"
 		}
 	},
 	{
@@ -12748,6 +13367,57 @@
 		}
 	},
 	{
+		"id": 17891,
+		"name": "Amabear Lilith",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Ama Lilith\" + \"Ice Pop Bear\"",
+		"requirement": "None",
+		"effect": "Return 1 monster on your opponent\u0027s field to the hand. Then, your opponent can Special Summon 1 monster from their hand in face-up Attack Position to their field.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 2000,
+			"def": 1500,
+			"attribute": "DARK",
+			"race": "PSYCHIC"
+		},
+		"cardObtain": [
+			"Requiem of Collapse"
+		]
+	},
+	{
+		"id": 17893,
+		"name": "Eclipse",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Choose 1 face-up monster on your field and 1 face-up monster on your opponent\u0027s field with the same Level as that monster. Destroy those monsters.",
+		"rarity": "NPC"
+	},
+	{
+		"id": 17900,
+		"name": "Triumphant Arrival",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Shuffle 3 Level 3 or lower Reptile Type Normal Monsters from your Graveyard into the Deck.",
+		"effect": "Special Summon 1 Reptile Type monster from your Graveyard face-up to your field.",
+		"rarity": "NPC"
+	},
+	{
+		"id": 17902,
+		"name": "Dolphin\u0027s Treasure Chest",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 WATER Attribute monster from your hand to the Graveyard.",
+		"effect": "Draw 1 card. If your opponent has a face-up Level 7 monster on their field, you can draw 1 additional card.",
+		"rarity": "NPC"
+	},
+	{
 		"id": 17903,
 		"name": "Strange Seas",
 		"cardType": "SPELL",
@@ -12755,6 +13425,16 @@
 		"isLegend": false,
 		"requirement": "None",
 		"effect": "Special Summon up to 3 Level 4 or lower WATER Attribute monsters face-up from your hand to the field. Then, if you have 3 face-up WATER Attribute monsters on your field, you can draw 1 card.",
+		"rarity": "NPC"
+	},
+	{
+		"id": 17909,
+		"name": "Sunbathing Kappa",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When your opponent Normal Summon or Special Summons a Level 5 or higher monster face-up.",
+		"effect": "Special Summon 1 Level 4 or lower Aqua Type Normal Monster from your Graveyard in face-down Defense Position to your field.",
 		"rarity": "NPC"
 	},
 	{
@@ -13137,6 +13817,190 @@
 			"attribute": "FIRE",
 			"race": "PYRO"
 		}
+	},
+	{
+		"id": 17966,
+		"name": "Voidvelg Elysium",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 card from your hand to the Graveyard.",
+		"effect": "Change 1 face-up monster on your opponent\u0027s field to face-down Defense Position. This card gains 500 ATK until the end of this turn. If you sent a monster to the Graveyard to meet the requirement, this card cannot be destroyed by your opponent\u0027s Trap Card effects this turn.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2500,
+			"def": 2000,
+			"attribute": "DARK",
+			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Zuwijo Zwil Velgear Duel Reward"
+		]
+	},
+	{
+		"id": 17967,
+		"name": "Voidvelg Hecatoncheir",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Change this Attack Position card to face-up Defense Position.",
+		"effect": "Inflict 500 damage to your opponent. If you have a face-up Level 8 monster on your field, you can change the battle position of 1 face-up Galaxy Type monster on your field (Attack Position becomes face-up Defense Position, Defense Position becomes face-up Attack Position).",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2000,
+			"def": 2600,
+			"attribute": "DARK",
+			"race": "GALAXY"
+		}
+	},
+	{
+		"id": 17968,
+		"name": "Voidvelg Palerider",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "An incarnation of the netherworld\u0027s sovereign, it claims the souls of the living and carries them to its realm. None may escape its violet edge.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1600,
+			"def": 0,
+			"attribute": "DARK",
+			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Requiem of Collapse"
+		]
+	},
+	{
+		"id": 17969,
+		"name": "Voidvelg Hoplites",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "Spawned from cosmic chaos, this soldier serves a malicious deity. If its merciless eye fixes upon you, you will know the true meaning of fear.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1500,
+			"def": 100,
+			"attribute": "DARK",
+			"race": "GALAXY"
+		}
+	},
+	{
+		"id": 17970,
+		"name": "Dimension Azarth",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "After many years dormant, it has set out once more to devour lifeforms across the cosmos. It invades domain after domain via the interdimensional portals that surround it.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1500,
+			"def": 0,
+			"attribute": "DARK",
+			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Zuwijo Zwil Velgear Duel Reward"
+		]
+	},
+	{
+		"id": 17971,
+		"name": "Voidvelg Globule",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Shuffle 3 DARK Attribute Galaxy Type monsters from your Graveyard into the Deck.",
+		"effect": "This turn, this face-up card can be treated as 2 Tributes for the Tribute Summon of a DARK Attribute Galaxy Type monster in Attack Position.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 0,
+			"def": 1300,
+			"attribute": "DARK",
+			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Requiem of Collapse"
+		]
+	},
+	{
+		"id": 17972,
+		"name": "Voidvelg Meteon",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you have a face-up Level 7 or higher Galaxy Type monster on your field, send this face-up card from your field to the Graveyard.",
+		"effect": "Destroy 1 face-up Level 6 or lower LIGHT Attribute monster on your opponent\u0027s field. Inflict 300 damage to your opponent.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 2,
+			"atk": 500,
+			"def": 900,
+			"attribute": "DARK",
+			"race": "GALAXY"
+		}
+	},
+	{
+		"id": 17973,
+		"name": "Meteor Larva",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Send cards from the top of your Deck to the Graveyard equal to [the number of face-up DARK Attribute Galaxy Type monsters on your field].",
+		"rarity": "N",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 600,
+			"def": 0,
+			"attribute": "DARK",
+			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Requiem of Collapse"
+		]
+	},
+	{
+		"id": 17974,
+		"name": "Voidvelg Peltast",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "Imbued with energy from a crescent moon, this warrior fends off every attack with a monumental shield. Its inner power awakens with the arrival of the full moon.",
+		"rarity": "N",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 0,
+			"def": 1500,
+			"attribute": "DARK",
+			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Requiem of Collapse"
+		]
+	},
+	{
+		"id": 17975,
+		"name": "Void Corridor",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you have a DARK Attribute Galaxy Type monster in your Graveyard, send 1 card from your hand to the Graveyard.",
+		"effect": "Add 1 DARK Attribute Galaxy Type monster from your Graveyard to your hand.",
+		"rarity": "R",
+		"cardObtain": [
+			"Requiem of Collapse"
+		]
 	},
 	{
 		"id": 17978,
@@ -13645,6 +14509,23 @@
 		]
 	},
 	{
+		"id": 18377,
+		"name": "Dark Prophet",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During the turn you Normal Summoned this card, shuffle 3 DARK Attribute Galaxy Type monsters from your Graveyard into the Deck.",
+		"effect": "Add 1 \"Fusion\" from your Graveyard to your hand.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 0,
+			"def": 0,
+			"attribute": "DARK",
+			"race": "GALAXY"
+		}
+	},
+	{
 		"id": 18384,
 		"name": "Beast Gear Emperor Glider Fox",
 		"cardType": "EFFECT",
@@ -13717,6 +14598,26 @@
 		"requirement": "None",
 		"effect": "Destroy all monsters on the field.",
 		"rarity": "NPC"
+	},
+	{
+		"id": 18401,
+		"name": "Jointech Leo",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During the turn you Normal Summoned this card.",
+		"effect": "Choose 1 Spell/Trap Card in your opponent\u0027s Graveyard. Your opponent Sets it on their field. Then, you can add 1 Level 7 or higher EARTH Attribute Machine Type monster from your Graveyard to your hand.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1400,
+			"def": 0,
+			"attribute": "EARTH",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"Requiem of Collapse"
+		]
 	},
 	{
 		"id": 18403,
@@ -14057,6 +14958,43 @@
 		}
 	},
 	{
+		"id": 18590,
+		"name": "Voidvelg Cataphract",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "You have another face-up DARK Attribute monster on your field during the turn you Normal Summoned this card.",
+		"effect": "Send the top card of your Deck to the Graveyard. If you sent a monster to the Graveyard by this effect, you can add 1 Level 8 Galaxy Type monster from your Graveyard to your hand.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1000,
+			"def": 1000,
+			"attribute": "DARK",
+			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Requiem of Collapse"
+		]
+	},
+	{
+		"id": 18591,
+		"name": "Voidvelg Black Dwarf",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During the turn you Normal Summoned this card.",
+		"effect": "Special Summon 1 Level 4 DARK Attribute Galaxy Type Normal Monster from your Graveyard, face-up to your field.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 5,
+			"atk": 1500,
+			"def": 0,
+			"attribute": "DARK",
+			"race": "GALAXY"
+		}
+	},
+	{
 		"id": 18600,
 		"name": "Cyber Coatl",
 		"cardType": "EFFECT",
@@ -14115,6 +15053,16 @@
 		"rarity": "NPC"
 	},
 	{
+		"id": 18641,
+		"name": "Dark Nebula",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When a DARK Attribute Galaxy Type monster on your field with 1500 or more ATK is destroyed by an opponent\u0027s attack.",
+		"effect": "Special Summon 1 DARK Attribute Galaxy Type monster from your Graveyard in face-up Attack Position to your field. The monster Special Summoned by this effect loses 500 ATK until the end of this turn.",
+		"rarity": "NPC"
+	},
+	{
 		"id": 18646,
 		"name": "Buffered Slime",
 		"cardType": "TRAP",
@@ -14142,6 +15090,23 @@
 			"def": 1400,
 			"attribute": "EARTH",
 			"race": "MACHINE"
+		}
+	},
+	{
+		"id": 18650,
+		"name": "Princessleon",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "A cutesy chameleon with an affinity for anything adorable. She keeps her latest fav stowed in her mouth all day long.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 100,
+			"def": 600,
+			"attribute": "LIGHT",
+			"race": "REPTILE"
 		}
 	},
 	{
@@ -14257,6 +15222,23 @@
 		]
 	},
 	{
+		"id": 18697,
+		"name": "Nimble Lemming",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Your opponent has a monster on their field during the turn you Normal Summoned this card.",
+		"effect": "Send the top 3 cards of your Deck to the Graveyard. Then, you can Special Summon 1 \"Nimble Lemming\" sent to the Graveyard by this effect face-up to your field.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 2,
+			"atk": 900,
+			"def": 100,
+			"attribute": "EARTH",
+			"race": "BEAST"
+		}
+	},
+	{
 		"id": 18700,
 		"name": "Night Before the Big March",
 		"cardType": "SPELL",
@@ -14308,6 +15290,23 @@
 		"cardObtain": [
 			"Heavy Strike Excavator"
 		]
+	},
+	{
+		"id": 18714,
+		"name": "Trap Mole",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "You have a \"Trap Hole\" in your Graveyard during the turn you Normal Summoned this card.",
+		"effect": "Set 1 Trap Card from your Graveyard to your Spell \u0026 Trap Zone.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 600,
+			"def": 900,
+			"attribute": "EARTH",
+			"race": "BEAST"
+		}
 	},
 	{
 		"id": 18786,
@@ -14445,6 +15444,40 @@
 		}
 	},
 	{
+		"id": 18935,
+		"name": "Voidvelg Kyrie",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 face-up Level 7 or lower Galaxy Type monster from your field to the Graveyard.",
+		"effect": "Add 1 \"Voidvelg Requiem\" or \"Voidvelg Chrysaor\" from your Graveyard to your hand. Then, you can choose 1 face-up card on your field. This turn, that card cannot be destroyed by effects.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 2,
+			"atk": 200,
+			"def": 500,
+			"attribute": "DARK",
+			"race": "GALAXY"
+		}
+	},
+	{
+		"id": 18936,
+		"name": "Voidvelg Logisticos",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Reveal 1 Level 7 or higher Galaxy Type monster in your hand.",
+		"effect": "Set 1 \"Fusion\" from your Graveyard to your Spell \u0026 Trap Zone. If your opponent has a face-up Level 7 or higher monster on their field, you can also add 1 Level 8 Galaxy Type monster from your Graveyard to your hand.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1000,
+			"def": 1300,
+			"attribute": "DARK",
+			"race": "GALAXY"
+		}
+	},
+	{
 		"id": 18943,
 		"name": "Zuse the Wisdom Vassal",
 		"cardType": "EFFECT",
@@ -14463,6 +15496,23 @@
 		"cardObtain": [
 			"Transcendence Miragias"
 		]
+	},
+	{
+		"id": 18944,
+		"name": "Hebe the Star Vassal",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During the turn you Normal Summoned this card, shuffle 2 monsters with 1000 DEF from your Graveyard into the Deck.",
+		"effect": "Your opponent Special Summons 1 Level 6 or lower Effect Monster from their Graveyard in face-up Defense Position to their field. Then, you can add 1 Level 5 or higher monster with 1000 DEF from your Graveyard to your hand.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 800,
+			"def": 1000,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		}
 	},
 	{
 		"id": 18945,
@@ -14522,6 +15572,26 @@
 		}
 	},
 	{
+		"id": 18951,
+		"name": "Star Replacer",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you have no other monsters on your field, return this card from your field to the hand.",
+		"effect": "Special Summon 1 Level 4 or lower monster from your Graveyard in face-down Defense Position to your field. You cannot Special Summon any monsters from your hand or Graveyard until the end of this turn.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 200,
+			"def": 1000,
+			"attribute": "LIGHT",
+			"race": "DRAGON"
+		},
+		"cardObtain": [
+			"Requiem of Collapse"
+		]
+	},
+	{
 		"id": 18958,
 		"name": "Plaster Scout",
 		"cardType": "EFFECT",
@@ -14562,6 +15632,19 @@
 		},
 		"cardObtain": [
 			"Soul with Eyes of Blue"
+		]
+	},
+	{
+		"id": 18995,
+		"name": "Rice Terrace Crisis",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When your opponent Special Summons a monster from the hand or Graveyard.",
+		"effect": "Change up to 2 face-up monsters on your opponent\u0027s field whose total Levels equal 12 or less to face-down Defense Position.",
+		"rarity": "UR",
+		"cardObtain": [
+			"Special Set (Bundle)"
 		]
 	},
 	{
@@ -14765,6 +15848,74 @@
 		"cardObtain": [
 			"Tour Guide Bingo Missions"
 		]
+	},
+	{
+		"id": 19295,
+		"name": "Agent Miscast",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you have no other monsters on your field, pay 300 LP.",
+		"effect": "Send the top 3 cards of your Deck to the Graveyard. If you sent a Reptile Type monster to the Graveyard by this effect, you can also add 1 LIGHT Attribute Reptile Type monster from your Graveyard to your hand.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 300,
+			"def": 300,
+			"attribute": "LIGHT",
+			"race": "REPTILE"
+		}
+	},
+	{
+		"id": 19296,
+		"name": "Agent Mistake",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During your Main Phase that you Normal or Special Summoned this card.",
+		"effect": "Excavate the top 3 cards of your Deck. You can add 1 excavated Level 3 or higher Reptile Type monster to your hand. Place the rest on top of your Deck in any order.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 1300,
+			"def": 300,
+			"attribute": "LIGHT",
+			"race": "REPTILE"
+		}
+	},
+	{
+		"id": 19297,
+		"name": "Agent Mismatch",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If your opponent has a face-up Level 7 or higher monster on their field, send 1 Level 3 or lower Reptile Type monster from your hand to the Graveyard.",
+		"effect": "Special Summon 1 Level 7 Reptile Type monster from your Graveyard in face-up Attack Position to your field.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 1300,
+			"def": 300,
+			"attribute": "LIGHT",
+			"race": "REPTILE"
+		}
+	},
+	{
+		"id": 19298,
+		"name": "Agent Mislead",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you have another face-up Reptile Type monster on your field, pay 300 LP.",
+		"effect": "Change 1 face-down monster on the field to face-up Attack Position. Then, this card loses 1300 ATK until the end of this turn.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 1300,
+			"def": 300,
+			"attribute": "LIGHT",
+			"race": "REPTILE"
+		}
 	},
 	{
 		"id": 19314,
@@ -15102,6 +16253,91 @@
 		}
 	},
 	{
+		"id": 19651,
+		"name": "Hydro Sword Tanegashima Tuna",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you have a Level 7 Fish Type monster, \"Fusion\", or \"Wave Fusion\" in your Graveyard, send 1 card from your hand to the Graveyard.",
+		"effect": "Add 1 Level 7 Fish Type monster, \"Fusion\", or \"Wave Fusion\" from your Graveyard to your hand.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 0,
+			"def": 0,
+			"attribute": "WATER",
+			"race": "FISH"
+		}
+	},
+	{
+		"id": 19652,
+		"name": "Hydro Blaster Mini Bluefin",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "This card gains ATK equal to [the total level of the face-up Fish Type monsters on your field] x 100 until the end of this turn. Then, you can select 1 \"Hydro Cannon Big Bluefin\" in your Graveyard and add it to your hand or Special Summon it face-up to your field.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 1000,
+			"def": 500,
+			"attribute": "WATER",
+			"race": "FISH"
+		}
+	},
+	{
+		"id": 19653,
+		"name": "Charging Remora",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 Fish Type monster from your hand to the Graveyard.",
+		"effect": "Set 1 \"Fish Depth Charge\" from your Graveyard to your Spell \u0026 Trap Zone.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 1000,
+			"def": 500,
+			"attribute": "WATER",
+			"race": "FISH"
+		}
+	},
+	{
+		"id": 19654,
+		"name": "Carrier Manta Ray",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During the turn you Normal Summoned this card.",
+		"effect": "Send the top 2 cards of your Deck to the Graveyard. Then, you can add 1 \"Charge Remora\" or 1 \"Fish Depth Charge\" sent to the Graveyard by this effect to your hand.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 1000,
+			"def": 500,
+			"attribute": "WATER",
+			"race": "FISH"
+		}
+	},
+	{
+		"id": 19655,
+		"name": "Cyber Fish",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 WATER Attribute Fish Type monster from your hand to the Graveyard.",
+		"effect": "Draw 1 card.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1000,
+			"def": 1200,
+			"attribute": "WATER",
+			"race": "FISH"
+		}
+	},
+	{
 		"id": 19685,
 		"name": "Dragonic Progression",
 		"cardType": "SPELL",
@@ -15163,6 +16399,23 @@
 		}
 	},
 	{
+		"id": 19970,
+		"name": "Agent Mishap",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During the turn you Normal Summoned this card, pay 300 LP.",
+		"effect": "Inflict damage to your opponent equal to [the number of face-up LIGHT Attribute Reptile Type monsters on your field] x 300. This turn, you can only attack with Reptile Type monsters.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 1300,
+			"def": 300,
+			"attribute": "LIGHT",
+			"race": "REPTILE"
+		}
+	},
+	{
 		"id": 19974,
 		"name": "Jinzo #7.7",
 		"cardType": "EFFECT",
@@ -15177,6 +16430,23 @@
 			"def": 700,
 			"attribute": "DARK",
 			"race": "MACHINE"
+		}
+	},
+	{
+		"id": 19979,
+		"name": "Animagica Witch",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Reveal up to 2 Level 7 or 8 LIGHT Attribute Effect Monsters in your hand.",
+		"effect": "Draw cards equal to [the number of monsters revealed to meet the requirement]. Then, shuffle cards from your hand into the Deck equal to [the number of cards drawn by this effect].",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 1000,
+			"def": 200,
+			"attribute": "LIGHT",
+			"race": "BEAST"
 		}
 	},
 	{
@@ -15433,6 +16703,26 @@
 		]
 	},
 	{
+		"id": 20623,
+		"name": "Constructor Desk Worker Tarasque",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 card from your hand to the Graveyard.",
+		"effect": "Send the top 3 cards of your Deck to the Graveyard. Then, you can add 1 \"Fusion\" or 1 Field Spell Card from your Graveyard to your hand. This turn, you can only attack with Wyrm Type monsters.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 200,
+			"def": 100,
+			"attribute": "EARTH",
+			"race": "WYRM"
+		},
+		"cardObtain": [
+			"Requiem of Collapse"
+		]
+	},
+	{
 		"id": 20630,
 		"name": "Rising HERO Tantalum",
 		"cardType": "EFFECT",
@@ -15451,6 +16741,40 @@
 		"cardObtain": [
 			"Hero\u0027s Stage"
 		]
+	},
+	{
+		"id": 20643,
+		"name": "False Moon",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "You have 2 or more Galaxy Type monsters with 1300 DEF in your Graveyard during the turn you Normal Summoned this card.",
+		"effect": "Special Summon 1 Galaxy Type monster with 1300 DEF from your Graveyard in face-down Defense Position to your field. Then, you can change this card to face-down Defense Position.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 400,
+			"def": 1300,
+			"attribute": "DARK",
+			"race": "GALAXY"
+		}
+	},
+	{
+		"id": 20644,
+		"name": "Dentacle the Parasitic Extraterrestrial",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During the turn you Normal Summoned this card.",
+		"effect": "Send the top 3 cards of your Deck to the Graveyard. If your opponent has not taken any effect damage this turn, you can also inflict 700 damage to them.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1000,
+			"def": 1300,
+			"attribute": "DARK",
+			"race": "GALAXY"
+		}
 	},
 	{
 		"id": 20733,
@@ -15704,6 +17028,71 @@
 		},
 		"cardObtain": [
 			"Selection BOX Vol.02"
+		]
+	},
+	{
+		"id": 21334,
+		"name": "Voidvelg Requiem",
+		"cardType": "EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "This card gains ATK equal to [the number of face-up DARK Attribute monsters on your field] x 300 until the end of this turn. Then, if your opponent has a face-up LIGHT Attribute monster on their field, this card gains 600 ATK until the end of this turn.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2500,
+			"def": 2000,
+			"attribute": "DARK",
+			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Requiem of Collapse"
+		]
+	},
+	{
+		"id": 21335,
+		"name": "CAN:D LIVE",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "MULTICHOICE",
+		"isLegend": false,
+		"inherentSummonCondition": "\"CAN:D\" + \"Psypickupper\"",
+		"requirement": "Your opponent has a monster on their field.",
+		"effect": "⬤ Take 2000 damage. You can make all face-up monsters on your opponent\u0027s field lose 3000 ATK until the end of this turn. ⬤ Gain 1000 LP. You can choose 1 Level 7 or higher Psychic Type monster in your Graveyard and Special Summon it face-up to your field.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 2800,
+			"def": 2400,
+			"attribute": "LIGHT",
+			"race": "OMEGA_PSYCHIC"
+		},
+		"cardObtain": [
+			"Requiem of Collapse"
+		]
+	},
+	{
+		"id": 21336,
+		"name": "Infinite Constructor Wyrm Buildream",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Constructor Wyrm Buildragon\" + \"Constructor Princess Pylon\"",
+		"requirement": "Send 1 card from your Field Zone to the Graveyard.",
+		"effect": "Destroy 2 monsters on your opponent\u0027s field.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 3000,
+			"def": 2500,
+			"attribute": "EARTH",
+			"race": "WYRM"
+		},
+		"cardObtain": [
+			"Requiem of Collapse"
 		]
 	}
 ]

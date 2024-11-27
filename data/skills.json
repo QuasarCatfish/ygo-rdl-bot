@@ -1739,5 +1739,136 @@
 		"mentionedCards": [
 			16934
 		]
+	},
+	{
+		"id": 5201,
+		"name": "Dark Transmission",
+		"requirement": "None",
+		"effect": "Place 1 DARK Attribute Normal Monster from your Graveyard on the top of the Deck. You cannot activate this Skill during your next turn.",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			701,
+			702,
+			704,
+			705
+		],
+		"mentionedCards": []
+	},
+	{
+		"id": 5202,
+		"name": "Dynamic Dream-Builder",
+		"requirement": "Can be activated from turn 2 onward on a turn that you Normal Summoned a Normal Monster, if all of the monsters in your constructed Deck are EARTH Attribute Wyrm Type monsters.",
+		"effect": "⬤ Add 1 \"Fusion\" from your Deck or Graveyard to your hand.\n⬤ Send 1 card from your hand to the Graveyard, then add 1 \"Constructor Wyrm Buildragon\" or \"Peaks of Blisstopia\" from your Deck or Graveyard to your hand. (\"Constructor Wyrm Buildragon\" only once per Duel.)",
+		"effectType": "MULTICHOICE",
+		"isArchive": false,
+		"characters": [
+			709
+		],
+		"mentionedCards": [
+			16934,
+			16147,
+			16163
+		]
+	},
+	{
+		"id": 5203,
+		"name": "Amnesia Rush",
+		"condition": "You can only Special Summon monster(s) whose original Level is 7 once per Duel.",
+		"requirement": "Can be activated if your constructed Deck contains no Level 7 or higher Effect Monsters and all of the monsters are LIGHT Attribute Galaxy Type monsters.",
+		"effect": "Send 1 Level 6 or higher Normal Monster from your Deck to the Graveyard. Then, make up to 2 face-up monsters (1 Level 6 or higher Normal Monster and/or 1 Level 6 Effect Monster) on your field gain 600 ATK until the end of this turn.",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			901
+		],
+		"mentionedCards": []
+	},
+	{
+		"id": 5204,
+		"name": "INFINITE:D LIVE!",
+		"requirement": "Can be activated from turn 2 onward if all of the monsters in your constructed Deck are Psychic Type monsters.",
+		"effect": "⬤ Send 1 LIGHT or DARK Attribute monster with 100/400/1500/2200 ATK from your Deck to your Graveyard.\n⬤ Send 1 card from your hand to the Graveyard, then add 1 \"Psypickupper\", \"Ice Pop Bear\", or \"Fusion\" from your Deck or Graveyard to your hand. (Each card once per Duel.)",
+		"effectType": "MULTICHOICE",
+		"isArchive": false,
+		"characters": [
+			704
+		],
+		"mentionedCards": [
+			16980,
+			17683,
+			16934
+		]
+	},
+	{
+		"id": 5205,
+		"name": "Earth Transmission",
+		"requirement": "None",
+		"effect": "Place 1 EARTH Attribute Normal Monster from your Graveyard on the top of the Deck. You cannot activate this Skill during your next turn.",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			701,
+			702,
+			703,
+			709,
+			902
+		],
+		"mentionedCards": []
+	},
+	{
+		"id": 5206,
+		"name": "Rush On - Voidvelg",
+		"requirement": "Activated at the beginning of the Duel.",
+		"effect": "Add 1 \"Voidvelg Requiem\" and 1 \"Voidvelg Palerider\" to your Deck. (You can only have at most 3 copies of each card.)",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			904
+		],
+		"mentionedCards": [
+			17873,
+			17968
+		]
+	},
+	{
+		"id": 5207,
+		"name": "Void Destruction",
+		"requirement": "Can be activated from turn 2 onward, if all of the monsters in your constructed Deck are DARK Attribute Galaxy Type monsters.",
+		"effect": "Choose 1 Attack Position Normal Monster on your field. This turn, that monster inflicts piercing battle damage. Then, send the top 3 cards of your Deck to the Graveyard. If a monster(s) with 1600 or more ATK was sent to the Graveyard by this effect, you can also add 1 of those monsters to your hand.",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			904
+		],
+		"mentionedCards": []
+	},
+	{
+		"id": 5208,
+		"name": "Requiem Draw",
+		"requirement": "Can be activated before your normal draw if your constructed Deck contains 5 or more Level 7 or higher monsters and you have no face-up Level 7 or higher monsters on your field. (Once per Duel.)",
+		"effect": "One of the cards from your normal draw will be a \"Voidvelg Requiem\" in your Deck.",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			904
+		],
+		"mentionedCards": [
+			21334
+		]
+	},
+	{
+		"id": 5209,
+		"name": "Chaos Burst-Ray",
+		"requirement": "Can be activated during a turn you Normal Summoned \"Voidvelg Requiem\".",
+		"effect": "Choose 1 face-up monster on your opponent\u0027s field. This turn, that monster becomes LIGHT Attribute.",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			904
+		],
+		"mentionedCards": [
+			21334
+		]
 	}
 ]
