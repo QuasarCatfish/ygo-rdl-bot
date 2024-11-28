@@ -155,6 +155,7 @@
 			"Mimi Imimi Starter Deck",
 			"Roa Kassidy Starter Deck",
 			"Yuhi Ohdo Starter Deck",
+			"Zuwijo Zwil Velgear Starter Deck",
 			"Yuga Ohdo Duel Reward",
 			"Gavin Sogetsu Duel Reward",
 			"Asana Mutsuba Duel Reward",
@@ -436,6 +437,7 @@
 			"Nail Saionji Starter Deck",
 			"Yuamu Ohdo Starter Deck",
 			"Yuo Goha Starter Deck",
+			"Zuwijo Zwil Velgear Starter Deck",
 			"Lucidien \"Luke\" Kallister Duel Reward",
 			"Mimi Imimi Duel Reward",
 			"Yudias Velgear Duel Reward"
@@ -915,7 +917,8 @@
 			"Romin Kassidy Starter Deck",
 			"Nail Saionji Starter Deck",
 			"Asana Mutsuba Starter Deck",
-			"Yudias Velgear Starter Deck"
+			"Yudias Velgear Starter Deck",
+			"Zuwijo Zwil Velgear Starter Deck"
 		]
 	},
 	{
@@ -1143,6 +1146,7 @@
 			"Yudias Velgear Starter Deck",
 			"Yuhi Ohdo Starter Deck",
 			"Yuo Goha Starter Deck",
+			"Zuwijo Zwil Velgear Starter Deck",
 			"Tag Duel Tournament"
 		]
 	},
@@ -1249,6 +1253,7 @@
 			"Nail Saionji Starter Deck",
 			"Yuhi Ohdo Starter Deck",
 			"Yuamu Ohdo Starter Deck",
+			"Zuwijo Zwil Velgear Starter Deck",
 			"Lucidien \"Luke\" Kallister Duel Reward",
 			"Tag Duel Tournament",
 			"GR Festival Special Pack Vol.01",
@@ -1327,6 +1332,7 @@
 			"Nail Saionji Starter Deck",
 			"Yudias Velgear Starter Deck",
 			"Yuamu Ohdo Starter Deck",
+			"Zuwijo Zwil Velgear Starter Deck",
 			"Roa Kassidy Duel Reward"
 		]
 	},
@@ -1511,6 +1517,7 @@
 			"Yudias Velgear Starter Deck",
 			"Yuhi Ohdo Starter Deck",
 			"Yuo Goha Starter Deck",
+			"Zuwijo Zwil Velgear Starter Deck",
 			"Lucidien \"Luke\" Kallister Duel Reward",
 			"Roa Kassidy Duel Reward",
 			"Yuamu Ohdo Duel Reward"
@@ -2445,6 +2452,7 @@
 			"Yudias Velgear Starter Deck",
 			"Yuhi Ohdo Starter Deck",
 			"Yuamu Ohdo Starter Deck",
+			"Zuwijo Zwil Velgear Starter Deck",
 			"Lucidien \"Luke\" Kallister Duel Reward",
 			"Romin Kassidy Duel Reward",
 			"Nail Saionji Duel Reward",
@@ -3741,6 +3749,7 @@
 			"Mimi Imimi Starter Deck",
 			"Asana Mutsuba Starter Deck",
 			"Yuhi Ohdo Starter Deck",
+			"Zuwijo Zwil Velgear Starter Deck",
 			"Romin Kassidy Duel Reward",
 			"Mimi Imimi Duel Reward",
 			"Nail Saionji Duel Reward",
@@ -5079,6 +5088,7 @@
 			"Asana Mutsuba Starter Deck",
 			"Yuamu Ohdo Starter Deck",
 			"Yuo Goha Starter Deck",
+			"Zuwijo Zwil Velgear Starter Deck",
 			"Yuga Ohdo Duel Reward",
 			"Lucidien \"Luke\" Kallister Duel Reward",
 			"Yuhi Ohdo Duel Reward",
@@ -9296,6 +9306,7 @@
 			"Asana Mutsuba Starter Deck",
 			"Yudias Velgear Starter Deck",
 			"Yuhi Ohdo Starter Deck",
+			"Zuwijo Zwil Velgear Starter Deck",
 			"Yuga Ohdo Duel Reward",
 			"Gavin Sogetsu Duel Reward",
 			"Mimi Imimi Duel Reward",
@@ -9562,6 +9573,7 @@
 			"Roa Kassidy Starter Deck",
 			"Asana Mutsuba Starter Deck",
 			"Yudias Velgear Starter Deck",
+			"Zuwijo Zwil Velgear Starter Deck",
 			"Gavin Sogetsu Duel Reward",
 			"Nail Saionji Duel Reward",
 			"Yuo Goha Duel Reward",
@@ -11200,7 +11212,8 @@
 			"Nail Saionji Starter Deck",
 			"Asana Mutsuba Starter Deck",
 			"Yudias Velgear Starter Deck",
-			"Yuamu Ohdo Starter Deck"
+			"Yuamu Ohdo Starter Deck",
+			"Zuwijo Zwil Velgear Starter Deck"
 		]
 	},
 	{
@@ -11766,14 +11779,17 @@
 		"isLegend": false,
 		"requirement": "Shuffle 1 Insect Type monster from your Graveyard into the Deck.",
 		"effect": "1 face-up monster on your opponent\u0027s field loses 300 ATK until the end of this turn. Then, you can make that monster become Insect Type until the end of this turn.",
-		"rarity": "NPC",
+		"rarity": "R",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1200,
 			"def": 0,
 			"attribute": "EARTH",
 			"race": "INSECT"
-		}
+		},
+		"cardObtain": [
+			"Ranked Duels Reward Ticket"
+		]
 	},
 	{
 		"id": 17517,
@@ -11823,14 +11839,17 @@
 		"isLegend": false,
 		"requirement": "None",
 		"effect": "Send the top 2 cards of your Deck to the Graveyard. If an Insect Type monster(s) is among the cards sent, this card also gains ATK equal to [the number of monsters sent to the Graveyard by this effect] x 400 until the end of this turn.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 7,
 			"atk": 2400,
 			"def": 1600,
 			"attribute": "EARTH",
 			"race": "INSECT"
-		}
+		},
+		"cardObtain": [
+			"Ranked Duels Reward Ticket"
+		]
 	},
 	{
 		"id": 17521,
@@ -11937,7 +11956,10 @@
 		"isLegend": false,
 		"requirement": "Shuffle 2 monsters from your Graveyard into the Deck.",
 		"effect": "All face-up Insect Type monsters on your field gain 300 ATK until the end of this turn. If your opponent has a face-up Insect Type monster on their field, you can also destroy 1 face-up Level 8 or lower monster on their field.",
-		"rarity": "NPC"
+		"rarity": "N",
+		"cardObtain": [
+			"Ranked Duels Reward Ticket"
+		]
 	},
 	{
 		"id": 17537,
@@ -13395,7 +13417,10 @@
 		"isLegend": false,
 		"requirement": "None",
 		"effect": "Choose 1 face-up monster on your field and 1 face-up monster on your opponent\u0027s field with the same Level as that monster. Destroy those monsters.",
-		"rarity": "NPC"
+		"rarity": "UR",
+		"cardObtain": [
+			"Zuwijo Zwil Velgear Level Up Reward"
+		]
 	},
 	{
 		"id": 17900,
@@ -13909,6 +13934,7 @@
 			"race": "GALAXY"
 		},
 		"cardObtain": [
+			"Zuwijo Zwil Velgear Level Up Reward",
 			"Zuwijo Zwil Velgear Duel Reward"
 		]
 	},
@@ -13940,14 +13966,17 @@
 		"isLegend": false,
 		"requirement": "If you have a face-up Level 7 or higher Galaxy Type monster on your field, send this face-up card from your field to the Graveyard.",
 		"effect": "Destroy 1 face-up Level 6 or lower LIGHT Attribute monster on your opponent\u0027s field. Inflict 300 damage to your opponent.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 2,
 			"atk": 500,
 			"def": 900,
 			"attribute": "DARK",
 			"race": "GALAXY"
-		}
+		},
+		"cardObtain": [
+			"Zuwijo Zwil Velgear Level Up Reward"
+		]
 	},
 	{
 		"id": 17973,
