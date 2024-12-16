@@ -11462,14 +11462,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "A group of bugs in-war for the Yami Sap. They are bestowed with a powerful hidden force.",
-		"rarity": "NPC",
+		"rarity": "R",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1500,
 			"def": 0,
 			"attribute": "DARK",
 			"race": "INSECT"
-		}
+		},
+		"cardObtain": [
+			"Card Trader (Regular)"
+		]
 	},
 	{
 		"id": 17497,
@@ -11692,14 +11695,17 @@
 		"isLegend": false,
 		"requirement": "If you have a face-up Insect Type monster on your field other than this card, send the top 2 cards of your Deck to the Graveyard.",
 		"effect": "1 face-up monster on your opponent\u0027s field becomes Insect Type this turn.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 1,
 			"atk": 100,
 			"def": 1000,
 			"attribute": "EARTH",
 			"race": "INSECT"
-		}
+		},
+		"cardObtain": [
+			"Card Trader (Featured)"
+		]
 	},
 	{
 		"id": 17512,
@@ -11743,14 +11749,17 @@
 		"isLegend": false,
 		"requirement": "Send 1 Insect Type monster from your hand to the Graveyard.",
 		"effect": "Draw 1 card.",
-		"rarity": "NPC",
+		"rarity": "R",
 		"monsterInfo": {
 			"level": 3,
 			"atk": 1000,
 			"def": 0,
 			"attribute": "EARTH",
 			"race": "INSECT"
-		}
+		},
+		"cardObtain": [
+			"Card Trader (Featured)"
+		]
 	},
 	{
 		"id": 17515,
@@ -11810,6 +11819,26 @@
 		},
 		"cardObtain": [
 			"Galactica Go Rush"
+		]
+	},
+	{
+		"id": 17518,
+		"name": "Ravenous Matiless",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "1 face-up Insect Type monster on your opponent\u0027s field loses 800 ATK/DEF until the end of this turn.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 1700,
+			"def": 1400,
+			"attribute": "EARTH",
+			"race": "INSECT"
+		},
+		"cardObtain": [
+			"Card Trader (Regular)"
 		]
 	},
 	{
@@ -11970,7 +11999,10 @@
 		"isLegend": false,
 		"requirement": "If 2 or more face-up Insect Type monsters are on the field, send 1 card from your hand to the Graveyard.",
 		"effect": "Draw 1 card. Then, you can destroy 1 Spell/Trap Card on your opponent\u0027s field.",
-		"rarity": "NPC"
+		"rarity": "UR",
+		"cardObtain": [
+			"Card Trader (Regular)"
+		]
 	},
 	{
 		"id": 17539,
@@ -12526,6 +12558,7 @@
 		"id": 17593,
 		"name": "Tamabot",
 		"cardType": "NORMAL",
+		"cardStyle": "ORIGINAL",
 		"effectType": "NORMAL",
 		"isLegend": false,
 		"requirement": "Unknown",
@@ -15364,6 +15397,27 @@
 			"attribute": "LIGHT",
 			"race": "GALAXY"
 		}
+	},
+	{
+		"id": 18897,
+		"name": "Tamabot",
+		"cardType": "NORMAL",
+		"cardStyle": "ALT_ART",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "Although it hatched without any exact plan, it\u0027s always ready to roll.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 200,
+			"def": 0,
+			"attribute": "EARTH",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"GR Festival Special Pack Vol.02"
+		]
 	},
 	{
 		"id": 18907,
