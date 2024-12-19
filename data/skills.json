@@ -403,7 +403,7 @@
 	{
 		"id": 1271,
 		"name": "Lightray\u0027s Draw",
-		"requirement": "Can be activated before your normal draw on turn 4 onward, if your opponent has a face-up Level 7 or higher monster and you have no monsters on your field (once per Duel).",
+		"requirement": "Can be activated before your normal draw on turn 4 onward, if your opponent has a face-up Level 7 or higher monster or 3 monsters on their field. (once per Duel).",
 		"effect": "One of the cards from your normal draw will be a random Level 5 or 6 LIGHT Attribute non-Legend Monster in your Deck.",
 		"effectType": "NORMAL",
 		"isArchive": false,
@@ -420,7 +420,7 @@
 	{
 		"id": 1272,
 		"name": "Dark Call Draw",
-		"requirement": "Can be activated before your normal draw on turn 4 onward, if your opponent has a face-up Level 7 or higher monster and you have no monsters on your field (once per Duel).",
+		"requirement": "Can be activated before your normal draw on turn 4 onward, if your opponent has a face-up Level 7 or higher monster or 3 monsters on their field. (once per Duel).",
 		"effect": "One of the cards from your normal draw will be a random Level 5 or 6 DARK Attribute non-Legend Monster in your Deck.",
 		"effectType": "NORMAL",
 		"isArchive": false,
@@ -433,7 +433,7 @@
 	{
 		"id": 1273,
 		"name": "Splash Draw",
-		"requirement": "Can be activated before your normal draw on turn 4 onward, if your opponent has a face-up Level 7 or higher monster and you have no monsters on your field (once per Duel).",
+		"requirement": "Can be activated before your normal draw on turn 4 onward, if your opponent has a face-up Level 7 or higher monster or 3 monsters on their field. (once per Duel).",
 		"effect": "One of the cards from your normal draw will be a random Level 5 or 6 WATER Attribute non-Legend monster in your Deck.",
 		"effectType": "NORMAL",
 		"isArchive": false,
@@ -446,7 +446,7 @@
 	{
 		"id": 1274,
 		"name": "Blazing Draw",
-		"requirement": "Can be activated before your normal draw on turn 4 onward, if your opponent has a face-up Level 7 or higher monster and you have no monsters on your field (once per Duel).",
+		"requirement": "Can be activated before your normal draw on turn 4 onward, if your opponent has a face-up Level 7 or higher monster or 3 monsters on their field. (once per Duel).",
 		"effect": "One of the cards from your normal draw will be a random Level 5 or 6 FIRE Attribute non-Legend monster in your Deck.",
 		"effectType": "NORMAL",
 		"isArchive": false,
@@ -459,7 +459,7 @@
 	{
 		"id": 1275,
 		"name": "Gravity Draw",
-		"requirement": "Can be activated before your normal draw on turn 4 onward, if your opponent has a face-up Level 7 or higher monster and you have no monsters on your field (once per Duel).",
+		"requirement": "Can be activated before your normal draw on turn 4 onward, if your opponent has a face-up Level 7 or higher monster or 3 monsters on their field. (once per Duel).",
 		"effect": "One of the cards from your normal draw will be a random Level 5 or 6 EARTH Attribute non-Legend monster in your Deck.",
 		"effectType": "NORMAL",
 		"isArchive": false,
@@ -474,7 +474,7 @@
 	{
 		"id": 1276,
 		"name": "Tornado Draw",
-		"requirement": "Can be activated before your normal draw on turn 4 onward, if your opponent has a face-up Level 7 or higher monster and you have no monsters on your field (once per Duel).",
+		"requirement": "Can be activated before your normal draw on turn 4 onward, if your opponent has a face-up Level 7 or higher monster or 3 monsters on their field. (once per Duel).",
 		"effect": "One of the cards from your normal draw will be a random Level 5 or 6 WIND Attribute non-Legend monster in your Deck.",
 		"effectType": "NORMAL",
 		"isArchive": false,
@@ -1417,7 +1417,7 @@
 	{
 		"id": 5008,
 		"name": "Spearhead Draw",
-		"requirement": "Can be activated before your normal draw if your opponent has 3 monsters on their field. (Once per Duel.)",
+		"requirement": "Can be activated before your normal draw. (Once per Duel.)",
 		"effect": "One of the cards from your normal draw will be a random Level 4 Normal Monster.",
 		"effectType": "NORMAL",
 		"isArchive": false,
@@ -1432,7 +1432,7 @@
 	{
 		"id": 5009,
 		"name": "Stop-Defense Draw",
-		"requirement": "Can be activated before your normal draw if your opponent has a face-up Defense Position monster with 2200 or more DEF or 3 Defense Position monsters on their field. (Once per Duel.)",
+		"requirement": "Can be activated before your normal draw. (Once per Duel.)",
 		"effect": "Place 1 \"Stop Defense\" from your Deck or Graveyard on top of your Deck.",
 		"effectType": "NORMAL",
 		"isArchive": false,

@@ -202,5 +202,24 @@
 		"banlist": {
 			"17536": "LIMIT1"
 		}
+	},
+	{
+		"date": "2025-01-09",
+		"banlist": {
+			"15172": "LIMIT1",
+			"15583": "LIMIT2",
+			"15792": "UNLIMITED",
+			"15803": "UNLIMITED",
+			"16370": "UNLIMITED",
+			"16929": "LIMIT3",
+			"16977": "UNLIMITED",
+			"17202": "UNLIMITED",
+			"17871": "LIMIT3",
+			"17978": "UNLIMITED",
+			"18286": "LIMIT3",
+			"18401": "UNLIMITED",
+			"18947": "UNLIMITED",
+			"18998": "UNLIMITED"
+		}
 	}
 ]
