@@ -16012,14 +16012,17 @@
 		"isLegend": false,
 		"requirement": "If you have 3 or more Insect Type monsters in your Graveyard, send the top card of your Deck to the Graveyard.",
 		"effect": "Choose 1 face-up Level 8 or lower Insect Type monster on your field. This turn, that monster gains 200 ATK and can make up to 2 attacks on monsters.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 2,
 			"atk": 400,
 			"def": 200,
 			"attribute": "LIGHT",
 			"race": "INSECT"
-		}
+		},
+		"cardObtain": [
+			"Ranked Duels Reward Ticket"
+		]
 	},
 	{
 		"id": 19314,
