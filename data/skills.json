@@ -1870,5 +1870,23 @@
 		"mentionedCards": [
 			17873
 		]
+	},
+	{
+		"id": 5301,
+		"name": "Mystical Script",
+		"requirement": "Can be activated from turn 2 onward, if all of the monsters in your constructed Deck are LIGHT Attribute monsters with 500 DEF and/or Fairy Type monsters with 2000 DEF.",
+		"effect": "⬤ Send 1 \"Imaginary Actor\" from your Deck to the Graveyard. (Once per Duel.)\n⬤ 1 face-up monster on your field that was Tribute Summoned this turn gains 900 ATK until the end of this turn.",
+		"effectType": "MULTICHOICE",
+		"isArchive": false,
+		"mentionedCards": []
+	},
+	{
+		"id": 5302,
+		"name": "RB Drive",
+		"requirement": "Can be activated from turn 2 onward, if all of the monsters in your constructed Deck are Dragon Type monsters and \"Blue-Fang Burst Dragon\" and \"Red-Boot Boost Dragon\" are the only Level 5 or higher Effect Monsters in your constructed Deck.",
+		"effect": "⬤ Take 2 cards (\"Red-Boot Boost Dragon\" and/or Level 4 or lower LIGHT Attribute monsters) from your Deck and add 1 of them to your hand and send the other to the Graveyard. (This effect can be used once going first and twice going second.)\n⬤ 1 face-up monster on your opponent\u0027s field loses 400 ATK until the end of this turn.",
+		"effectType": "MULTICHOICE",
+		"isArchive": false,
+		"mentionedCards": []
 	}
 ]

@@ -2293,6 +2293,23 @@
 		]
 	},
 	{
+		"id": 15442,
+		"name": "Hydro Canon Big Bluefin",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 card from your hand to the Graveyard.",
+		"effect": "Up to 2 face-up Fish Type monsters on your field with 1000 or less ATK can attack directly this turn.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2200,
+			"def": 2100,
+			"attribute": "WATER",
+			"race": "FISH"
+		}
+	},
+	{
 		"id": 15443,
 		"name": "Archfiend\u0027s Summoning Flute",
 		"cardType": "EFFECT",
@@ -4173,6 +4190,23 @@
 		"cardObtain": [
 			"Lightspeed Voltcondor"
 		]
+	},
+	{
+		"id": 15811,
+		"name": "Survival Swordfish",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you have a face-up Level 7 Fish Type monster on your field, place 1 Fish Type monster from your Graveyard on the bottom of your Deck.",
+		"effect": "Up to 2 face-up Fish Type monsters on your field gain 500 ATK until the end of this turn.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 1800,
+			"def": 0,
+			"attribute": "WATER",
+			"race": "FISH"
+		}
 	},
 	{
 		"id": 15812,
@@ -7029,7 +7063,10 @@
 		"isLegend": true,
 		"requirement": "None",
 		"effect": "Draw 2 cards.",
-		"rarity": "NPC"
+		"rarity": "UR",
+		"cardObtain": [
+			"Duel Links 8th Anniversary Celebration Campaign"
+		]
 	},
 	{
 		"id": 16374,
@@ -7170,6 +7207,23 @@
 		"cardObtain": [
 			"Steel Kaleidomirror"
 		]
+	},
+	{
+		"id": 16578,
+		"name": "Ritzy King Rex",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Your opponent has no cards in their hand.",
+		"effect": "Both players draw 1 card. Then, you can Set 1 \"Upstart Goblin\" from your Graveyard to your Spell \u0026 Trap Zone.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 700,
+			"def": 1000,
+			"attribute": "LIGHT",
+			"race": "DINOSAUR"
+		}
 	},
 	{
 		"id": 16579,
@@ -8154,6 +8208,23 @@
 		}
 	},
 	{
+		"id": 16693,
+		"name": "Bladesaurus",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "This card gains 200 ATK until the end of this turn. Then, you can add 1 \"Jurassic World\" and/or \"Wasteland\" from your Graveyard to your hand.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 1700,
+			"def": 800,
+			"attribute": "EARTH",
+			"race": "DINOSAUR"
+		}
+	},
+	{
 		"id": 16703,
 		"name": "Nutrient Zero",
 		"cardType": "SPELL",
@@ -9103,6 +9174,24 @@
 		]
 	},
 	{
+		"id": 16901,
+		"name": "Whispark Fairy Girl",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Sparkhearts Girl\" + \"Whispering Fairy\"",
+		"requirement": "Send 1 card from your hand to the Graveyard.",
+		"effect": "Shuffle up to 2 monsters from your opponent\u0027s Graveyard into the Deck. Then, you can make all face-up monsters on your opponent\u0027s field lose 500 ATK until the end of this turn.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2200,
+			"def": 1600,
+			"attribute": "FIRE",
+			"race": "SPELLCASTER"
+		}
+	},
+	{
 		"id": 16902,
 		"name": "Straynge Clowder",
 		"cardType": "FUSION_EFFECT",
@@ -9110,7 +9199,7 @@
 		"isLegend": false,
 		"inherentSummonCondition": "\"Straynge Cat\" + \"Straynge Cat\"",
 		"requirement": "None",
-		"effect": "Special Summon 1 Spellcaster Type monster from your Graveyard face-up to your field. If you Special Summoned \"Straynge Cat\" by this effect, this card also gains 1400 ATK until the end of this turn.",
+		"effect": "Special Summon 1 Spellcaster Type Normal Monster from your Graveyard face-up to your field. If you Special Summoned \"Straynge Cat\" by this effect, this card also gains 1400 ATK until the end of this turn.",
 		"rarity": "R",
 		"monsterInfo": {
 			"level": 7,
@@ -10116,6 +10205,16 @@
 		"rarity": "NPC"
 	},
 	{
+		"id": 17017,
+		"name": "Ship of Seven Treasures",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 monster from your hand to the Graveyard.",
+		"effect": "Draw 1 card. If you sent a Level 7 monster to the Graveyard to meet the requirement, you can draw 1 additional card.",
+		"rarity": "NPC"
+	},
+	{
 		"id": 17020,
 		"name": "Card Revitalization",
 		"cardType": "SPELL",
@@ -10506,6 +10605,16 @@
 		]
 	},
 	{
+		"id": 17226,
+		"name": "Black Dragon\u0027s Roar",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When your opponent Normal Summons a Level 5 or higher monster(s).",
+		"effect": "Make 1 face-up Dragon Type Normal Monster on your field gain 700 ATK/DEF until the end of this turn. If you have \"Red-Eyes Black Dragon\" face-up on your field, you can also place 1 Spell Card from your Graveyard on top of the Deck.",
+		"rarity": "NPC"
+	},
+	{
 		"id": 17270,
 		"name": "Mechaleon",
 		"cardType": "NORMAL",
@@ -10564,6 +10673,23 @@
 			"atk": 1200,
 			"def": 900,
 			"attribute": "EARTH",
+			"race": "REPTILE"
+		}
+	},
+	{
+		"id": 17273,
+		"name": "Emperor of the Land and Sea",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "A reptilian monster that sprays fire in every direction.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 5,
+			"atk": 1800,
+			"def": 1500,
+			"attribute": "WATER",
 			"race": "REPTILE"
 		}
 	},
@@ -10850,6 +10976,26 @@
 		}
 	},
 	{
+		"id": 17297,
+		"name": "Predator Ganleon",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If your LP are 1000 or less, send the top 5 cards of your Deck to the Graveyard.",
+		"effect": "This card gains ATK equal to [the difference between your LP and your opponent\u0027s LP] until the end of this turn.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2500,
+			"def": 600,
+			"attribute": "DARK",
+			"race": "REPTILE"
+		},
+		"cardObtain": [
+			"Tag Duel Tournament"
+		]
+	},
+	{
 		"id": 17299,
 		"name": "Spyturtle",
 		"cardType": "EFFECT",
@@ -10985,6 +11131,24 @@
 		"cardObtain": [
 			"Genesis Maximum"
 		]
+	},
+	{
+		"id": 17309,
+		"name": "Hazy Strike Dragon Miragiastar F",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "MULTICHOICE",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Illusion Strike Dragon Miragias\" + \"The Dragon\"",
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "⬤ Make up to 3 face-up monsters on your opponent\u0027s field lose 1500 ATK until the end of this turn. This turn, this card can make up to 2 attacks on monsters. ⬤ This turn, this card can attack directly.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 3000,
+			"def": 2000,
+			"attribute": "DARK",
+			"race": "HIGH_DRAGON"
+		}
 	},
 	{
 		"id": 17311,
@@ -11591,6 +11755,23 @@
 		]
 	},
 	{
+		"id": 17503,
+		"name": "Satellite Pegasus",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During the turn you Normal Summoned this card.",
+		"effect": "Send the top card of your Deck to the Graveyard. If you have 1 or less monsters in your Graveyard, you can destroy 1 face-up Level 8 or lower monster on your opponent\u0027s field.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1300,
+			"def": 600,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		}
+	},
+	{
 		"id": 17504,
 		"name": "Great Cosmonarch",
 		"cardType": "EFFECT",
@@ -11905,6 +12086,23 @@
 		]
 	},
 	{
+		"id": 17522,
+		"name": "Dynas Dorcus the Beetle King",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Shuffle 3 monsters from your Graveyard into the Deck.",
+		"effect": "Destroy 1 face-up Insect Type monster with a Level between 5 and 8 on your opponent\u0027s field. This turn, you can only attack with Insect Type monsters.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2500,
+			"def": 1700,
+			"attribute": "EARTH",
+			"race": "INSECT"
+		}
+	},
+	{
 		"id": 17524,
 		"name": "Constructor Chief Wyrm Handtoolon",
 		"cardType": "FUSION_EFFECT",
@@ -12093,6 +12291,16 @@
 			"attribute": "LIGHT",
 			"race": "INSECT"
 		}
+	},
+	{
+		"id": 17563,
+		"name": "Ancient Rules",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Special Summon 1 Level 5 or higher Normal Monster from your hand face-up to your field.",
+		"rarity": "NPC"
 	},
 	{
 		"id": 17564,
@@ -12477,6 +12685,33 @@
 		]
 	},
 	{
+		"id": 17586,
+		"name": "Transam Alive",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When a Galaxy Type monster(s) on your field is destroyed by an opponent\u0027s attack or their card effect while you have no other monsters on your field.",
+		"effect": "Special Summon 1 Galaxy Type Normal Monster with 1600 or more ATK from your hand or Graveyard in face-up Attack Position to your field.",
+		"rarity": "NPC"
+	},
+	{
+		"id": 17587,
+		"name": "Gadget Soldier",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "A rust-free machine warrior born to battle.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 1800,
+			"def": 2000,
+			"attribute": "FIRE",
+			"race": "MACHINE"
+		}
+	},
+	{
 		"id": 17588,
 		"name": "Coilephant",
 		"cardType": "NORMAL",
@@ -12536,6 +12771,23 @@
 		"cardObtain": [
 			"Transcendence Miragias"
 		]
+	},
+	{
+		"id": 17591,
+		"name": "Cliptera",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "A pterosaur that glides through the room with its vibrant wings, capturing the hearts of children.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 1300,
+			"def": 1000,
+			"attribute": "WIND",
+			"race": "MACHINE"
+		}
 	},
 	{
 		"id": 17592,
@@ -13152,6 +13404,23 @@
 		}
 	},
 	{
+		"id": 17852,
+		"name": "Hyosube",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "This amphibian is strong on the attack, but leaves much to be desired when defending.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1500,
+			"def": 900,
+			"attribute": "WATER",
+			"race": "AQUA"
+		}
+	},
+	{
 		"id": 17860,
 		"name": "Aliyen 33",
 		"cardType": "NORMAL",
@@ -13164,6 +13433,23 @@
 			"level": 3,
 			"atk": 1100,
 			"def": 1100,
+			"attribute": "LIGHT",
+			"race": "REPTILE"
+		}
+	},
+	{
+		"id": 17861,
+		"name": "Three Warping Witches",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "Sisters known for their warping abilities and unusual posture. The three of them love cruising alongside spaceships and surprising the pilots.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 1300,
+			"def": 300,
 			"attribute": "LIGHT",
 			"race": "REPTILE"
 		}
@@ -13460,6 +13746,16 @@
 		]
 	},
 	{
+		"id": 17894,
+		"name": "Beaming Bell Beam",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you have a \"Princess of the Flock - Miss Mutton\" face-up on your field, send 2 Beast Type Normal Monsters from your hand to the Graveyard.",
+		"effect": "Destroy all face-up Level 8 or lower monsters on your opponent\u0027s field. This turn, you can only attack with Beast Type monsters.",
+		"rarity": "NPC"
+	},
+	{
 		"id": 17900,
 		"name": "Triumphant Arrival",
 		"cardType": "SPELL",
@@ -13572,6 +13868,23 @@
 		"cardObtain": [
 			"Galactica Go Rush"
 		]
+	},
+	{
+		"id": 17938,
+		"name": "Tapanchula",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Your opponent has 2 or more Spell/Trap Cards on their field during the turn you Normal Summoned this card.",
+		"effect": "Add 1 Level 4 Machine Type Normal Monster from your Graveyard to your hand.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1300,
+			"def": 900,
+			"attribute": "DARK",
+			"race": "MACHINE"
+		}
 	},
 	{
 		"id": 17939,
@@ -13709,6 +14022,23 @@
 		]
 	},
 	{
+		"id": 17946,
+		"name": "Red-Boot Boost Dragon",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Choose up to 7 Dragon Type monsters in your Graveyard. Inflict damage to your opponent equal to [the number of monsters chosen] x 100, and this card gains ATK equal to [the number of monsters chosen] x 100. Then, shuffle the chosen monsters into the Deck.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2400,
+			"def": 1600,
+			"attribute": "DARK",
+			"race": "DRAGON"
+		}
+	},
+	{
 		"id": 17947,
 		"name": "Dual Coratlus",
 		"cardType": "EFFECT",
@@ -13770,6 +14100,23 @@
 		]
 	},
 	{
+		"id": 17950,
+		"name": "SSD Drake",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If your opponent has a monster on their field, send 1 Spell/Trap Card from your hand to the Graveyard.",
+		"effect": "Special Summon 2 Level 4 Dragon Type Normal Monsters from your Graveyard to your field in face-up Defense Position.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 2,
+			"atk": 700,
+			"def": 300,
+			"attribute": "LIGHT",
+			"race": "DRAGON"
+		}
+	},
+	{
 		"id": 17951,
 		"name": "Dragosite",
 		"cardType": "NORMAL",
@@ -13818,6 +14165,16 @@
 		"isLegend": false,
 		"requirement": "You have a Dragon Type monster in your Graveyard.",
 		"effect": "Destroy 1 face-up Field Spell Card on the field. Then, you can Special Summon 1 Dragon Type monster from your field face-up to your field.",
+		"rarity": "NPC"
+	},
+	{
+		"id": 17954,
+		"name": "RB Dragophone",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When a Dragon Type monster(s) on your field is destroyed by an opponent\u0027s attack or their card effect.",
+		"effect": "Send the top 2 cards of your Deck to the Graveyard. If you have no monsters on your field, you can Special Summon 1 \"Blue-Fang Burst Dragon\" or \"Red-Boot Boost Dragon\" from your Graveyard face-up to your field.",
 		"rarity": "NPC"
 	},
 	{
@@ -14428,6 +14785,23 @@
 		}
 	},
 	{
+		"id": 18333,
+		"name": "Jointech Raptor",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During the turn you Normal Summoned this card.",
+		"effect": "Each player sends 2 cards from the top of their Deck to the Graveyard, and inflict damage to your opponent equal to [the number of monsters sent to the Graveyard by this effect] x 100. Then, if a face-up Equip Spell Card is on your field, you can change 1 Attack Position monster on your opponent\u0027s field to face-up Defense Position.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 800,
+			"def": 1200,
+			"attribute": "EARTH",
+			"race": "MACHINE"
+		}
+	},
+	{
 		"id": 18348,
 		"name": "Cyber End Dragon",
 		"cardType": "FUSION_EFFECT",
@@ -14666,6 +15040,23 @@
 		"rarity": "NPC"
 	},
 	{
+		"id": 18400,
+		"name": "Transam Linac - Fight for the Light!",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "You have another face-up LIGHT Attribute monster with 1400 or less ATK on your field.",
+		"effect": "Destroy 1 monster with 1500 or less ATK on your opponent\u0027s field.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1400,
+			"def": 200,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		}
+	},
+	{
 		"id": 18401,
 		"name": "Jointech Leo",
 		"cardType": "EFFECT",
@@ -14684,6 +15075,23 @@
 		"cardObtain": [
 			"Requiem of Collapse"
 		]
+	},
+	{
+		"id": 18402,
+		"name": "Lightwave Dragon",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send the top 2 cards of your Deck to the Graveyard.",
+		"effect": "Make up to 3 face-up monsters on your opponent\u0027s field lose 1500 ATK during this Main Phase only.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1300,
+			"def": 500,
+			"attribute": "LIGHT",
+			"race": "DRAGON"
+		}
 	},
 	{
 		"id": 18403,
@@ -15078,6 +15486,23 @@
 		}
 	},
 	{
+		"id": 18608,
+		"name": "Astrobio Drake",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During your Main Phase that you Normal or Special Summoned this card.",
+		"effect": "Set 1 \"Fusion\" from your Graveyard to your Spell \u0026 Trap Zone. This turn, you can only attack directly with Fusion Monsters.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 1300,
+			"def": 200,
+			"attribute": "LIGHT",
+			"race": "DRAGON"
+		}
+	},
+	{
 		"id": 18609,
 		"name": "Engine Reviver",
 		"cardType": "EFFECT",
@@ -15107,6 +15532,16 @@
 			"Yuamu Ohdo Level Up Reward",
 			"Yuamu Ohdo Duel Reward"
 		]
+	},
+	{
+		"id": 18631,
+		"name": "Nyanderful Rush",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Place 1 card from your hand on the bottom of the Deck.",
+		"effect": "Special Summon up to 2 Beast Type and/or Warrior Type monsters with 200 DEF from your Graveyard in face-up Defense Position to your field. This turn, you can only attack with monsters with 200 DEF.",
+		"rarity": "NPC"
 	},
 	{
 		"id": 18635,
@@ -15722,6 +16157,16 @@
 		]
 	},
 	{
+		"id": 18988,
+		"name": "Recombination Galactica",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When your monster is destroyed by an opponent\u0027s attack.",
+		"effect": "Special Summon 1 Galaxy Type Normal Monster from your Graveyard face-up to your field.",
+		"rarity": "NPC"
+	},
+	{
 		"id": 18995,
 		"name": "Rice Terrace Crisis",
 		"cardType": "TRAP",
@@ -15937,6 +16382,23 @@
 		]
 	},
 	{
+		"id": 19279,
+		"name": "Jointech Cobra",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "You have no other monsters on your field.",
+		"effect": "Special Summon 1 \"Jointech Arcscorpio\", \"Jointech Spike Centipede\", or \"Jointech Rex\" from your Graveyard to your field in face-up Defense Position. This turn, you cannot activate the effects of non-Machine Type monsters.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 2,
+			"atk": 1000,
+			"def": 600,
+			"attribute": "EARTH",
+			"race": "MACHINE"
+		}
+	},
+	{
 		"id": 19295,
 		"name": "Agent Miscast",
 		"cardType": "EFFECT",
@@ -16060,6 +16522,23 @@
 			"def": 1300,
 			"attribute": "LIGHT",
 			"race": "GALAXY"
+		}
+	},
+	{
+		"id": 19316,
+		"name": "Dino Fossil Psycera",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you have a Dinosaur Type Normal Monster in your Graveyard, send the top 2 cards of your Deck to the Graveyard.",
+		"effect": "Make 1 face-up Dinosaur Type monster on your field gain ATK equal to [the number of Dinosaur Type Normal Monsters in your Graveyard] x 300 until the end of this turn.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1100,
+			"def": 800,
+			"attribute": "EARTH",
+			"race": "DINOSAUR"
 		}
 	},
 	{
@@ -16445,6 +16924,41 @@
 		}
 	},
 	{
+		"id": 19656,
+		"name": "Cyber Shark",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "If you have a face-up WATER Attribute monster on your field, you can Normal Summon this card without Tributing.",
+		"requirement": "None",
+		"effect": "None",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 5,
+			"atk": 2100,
+			"def": 2000,
+			"attribute": "WATER",
+			"race": "FISH"
+		}
+	},
+	{
+		"id": 19658,
+		"name": "Pandemonium Kappa River Sprinter",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 \"Kappa Emperor River Slider\", \"Pandemonium Kappa Dive Wet\", or \"Kappa\u0027s Blast\" from your hand to the Graveyard.",
+		"effect": "Destroy 1 card on your opponent\u0027s field. Then, if you have 3 or more Aqua Type monsters in your Graveyard, you can draw 1 card.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2100,
+			"def": 2600,
+			"attribute": "WATER",
+			"race": "AQUA"
+		}
+	},
+	{
 		"id": 19685,
 		"name": "Dragonic Progression",
 		"cardType": "SPELL",
@@ -16567,6 +17081,23 @@
 		"rarity": "NPC"
 	},
 	{
+		"id": 20035,
+		"name": "Transam Scride",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Send the top card of your Deck to the Graveyard. If a LIGHT Attribute Galaxy Type monster is sent to the Graveyard by this effect, you can choose up to 3 face-up monsters on your field. This turn, the chosen monsters inflict piercing battle damage. If you chose a \"Transam Linac\", you can change all Attack Position monsters on your opponent\u0027s field to face-up Defense Position.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 5,
+			"atk": 1600,
+			"def": 500,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		}
+	},
+	{
 		"id": 20046,
 		"name": "Secret Order",
 		"cardType": "SPELL",
@@ -16600,6 +17131,23 @@
 			"Steel Kaleidomirror",
 			"Selection BOX Vol.02"
 		]
+	},
+	{
+		"id": 20147,
+		"name": "Animagica Leader",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Special Summon 2 Level 4 or lower monsters with 900 or less DEF from your Graveyard face-up to your field. You cannot activate the effects of Level 8 or lower monsters until the end of this turn.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2500,
+			"def": 1500,
+			"attribute": "LIGHT",
+			"race": "BEAST"
+		}
 	},
 	{
 		"id": 20157,
@@ -16665,6 +17213,67 @@
 		"cardObtain": [
 			"Selection BOX Vol.02"
 		]
+	},
+	{
+		"id": 20300,
+		"name": "Hybridrive Scale",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "You have a LIGHT Attribute Dragon Type monster and an EARTH Attribute Machine Type monster in your Graveyard.",
+		"effect": "Send the top card of your Deck to the Graveyard. This turn, this face-up card can be treated as 2 Tributes for the Tribute Summon of a Dragon or Machine Type monster in Attack Position.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 800,
+			"def": 700,
+			"attribute": "EARTH",
+			"race": "MACHINE"
+		}
+	},
+	{
+		"id": 20301,
+		"name": "Hybridrive Tusk",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 card from your hand to the Graveyard.",
+		"effect": "Send the top 3 cards of your Deck to the Graveyard. You can add 1 \"Hybridrive Screwdriver\" from your Graveyard to your hand.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 800,
+			"def": 700,
+			"attribute": "EARTH",
+			"race": "MACHINE"
+		}
+	},
+	{
+		"id": 20302,
+		"name": "Hybridrive Lizard",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During the turn you Normal Summoned this card.",
+		"effect": "Special Summon 1 \"Hybridrive Scale\" or \"Hybridrive Tusk\" from your Graveyard to your field in face-up Defense Position.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 800,
+			"def": 700,
+			"attribute": "LIGHT",
+			"race": "DRAGON"
+		}
+	},
+	{
+		"id": 20351,
+		"name": "Blue-Fang Reconnect",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Shuffle 2 LIGHT Attribute Dragon Type monsters from your Graveyard into the Deck. Then, you can Special Summon 1 \"Blue-Fang Burst Dragon\" from your Graveyard face-up to your field.",
+		"rarity": "NPC"
 	},
 	{
 		"id": 20453,
