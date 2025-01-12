@@ -17,7 +17,7 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road (Main Box)"
 		]
 	},
 	{
@@ -82,7 +82,7 @@
 		},
 		"cardObtain": [
 			"Lightspeed Voltcondor",
-			"Sevens New Road",
+			"Sevens New Road (Main Box)",
 			"The Ultimate Ace Breaker",
 			"Legend of Dark Magic",
 			"Soul with Eyes of Blue"
@@ -106,7 +106,7 @@
 		},
 		"cardObtain": [
 			"Lightspeed Voltcondor",
-			"Sevens New Road",
+			"Sevens New Road (Main Box)",
 			"The Ultimate Ace Breaker",
 			"Selection BOX Vol.01"
 		]
@@ -129,7 +129,7 @@
 		},
 		"cardObtain": [
 			"Lightspeed Voltcondor",
-			"Sevens New Road",
+			"Sevens New Road (Main Box)",
 			"Selection BOX Vol.01"
 		]
 	},
@@ -180,7 +180,7 @@
 		},
 		"cardObtain": [
 			"Lightspeed Voltcondor",
-			"Sevens New Road",
+			"Sevens New Road (Main Box)",
 			"Raidacross the Lionhearted",
 			"Selection BOX Vol.01"
 		]
@@ -223,11 +223,11 @@
 		},
 		"cardObtain": [
 			"Lightspeed Voltcondor",
-			"Sevens New Road",
+			"Sevens New Road (Main Box)",
 			"Raidacross the Lionhearted",
 			"The Ultimate Ace Breaker",
 			"Selection BOX Vol.01",
-			"Fusion of Revolution"
+			"Fusion of Revolution (Mini Box)"
 		]
 	},
 	{
@@ -276,7 +276,7 @@
 		"cardObtain": [
 			"Legend of Dark Magic",
 			"Soul with Eyes of Blue",
-			"Heavy Strike Excavator"
+			"Heavy Strike Excavator (Mini Box)"
 		]
 	},
 	{
@@ -297,7 +297,7 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road (Main Box)"
 		]
 	},
 	{
@@ -317,8 +317,8 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Sevens New Road",
-			"Scorching Flame Burst"
+			"Sevens New Road (Main Box)",
+			"Scorching Flame Burst (Deck Build Box)"
 		]
 	},
 	{
@@ -385,8 +385,8 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Sevens New Road",
-			"Scorching Flame Burst",
+			"Sevens New Road (Main Box)",
+			"Scorching Flame Burst (Deck Build Box)",
 			"Soul with Eyes of Blue",
 			"Selection BOX Vol.02"
 		]
@@ -408,8 +408,8 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Sevens New Road",
-			"Scorching Flame Burst",
+			"Sevens New Road (Main Box)",
+			"Scorching Flame Burst (Deck Build Box)",
 			"Soul with Eyes of Blue",
 			"Selection BOX Vol.02"
 		]
@@ -460,8 +460,8 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Sevens New Road",
-			"Scorching Flame Burst",
+			"Sevens New Road (Main Box)",
+			"Scorching Flame Burst (Deck Build Box)",
 			"Selection BOX Vol.02"
 		]
 	},
@@ -505,8 +505,8 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Sevens New Road",
-			"Scorching Flame Burst",
+			"Sevens New Road (Main Box)",
+			"Scorching Flame Burst (Deck Build Box)",
 			"Soul with Eyes of Blue",
 			"Selection BOX Vol.02"
 		]
@@ -521,7 +521,7 @@
 		"effect": "Destroy all monsters on the field. If you destroyed a monster by this effect, Special Summon 1 Level 4 or lower Dragon Type monster from your Graveyard to your field in face-up Defense Position.",
 		"rarity": "SR",
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road (Main Box)"
 		]
 	},
 	{
@@ -577,7 +577,7 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road (Main Box)"
 		]
 	},
 	{
@@ -656,7 +656,7 @@
 		},
 		"cardObtain": [
 			"Lightspeed Voltcondor",
-			"Sevens New Road",
+			"Sevens New Road (Main Box)",
 			"Raidacross the Lionhearted",
 			"The Ultimate Ace Breaker",
 			"Soul with Eyes of Blue"
@@ -697,7 +697,7 @@
 			"race": "FIEND"
 		},
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road (Main Box)"
 		]
 	},
 	{
@@ -717,8 +717,8 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Sevens New Road",
-			"Scorching Flame Burst"
+			"Sevens New Road (Main Box)",
+			"Scorching Flame Burst (Deck Build Box)"
 		]
 	},
 	{
@@ -738,11 +738,11 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Sevens New Road",
-			"Scorching Flame Burst",
-			"Steel Kaleidomirror",
+			"Sevens New Road (Main Box)",
+			"Scorching Flame Burst (Deck Build Box)",
+			"Steel Kaleidomirror (Mini Box)",
 			"Selection BOX Vol.02",
-			"Divine Genesis Blade"
+			"Divine Genesis Blade (Deck Build Box)"
 		]
 	},
 	{
@@ -762,11 +762,11 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Sevens New Road",
-			"Scorching Flame Burst",
-			"Steel Kaleidomirror",
+			"Sevens New Road (Main Box)",
+			"Scorching Flame Burst (Deck Build Box)",
+			"Steel Kaleidomirror (Mini Box)",
 			"Selection BOX Vol.02",
-			"Divine Genesis Blade"
+			"Divine Genesis Blade (Deck Build Box)"
 		]
 	},
 	{
@@ -787,7 +787,7 @@
 			"race": "PSYCHIC"
 		},
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road (Main Box)"
 		]
 	},
 	{
@@ -808,7 +808,7 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road (Main Box)"
 		]
 	},
 	{
@@ -828,9 +828,9 @@
 			"race": "REPTILE"
 		},
 		"cardObtain": [
-			"Sevens New Road",
-			"Scorching Flame Burst",
-			"Divine Genesis Blade"
+			"Sevens New Road (Main Box)",
+			"Scorching Flame Burst (Deck Build Box)",
+			"Divine Genesis Blade (Deck Build Box)"
 		]
 	},
 	{
@@ -850,8 +850,8 @@
 			"race": "PYRO"
 		},
 		"cardObtain": [
-			"Sevens New Road",
-			"Scorching Flame Burst"
+			"Sevens New Road (Main Box)",
+			"Scorching Flame Burst (Deck Build Box)"
 		]
 	},
 	{
@@ -871,8 +871,8 @@
 			"race": "PYRO"
 		},
 		"cardObtain": [
-			"Sevens New Road",
-			"Scorching Flame Burst"
+			"Sevens New Road (Main Box)",
+			"Scorching Flame Burst (Deck Build Box)"
 		]
 	},
 	{
@@ -892,7 +892,7 @@
 			"race": "FISH"
 		},
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road (Main Box)"
 		]
 	},
 	{
@@ -938,8 +938,8 @@
 			"race": "INSECT"
 		},
 		"cardObtain": [
-			"Sevens New Road",
-			"Scorching Flame Burst"
+			"Sevens New Road (Main Box)",
+			"Scorching Flame Burst (Deck Build Box)"
 		]
 	},
 	{
@@ -959,8 +959,8 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"Sevens New Road",
-			"Heavy Strike Excavator"
+			"Sevens New Road (Main Box)",
+			"Heavy Strike Excavator (Mini Box)"
 		]
 	},
 	{
@@ -980,7 +980,7 @@
 			"race": "THUNDER"
 		},
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road (Main Box)"
 		]
 	},
 	{
@@ -1010,7 +1010,7 @@
 		"effect": "Choose 1 face-up monster on your field. If it attacks a Defense Position monster this turn, inflict piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference).",
 		"rarity": "UR",
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road (Main Box)"
 		]
 	},
 	{
@@ -1023,7 +1023,7 @@
 		"effect": "Draw 1 card.",
 		"rarity": "R",
 		"cardObtain": [
-			"Sevens New Road",
+			"Sevens New Road (Main Box)",
 			"Raidacross the Lionhearted",
 			"Selection BOX Vol.01"
 		]
@@ -1080,12 +1080,12 @@
 		"effect": "Change 1 face-down monster on your opponent\u0027s field to face-up Attack Position.",
 		"rarity": "N",
 		"cardObtain": [
-			"Heavy Metal Scream",
+			"Heavy Metal Scream (Mini Box)",
 			"Raidacross the Lionhearted",
 			"The Ultimate Ace Breaker",
 			"Legend of Dark Magic",
 			"Selection BOX Vol.01",
-			"Galactica Go Rush"
+			"Galactica Go Rush (Mini Box)"
 		]
 	},
 	{
@@ -1108,7 +1108,7 @@
 		"effect": "Special Summon up to 2 monsters from your Graveyard face-up to your field.",
 		"rarity": "N",
 		"cardObtain": [
-			"Steel Kaleidomirror"
+			"Steel Kaleidomirror (Mini Box)"
 		]
 	},
 	{
@@ -1204,8 +1204,8 @@
 			"race": "WINGED_BEAST"
 		},
 		"cardObtain": [
-			"Genesis Maximum",
-			"Heavy Strike Excavator",
+			"Genesis Maximum (Mini Box)",
+			"Heavy Strike Excavator (Mini Box)",
 			"Selection BOX Vol.02"
 		]
 	},
@@ -1226,7 +1226,7 @@
 			"race": "FIEND"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream",
+			"Heavy Metal Scream (Mini Box)",
 			"Selection BOX Vol.01"
 		]
 	},
@@ -1440,9 +1440,9 @@
 		"effect": "Look at all face-down cards on your opponent\u0027s field, then return them to their original positions.",
 		"rarity": "N",
 		"cardObtain": [
-			"Sevens New Road",
-			"Scorching Flame Burst",
-			"Divine Genesis Blade"
+			"Sevens New Road (Main Box)",
+			"Scorching Flame Burst (Deck Build Box)",
+			"Divine Genesis Blade (Deck Build Box)"
 		]
 	},
 	{
@@ -1481,10 +1481,10 @@
 		"rarity": "N",
 		"cardObtain": [
 			"Lightspeed Voltcondor",
-			"Sevens New Road",
-			"Scorching Flame Burst",
+			"Sevens New Road (Main Box)",
+			"Scorching Flame Burst (Deck Build Box)",
 			"Cyber Dragon Launch",
-			"Divine Genesis Blade"
+			"Divine Genesis Blade (Deck Build Box)"
 		]
 	},
 	{
@@ -1497,7 +1497,7 @@
 		"effect": "You choose the attack target for your opponent\u0027s attack.",
 		"rarity": "SR",
 		"cardObtain": [
-			"Heavy Metal Scream"
+			"Heavy Metal Scream (Mini Box)"
 		]
 	},
 	{
@@ -1540,7 +1540,7 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Sevens New Road",
+			"Sevens New Road (Main Box)",
 			"The Ultimate Ace Breaker"
 		]
 	},
@@ -1602,7 +1602,7 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream"
+			"Heavy Metal Scream (Mini Box)"
 		]
 	},
 	{
@@ -1622,10 +1622,10 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Steel Kaleidomirror",
-			"Transcendence Miragias",
+			"Steel Kaleidomirror (Mini Box)",
+			"Transcendence Miragias (Super Mini Box)",
 			"Selection BOX Vol.02",
-			"Divine Genesis Blade"
+			"Divine Genesis Blade (Deck Build Box)"
 		]
 	},
 	{
@@ -1666,9 +1666,9 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream",
-			"Steel Kaleidomirror",
-			"Divine Genesis Blade"
+			"Heavy Metal Scream (Mini Box)",
+			"Steel Kaleidomirror (Mini Box)",
+			"Divine Genesis Blade (Deck Build Box)"
 		]
 	},
 	{
@@ -1688,9 +1688,9 @@
 			"race": "PSYCHIC"
 		},
 		"cardObtain": [
-			"Sevens New Road",
+			"Sevens New Road (Main Box)",
 			"Selection BOX Vol.01",
-			"Divine Genesis Blade"
+			"Divine Genesis Blade (Deck Build Box)"
 		]
 	},
 	{
@@ -1710,9 +1710,9 @@
 			"race": "PSYCHIC"
 		},
 		"cardObtain": [
-			"Sevens New Road",
+			"Sevens New Road (Main Box)",
 			"Selection BOX Vol.01",
-			"Divine Genesis Blade"
+			"Divine Genesis Blade (Deck Build Box)"
 		]
 	},
 	{
@@ -1784,7 +1784,7 @@
 			"race": "AQUA"
 		},
 		"cardObtain": [
-			"Sevens New Road",
+			"Sevens New Road (Main Box)",
 			"Selection BOX Vol.01"
 		]
 	},
@@ -1805,7 +1805,7 @@
 			"race": "AQUA"
 		},
 		"cardObtain": [
-			"Sevens New Road",
+			"Sevens New Road (Main Box)",
 			"Selection BOX Vol.01"
 		]
 	},
@@ -1947,8 +1947,8 @@
 		},
 		"cardObtain": [
 			"Lightspeed Voltcondor",
-			"Sevens New Road",
-			"Scorching Flame Burst",
+			"Sevens New Road (Main Box)",
+			"Scorching Flame Burst (Deck Build Box)",
 			"Selection BOX Vol.02"
 		]
 	},
@@ -1999,7 +1999,7 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Genesis Maximum",
+			"Genesis Maximum (Mini Box)",
 			"Selection BOX Vol.01"
 		]
 	},
@@ -2040,7 +2040,7 @@
 			"race": "ROCK"
 		},
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road (Main Box)"
 		]
 	},
 	{
@@ -2060,9 +2060,9 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream",
-			"Steel Kaleidomirror",
-			"Divine Genesis Blade"
+			"Heavy Metal Scream (Mini Box)",
+			"Steel Kaleidomirror (Mini Box)",
+			"Divine Genesis Blade (Deck Build Box)"
 		]
 	},
 	{
@@ -2082,8 +2082,8 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Genesis Maximum",
-			"Divine Genesis Blade"
+			"Genesis Maximum (Mini Box)",
+			"Divine Genesis Blade (Deck Build Box)"
 		]
 	},
 	{
@@ -2103,7 +2103,7 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Scorching Flame Burst"
+			"Scorching Flame Burst (Deck Build Box)"
 		]
 	},
 	{
@@ -2165,7 +2165,7 @@
 			"race": "PSYCHIC"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream",
+			"Heavy Metal Scream (Mini Box)",
 			"Selection BOX Vol.01"
 		]
 	},
@@ -2186,7 +2186,7 @@
 			"race": "PSYCHIC"
 		},
 		"cardObtain": [
-			"Evolving Rising Heart"
+			"Evolving Rising Heart (Super Mini Box)"
 		]
 	},
 	{
@@ -2206,10 +2206,10 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Sevens New Road",
+			"Sevens New Road (Main Box)",
 			"Raidacross the Lionhearted",
-			"Scorching Flame Burst",
-			"Divine Genesis Blade"
+			"Scorching Flame Burst (Deck Build Box)",
+			"Divine Genesis Blade (Deck Build Box)"
 		]
 	},
 	{
@@ -2229,7 +2229,7 @@
 			"race": "AQUA"
 		},
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road (Main Box)"
 		]
 	},
 	{
@@ -2289,7 +2289,7 @@
 			"race": "FIEND"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream"
+			"Heavy Metal Scream (Mini Box)"
 		]
 	},
 	{
@@ -2326,8 +2326,8 @@
 			"race": "FIEND"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream",
-			"Scorching Flame Burst",
+			"Heavy Metal Scream (Mini Box)",
+			"Scorching Flame Burst (Deck Build Box)",
 			"Soul with Eyes of Blue"
 		]
 	},
@@ -2368,8 +2368,8 @@
 			"race": "PYRO"
 		},
 		"cardObtain": [
-			"Sevens New Road",
-			"Scorching Flame Burst"
+			"Sevens New Road (Main Box)",
+			"Scorching Flame Burst (Deck Build Box)"
 		]
 	},
 	{
@@ -2382,8 +2382,8 @@
 		"effect": "Change 1 face-up monster on your opponent\u0027s field to face-down Defense Position.",
 		"rarity": "R",
 		"cardObtain": [
-			"Sevens New Road",
-			"Divine Genesis Blade"
+			"Sevens New Road (Main Box)",
+			"Divine Genesis Blade (Deck Build Box)"
 		]
 	},
 	{
@@ -2422,7 +2422,7 @@
 		"effect": "Destroy all Spell/Trap Cards on your opponent\u0027s field.",
 		"rarity": "R",
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road (Main Box)"
 		]
 	},
 	{
@@ -2496,7 +2496,7 @@
 		"effect": "Change up to 2 face-up monsters on your opponent\u0027s field to face-down Defense Position.",
 		"rarity": "N",
 		"cardObtain": [
-			"Heavy Metal Scream",
+			"Heavy Metal Scream (Mini Box)",
 			"Selection BOX Vol.01"
 		]
 	},
@@ -2533,7 +2533,7 @@
 		"effect": "The attacking monster loses ATK equal to [the number of monsters with its same Type in your opponent\u0027s Graveyard] x 100 until the end of this turn.",
 		"rarity": "SR",
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road (Main Box)"
 		]
 	},
 	{
@@ -2563,10 +2563,10 @@
 			"race": "BEAST"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream",
+			"Heavy Metal Scream (Mini Box)",
 			"Legend of Dark Magic",
 			"Selection BOX Vol.01",
-			"Galactica Go Rush"
+			"Galactica Go Rush (Mini Box)"
 		]
 	},
 	{
@@ -2586,7 +2586,7 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Scorching Flame Burst"
+			"Scorching Flame Burst (Deck Build Box)"
 		]
 	},
 	{
@@ -2599,7 +2599,7 @@
 		"effect": "The attacking monster loses ATK equal to [the Level of 1 Dragon Type monster in your Graveyard] x 100 until the end of this turn. Then, shuffle that monster from your Graveyard into the Deck.",
 		"rarity": "R",
 		"cardObtain": [
-			"Fusion of Revolution",
+			"Fusion of Revolution (Mini Box)",
 			"Selection BOX Vol.02"
 		]
 	},
@@ -2620,9 +2620,9 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Genesis Maximum",
+			"Genesis Maximum (Mini Box)",
 			"Soul with Eyes of Blue",
-			"Heavy Strike Excavator"
+			"Heavy Strike Excavator (Mini Box)"
 		]
 	},
 	{
@@ -2642,7 +2642,7 @@
 			"race": "FIEND"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream"
+			"Heavy Metal Scream (Mini Box)"
 		]
 	},
 	{
@@ -2675,8 +2675,8 @@
 		"effect": "All face-up Pyro Type monsters on your field gain ATK equal to [the number of Normal Monsters in both players\u0027 Graveyards] x 100 until the end of this turn.",
 		"rarity": "N",
 		"cardObtain": [
-			"Heavy Metal Scream",
-			"Scorching Flame Burst"
+			"Heavy Metal Scream (Mini Box)",
+			"Scorching Flame Burst (Deck Build Box)"
 		]
 	},
 	{
@@ -2689,9 +2689,9 @@
 		"effect": "1 face-up Normal Monster on your field with 1000 or less ATK gains 1000 ATK until the end of this turn.",
 		"rarity": "N",
 		"cardObtain": [
-			"Sevens New Road",
-			"Scorching Flame Burst",
-			"Divine Genesis Blade"
+			"Sevens New Road (Main Box)",
+			"Scorching Flame Burst (Deck Build Box)",
+			"Divine Genesis Blade (Deck Build Box)"
 		]
 	},
 	{
@@ -2704,7 +2704,7 @@
 		"effect": "Shuffle 1 random card from your opponent\u0027s hand into the Deck.",
 		"rarity": "N",
 		"cardObtain": [
-			"Heavy Metal Scream",
+			"Heavy Metal Scream (Mini Box)",
 			"Selection BOX Vol.01",
 			"Cyber Dragon Launch"
 		]
@@ -2726,7 +2726,7 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream"
+			"Heavy Metal Scream (Mini Box)"
 		]
 	},
 	{
@@ -2809,8 +2809,8 @@
 			"race": "PYRO"
 		},
 		"cardObtain": [
-			"Sevens New Road",
-			"Scorching Flame Burst"
+			"Sevens New Road (Main Box)",
+			"Scorching Flame Burst (Deck Build Box)"
 		]
 	},
 	{
@@ -2823,7 +2823,7 @@
 		"effect": "1 Attack Position monster on your opponent\u0027s field loses ATK equal to [the number of face-up Pyro Type monsters on your field] x 400 until the end of this turn.",
 		"rarity": "SR",
 		"cardObtain": [
-			"Scorching Flame Burst"
+			"Scorching Flame Burst (Deck Build Box)"
 		]
 	},
 	{
@@ -2864,8 +2864,8 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Sevens New Road",
-			"Divine Genesis Blade"
+			"Sevens New Road (Main Box)",
+			"Divine Genesis Blade (Deck Build Box)"
 		]
 	},
 	{
@@ -2885,7 +2885,7 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road (Main Box)"
 		]
 	},
 	{
@@ -2905,7 +2905,7 @@
 			"race": "FAIRY"
 		},
 		"cardObtain": [
-			"Scorching Flame Burst"
+			"Scorching Flame Burst (Deck Build Box)"
 		]
 	},
 	{
@@ -2925,7 +2925,7 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Scorching Flame Burst"
+			"Scorching Flame Burst (Deck Build Box)"
 		]
 	},
 	{
@@ -2987,12 +2987,12 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Sevens New Road",
+			"Sevens New Road (Main Box)",
 			"Raidacross the Lionhearted",
-			"Scorching Flame Burst",
-			"Fusion of Revolution",
+			"Scorching Flame Burst (Deck Build Box)",
+			"Fusion of Revolution (Mini Box)",
 			"Hero\u0027s Stage",
-			"Divine Genesis Blade"
+			"Divine Genesis Blade (Deck Build Box)"
 		]
 	},
 	{
@@ -3012,8 +3012,8 @@
 			"race": "BEAST"
 		},
 		"cardObtain": [
-			"Steel Kaleidomirror",
-			"Divine Genesis Blade"
+			"Steel Kaleidomirror (Mini Box)",
+			"Divine Genesis Blade (Deck Build Box)"
 		]
 	},
 	{
@@ -3053,7 +3053,7 @@
 		"effect": "Change 1 Attack Position monster on your opponent\u0027s field to face-up Defense Position.",
 		"rarity": "R",
 		"cardObtain": [
-			"Steel Kaleidomirror",
+			"Steel Kaleidomirror (Mini Box)",
 			"Selection BOX Vol.02",
 			"Hero\u0027s Stage"
 		]
@@ -3098,7 +3098,7 @@
 			"race": "FIEND"
 		},
 		"cardObtain": [
-			"Genesis Maximum"
+			"Genesis Maximum (Mini Box)"
 		]
 	},
 	{
@@ -3138,7 +3138,7 @@
 			"race": "FIEND"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream"
+			"Heavy Metal Scream (Mini Box)"
 		]
 	},
 	{
@@ -3198,7 +3198,7 @@
 			"race": "FIEND"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream",
+			"Heavy Metal Scream (Mini Box)",
 			"Selection BOX Vol.01"
 		]
 	},
@@ -3219,7 +3219,7 @@
 			"race": "FIEND"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream"
+			"Heavy Metal Scream (Mini Box)"
 		]
 	},
 	{
@@ -3239,7 +3239,7 @@
 			"race": "FIEND"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream",
+			"Heavy Metal Scream (Mini Box)",
 			"Selection BOX Vol.01"
 		]
 	},
@@ -3273,7 +3273,7 @@
 		"effect": "Destroy 1 face-up Level 6 or lower monster on your opponent\u0027s field. If you do, your opponent draws 1 card. You cannot attack directly this turn.",
 		"rarity": "N",
 		"cardObtain": [
-			"Heavy Metal Scream"
+			"Heavy Metal Scream (Mini Box)"
 		]
 	},
 	{
@@ -3320,7 +3320,7 @@
 			"race": "PSYCHIC"
 		},
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road (Main Box)"
 		]
 	},
 	{
@@ -3340,7 +3340,7 @@
 			"race": "PSYCHIC"
 		},
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road (Main Box)"
 		]
 	},
 	{
@@ -3360,10 +3360,10 @@
 			"race": "PSYCHIC"
 		},
 		"cardObtain": [
-			"Sevens New Road",
+			"Sevens New Road (Main Box)",
 			"Selection BOX Vol.01",
-			"Divine Genesis Blade",
-			"Requiem of Collapse"
+			"Divine Genesis Blade (Deck Build Box)",
+			"Requiem of Collapse (Mini Box)"
 		]
 	},
 	{
@@ -3383,10 +3383,10 @@
 			"race": "PSYCHIC"
 		},
 		"cardObtain": [
-			"Sevens New Road",
+			"Sevens New Road (Main Box)",
 			"Selection BOX Vol.01",
-			"Fusion of Revolution",
-			"Divine Genesis Blade"
+			"Fusion of Revolution (Mini Box)",
+			"Divine Genesis Blade (Deck Build Box)"
 		]
 	},
 	{
@@ -3427,9 +3427,9 @@
 			"race": "PSYCHIC"
 		},
 		"cardObtain": [
-			"Sevens New Road",
+			"Sevens New Road (Main Box)",
 			"Selection BOX Vol.01",
-			"Divine Genesis Blade"
+			"Divine Genesis Blade (Deck Build Box)"
 		]
 	},
 	{
@@ -3449,9 +3449,9 @@
 			"race": "PSYCHIC"
 		},
 		"cardObtain": [
-			"Sevens New Road",
+			"Sevens New Road (Main Box)",
 			"Selection BOX Vol.01",
-			"Divine Genesis Blade"
+			"Divine Genesis Blade (Deck Build Box)"
 		]
 	},
 	{
@@ -3471,10 +3471,10 @@
 			"race": "PSYCHIC"
 		},
 		"cardObtain": [
-			"Sevens New Road",
-			"Steel Kaleidomirror",
-			"Fusion of Revolution",
-			"Divine Genesis Blade"
+			"Sevens New Road (Main Box)",
+			"Steel Kaleidomirror (Mini Box)",
+			"Fusion of Revolution (Mini Box)",
+			"Divine Genesis Blade (Deck Build Box)"
 		]
 	},
 	{
@@ -3525,10 +3525,10 @@
 		"effect": "Gain LP equal to [the number of face-up Psychic Type monsters on your field] x 500.",
 		"rarity": "N",
 		"cardObtain": [
-			"Sevens New Road",
+			"Sevens New Road (Main Box)",
 			"Selection BOX Vol.01",
-			"Transcendence Miragias",
-			"Divine Genesis Blade"
+			"Transcendence Miragias (Super Mini Box)",
+			"Divine Genesis Blade (Deck Build Box)"
 		]
 	},
 	{
@@ -3658,7 +3658,7 @@
 			"race": "BEAST"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream"
+			"Heavy Metal Scream (Mini Box)"
 		]
 	},
 	{
@@ -3791,7 +3791,7 @@
 			"race": "BEAST"
 		},
 		"cardObtain": [
-			"Sevens New Road",
+			"Sevens New Road (Main Box)",
 			"Legend of Dark Magic",
 			"Selection BOX Vol.01"
 		]
@@ -3870,7 +3870,7 @@
 			"race": "BEAST"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream"
+			"Heavy Metal Scream (Mini Box)"
 		]
 	},
 	{
@@ -3890,7 +3890,7 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Fusion of Revolution"
+			"Fusion of Revolution (Mini Box)"
 		]
 	},
 	{
@@ -3910,8 +3910,8 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Genesis Maximum",
-			"Galactica Go Rush"
+			"Genesis Maximum (Mini Box)",
+			"Galactica Go Rush (Mini Box)"
 		]
 	},
 	{
@@ -3931,8 +3931,8 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream",
-			"Scorching Flame Burst",
+			"Heavy Metal Scream (Mini Box)",
+			"Scorching Flame Burst (Deck Build Box)",
 			"Selection BOX Vol.02"
 		]
 	},
@@ -3953,8 +3953,8 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream",
-			"Scorching Flame Burst",
+			"Heavy Metal Scream (Mini Box)",
+			"Scorching Flame Burst (Deck Build Box)",
 			"Soul with Eyes of Blue",
 			"Selection BOX Vol.02"
 		]
@@ -3976,7 +3976,7 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream",
+			"Heavy Metal Scream (Mini Box)",
 			"Selection BOX Vol.02"
 		]
 	},
@@ -4129,7 +4129,7 @@
 			"race": "PYRO"
 		},
 		"cardObtain": [
-			"Scorching Flame Burst"
+			"Scorching Flame Burst (Deck Build Box)"
 		]
 	},
 	{
@@ -4167,7 +4167,7 @@
 		},
 		"cardObtain": [
 			"Lightspeed Voltcondor",
-			"Sevens New Road",
+			"Sevens New Road (Main Box)",
 			"Selection BOX Vol.02"
 		]
 	},
@@ -4279,8 +4279,8 @@
 		"effect": "While this card is face-up in the Field Zone, face-up Insect, Beast, Plant, and Beast-Warrior Type monsters on the field gain 200 ATK/DEF.",
 		"rarity": "N",
 		"cardObtain": [
-			"Sevens New Road",
-			"Scorching Flame Burst"
+			"Sevens New Road (Main Box)",
+			"Scorching Flame Burst (Deck Build Box)"
 		]
 	},
 	{
@@ -4303,7 +4303,7 @@
 		"effect": "The attacking monster loses ATK equal to [the Level of the attacking monster] x 100 until the end of this turn.",
 		"rarity": "R",
 		"cardObtain": [
-			"Genesis Maximum",
+			"Genesis Maximum (Mini Box)",
 			"Selection BOX Vol.02"
 		]
 	},
@@ -4318,8 +4318,8 @@
 		"rarity": "N",
 		"cardObtain": [
 			"Lightspeed Voltcondor",
-			"Sevens New Road",
-			"Scorching Flame Burst"
+			"Sevens New Road (Main Box)",
+			"Scorching Flame Burst (Deck Build Box)"
 		]
 	},
 	{
@@ -4332,8 +4332,8 @@
 		"effect": "All face-up monsters on your field gain 900 ATK/DEF until the end of this turn.",
 		"rarity": "N",
 		"cardObtain": [
-			"Sevens New Road",
-			"Scorching Flame Burst"
+			"Sevens New Road (Main Box)",
+			"Scorching Flame Burst (Deck Build Box)"
 		]
 	},
 	{
@@ -4354,7 +4354,7 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"Genesis Maximum"
+			"Genesis Maximum (Mini Box)"
 		]
 	},
 	{
@@ -4377,7 +4377,7 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"Genesis Maximum"
+			"Genesis Maximum (Mini Box)"
 		]
 	},
 	{
@@ -4398,7 +4398,7 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"Genesis Maximum"
+			"Genesis Maximum (Mini Box)"
 		]
 	},
 	{
@@ -4419,7 +4419,7 @@
 			"race": "CYBERSE"
 		},
 		"cardObtain": [
-			"Genesis Maximum",
+			"Genesis Maximum (Mini Box)",
 			"Selection BOX Vol.02"
 		]
 	},
@@ -4443,7 +4443,7 @@
 			"race": "CYBERSE"
 		},
 		"cardObtain": [
-			"Genesis Maximum"
+			"Genesis Maximum (Mini Box)"
 		]
 	},
 	{
@@ -4464,7 +4464,7 @@
 			"race": "CYBERSE"
 		},
 		"cardObtain": [
-			"Genesis Maximum",
+			"Genesis Maximum (Mini Box)",
 			"Selection BOX Vol.02"
 		]
 	},
@@ -4572,7 +4572,7 @@
 		"effect": "1 face-up monster on your field gains ATK equal to [the Level of 1 of the monsters sent to the Graveyard to meet the requirement] x 400 until the end of this turn.",
 		"rarity": "N",
 		"cardObtain": [
-			"Genesis Maximum",
+			"Genesis Maximum (Mini Box)",
 			"Selection BOX Vol.02"
 		]
 	},
@@ -4599,7 +4599,7 @@
 		"effect": "Draw 2 cards. Then, place 2 cards from your hand on the bottom of your Deck in any order.",
 		"rarity": "N",
 		"cardObtain": [
-			"Genesis Maximum",
+			"Genesis Maximum (Mini Box)",
 			"Selection BOX Vol.02"
 		]
 	},
@@ -4745,7 +4745,7 @@
 			"race": "THUNDER"
 		},
 		"cardObtain": [
-			"Evolving Rising Heart"
+			"Evolving Rising Heart (Super Mini Box)"
 		]
 	},
 	{
@@ -4765,7 +4765,7 @@
 			"race": "THUNDER"
 		},
 		"cardObtain": [
-			"Evolving Rising Heart"
+			"Evolving Rising Heart (Super Mini Box)"
 		]
 	},
 	{
@@ -4785,7 +4785,7 @@
 			"race": "THUNDER"
 		},
 		"cardObtain": [
-			"Evolving Rising Heart"
+			"Evolving Rising Heart (Super Mini Box)"
 		]
 	},
 	{
@@ -4808,7 +4808,7 @@
 		"effect": "Gain LP equal to [the ATK of 1 face-up monster on your opponent\u0027s field].",
 		"rarity": "N",
 		"cardObtain": [
-			"Evolving Rising Heart"
+			"Evolving Rising Heart (Super Mini Box)"
 		]
 	},
 	{
@@ -4940,7 +4940,7 @@
 			"race": "CYBERSE"
 		},
 		"cardObtain": [
-			"Genesis Maximum",
+			"Genesis Maximum (Mini Box)",
 			"Selection BOX Vol.02"
 		]
 	},
@@ -5024,8 +5024,8 @@
 		"effect": "Send the top 2 cards of your Deck to the Graveyard. Then, if your opponent has 3 monsters on their field, you can send 1 card from the top of your Deck to the Graveyard.",
 		"rarity": "R",
 		"cardObtain": [
-			"Transcendence Miragias",
-			"Divine Genesis Blade"
+			"Transcendence Miragias (Super Mini Box)",
+			"Divine Genesis Blade (Deck Build Box)"
 		]
 	},
 	{
@@ -5076,7 +5076,7 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"Heavy Strike Excavator"
+			"Heavy Strike Excavator (Mini Box)"
 		]
 	},
 	{
@@ -5196,8 +5196,8 @@
 			"race": "WYRM"
 		},
 		"cardObtain": [
-			"Heavy Strike Excavator",
-			"Requiem of Collapse"
+			"Heavy Strike Excavator (Mini Box)",
+			"Requiem of Collapse (Mini Box)"
 		]
 	},
 	{
@@ -5271,7 +5271,7 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"Heavy Strike Excavator",
+			"Heavy Strike Excavator (Mini Box)",
 			"Cyber Dragon Launch"
 		]
 	},
@@ -5386,7 +5386,7 @@
 			"race": "FIEND"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream"
+			"Heavy Metal Scream (Mini Box)"
 		]
 	},
 	{
@@ -5427,9 +5427,9 @@
 			"race": "PSYCHIC"
 		},
 		"cardObtain": [
-			"Sevens New Road",
+			"Sevens New Road (Main Box)",
 			"Selection BOX Vol.01",
-			"Divine Genesis Blade"
+			"Divine Genesis Blade (Deck Build Box)"
 		]
 	},
 	{
@@ -5449,7 +5449,7 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"Steel Kaleidomirror"
+			"Steel Kaleidomirror (Mini Box)"
 		]
 	},
 	{
@@ -5537,7 +5537,7 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Scorching Flame Burst"
+			"Scorching Flame Burst (Deck Build Box)"
 		]
 	},
 	{
@@ -5613,7 +5613,7 @@
 			"race": "WYRM"
 		},
 		"cardObtain": [
-			"Heavy Strike Excavator"
+			"Heavy Strike Excavator (Mini Box)"
 		]
 	},
 	{
@@ -5718,7 +5718,7 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"Heavy Strike Excavator"
+			"Heavy Strike Excavator (Mini Box)"
 		]
 	},
 	{
@@ -5775,7 +5775,7 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Divine Genesis Blade"
+			"Divine Genesis Blade (Deck Build Box)"
 		]
 	},
 	{
@@ -5788,7 +5788,7 @@
 		"effect": "Choose up to 3 face-up monsters on the field. This turn, those monsters become the same Type as the monster revealed to meet the requirement.",
 		"rarity": "N",
 		"cardObtain": [
-			"Steel Kaleidomirror"
+			"Steel Kaleidomirror (Mini Box)"
 		]
 	},
 	{
@@ -5811,7 +5811,7 @@
 		"effect": "While this card is face-up in the Field Zone, face-up Wyrm Type monsters on the field gain 400 ATK and lose 400 DEF.",
 		"rarity": "SR",
 		"cardObtain": [
-			"Heavy Strike Excavator"
+			"Heavy Strike Excavator (Mini Box)"
 		]
 	},
 	{
@@ -5824,7 +5824,7 @@
 		"effect": "Change 1 Defense Position monster on your opponent\u0027s field to face-up Attack Position. If the monster changed to face-up Attack Position by this effet was a Normal Monster, you can draw 1 card.",
 		"rarity": "N",
 		"cardObtain": [
-			"Heavy Strike Excavator"
+			"Heavy Strike Excavator (Mini Box)"
 		]
 	},
 	{
@@ -5994,7 +5994,7 @@
 			"race": "PLANT"
 		},
 		"cardObtain": [
-			"Heavy Strike Excavator"
+			"Heavy Strike Excavator (Mini Box)"
 		]
 	},
 	{
@@ -6059,7 +6059,7 @@
 			"race": "DINOSAUR"
 		},
 		"cardObtain": [
-			"Steel Kaleidomirror"
+			"Steel Kaleidomirror (Mini Box)"
 		]
 	},
 	{
@@ -6079,7 +6079,7 @@
 			"race": "WINGED_BEAST"
 		},
 		"cardObtain": [
-			"Genesis Maximum",
+			"Genesis Maximum (Mini Box)",
 			"Selection BOX Vol.02"
 		]
 	},
@@ -6100,7 +6100,7 @@
 			"race": "PLANT"
 		},
 		"cardObtain": [
-			"Heavy Strike Excavator"
+			"Heavy Strike Excavator (Mini Box)"
 		]
 	},
 	{
@@ -6120,7 +6120,7 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Steel Kaleidomirror",
+			"Steel Kaleidomirror (Mini Box)",
 			"Selection BOX Vol.02"
 		]
 	},
@@ -6141,7 +6141,7 @@
 			"race": "AQUA"
 		},
 		"cardObtain": [
-			"Transcendence Miragias"
+			"Transcendence Miragias (Super Mini Box)"
 		]
 	},
 	{
@@ -6247,7 +6247,7 @@
 			"race": "PSYCHIC"
 		},
 		"cardObtain": [
-			"Steel Kaleidomirror"
+			"Steel Kaleidomirror (Mini Box)"
 		]
 	},
 	{
@@ -6284,7 +6284,7 @@
 			"race": "AQUA"
 		},
 		"cardObtain": [
-			"Transcendence Miragias"
+			"Transcendence Miragias (Super Mini Box)"
 		]
 	},
 	{
@@ -6304,7 +6304,7 @@
 			"race": "AQUA"
 		},
 		"cardObtain": [
-			"Transcendence Miragias"
+			"Transcendence Miragias (Super Mini Box)"
 		]
 	},
 	{
@@ -6324,7 +6324,7 @@
 			"race": "PLANT"
 		},
 		"cardObtain": [
-			"Heavy Strike Excavator"
+			"Heavy Strike Excavator (Mini Box)"
 		]
 	},
 	{
@@ -6344,7 +6344,7 @@
 			"race": "PLANT"
 		},
 		"cardObtain": [
-			"Heavy Strike Excavator"
+			"Heavy Strike Excavator (Mini Box)"
 		]
 	},
 	{
@@ -6403,7 +6403,7 @@
 			"race": "THUNDER"
 		},
 		"cardObtain": [
-			"Genesis Maximum"
+			"Genesis Maximum (Mini Box)"
 		]
 	},
 	{
@@ -6533,7 +6533,7 @@
 			"race": "PSYCHIC"
 		},
 		"cardObtain": [
-			"Evolving Rising Heart"
+			"Evolving Rising Heart (Super Mini Box)"
 		]
 	},
 	{
@@ -6553,7 +6553,7 @@
 			"race": "PSYCHIC"
 		},
 		"cardObtain": [
-			"Steel Kaleidomirror"
+			"Steel Kaleidomirror (Mini Box)"
 		]
 	},
 	{
@@ -6607,7 +6607,7 @@
 			"race": "WINGED_BEAST"
 		},
 		"cardObtain": [
-			"Steel Kaleidomirror",
+			"Steel Kaleidomirror (Mini Box)",
 			"Selection BOX Vol.02"
 		]
 	},
@@ -6628,7 +6628,7 @@
 			"race": "FIEND"
 		},
 		"cardObtain": [
-			"Evolving Rising Heart"
+			"Evolving Rising Heart (Super Mini Box)"
 		]
 	},
 	{
@@ -6648,7 +6648,7 @@
 			"race": "FIEND"
 		},
 		"cardObtain": [
-			"Evolving Rising Heart"
+			"Evolving Rising Heart (Super Mini Box)"
 		]
 	},
 	{
@@ -6668,7 +6668,7 @@
 			"race": "PLANT"
 		},
 		"cardObtain": [
-			"Heavy Strike Excavator"
+			"Heavy Strike Excavator (Mini Box)"
 		]
 	},
 	{
@@ -6688,7 +6688,7 @@
 			"race": "PLANT"
 		},
 		"cardObtain": [
-			"Heavy Strike Excavator"
+			"Heavy Strike Excavator (Mini Box)"
 		]
 	},
 	{
@@ -6708,7 +6708,7 @@
 			"race": "PLANT"
 		},
 		"cardObtain": [
-			"Heavy Strike Excavator"
+			"Heavy Strike Excavator (Mini Box)"
 		]
 	},
 	{
@@ -6728,7 +6728,7 @@
 			"race": "PLANT"
 		},
 		"cardObtain": [
-			"Heavy Strike Excavator"
+			"Heavy Strike Excavator (Mini Box)"
 		]
 	},
 	{
@@ -6748,7 +6748,7 @@
 			"race": "WINGED_BEAST"
 		},
 		"cardObtain": [
-			"Transcendence Miragias"
+			"Transcendence Miragias (Super Mini Box)"
 		]
 	},
 	{
@@ -6768,7 +6768,7 @@
 			"race": "WINGED_BEAST"
 		},
 		"cardObtain": [
-			"Transcendence Miragias"
+			"Transcendence Miragias (Super Mini Box)"
 		]
 	},
 	{
@@ -6808,7 +6808,7 @@
 			"race": "PSYCHIC"
 		},
 		"cardObtain": [
-			"Steel Kaleidomirror"
+			"Steel Kaleidomirror (Mini Box)"
 		]
 	},
 	{
@@ -6821,7 +6821,7 @@
 		"effect": "Special Summon 1 Level 7 Psychic monster from your hand face-up to your field. If you sent \"CAN:D\" to the Graveyard to meet the requirement, the monster Special Summoned by this effect gains 1500 ATK until the end of this turn.",
 		"rarity": "SR",
 		"cardObtain": [
-			"Steel Kaleidomirror"
+			"Steel Kaleidomirror (Mini Box)"
 		]
 	},
 	{
@@ -6834,7 +6834,7 @@
 		"effect": "Add 1 Psychic Type Normal Monster from your Graveyard to your hand. If you added \"CAN:D\" to your hand by this effect, gain 1000 LP.",
 		"rarity": "R",
 		"cardObtain": [
-			"Steel Kaleidomirror"
+			"Steel Kaleidomirror (Mini Box)"
 		]
 	},
 	{
@@ -6883,7 +6883,7 @@
 		"effect": "Change the battle position of 1 monster on your opponent\u0027s field (Attack Position becomes face-up Defense Position, Defense Position becomes face-up Attack Position). Then, if you have a face-up Level 10 monster on your field, you can draw 1 card.",
 		"rarity": "SR",
 		"cardObtain": [
-			"Steel Kaleidomirror",
+			"Steel Kaleidomirror (Mini Box)",
 			"Selection BOX Vol.02"
 		]
 	},
@@ -6910,7 +6910,7 @@
 		"effect": "Special Summon 1 Level 4 or lower Plant Type Normal Monster from your Graveyard face-up to your field, but place it on the bottom of the owner\u0027s Deck during the End Phase.",
 		"rarity": "N",
 		"cardObtain": [
-			"Heavy Strike Excavator"
+			"Heavy Strike Excavator (Mini Box)"
 		]
 	},
 	{
@@ -6933,7 +6933,7 @@
 		"effect": "Destroy 1 Spell/Trap Card on your opponent\u0027s field. Then, you can place 1 Level 8 or lower Warrior Type or Winged Beast Type monster from your Graveyard on top of your Deck.",
 		"rarity": "SR",
 		"cardObtain": [
-			"Steel Kaleidomirror",
+			"Steel Kaleidomirror (Mini Box)",
 			"Selection BOX Vol.02"
 		]
 	},
@@ -6947,7 +6947,7 @@
 		"effect": "Choose up to 5 monsters in your opponent\u0027s Graveyard and shuffle them into the Deck. If your opponent has a face-up Spellcaster Type monster on their field, you can choose up to 5 additional monsters in their Graveyard and shuffle them into the Deck.",
 		"rarity": "R",
 		"cardObtain": [
-			"Transcendence Miragias"
+			"Transcendence Miragias (Super Mini Box)"
 		]
 	},
 	{
@@ -6980,7 +6980,7 @@
 		"effect": "Negate the attack.",
 		"rarity": "SR",
 		"cardObtain": [
-			"Heavy Metal Scream",
+			"Heavy Metal Scream (Mini Box)",
 			"Selection BOX Vol.01"
 		]
 	},
@@ -7052,7 +7052,7 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road (Main Box)"
 		]
 	},
 	{
@@ -7085,7 +7085,7 @@
 			"race": "PLANT"
 		},
 		"cardObtain": [
-			"Heavy Strike Excavator"
+			"Heavy Strike Excavator (Mini Box)"
 		]
 	},
 	{
@@ -7106,7 +7106,7 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Scorching Flame Burst"
+			"Scorching Flame Burst (Deck Build Box)"
 		]
 	},
 	{
@@ -7126,7 +7126,7 @@
 			"race": "DINOSAUR"
 		},
 		"cardObtain": [
-			"Steel Kaleidomirror"
+			"Steel Kaleidomirror (Mini Box)"
 		]
 	},
 	{
@@ -7148,7 +7148,7 @@
 			"race": "DINOSAUR"
 		},
 		"cardObtain": [
-			"Steel Kaleidomirror"
+			"Steel Kaleidomirror (Mini Box)"
 		]
 	},
 	{
@@ -7168,7 +7168,7 @@
 			"race": "DINOSAUR"
 		},
 		"cardObtain": [
-			"Steel Kaleidomirror"
+			"Steel Kaleidomirror (Mini Box)"
 		]
 	},
 	{
@@ -7205,7 +7205,7 @@
 			"race": "DINOSAUR"
 		},
 		"cardObtain": [
-			"Steel Kaleidomirror"
+			"Steel Kaleidomirror (Mini Box)"
 		]
 	},
 	{
@@ -7279,8 +7279,8 @@
 			"race": "DINOSAUR"
 		},
 		"cardObtain": [
-			"Steel Kaleidomirror",
-			"Transcendence Miragias"
+			"Steel Kaleidomirror (Mini Box)",
+			"Transcendence Miragias (Super Mini Box)"
 		]
 	},
 	{
@@ -7300,7 +7300,7 @@
 			"race": "DINOSAUR"
 		},
 		"cardObtain": [
-			"Steel Kaleidomirror"
+			"Steel Kaleidomirror (Mini Box)"
 		]
 	},
 	{
@@ -7313,7 +7313,7 @@
 		"effect": "Special Summon 1 Level 5 or higher Dinosaur monster from your hand face-up to your field. It gains ATK equal to [the original Level of the monster sent to the Graveyard to meet the requirement] x 100 until the end of this turn.",
 		"rarity": "N",
 		"cardObtain": [
-			"Steel Kaleidomirror"
+			"Steel Kaleidomirror (Mini Box)"
 		]
 	},
 	{
@@ -7326,7 +7326,7 @@
 		"effect": "Destroy 1 face-down card on your opponent\u0027s field.",
 		"rarity": "R",
 		"cardObtain": [
-			"Steel Kaleidomirror"
+			"Steel Kaleidomirror (Mini Box)"
 		]
 	},
 	{
@@ -7363,7 +7363,7 @@
 			"race": "CYBERSE"
 		},
 		"cardObtain": [
-			"Steel Kaleidomirror",
+			"Steel Kaleidomirror (Mini Box)",
 			"Selection BOX Vol.02"
 		]
 	},
@@ -7468,7 +7468,7 @@
 			"race": "WYRM"
 		},
 		"cardObtain": [
-			"Requiem of Collapse"
+			"Requiem of Collapse (Mini Box)"
 		]
 	},
 	{
@@ -7481,7 +7481,7 @@
 		"effect": "While this card is face-up in the Field Zone, both players can Tribute Summon Level 7 or higher Wyrm Type monsters in Attack Position with only 1 Tribute.",
 		"rarity": "R",
 		"cardObtain": [
-			"Requiem of Collapse"
+			"Requiem of Collapse (Mini Box)"
 		]
 	},
 	{
@@ -7647,7 +7647,7 @@
 		"effect": "Destroy 1 Spell/Trap Card on your opponent\u0027s field.",
 		"rarity": "SR",
 		"cardObtain": [
-			"Sevens New Road",
+			"Sevens New Road (Main Box)",
 			"Hero\u0027s Stage"
 		]
 	},
@@ -7794,7 +7794,7 @@
 			"race": "BEAST"
 		},
 		"cardObtain": [
-			"Heavy Strike Excavator"
+			"Heavy Strike Excavator (Mini Box)"
 		]
 	},
 	{
@@ -7882,7 +7882,7 @@
 			"race": "BEAST"
 		},
 		"cardObtain": [
-			"Genesis Maximum"
+			"Genesis Maximum (Mini Box)"
 		]
 	},
 	{
@@ -7936,7 +7936,7 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Steel Kaleidomirror"
+			"Steel Kaleidomirror (Mini Box)"
 		]
 	},
 	{
@@ -7957,7 +7957,7 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Steel Kaleidomirror"
+			"Steel Kaleidomirror (Mini Box)"
 		]
 	},
 	{
@@ -7977,9 +7977,9 @@
 			"race": "PSYCHIC"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream",
+			"Heavy Metal Scream (Mini Box)",
 			"Selection BOX Vol.01",
-			"Divine Genesis Blade"
+			"Divine Genesis Blade (Deck Build Box)"
 		]
 	},
 	{
@@ -7999,7 +7999,7 @@
 			"race": "PSYCHIC"
 		},
 		"cardObtain": [
-			"Evolving Rising Heart"
+			"Evolving Rising Heart (Super Mini Box)"
 		]
 	},
 	{
@@ -8070,7 +8070,7 @@
 			"race": "BEAST"
 		},
 		"cardObtain": [
-			"Heavy Strike Excavator"
+			"Heavy Strike Excavator (Mini Box)"
 		]
 	},
 	{
@@ -8090,7 +8090,7 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"Steel Kaleidomirror",
+			"Steel Kaleidomirror (Mini Box)",
 			"Cyber Dragon Launch"
 		]
 	},
@@ -8111,7 +8111,7 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"Steel Kaleidomirror",
+			"Steel Kaleidomirror (Mini Box)",
 			"Cyber Dragon Launch"
 		]
 	},
@@ -8149,7 +8149,7 @@
 			"race": "CYBERSE"
 		},
 		"cardObtain": [
-			"Genesis Maximum",
+			"Genesis Maximum (Mini Box)",
 			"Selection BOX Vol.02"
 		]
 	},
@@ -8170,7 +8170,7 @@
 			"race": "WYRM"
 		},
 		"cardObtain": [
-			"Requiem of Collapse"
+			"Requiem of Collapse (Mini Box)"
 		]
 	},
 	{
@@ -8244,7 +8244,7 @@
 		"effect": "1 face-up monster on your opponent\u0027s field loses ATK equal to [its Level] x 200 until the end of this turn.",
 		"rarity": "SR",
 		"cardObtain": [
-			"Genesis Maximum",
+			"Genesis Maximum (Mini Box)",
 			"Selection BOX Vol.01",
 			"Cyber Dragon Launch"
 		]
@@ -8272,7 +8272,7 @@
 		"effect": "Destroy 1 Spell/Trap Card on your opponent\u0027s field.",
 		"rarity": "R",
 		"cardObtain": [
-			"Genesis Maximum",
+			"Genesis Maximum (Mini Box)",
 			"Cyber Dragon Launch"
 		]
 	},
@@ -8286,7 +8286,7 @@
 		"effect": "Special Summon 1 Level 5 or lower Normal Monster from your Graveyard to your field in face-up Attack Position.",
 		"rarity": "R",
 		"cardObtain": [
-			"Requiem of Collapse"
+			"Requiem of Collapse (Mini Box)"
 		]
 	},
 	{
@@ -8309,7 +8309,7 @@
 		"effect": "The attacking monster loses 400 ATK until the end of this turn. If you have a face-up Level 8 or higher Warrior Type monster on your field, you can also destroy 1 Spell/Trap card on your opponent\u0027s field.",
 		"rarity": "SR",
 		"cardObtain": [
-			"Heavy Metal Scream"
+			"Heavy Metal Scream (Mini Box)"
 		]
 	},
 	{
@@ -8525,7 +8525,7 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Fusion of Revolution"
+			"Fusion of Revolution (Mini Box)"
 		]
 	},
 	{
@@ -8545,7 +8545,7 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Divine Genesis Blade"
+			"Divine Genesis Blade (Deck Build Box)"
 		]
 	},
 	{
@@ -8565,8 +8565,8 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Transcendence Miragias",
-			"Galactica Go Rush",
+			"Transcendence Miragias (Super Mini Box)",
+			"Galactica Go Rush (Mini Box)",
 			"Selection BOX Vol.02"
 		]
 	},
@@ -8580,7 +8580,7 @@
 		"effect": "Change 1 Defense Position monster on your opponent\u0027s field to face-up Attack Position.",
 		"rarity": "SR",
 		"cardObtain": [
-			"Genesis Maximum"
+			"Genesis Maximum (Mini Box)"
 		]
 	},
 	{
@@ -8593,7 +8593,7 @@
 		"effect": "Special Summon 1 Level 5-6 Dragon Type Normal Monster from your hand or Graveyard face-up to your field. Then, if you have \"Sportsdragon Keeper\" face-up on your field, you can add 1 \"Sportsdragon Striker\" or \"Sportsdragon Defender\" from your Graveyard to your hand.",
 		"rarity": "SR",
 		"cardObtain": [
-			"Divine Genesis Blade"
+			"Divine Genesis Blade (Deck Build Box)"
 		]
 	},
 	{
@@ -8613,10 +8613,10 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Steel Kaleidomirror",
-			"Fusion of Revolution",
+			"Steel Kaleidomirror (Mini Box)",
+			"Fusion of Revolution (Mini Box)",
 			"Hero\u0027s Stage",
-			"Divine Genesis Blade"
+			"Divine Genesis Blade (Deck Build Box)"
 		]
 	},
 	{
@@ -8636,7 +8636,7 @@
 			"race": "PSYCHIC"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream"
+			"Heavy Metal Scream (Mini Box)"
 		]
 	},
 	{
@@ -8656,7 +8656,7 @@
 			"race": "PSYCHIC"
 		},
 		"cardObtain": [
-			"Evolving Rising Heart"
+			"Evolving Rising Heart (Super Mini Box)"
 		]
 	},
 	{
@@ -8676,10 +8676,10 @@
 			"race": "PSYCHIC"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream",
+			"Heavy Metal Scream (Mini Box)",
 			"Selection BOX Vol.01",
-			"Divine Genesis Blade",
-			"Requiem of Collapse"
+			"Divine Genesis Blade (Deck Build Box)",
+			"Requiem of Collapse (Mini Box)"
 		]
 	},
 	{
@@ -8699,7 +8699,7 @@
 			"race": "FIEND"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream",
+			"Heavy Metal Scream (Mini Box)",
 			"Selection BOX Vol.01"
 		]
 	},
@@ -8770,7 +8770,7 @@
 			"race": "CYBERSE"
 		},
 		"cardObtain": [
-			"Genesis Maximum"
+			"Genesis Maximum (Mini Box)"
 		]
 	},
 	{
@@ -8860,7 +8860,7 @@
 			"race": "BEAST"
 		},
 		"cardObtain": [
-			"Heavy Strike Excavator"
+			"Heavy Strike Excavator (Mini Box)"
 		]
 	},
 	{
@@ -8880,7 +8880,7 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"Steel Kaleidomirror"
+			"Steel Kaleidomirror (Mini Box)"
 		]
 	},
 	{
@@ -8921,7 +8921,7 @@
 			"race": "CYBORG"
 		},
 		"cardObtain": [
-			"Fusion of Revolution"
+			"Fusion of Revolution (Mini Box)"
 		]
 	},
 	{
@@ -8942,7 +8942,7 @@
 			"race": "CYBORG"
 		},
 		"cardObtain": [
-			"Fusion of Revolution"
+			"Fusion of Revolution (Mini Box)"
 		]
 	},
 	{
@@ -9024,7 +9024,7 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"Fusion of Revolution"
+			"Fusion of Revolution (Mini Box)"
 		]
 	},
 	{
@@ -9044,7 +9044,7 @@
 			"race": "DINOSAUR"
 		},
 		"cardObtain": [
-			"Steel Kaleidomirror"
+			"Steel Kaleidomirror (Mini Box)"
 		]
 	},
 	{
@@ -9064,7 +9064,7 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Fusion of Revolution"
+			"Fusion of Revolution (Mini Box)"
 		]
 	},
 	{
@@ -9084,7 +9084,7 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Fusion of Revolution"
+			"Fusion of Revolution (Mini Box)"
 		]
 	},
 	{
@@ -9119,7 +9119,7 @@
 		"effect": "Make 1 face-up Level 9 LIGHT Attribute monster or 1 face-up LIGHT Attribute Normal Monster on your field gain 500 ATK until the end of this turn. If you have \"Imaginary Actor\" in your Graveyard, that monster gains an additional 1000 ATK until the end of this turn.",
 		"rarity": "R",
 		"cardObtain": [
-			"Fusion of Revolution"
+			"Fusion of Revolution (Mini Box)"
 		]
 	},
 	{
@@ -9170,7 +9170,7 @@
 			"race": "MAGICAL_KNIGHT"
 		},
 		"cardObtain": [
-			"Fusion of Revolution"
+			"Fusion of Revolution (Mini Box)"
 		]
 	},
 	{
@@ -9209,7 +9209,7 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Fusion of Revolution"
+			"Fusion of Revolution (Mini Box)"
 		]
 	},
 	{
@@ -9229,7 +9229,7 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Fusion of Revolution"
+			"Fusion of Revolution (Mini Box)"
 		]
 	},
 	{
@@ -9249,7 +9249,7 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Fusion of Revolution"
+			"Fusion of Revolution (Mini Box)"
 		]
 	},
 	{
@@ -9270,7 +9270,7 @@
 			"race": "HIGH_DRAGON"
 		},
 		"cardObtain": [
-			"Fusion of Revolution"
+			"Fusion of Revolution (Mini Box)"
 		]
 	},
 	{
@@ -9290,7 +9290,7 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Fusion of Revolution"
+			"Fusion of Revolution (Mini Box)"
 		]
 	},
 	{
@@ -9310,7 +9310,7 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Fusion of Revolution"
+			"Fusion of Revolution (Mini Box)"
 		]
 	},
 	{
@@ -9323,7 +9323,7 @@
 		"effect": "Make 1 face-up monster on your field gain 500 ATK/DEF until the end of this turn.",
 		"rarity": "N",
 		"cardObtain": [
-			"Fusion of Revolution"
+			"Fusion of Revolution (Mini Box)"
 		]
 	},
 	{
@@ -9336,7 +9336,7 @@
 		"effect": "The attacking monster loses 400 ATK until the end of this turn.",
 		"rarity": "R",
 		"cardObtain": [
-			"Heavy Metal Scream",
+			"Heavy Metal Scream (Mini Box)",
 			"Raidacross the Lionhearted",
 			"The Ultimate Ace Breaker",
 			"Legend of Dark Magic",
@@ -9361,7 +9361,7 @@
 			"race": "PSYCHIC"
 		},
 		"cardObtain": [
-			"Fusion of Revolution"
+			"Fusion of Revolution (Mini Box)"
 		]
 	},
 	{
@@ -9425,7 +9425,7 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Fusion of Revolution"
+			"Fusion of Revolution (Mini Box)"
 		]
 	},
 	{
@@ -9465,7 +9465,7 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Fusion of Revolution"
+			"Fusion of Revolution (Mini Box)"
 		]
 	},
 	{
@@ -9478,7 +9478,7 @@
 		"effect": "Special Summon 1 Level 5 or lower Normal Monster from your Graveyard face-up to your field. Then, you can add 1 \"Fusion\" from your Graveyard to your hand.",
 		"rarity": "SR",
 		"cardObtain": [
-			"Fusion of Revolution"
+			"Fusion of Revolution (Mini Box)"
 		]
 	},
 	{
@@ -9515,10 +9515,10 @@
 		"effect": "Fusion Summon by sending face-up monsters from your field to the Graveyard as material.",
 		"rarity": "R",
 		"cardObtain": [
-			"Fusion of Revolution",
+			"Fusion of Revolution (Mini Box)",
 			"Hero\u0027s Stage",
-			"Divine Genesis Blade",
-			"Requiem of Collapse"
+			"Divine Genesis Blade (Deck Build Box)",
+			"Requiem of Collapse (Mini Box)"
 		]
 	},
 	{
@@ -9538,7 +9538,7 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Fusion of Revolution"
+			"Fusion of Revolution (Mini Box)"
 		]
 	},
 	{
@@ -9617,8 +9617,8 @@
 		},
 		"cardObtain": [
 			"Lightspeed Voltcondor",
-			"Sevens New Road",
-			"Scorching Flame Burst",
+			"Sevens New Road (Main Box)",
+			"Scorching Flame Burst (Deck Build Box)",
 			"Selection BOX Vol.01"
 		]
 	},
@@ -9639,7 +9639,7 @@
 			"race": "BEAST"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream",
+			"Heavy Metal Scream (Mini Box)",
 			"Legend of Dark Magic",
 			"Selection BOX Vol.01"
 		]
@@ -9707,7 +9707,7 @@
 			"race": "FAIRY"
 		},
 		"cardObtain": [
-			"Divine Genesis Blade"
+			"Divine Genesis Blade (Deck Build Box)"
 		]
 	},
 	{
@@ -9795,8 +9795,8 @@
 			"race": "PYRO"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream",
-			"Scorching Flame Burst"
+			"Heavy Metal Scream (Mini Box)",
+			"Scorching Flame Burst (Deck Build Box)"
 		]
 	},
 	{
@@ -9833,7 +9833,7 @@
 			"race": "ZOMBIE"
 		},
 		"cardObtain": [
-			"Fusion of Revolution"
+			"Fusion of Revolution (Mini Box)"
 		]
 	},
 	{
@@ -9887,7 +9887,7 @@
 			"race": "PSYCHIC"
 		},
 		"cardObtain": [
-			"Requiem of Collapse"
+			"Requiem of Collapse (Mini Box)"
 		]
 	},
 	{
@@ -9924,7 +9924,7 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream",
+			"Heavy Metal Scream (Mini Box)",
 			"Hero\u0027s Stage"
 		]
 	},
@@ -9945,7 +9945,7 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Divine Genesis Blade"
+			"Divine Genesis Blade (Deck Build Box)"
 		]
 	},
 	{
@@ -10161,7 +10161,7 @@
 			"race": "CELESTIAL_WARRIOR"
 		},
 		"cardObtain": [
-			"Divine Genesis Blade"
+			"Divine Genesis Blade (Deck Build Box)"
 		]
 	},
 	{
@@ -10224,7 +10224,7 @@
 		"effect": "Both players discard as many cards as possible from their hands. You can make 1 face-up monster on your field gain ATK equal to [the number of cards sent to the Graveyard by this effect] x 300 until the end of this turn.",
 		"rarity": "SR",
 		"cardObtain": [
-			"Heavy Strike Excavator"
+			"Heavy Strike Excavator (Mini Box)"
 		]
 	},
 	{
@@ -10257,7 +10257,7 @@
 		"effect": "Inflict 400 damage to your opponent. This turn, your opponent cannot use face-down monsters for a Tribute Summon.",
 		"rarity": "R",
 		"cardObtain": [
-			"Fusion of Revolution"
+			"Fusion of Revolution (Mini Box)"
 		]
 	},
 	{
@@ -10278,7 +10278,7 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Divine Genesis Blade"
+			"Divine Genesis Blade (Deck Build Box)"
 		]
 	},
 	{
@@ -10316,7 +10316,7 @@
 			"race": "PSYCHIC"
 		},
 		"cardObtain": [
-			"Transcendence Miragias"
+			"Transcendence Miragias (Super Mini Box)"
 		]
 	},
 	{
@@ -10337,7 +10337,7 @@
 			"race": "CELESTIAL_WARRIOR"
 		},
 		"cardObtain": [
-			"Divine Genesis Blade"
+			"Divine Genesis Blade (Deck Build Box)"
 		]
 	},
 	{
@@ -10357,7 +10357,7 @@
 			"race": "CYBERSE"
 		},
 		"cardObtain": [
-			"Genesis Maximum",
+			"Genesis Maximum (Mini Box)",
 			"Selection BOX Vol.02"
 		]
 	},
@@ -10454,7 +10454,7 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"Fusion of Revolution"
+			"Fusion of Revolution (Mini Box)"
 		]
 	},
 	{
@@ -10501,7 +10501,7 @@
 		"effect": "Change 1 face-up monster on your opponent\u0027s field to face-down Defense Position. If the original Level of the destroyed monster was 10, you can destroy 1 face-down card on your opponent\u0027s field.",
 		"rarity": "SR",
 		"cardObtain": [
-			"Heavy Strike Excavator",
+			"Heavy Strike Excavator (Mini Box)",
 			"Selection BOX Vol.02"
 		]
 	},
@@ -10579,9 +10579,9 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Genesis Maximum",
+			"Genesis Maximum (Mini Box)",
 			"Hero\u0027s Stage",
-			"Divine Genesis Blade"
+			"Divine Genesis Blade (Deck Build Box)"
 		]
 	},
 	{
@@ -10730,7 +10730,7 @@
 			"race": "CYBERSE"
 		},
 		"cardObtain": [
-			"Genesis Maximum",
+			"Genesis Maximum (Mini Box)",
 			"Selection BOX Vol.02"
 		]
 	},
@@ -10802,8 +10802,8 @@
 			"race": "THUNDER"
 		},
 		"cardObtain": [
-			"Genesis Maximum",
-			"Requiem of Collapse"
+			"Genesis Maximum (Mini Box)",
+			"Requiem of Collapse (Mini Box)"
 		]
 	},
 	{
@@ -10823,8 +10823,8 @@
 			"race": "THUNDER"
 		},
 		"cardObtain": [
-			"Genesis Maximum",
-			"Requiem of Collapse"
+			"Genesis Maximum (Mini Box)",
+			"Requiem of Collapse (Mini Box)"
 		]
 	},
 	{
@@ -10901,7 +10901,7 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Transcendence Miragias"
+			"Transcendence Miragias (Super Mini Box)"
 		]
 	},
 	{
@@ -11029,7 +11029,7 @@
 			"race": "THUNDER"
 		},
 		"cardObtain": [
-			"Requiem of Collapse"
+			"Requiem of Collapse (Mini Box)"
 		]
 	},
 	{
@@ -11049,7 +11049,7 @@
 			"race": "THUNDER"
 		},
 		"cardObtain": [
-			"Heavy Strike Excavator"
+			"Heavy Strike Excavator (Mini Box)"
 		]
 	},
 	{
@@ -11069,7 +11069,7 @@
 			"race": "THUNDER"
 		},
 		"cardObtain": [
-			"Genesis Maximum"
+			"Genesis Maximum (Mini Box)"
 		]
 	},
 	{
@@ -11089,7 +11089,7 @@
 			"race": "THUNDER"
 		},
 		"cardObtain": [
-			"Genesis Maximum"
+			"Genesis Maximum (Mini Box)"
 		]
 	},
 	{
@@ -11109,7 +11109,7 @@
 			"race": "THUNDER"
 		},
 		"cardObtain": [
-			"Genesis Maximum"
+			"Genesis Maximum (Mini Box)"
 		]
 	},
 	{
@@ -11129,7 +11129,7 @@
 			"race": "THUNDER"
 		},
 		"cardObtain": [
-			"Genesis Maximum"
+			"Genesis Maximum (Mini Box)"
 		]
 	},
 	{
@@ -11207,7 +11207,7 @@
 			"race": "THUNDER"
 		},
 		"cardObtain": [
-			"Requiem of Collapse"
+			"Requiem of Collapse (Mini Box)"
 		]
 	},
 	{
@@ -11228,7 +11228,7 @@
 			"race": "THUNDER"
 		},
 		"cardObtain": [
-			"Requiem of Collapse"
+			"Requiem of Collapse (Mini Box)"
 		]
 	},
 	{
@@ -11249,7 +11249,7 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Fusion of Revolution"
+			"Fusion of Revolution (Mini Box)"
 		]
 	},
 	{
@@ -11262,7 +11262,7 @@
 		"effect": "Inflict 800 damage to your opponent. If you have a monster in Maximum Mode on your field, you can destroy 1 card on your opponent\u0027s field.",
 		"rarity": "N",
 		"cardObtain": [
-			"Heavy Strike Excavator"
+			"Heavy Strike Excavator (Mini Box)"
 		]
 	},
 	{
@@ -11285,7 +11285,7 @@
 		"effect": "Special Summon 1 Plant Type monster from your Graveyard face-up to your field.",
 		"rarity": "R",
 		"cardObtain": [
-			"Heavy Strike Excavator"
+			"Heavy Strike Excavator (Mini Box)"
 		]
 	},
 	{
@@ -11308,7 +11308,7 @@
 		"effect": "All face-up monsters on your opponent\u0027s field lose 400 ATK/DEF until the end of this turn. If you have 3 face-up Thunder Type monsters on your field, you can draw 1 card.",
 		"rarity": "R",
 		"cardObtain": [
-			"Evolving Rising Heart"
+			"Evolving Rising Heart (Super Mini Box)"
 		]
 	},
 	{
@@ -11321,7 +11321,7 @@
 		"effect": "Destroy 1 Spell/Trap Card on your opponent\u0027s field.",
 		"rarity": "R",
 		"cardObtain": [
-			"Genesis Maximum"
+			"Genesis Maximum (Mini Box)"
 		]
 	},
 	{
@@ -11468,7 +11468,7 @@
 			"race": "GALAXY"
 		},
 		"cardObtain": [
-			"Galactica Go Rush",
+			"Galactica Go Rush (Mini Box)",
 			"Transam Universe"
 		]
 	},
@@ -11507,7 +11507,7 @@
 			"race": "BEAST"
 		},
 		"cardObtain": [
-			"Galactica Go Rush"
+			"Galactica Go Rush (Mini Box)"
 		]
 	},
 	{
@@ -11527,7 +11527,7 @@
 			"race": "BEAST"
 		},
 		"cardObtain": [
-			"Galactica Go Rush"
+			"Galactica Go Rush (Mini Box)"
 		]
 	},
 	{
@@ -11547,7 +11547,7 @@
 			"race": "BEAST"
 		},
 		"cardObtain": [
-			"Galactica Go Rush"
+			"Galactica Go Rush (Mini Box)"
 		]
 	},
 	{
@@ -11567,7 +11567,7 @@
 			"race": "BEAST"
 		},
 		"cardObtain": [
-			"Galactica Go Rush"
+			"Galactica Go Rush (Mini Box)"
 		]
 	},
 	{
@@ -11692,7 +11692,7 @@
 			"race": "GALAXY"
 		},
 		"cardObtain": [
-			"Requiem of Collapse"
+			"Requiem of Collapse (Mini Box)"
 		]
 	},
 	{
@@ -11729,7 +11729,7 @@
 			"race": "GALAXY"
 		},
 		"cardObtain": [
-			"Galactica Go Rush",
+			"Galactica Go Rush (Mini Box)",
 			"Transam Universe"
 		]
 	},
@@ -11808,7 +11808,7 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"Galactica Go Rush"
+			"Galactica Go Rush (Mini Box)"
 		]
 	},
 	{
@@ -11828,7 +11828,7 @@
 			"race": "BEAST"
 		},
 		"cardObtain": [
-			"Galactica Go Rush"
+			"Galactica Go Rush (Mini Box)"
 		]
 	},
 	{
@@ -11865,10 +11865,10 @@
 			"race": "BEAST"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream",
+			"Heavy Metal Scream (Mini Box)",
 			"Legend of Dark Magic",
 			"Selection BOX Vol.01",
-			"Galactica Go Rush"
+			"Galactica Go Rush (Mini Box)"
 		]
 	},
 	{
@@ -12002,7 +12002,7 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"Galactica Go Rush"
+			"Galactica Go Rush (Mini Box)"
 		]
 	},
 	{
@@ -12042,7 +12042,7 @@
 			"race": "GALAXY"
 		},
 		"cardObtain": [
-			"Galactica Go Rush"
+			"Galactica Go Rush (Mini Box)"
 		]
 	},
 	{
@@ -12120,7 +12120,7 @@
 			"race": "WYRM"
 		},
 		"cardObtain": [
-			"Requiem of Collapse"
+			"Requiem of Collapse (Mini Box)"
 		]
 	},
 	{
@@ -12133,7 +12133,7 @@
 		"effect": "Choose 1 face-up Galaxy Type monster on your field. This turn, that monster inflicts piercing battle damage. If it is a Normal Monster, you can also change the battle position of 1 monster on your opponent\u0027s field (Attack Position becomes face-up Defense Position, Defense Position becomes face-up Attack Position).",
 		"rarity": "SR",
 		"cardObtain": [
-			"Galactica Go Rush"
+			"Galactica Go Rush (Mini Box)"
 		]
 	},
 	{
@@ -12146,7 +12146,7 @@
 		"effect": "Choose 1 face-up Beast Type Normal Monster on your field. This turn, that monster can make up to 3 attacks on monsters. If you have \"Princess of the Flock - Miss Mutton\" face-up on your field, you can also make all face-up Effect Monsters on your opponent\u0027s field lose 500 ATK until the end of this turn.",
 		"rarity": "R",
 		"cardObtain": [
-			"Galactica Go Rush"
+			"Galactica Go Rush (Mini Box)"
 		]
 	},
 	{
@@ -12215,7 +12215,7 @@
 		"effect": "Destroy 1 Spell/Trap Card on your opponent\u0027s field. Then, if you have 3 or less monsters in your Graveyard, you can draw 1 card.",
 		"rarity": "UR",
 		"cardObtain": [
-			"Heavy Metal Scream"
+			"Heavy Metal Scream (Mini Box)"
 		]
 	},
 	{
@@ -12228,7 +12228,7 @@
 		"effect": "The attacking monster loses 500 ATK until the end of this turn.",
 		"rarity": "N",
 		"cardObtain": [
-			"Galactica Go Rush",
+			"Galactica Go Rush (Mini Box)",
 			"Transam Universe"
 		]
 	},
@@ -12242,7 +12242,7 @@
 		"effect": "The attacked monster loses 2000 ATK until the end of this turn. Then, you can add up to 4 cards sent to the Graveyard to meet the requirement to your hand.",
 		"rarity": "R",
 		"cardObtain": [
-			"Galactica Go Rush"
+			"Galactica Go Rush (Mini Box)"
 		]
 	},
 	{
@@ -12255,7 +12255,7 @@
 		"effect": "Draw until you have 5 cards in your hand and reveal your hand. If you have a monster in your hand, also gain LP equal to [the number of monsters in your hand] x 200.",
 		"rarity": "R",
 		"cardObtain": [
-			"Fusion of Revolution"
+			"Fusion of Revolution (Mini Box)"
 		]
 	},
 	{
@@ -12350,7 +12350,7 @@
 			"race": "GALAXY"
 		},
 		"cardObtain": [
-			"Galactica Go Rush"
+			"Galactica Go Rush (Mini Box)"
 		]
 	},
 	{
@@ -12370,7 +12370,7 @@
 			"race": "GALAXY"
 		},
 		"cardObtain": [
-			"Requiem of Collapse"
+			"Requiem of Collapse (Mini Box)"
 		]
 	},
 	{
@@ -12390,7 +12390,7 @@
 			"race": "GALAXY"
 		},
 		"cardObtain": [
-			"Galactica Go Rush",
+			"Galactica Go Rush (Mini Box)",
 			"Transam Universe"
 		]
 	},
@@ -12411,7 +12411,7 @@
 			"race": "GALAXY"
 		},
 		"cardObtain": [
-			"Requiem of Collapse"
+			"Requiem of Collapse (Mini Box)"
 		]
 	},
 	{
@@ -12431,7 +12431,7 @@
 			"race": "GALAXY"
 		},
 		"cardObtain": [
-			"Requiem of Collapse"
+			"Requiem of Collapse (Mini Box)"
 		]
 	},
 	{
@@ -12471,7 +12471,7 @@
 			"race": "GALAXY"
 		},
 		"cardObtain": [
-			"Galactica Go Rush",
+			"Galactica Go Rush (Mini Box)",
 			"Transam Universe"
 		]
 	},
@@ -12492,7 +12492,7 @@
 			"race": "GALAXY"
 		},
 		"cardObtain": [
-			"Requiem of Collapse"
+			"Requiem of Collapse (Mini Box)"
 		]
 	},
 	{
@@ -12512,7 +12512,7 @@
 			"race": "GALAXY"
 		},
 		"cardObtain": [
-			"Galactica Go Rush"
+			"Galactica Go Rush (Mini Box)"
 		]
 	},
 	{
@@ -12533,7 +12533,7 @@
 		},
 		"cardObtain": [
 			"Transam Universe",
-			"Requiem of Collapse"
+			"Requiem of Collapse (Mini Box)"
 		]
 	},
 	{
@@ -12553,7 +12553,7 @@
 			"race": "GALAXY"
 		},
 		"cardObtain": [
-			"Galactica Go Rush"
+			"Galactica Go Rush (Mini Box)"
 		]
 	},
 	{
@@ -12574,7 +12574,7 @@
 		},
 		"cardObtain": [
 			"Transam Universe",
-			"Requiem of Collapse"
+			"Requiem of Collapse (Mini Box)"
 		]
 	},
 	{
@@ -12594,7 +12594,7 @@
 			"race": "GALAXY"
 		},
 		"cardObtain": [
-			"Galactica Go Rush"
+			"Galactica Go Rush (Mini Box)"
 		]
 	},
 	{
@@ -12614,7 +12614,7 @@
 			"race": "GALAXY"
 		},
 		"cardObtain": [
-			"Galactica Go Rush",
+			"Galactica Go Rush (Mini Box)",
 			"Transam Universe"
 		]
 	},
@@ -12680,7 +12680,7 @@
 		"effect": "All face-up Galaxy Type Normal Monsters on your field gain ATK equal to [the number of face-up Normal Monsters on the field] x 300 until the end of this turn.",
 		"rarity": "R",
 		"cardObtain": [
-			"Galactica Go Rush",
+			"Galactica Go Rush (Mini Box)",
 			"Transam Universe"
 		]
 	},
@@ -12749,7 +12749,7 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"Galactica Go Rush"
+			"Galactica Go Rush (Mini Box)"
 		]
 	},
 	{
@@ -12769,7 +12769,7 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Transcendence Miragias"
+			"Transcendence Miragias (Super Mini Box)"
 		]
 	},
 	{
@@ -12841,7 +12841,7 @@
 		"effect": "Change that monster to face-up Defense Position.",
 		"rarity": "SR",
 		"cardObtain": [
-			"Steel Kaleidomirror"
+			"Steel Kaleidomirror (Mini Box)"
 		]
 	},
 	{
@@ -12909,7 +12909,7 @@
 			"race": "PSYCHIC"
 		},
 		"cardObtain": [
-			"Requiem of Collapse"
+			"Requiem of Collapse (Mini Box)"
 		]
 	},
 	{
@@ -12929,7 +12929,7 @@
 			"race": "PSYCHIC"
 		},
 		"cardObtain": [
-			"Requiem of Collapse"
+			"Requiem of Collapse (Mini Box)"
 		]
 	},
 	{
@@ -12949,7 +12949,7 @@
 			"race": "PSYCHIC"
 		},
 		"cardObtain": [
-			"Requiem of Collapse"
+			"Requiem of Collapse (Mini Box)"
 		]
 	},
 	{
@@ -12969,7 +12969,7 @@
 			"race": "AQUA"
 		},
 		"cardObtain": [
-			"Transcendence Miragias"
+			"Transcendence Miragias (Super Mini Box)"
 		]
 	},
 	{
@@ -13070,7 +13070,7 @@
 			"race": "ZOMBIE"
 		},
 		"cardObtain": [
-			"Evolving Rising Heart"
+			"Evolving Rising Heart (Super Mini Box)"
 		]
 	},
 	{
@@ -13090,7 +13090,7 @@
 			"race": "ZOMBIE"
 		},
 		"cardObtain": [
-			"Evolving Rising Heart",
+			"Evolving Rising Heart (Super Mini Box)",
 			"Selection BOX Vol.02"
 		]
 	},
@@ -13111,7 +13111,7 @@
 			"race": "ZOMBIE"
 		},
 		"cardObtain": [
-			"Evolving Rising Heart",
+			"Evolving Rising Heart (Super Mini Box)",
 			"Selection BOX Vol.02"
 		]
 	},
@@ -13132,7 +13132,7 @@
 			"race": "ZOMBIE"
 		},
 		"cardObtain": [
-			"Evolving Rising Heart",
+			"Evolving Rising Heart (Super Mini Box)",
 			"Selection BOX Vol.02"
 		]
 	},
@@ -13153,7 +13153,7 @@
 			"race": "ZOMBIE"
 		},
 		"cardObtain": [
-			"Evolving Rising Heart",
+			"Evolving Rising Heart (Super Mini Box)",
 			"Selection BOX Vol.02"
 		]
 	},
@@ -13174,7 +13174,7 @@
 			"race": "ZOMBIE"
 		},
 		"cardObtain": [
-			"Evolving Rising Heart",
+			"Evolving Rising Heart (Super Mini Box)",
 			"Selection BOX Vol.02"
 		]
 	},
@@ -13232,7 +13232,7 @@
 			"race": "ZOMBIE"
 		},
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road (Main Box)"
 		]
 	},
 	{
@@ -13245,7 +13245,7 @@
 		"effect": "Inflict 600 damage to your opponent. Then, if your opponent has 2 or more face-up Level 7 monsters on their field, you can shuffle 1 monster on your opponent\u0027s field into the Deck.",
 		"rarity": "SR",
 		"cardObtain": [
-			"Scorching Flame Burst"
+			"Scorching Flame Burst (Deck Build Box)"
 		]
 	},
 	{
@@ -13278,7 +13278,7 @@
 			"race": "AQUA"
 		},
 		"cardObtain": [
-			"Sevens New Road"
+			"Sevens New Road (Main Box)"
 		]
 	},
 	{
@@ -13508,7 +13508,7 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Galactica Go Rush"
+			"Galactica Go Rush (Mini Box)"
 		]
 	},
 	{
@@ -13528,7 +13528,7 @@
 			"race": "GALAXY"
 		},
 		"cardObtain": [
-			"Requiem of Collapse"
+			"Requiem of Collapse (Mini Box)"
 		]
 	},
 	{
@@ -13548,7 +13548,7 @@
 			"race": "GALAXY"
 		},
 		"cardObtain": [
-			"Requiem of Collapse"
+			"Requiem of Collapse (Mini Box)"
 		]
 	},
 	{
@@ -13691,7 +13691,7 @@
 			"race": "THUNDER"
 		},
 		"cardObtain": [
-			"Evolving Rising Heart"
+			"Evolving Rising Heart (Super Mini Box)"
 		]
 	},
 	{
@@ -13729,7 +13729,7 @@
 			"race": "PSYCHIC"
 		},
 		"cardObtain": [
-			"Requiem of Collapse"
+			"Requiem of Collapse (Mini Box)"
 		]
 	},
 	{
@@ -13866,7 +13866,7 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"Galactica Go Rush"
+			"Galactica Go Rush (Mini Box)"
 		]
 	},
 	{
@@ -13903,7 +13903,7 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"Galactica Go Rush"
+			"Galactica Go Rush (Mini Box)"
 		]
 	},
 	{
@@ -13923,7 +13923,7 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"Galactica Go Rush"
+			"Galactica Go Rush (Mini Box)"
 		]
 	},
 	{
@@ -13963,7 +13963,7 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"Galactica Go Rush"
+			"Galactica Go Rush (Mini Box)"
 		]
 	},
 	{
@@ -14018,7 +14018,7 @@
 		"effect": "The attacking monster loses 500 ATK until the end of this turn.",
 		"rarity": "SR",
 		"cardObtain": [
-			"Genesis Maximum"
+			"Genesis Maximum (Mini Box)"
 		]
 	},
 	{
@@ -14055,7 +14055,7 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Galactica Go Rush"
+			"Galactica Go Rush (Mini Box)"
 		]
 	},
 	{
@@ -14096,7 +14096,7 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Galactica Go Rush"
+			"Galactica Go Rush (Mini Box)"
 		]
 	},
 	{
@@ -14133,7 +14133,7 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Galactica Go Rush"
+			"Galactica Go Rush (Mini Box)"
 		]
 	},
 	{
@@ -14214,9 +14214,9 @@
 			"race": "PYRO"
 		},
 		"cardObtain": [
-			"Sevens New Road",
+			"Sevens New Road (Main Box)",
 			"Legend of Dark Magic",
-			"Scorching Flame Burst",
+			"Scorching Flame Burst (Deck Build Box)",
 			"Hero\u0027s Stage"
 		]
 	},
@@ -14291,7 +14291,7 @@
 			"race": "GALAXY"
 		},
 		"cardObtain": [
-			"Requiem of Collapse"
+			"Requiem of Collapse (Mini Box)"
 		]
 	},
 	{
@@ -14349,7 +14349,7 @@
 			"race": "GALAXY"
 		},
 		"cardObtain": [
-			"Requiem of Collapse"
+			"Requiem of Collapse (Mini Box)"
 		]
 	},
 	{
@@ -14389,7 +14389,7 @@
 			"race": "GALAXY"
 		},
 		"cardObtain": [
-			"Requiem of Collapse"
+			"Requiem of Collapse (Mini Box)"
 		]
 	},
 	{
@@ -14409,7 +14409,7 @@
 			"race": "GALAXY"
 		},
 		"cardObtain": [
-			"Requiem of Collapse"
+			"Requiem of Collapse (Mini Box)"
 		]
 	},
 	{
@@ -14422,7 +14422,7 @@
 		"effect": "Add 1 DARK Attribute Galaxy Type monster from your Graveyard to your hand.",
 		"rarity": "R",
 		"cardObtain": [
-			"Requiem of Collapse"
+			"Requiem of Collapse (Mini Box)"
 		]
 	},
 	{
@@ -14615,7 +14615,7 @@
 			"race": "FAIRY"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream"
+			"Heavy Metal Scream (Mini Box)"
 		]
 	},
 	{
@@ -14652,7 +14652,7 @@
 			"race": "FIEND"
 		},
 		"cardObtain": [
-			"Genesis Maximum"
+			"Genesis Maximum (Mini Box)"
 		]
 	},
 	{
@@ -14672,7 +14672,7 @@
 			"race": "PLANT"
 		},
 		"cardObtain": [
-			"Heavy Strike Excavator"
+			"Heavy Strike Excavator (Mini Box)"
 		]
 	},
 	{
@@ -14685,7 +14685,7 @@
 		"effect": "Look at up to 2 face-down Spell/Trap Cards on your opponent\u0027s field, and destroy 1 of them. Then, if you have \"CAN:D\" face-up on your field, you can gain 1000 LP.",
 		"rarity": "R",
 		"cardObtain": [
-			"Steel Kaleidomirror"
+			"Steel Kaleidomirror (Mini Box)"
 		]
 	},
 	{
@@ -15016,7 +15016,7 @@
 			"race": "FIEND"
 		},
 		"cardObtain": [
-			"Genesis Maximum"
+			"Genesis Maximum (Mini Box)"
 		]
 	},
 	{
@@ -15073,7 +15073,7 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"Requiem of Collapse"
+			"Requiem of Collapse (Mini Box)"
 		]
 	},
 	{
@@ -15162,7 +15162,7 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"Fusion of Revolution"
+			"Fusion of Revolution (Mini Box)"
 		]
 	},
 	{
@@ -15204,7 +15204,7 @@
 			"race": "GALAXY"
 		},
 		"cardObtain": [
-			"Galactica Go Rush"
+			"Galactica Go Rush (Mini Box)"
 		]
 	},
 	{
@@ -15312,7 +15312,7 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"Fusion of Revolution"
+			"Fusion of Revolution (Mini Box)"
 		]
 	},
 	{
@@ -15334,7 +15334,7 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"Fusion of Revolution"
+			"Fusion of Revolution (Mini Box)"
 		]
 	},
 	{
@@ -15354,7 +15354,7 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Galactica Go Rush"
+			"Galactica Go Rush (Mini Box)"
 		]
 	},
 	{
@@ -15448,7 +15448,7 @@
 			"race": "GALAXY"
 		},
 		"cardObtain": [
-			"Requiem of Collapse"
+			"Requiem of Collapse (Mini Box)"
 		]
 	},
 	{
@@ -15699,7 +15699,7 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Transcendence Miragias"
+			"Transcendence Miragias (Super Mini Box)"
 		]
 	},
 	{
@@ -15749,7 +15749,7 @@
 		"effect": "Excavate the top 3 cards of your Deck. You can Special Summon up to 2 excavated Level 4 or lower Beast Type monsters to your field in face-down Defense Position. Send the other cards to the Graveyard.",
 		"rarity": "SR",
 		"cardObtain": [
-			"Galactica Go Rush"
+			"Galactica Go Rush (Mini Box)"
 		]
 	},
 	{
@@ -15769,7 +15769,7 @@
 			"race": "FIEND"
 		},
 		"cardObtain": [
-			"Evolving Rising Heart"
+			"Evolving Rising Heart (Super Mini Box)"
 		]
 	},
 	{
@@ -15789,7 +15789,7 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Heavy Strike Excavator"
+			"Heavy Strike Excavator (Mini Box)"
 		]
 	},
 	{
@@ -15891,7 +15891,7 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Fusion of Revolution"
+			"Fusion of Revolution (Mini Box)"
 		]
 	},
 	{
@@ -15911,7 +15911,7 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Fusion of Revolution"
+			"Fusion of Revolution (Mini Box)"
 		]
 	},
 	{
@@ -16016,7 +16016,7 @@
 			"race": "CYBERSE"
 		},
 		"cardObtain": [
-			"Transcendence Miragias"
+			"Transcendence Miragias (Super Mini Box)"
 		]
 	},
 	{
@@ -16053,7 +16053,7 @@
 			"race": "CYBERSE"
 		},
 		"cardObtain": [
-			"Transcendence Miragias"
+			"Transcendence Miragias (Super Mini Box)"
 		]
 	},
 	{
@@ -16110,7 +16110,7 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Requiem of Collapse"
+			"Requiem of Collapse (Mini Box)"
 		]
 	},
 	{
@@ -16131,8 +16131,8 @@
 		},
 		"cardObtain": [
 			"Raidacross the Lionhearted",
-			"Genesis Maximum",
-			"Heavy Strike Excavator",
+			"Genesis Maximum (Mini Box)",
+			"Heavy Strike Excavator (Mini Box)",
 			"Hero\u0027s Stage"
 		]
 	},
@@ -16219,7 +16219,7 @@
 			"race": "CYBERSE"
 		},
 		"cardObtain": [
-			"Transcendence Miragias"
+			"Transcendence Miragias (Super Mini Box)"
 		]
 	},
 	{
@@ -16327,7 +16327,7 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Genesis Maximum"
+			"Genesis Maximum (Mini Box)"
 		]
 	},
 	{
@@ -16357,8 +16357,8 @@
 			"race": "PYRO"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream",
-			"Scorching Flame Burst"
+			"Heavy Metal Scream (Mini Box)",
+			"Scorching Flame Burst (Deck Build Box)"
 		]
 	},
 	{
@@ -16504,7 +16504,7 @@
 			"race": "FAIRY"
 		},
 		"cardObtain": [
-			"Genesis Maximum"
+			"Genesis Maximum (Mini Box)"
 		]
 	},
 	{
@@ -16654,7 +16654,7 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Heavy Strike Excavator"
+			"Heavy Strike Excavator (Mini Box)"
 		]
 	},
 	{
@@ -16700,7 +16700,7 @@
 		"effect": "Negate the attack.",
 		"rarity": "SR",
 		"cardObtain": [
-			"Evolving Rising Heart"
+			"Evolving Rising Heart (Super Mini Box)"
 		]
 	},
 	{
@@ -16742,7 +16742,7 @@
 			"race": "PSYCHIC"
 		},
 		"cardObtain": [
-			"Divine Genesis Blade"
+			"Divine Genesis Blade (Deck Build Box)"
 		]
 	},
 	{
@@ -16763,7 +16763,7 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Divine Genesis Blade"
+			"Divine Genesis Blade (Deck Build Box)"
 		]
 	},
 	{
@@ -17108,7 +17108,7 @@
 		"effect": "Special Summon 1 Level 7 Normal Monster from your hand or Graveyard face-up to your field. This turn, the monster Special Summoned by this effect gains 700 ATK and cannot be destroyed by your opponent\u0027s Trap Card effects.",
 		"rarity": "UR",
 		"cardObtain": [
-			"Galactica Go Rush"
+			"Galactica Go Rush (Mini Box)"
 		]
 	},
 	{
@@ -17128,7 +17128,7 @@
 			"race": "CYBERSE"
 		},
 		"cardObtain": [
-			"Steel Kaleidomirror",
+			"Steel Kaleidomirror (Mini Box)",
 			"Selection BOX Vol.02"
 		]
 	},
@@ -17371,7 +17371,7 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Fusion of Revolution",
+			"Fusion of Revolution (Mini Box)",
 			"Hero\u0027s Stage"
 		]
 	},
@@ -17435,7 +17435,7 @@
 			"race": "WYRM"
 		},
 		"cardObtain": [
-			"Requiem of Collapse"
+			"Requiem of Collapse (Mini Box)"
 		]
 	},
 	{
@@ -17531,7 +17531,7 @@
 			"race": "WYRM"
 		},
 		"cardObtain": [
-			"Heavy Strike Excavator"
+			"Heavy Strike Excavator (Mini Box)"
 		]
 	},
 	{
@@ -17554,7 +17554,7 @@
 			"race": "WYRM"
 		},
 		"cardObtain": [
-			"Heavy Strike Excavator"
+			"Heavy Strike Excavator (Mini Box)"
 		]
 	},
 	{
@@ -17575,7 +17575,7 @@
 			"race": "WYRM"
 		},
 		"cardObtain": [
-			"Heavy Strike Excavator"
+			"Heavy Strike Excavator (Mini Box)"
 		]
 	},
 	{
@@ -17596,7 +17596,7 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Heavy Strike Excavator"
+			"Heavy Strike Excavator (Mini Box)"
 		]
 	},
 	{
@@ -17619,7 +17619,7 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Heavy Strike Excavator"
+			"Heavy Strike Excavator (Mini Box)"
 		]
 	},
 	{
@@ -17640,7 +17640,7 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Heavy Strike Excavator"
+			"Heavy Strike Excavator (Mini Box)"
 		]
 	},
 	{
@@ -17661,7 +17661,7 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Transcendence Miragias"
+			"Transcendence Miragias (Super Mini Box)"
 		]
 	},
 	{
@@ -17700,7 +17700,7 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"Fusion of Revolution"
+			"Fusion of Revolution (Mini Box)"
 		]
 	},
 	{
@@ -17764,7 +17764,7 @@
 			"race": "GALAXY"
 		},
 		"cardObtain": [
-			"Requiem of Collapse"
+			"Requiem of Collapse (Mini Box)"
 		]
 	},
 	{
@@ -17786,7 +17786,7 @@
 			"race": "OMEGA_PSYCHIC"
 		},
 		"cardObtain": [
-			"Requiem of Collapse"
+			"Requiem of Collapse (Mini Box)"
 		]
 	},
 	{
@@ -17808,7 +17808,7 @@
 			"race": "WYRM"
 		},
 		"cardObtain": [
-			"Requiem of Collapse"
+			"Requiem of Collapse (Mini Box)"
 		]
 	}
 ]
