@@ -1878,7 +1878,12 @@
 		"effect": "⬤ Send 1 \"Imaginary Actor\" from your Deck to the Graveyard. (Once per Duel.)\n⬤ 1 face-up monster on your field that was Tribute Summoned this turn gains 900 ATK until the end of this turn.",
 		"effectType": "MULTICHOICE",
 		"isArchive": false,
-		"mentionedCards": []
+		"characters": [
+			717
+		],
+		"mentionedCards": [
+			16891
+		]
 	},
 	{
 		"id": 5302,
@@ -1887,6 +1892,12 @@
 		"effect": "⬤ Take 2 cards (\"Red-Boot Boost Dragon\" and/or Level 4 or lower LIGHT Attribute monsters) from your Deck and add 1 of them to your hand and send the other to the Graveyard. (This effect can be used once going first and twice going second.)\n⬤ 1 face-up monster on your opponent\u0027s field loses 400 ATK until the end of this turn.",
 		"effectType": "MULTICHOICE",
 		"isArchive": false,
-		"mentionedCards": []
+		"characters": [
+			903
+		],
+		"mentionedCards": [
+			17865,
+			17946
+		]
 	}
 ]

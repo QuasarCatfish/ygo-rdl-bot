@@ -182,7 +182,8 @@
 			"Lightspeed Voltcondor",
 			"Sevens New Road (Main Box)",
 			"Raidacross the Lionhearted",
-			"Selection BOX Vol.01"
+			"Selection BOX Vol.01",
+			"Boost Red-Boot (Deck Build Box)"
 		]
 	},
 	{
@@ -227,7 +228,8 @@
 			"Raidacross the Lionhearted",
 			"The Ultimate Ace Breaker",
 			"Selection BOX Vol.01",
-			"Fusion of Revolution (Mini Box)"
+			"Fusion of Revolution (Mini Box)",
+			"Boost Red-Boot (Deck Build Box)"
 		]
 	},
 	{
@@ -276,7 +278,8 @@
 		"cardObtain": [
 			"Legend of Dark Magic",
 			"Soul with Eyes of Blue",
-			"Heavy Strike Excavator (Mini Box)"
+			"Heavy Strike Excavator (Mini Box)",
+			"Boost Red-Boot (Deck Build Box)"
 		]
 	},
 	{
@@ -297,7 +300,8 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Sevens New Road (Main Box)"
+			"Sevens New Road (Main Box)",
+			"Boost Red-Boot (Deck Build Box)"
 		]
 	},
 	{
@@ -521,7 +525,8 @@
 		"effect": "Destroy all monsters on the field. If you destroyed a monster by this effect, Special Summon 1 Level 4 or lower Dragon Type monster from your Graveyard to your field in face-up Defense Position.",
 		"rarity": "SR",
 		"cardObtain": [
-			"Sevens New Road (Main Box)"
+			"Sevens New Road (Main Box)",
+			"Boost Red-Boot (Deck Build Box)"
 		]
 	},
 	{
@@ -670,14 +675,17 @@
 		"isLegend": false,
 		"requirement": "Send 1 card from your hand to the Graveyard.",
 		"effect": "Shuffle up to 2 monsters from your opponent\u0027s Graveyard into the Deck.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 2,
 			"atk": 800,
 			"def": 1200,
 			"attribute": "WIND",
 			"race": "SPELLCASTER"
-		}
+		},
+		"cardObtain": [
+			"Boost Red-Boot (Deck Build Box)"
+		]
 	},
 	{
 		"id": 15189,
@@ -1025,7 +1033,8 @@
 		"cardObtain": [
 			"Sevens New Road (Main Box)",
 			"Raidacross the Lionhearted",
-			"Selection BOX Vol.01"
+			"Selection BOX Vol.01",
+			"Boost Red-Boot (Deck Build Box)"
 		]
 	},
 	{
@@ -1085,7 +1094,8 @@
 			"The Ultimate Ace Breaker",
 			"Legend of Dark Magic",
 			"Selection BOX Vol.01",
-			"Galactica Go Rush (Mini Box)"
+			"Galactica Go Rush (Mini Box)",
+			"Boost Red-Boot (Deck Build Box)"
 		]
 	},
 	{
@@ -2600,7 +2610,8 @@
 		"rarity": "R",
 		"cardObtain": [
 			"Fusion of Revolution (Mini Box)",
-			"Selection BOX Vol.02"
+			"Selection BOX Vol.02",
+			"Boost Red-Boot (Deck Build Box)"
 		]
 	},
 	{
@@ -2992,7 +3003,8 @@
 			"Scorching Flame Burst (Deck Build Box)",
 			"Fusion of Revolution (Mini Box)",
 			"Hero\u0027s Stage",
-			"Divine Genesis Blade (Deck Build Box)"
+			"Divine Genesis Blade (Deck Build Box)",
+			"Boost Red-Boot (Deck Build Box)"
 		]
 	},
 	{
@@ -3386,7 +3398,8 @@
 			"Sevens New Road (Main Box)",
 			"Selection BOX Vol.01",
 			"Fusion of Revolution (Mini Box)",
-			"Divine Genesis Blade (Deck Build Box)"
+			"Divine Genesis Blade (Deck Build Box)",
+			"Boost Red-Boot (Deck Build Box)"
 		]
 	},
 	{
@@ -3474,7 +3487,8 @@
 			"Sevens New Road (Main Box)",
 			"Steel Kaleidomirror (Mini Box)",
 			"Fusion of Revolution (Mini Box)",
-			"Divine Genesis Blade (Deck Build Box)"
+			"Divine Genesis Blade (Deck Build Box)",
+			"Boost Red-Boot (Deck Build Box)"
 		]
 	},
 	{
@@ -3830,7 +3844,8 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Selection BOX Vol.01"
+			"Selection BOX Vol.01",
+			"Boost Red-Boot (Deck Build Box)"
 		]
 	},
 	{
@@ -3890,7 +3905,8 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Fusion of Revolution (Mini Box)"
+			"Fusion of Revolution (Mini Box)",
+			"Boost Red-Boot (Deck Build Box)"
 		]
 	},
 	{
@@ -3911,7 +3927,8 @@
 		},
 		"cardObtain": [
 			"Genesis Maximum (Mini Box)",
-			"Galactica Go Rush (Mini Box)"
+			"Galactica Go Rush (Mini Box)",
+			"Boost Red-Boot (Deck Build Box)"
 		]
 	},
 	{
@@ -3996,7 +4013,10 @@
 			"def": 1500,
 			"attribute": "DARK",
 			"race": "DRAGON"
-		}
+		},
+		"cardObtain": [
+			"Boost Red-Boot (Deck Build Box)"
+		]
 	},
 	{
 		"id": 15801,
@@ -8567,7 +8587,8 @@
 		"cardObtain": [
 			"Transcendence Miragias (Super Mini Box)",
 			"Galactica Go Rush (Mini Box)",
-			"Selection BOX Vol.02"
+			"Selection BOX Vol.02",
+			"Boost Red-Boot (Deck Build Box)"
 		]
 	},
 	{
@@ -8616,7 +8637,8 @@
 			"Steel Kaleidomirror (Mini Box)",
 			"Fusion of Revolution (Mini Box)",
 			"Hero\u0027s Stage",
-			"Divine Genesis Blade (Deck Build Box)"
+			"Divine Genesis Blade (Deck Build Box)",
+			"Boost Red-Boot (Deck Build Box)"
 		]
 	},
 	{
@@ -9064,7 +9086,8 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Fusion of Revolution (Mini Box)"
+			"Fusion of Revolution (Mini Box)",
+			"Boost Red-Boot (Deck Build Box)"
 		]
 	},
 	{
@@ -9182,14 +9205,17 @@
 		"inherentSummonCondition": "\"Sparkhearts Girl\" + \"Whispering Fairy\"",
 		"requirement": "Send 1 card from your hand to the Graveyard.",
 		"effect": "Shuffle up to 2 monsters from your opponent\u0027s Graveyard into the Deck. Then, you can make all face-up monsters on your opponent\u0027s field lose 500 ATK until the end of this turn.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 7,
 			"atk": 2200,
 			"def": 1600,
 			"attribute": "FIRE",
 			"race": "SPELLCASTER"
-		}
+		},
+		"cardObtain": [
+			"Boost Red-Boot (Deck Build Box)"
+		]
 	},
 	{
 		"id": 16902,
@@ -9209,7 +9235,8 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Fusion of Revolution (Mini Box)"
+			"Fusion of Revolution (Mini Box)",
+			"Boost Red-Boot (Deck Build Box)"
 		]
 	},
 	{
@@ -9229,7 +9256,8 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Fusion of Revolution (Mini Box)"
+			"Fusion of Revolution (Mini Box)",
+			"Boost Red-Boot (Deck Build Box)"
 		]
 	},
 	{
@@ -9290,7 +9318,8 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Fusion of Revolution (Mini Box)"
+			"Fusion of Revolution (Mini Box)",
+			"Boost Red-Boot (Deck Build Box)"
 		]
 	},
 	{
@@ -9310,7 +9339,8 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Fusion of Revolution (Mini Box)"
+			"Fusion of Revolution (Mini Box)",
+			"Boost Red-Boot (Deck Build Box)"
 		]
 	},
 	{
@@ -9323,7 +9353,8 @@
 		"effect": "Make 1 face-up monster on your field gain 500 ATK/DEF until the end of this turn.",
 		"rarity": "N",
 		"cardObtain": [
-			"Fusion of Revolution (Mini Box)"
+			"Fusion of Revolution (Mini Box)",
+			"Boost Red-Boot (Deck Build Box)"
 		]
 	},
 	{
@@ -9340,7 +9371,8 @@
 			"Raidacross the Lionhearted",
 			"The Ultimate Ace Breaker",
 			"Legend of Dark Magic",
-			"Hero\u0027s Stage"
+			"Hero\u0027s Stage",
+			"Boost Red-Boot (Deck Build Box)"
 		]
 	},
 	{
@@ -9361,7 +9393,8 @@
 			"race": "PSYCHIC"
 		},
 		"cardObtain": [
-			"Fusion of Revolution (Mini Box)"
+			"Fusion of Revolution (Mini Box)",
+			"Boost Red-Boot (Deck Build Box)"
 		]
 	},
 	{
@@ -9425,7 +9458,8 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Fusion of Revolution (Mini Box)"
+			"Fusion of Revolution (Mini Box)",
+			"Boost Red-Boot (Deck Build Box)"
 		]
 	},
 	{
@@ -9518,7 +9552,8 @@
 			"Fusion of Revolution (Mini Box)",
 			"Hero\u0027s Stage",
 			"Divine Genesis Blade (Deck Build Box)",
-			"Requiem of Collapse (Mini Box)"
+			"Requiem of Collapse (Mini Box)",
+			"Boost Red-Boot (Deck Build Box)"
 		]
 	},
 	{
@@ -10257,7 +10292,8 @@
 		"effect": "Inflict 400 damage to your opponent. This turn, your opponent cannot use face-down monsters for a Tribute Summon.",
 		"rarity": "R",
 		"cardObtain": [
-			"Fusion of Revolution (Mini Box)"
+			"Fusion of Revolution (Mini Box)",
+			"Boost Red-Boot (Deck Build Box)"
 		]
 	},
 	{
@@ -10742,14 +10778,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "A charming serpent that\u0027s super adorable. It performs a slithery dance to the tune of a flute, turning spectators\u0027 frowns upside down.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 5,
 			"atk": 1700,
 			"def": 500,
 			"attribute": "LIGHT",
 			"race": "REPTILE"
-		}
+		},
+		"cardObtain": [
+			"Yuo Goha Duel Reward"
+		]
 	},
 	{
 		"id": 17279,
@@ -11141,14 +11180,17 @@
 		"inherentSummonCondition": "\"Illusion Strike Dragon Miragias\" + \"The Dragon\"",
 		"requirement": "Send the top card of your Deck to the Graveyard.",
 		"effect": "⬤ Make up to 3 face-up monsters on your opponent\u0027s field lose 1500 ATK until the end of this turn. This turn, this card can make up to 2 attacks on monsters. ⬤ This turn, this card can attack directly.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 9,
 			"atk": 3000,
 			"def": 2000,
 			"attribute": "DARK",
 			"race": "HIGH_DRAGON"
-		}
+		},
+		"cardObtain": [
+			"Boost Red-Boot (Deck Build Box)"
+		]
 	},
 	{
 		"id": 17311,
@@ -11180,14 +11222,17 @@
 		"inherentSummonCondition": "\"Imaginary Actor\" + \"Snake Clown\"",
 		"requirement": "Send 1 card from your hand to the Graveyard.",
 		"effect": "⬤ Draw 2 cards. Send 1 card from your hand to the Graveyard. ⬤ Make up to 3 face-up Reptile Type monsters on your opponent\u0027s field lose 1000 ATK/DEF until the end of this turn. This turn, this card can make up to 2 attacks.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 9,
 			"atk": 3000,
 			"def": 2500,
 			"attribute": "LIGHT",
 			"race": "CYBORG"
-		}
+		},
+		"cardObtain": [
+			"Yuo Goha Duel Reward"
+		]
 	},
 	{
 		"id": 17316,
@@ -12255,7 +12300,8 @@
 		"effect": "Draw until you have 5 cards in your hand and reveal your hand. If you have a monster in your hand, also gain LP equal to [the number of monsters in your hand] x 200.",
 		"rarity": "R",
 		"cardObtain": [
-			"Fusion of Revolution (Mini Box)"
+			"Fusion of Revolution (Mini Box)",
+			"Boost Red-Boot (Deck Build Box)"
 		]
 	},
 	{
@@ -12769,7 +12815,8 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Transcendence Miragias (Super Mini Box)"
+			"Transcendence Miragias (Super Mini Box)",
+			"Boost Red-Boot (Deck Build Box)"
 		]
 	},
 	{
@@ -14029,14 +14076,17 @@
 		"isLegend": false,
 		"requirement": "None",
 		"effect": "Choose up to 7 Dragon Type monsters in your Graveyard. Inflict damage to your opponent equal to [the number of monsters chosen] x 100, and this card gains ATK equal to [the number of monsters chosen] x 100. Then, shuffle the chosen monsters into the Deck.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 7,
 			"atk": 2400,
 			"def": 1600,
 			"attribute": "DARK",
 			"race": "DRAGON"
-		}
+		},
+		"cardObtain": [
+			"Boost Red-Boot (Deck Build Box)"
+		]
 	},
 	{
 		"id": 17947,
@@ -14096,7 +14146,8 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Galactica Go Rush (Mini Box)"
+			"Galactica Go Rush (Mini Box)",
+			"Boost Red-Boot (Deck Build Box)"
 		]
 	},
 	{
@@ -14133,7 +14184,8 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Galactica Go Rush (Mini Box)"
+			"Galactica Go Rush (Mini Box)",
+			"Boost Red-Boot (Deck Build Box)"
 		]
 	},
 	{
@@ -16504,7 +16556,8 @@
 			"race": "FAIRY"
 		},
 		"cardObtain": [
-			"Genesis Maximum (Mini Box)"
+			"Genesis Maximum (Mini Box)",
+			"Boost Red-Boot (Deck Build Box)"
 		]
 	},
 	{
@@ -16687,7 +16740,8 @@
 		"effect": "Special Summon 1 Level 7 or lower Effect Monster from your hand face-up to your field.",
 		"rarity": "UR",
 		"cardObtain": [
-			"Selection BOX Vol.01"
+			"Selection BOX Vol.01",
+			"Boost Red-Boot (Deck Build Box)"
 		]
 	},
 	{
@@ -16812,14 +16866,17 @@
 		"isLegend": false,
 		"requirement": "Send 1 Dragon Type monster from your hand to the Graveyard.",
 		"effect": "Change 1 face-down monster on your opponent\u0027s field to face-up Attack Position. Then, if the only face-up monsters on your field are Dragon Type monsters, you can Special Summon 1 \"Flip Dragon\" from your Graveyard to your field in face-up Defense Position.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 1,
 			"atk": 0,
 			"def": 200,
 			"attribute": "LIGHT",
 			"race": "DRAGON"
-		}
+		},
+		"cardObtain": [
+			"Boost Red-Boot (Deck Build Box)"
+		]
 	},
 	{
 		"id": 19642,
@@ -16829,14 +16886,17 @@
 		"isLegend": false,
 		"requirement": "Send 1 Dragon Type monster from your hand to the Graveyard.",
 		"effect": "Change 1 Attack Position monster on your opponent\u0027s field to face-down Defense Position. Then, if the only face-up monsters on your field are Dragon Type monsters, you can Special Summon 1 \"Flap Dragon\" from your Graveyard to your field in face-up Defense Position.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 2,
 			"atk": 200,
 			"def": 0,
 			"attribute": "LIGHT",
 			"race": "DRAGON"
-		}
+		},
+		"cardObtain": [
+			"Boost Red-Boot (Deck Build Box)"
+		]
 	},
 	{
 		"id": 19651,
