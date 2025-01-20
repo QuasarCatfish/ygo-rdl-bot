@@ -7859,14 +7859,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "A flying mantis that feeds primarily on insects.",
-		"rarity": "NPC",
+		"rarity": "R",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1500,
 			"def": 800,
 			"attribute": "WIND",
 			"race": "INSECT"
-		}
+		},
+		"cardObtain": [
+			"Card Trader (Featured)"
+		]
 	},
 	{
 		"id": 16668,
@@ -12138,14 +12141,17 @@
 		"isLegend": false,
 		"requirement": "Shuffle 3 monsters from your Graveyard into the Deck.",
 		"effect": "Destroy 1 face-up Insect Type monster with a Level between 5 and 8 on your opponent\u0027s field. This turn, you can only attack with Insect Type monsters.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 8,
 			"atk": 2500,
 			"def": 1700,
 			"attribute": "EARTH",
 			"race": "INSECT"
-		}
+		},
+		"cardObtain": [
+			"Card Trader (Featured)"
+		]
 	},
 	{
 		"id": 17524,
