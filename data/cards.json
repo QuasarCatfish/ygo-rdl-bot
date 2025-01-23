@@ -13677,6 +13677,26 @@
 		}
 	},
 	{
+		"id": 17876,
+		"name": "Kappa Emperor River Slider",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 face-up Aqua Type monster from your field to the Graveyard.",
+		"effect": "Destroy up to 2 face-up Level 7 or lower Normal Monsters on your opponent\u0027s field.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2500,
+			"def": 1500,
+			"attribute": "WATER",
+			"race": "AQUA"
+		},
+		"cardObtain": [
+			"Ranked Duels Reward Ticket"
+		]
+	},
+	{
 		"id": 17881,
 		"name": "Beast Gear Sage Roller Stag",
 		"cardType": "EFFECT",
