@@ -15510,6 +15510,26 @@
 		}
 	},
 	{
+		"id": 18588,
+		"name": "Jointech Tinosaurus",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 card from your hand to the Graveyard.",
+		"effect": "Change 1 Attack Position monster on your opponent\u0027s field to face-up Defense Position. Then, make that monster lose 2000 DEF until the end of this turn.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2300,
+			"def": 2000,
+			"attribute": "EARTH",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"Wave Duel Scramble"
+		]
+	},
+	{
 		"id": 18590,
 		"name": "Voidvelg Cataphract",
 		"cardType": "EFFECT",
