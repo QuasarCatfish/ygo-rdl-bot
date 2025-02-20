@@ -13875,7 +13875,10 @@
 		"isLegend": false,
 		"requirement": "When your opponent Normal Summon or Special Summons a Level 5 or higher monster face-up.",
 		"effect": "Special Summon 1 Level 4 or lower Aqua Type Normal Monster from your Graveyard in face-down Defense Position to your field.",
-		"rarity": "NPC"
+		"rarity": "SR",
+		"cardObtain": [
+			"Duel Capsule"
+		]
 	},
 	{
 		"id": 17927,
