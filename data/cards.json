@@ -13362,14 +13362,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "An amphibian with a myriad of powers to shield it from enemy attacks.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 2,
 			"atk": 400,
 			"def": 1000,
 			"attribute": "WATER",
 			"race": "AQUA"
-		}
+		},
+		"cardObtain": [
+			"Card Trader (Featured)"
+		]
 	},
 	{
 		"id": 17844,
@@ -13464,14 +13467,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "This amphibian is strong on the attack, but leaves much to be desired when defending.",
-		"rarity": "NPC",
+		"rarity": "R",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1500,
 			"def": 900,
 			"attribute": "WATER",
 			"race": "AQUA"
-		}
+		},
+		"cardObtain": [
+			"Card Trader (Featured)"
+		]
 	},
 	{
 		"id": 17860,
@@ -13667,14 +13673,17 @@
 		"isLegend": false,
 		"requirement": "During the turn you Normal Summoned this card.",
 		"effect": "Shuffle Level 7 Normal Monster(s) from your opponent\u0027s Graveyard into the Deck equal to [the number of Spell Cards in your opponent\u0027s Graveyard]. Then, you can Special Summon 1 \"Kappa Emperor River Slider\" from your Graveyard face-up to your field.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 3,
 			"atk": 100,
 			"def": 1000,
 			"attribute": "WATER",
 			"race": "AQUA"
-		}
+		},
+		"cardObtain": [
+			"Card Trader (Featured)"
+		]
 	},
 	{
 		"id": 17876,
