@@ -6043,7 +6043,7 @@
 		"effectType": "NORMAL",
 		"isLegend": false,
 		"requirement": "None",
-		"effect": "Special Summon 1 Fish or Sea Serpent Type monster from your hand face-up to your field. Then, shuffle up to 5 monsters from the opponent\u0027s Graveyard into their Deck.\r -# *Note: This effect text is incorrect, as the effect to shuffle monsters from your opponent\u0027s Graveyard is optional, not mandatory.*",
+		"effect": "Special Summon 1 Fish or Sea Serpent Type monster from your hand face-up to your field. Then, shuffle up to 5 monsters from the opponent\u0027s Graveyard into their Deck.\r -# Note: This effect text is incorrect, as the effect to shuffle monsters from your opponent\u0027s Graveyard is optional, not mandatory.",
 		"rarity": "UR",
 		"cardObtain": [
 			"Special Set (Bundle)"
