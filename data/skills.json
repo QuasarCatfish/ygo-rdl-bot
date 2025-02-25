@@ -1899,5 +1899,130 @@
 			17865,
 			17946
 		]
+	},
+	{
+		"id": 5401,
+		"name": "Rush On - Chemicalized",
+		"requirement": "Activated at the beginning of the Duel.",
+		"effect": "Add 1 \"Chemicalized Salamander\" to your Deck. (You can only have at most 3 copies.)",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			905
+		],
+		"mentionedCards": [
+			17868
+		]
+	},
+	{
+		"id": 5402,
+		"name": "Fatal Roar",
+		"requirement": "Can be activated from turn 2 onward during a turn that you Normal or Special Summoned a Normal Monster face-up, if all of the monsters in your constructed Deck are Pyro Type and all of the Effect Monsters have 100 or more DEF.",
+		"effect": "Send the top 3 cards of your Deck to the Graveyard. If you do not have a face-up Level 7 or higher Effect Monster on your field, you can also add 1 Level 7 or lower monster with 1500 or more DEF from your Graveyard to your hand.",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			905
+		],
+		"mentionedCards": []
+	},
+	{
+		"id": 5403,
+		"name": "Red Protection",
+		"requirement": "Can be activated by sending 1 card from your field to the Graveyard, if all of the monsters in your constructed Deck are FIRE Attribute Pyro Type monsters and you have a \"Red Riser\" or a Level 7 Effect Monster with 1500 or more DEF face-up on your field.",
+		"effect": "Add 1 \"Chemicalizer Red\", \"Scale of Flames\", or \"Fiery Blaze\" from your Deck or Graveyard to your hand. (\"Scale of Flames\" and \"Fiery Blaze\" only once per Duel each.)",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			905
+		],
+		"mentionedCards": [
+			18589,
+			18275,
+			17964,
+			16171
+		]
+	},
+	{
+		"id": 5404,
+		"name": "Chemicalized Blast",
+		"requirement": "Can be activated during a turn you Normal Summoned \"Chemicalized Salamander\".",
+		"effect": "Send 1 \"Dr. Red Robe\" and 1 \"Flame Seeker\" from outside of your Deck to the Graveyard.",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			905
+		],
+		"mentionedCards": [
+			21578,
+			17959,
+			17960
+		]
+	},
+	{
+		"id": 5405,
+		"name": "Elemental Double Extraction",
+		"requirement": "Once per Duel.",
+		"effect": "Send 2 random EARTH/WATER/FIRE/WIND Attribute Normal Monsters from your Deck to the Graveyard.",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			701,
+			709,
+			902
+		],
+		"mentionedCards": []
+	},
+	{
+		"id": 5406,
+		"name": "Galactica Rising",
+		"requirement": "Can be activated during a turn that you Normal Summoned a Level 4 monster, if your constructed Deck contains at most 1 Equip Spell Card and all of the monsters are LIGHT Attribute Galaxy Type monsters.",
+		"effect": "Send either 1 Normal Monster or 1 \"Galacterial Ore\" or \"Galactica Xiphos\" from your Deck to the Graveyard. If you have Normal Summoned a monster with 1500 or 2500 DEF this turn, add it to your hand instead, and monsters with 1500 DEF inflict piercing battle damage this turn.",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			901
+		],
+		"mentionedCards": [
+			19315,
+			18272
+		]
+	},
+	{
+		"id": 5407,
+		"name": "Jointech Press-Rush",
+		"requirement": "Can be activated from turn 2 onward during a turn that you Normal Summoned a Level 7 monster or a \"Jointech Raptor\", if all of the monsters in your constructed Deck are Machine Type monsters and all of the Level 5 or higher monsters are EARTH Attribute monsters with 2500 or 2300 ATK.",
+		"effect": "Add 1 \"Jointech Rush Horn\" from your Deck or Graveyard to your hand. Then, you can make 1 face-up \"Jointech Raptor\" on your field gain 500 ATK until the end of your opponent\u0027s next turn.",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			902
+		],
+		"mentionedCards": [
+			18333,
+			18273
+		]
+	},
+	{
+		"id": 5408,
+		"name": "Territory of the Sea Serpent King",
+		"requirement": "Can be activated if all of the monsters in your constructed Deck are WATER Attribute monsters and all of the monsters (except Level 2–4 monsters) are Sea Serpent Type monsters.",
+		"effect": "Make the original ATK of 1 face-up Level 7 or higher monster on your field become 2900 until the end of this turn. If there is no card in your Field Zone, you can also Set 1 \"Umi\" from your Deck or Graveyard to your Field Zone. (Once per Duel.)",
+		"effectType": "NORMAL",
+		"isArchive": true,
+		"mentionedCards": [
+			15820
+		]
+	},
+	{
+		"id": 5409,
+		"name": "Chivalrous Celerity",
+		"requirement": "Can be activated if all of the monsters with 1600 or more ATK in your constructed Deck are monsters with 2300 ATK and 2100 DEF and/or Level 5 or lower Dragon Type Normal Monsters.",
+		"effect": "Send 1 Normal Monster from your Deck to your Graveyard and make 1 face-up Level 5 or higher monster on your field gain 600 ATK until the end of this turn. Then, you can add 1 Normal Monster and/or 1 \"Polymerization\" from your Deck and/or Graveyard to your hand. (Once per Duel.)",
+		"effectType": "NORMAL",
+		"isArchive": true,
+		"mentionedCards": [
+			18702
+		]
 	}
 ]

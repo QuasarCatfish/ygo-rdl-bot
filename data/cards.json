@@ -1343,7 +1343,8 @@
 			"Yudias Velgear Starter Deck",
 			"Yuamu Ohdo Starter Deck",
 			"Zuwijo Zwil Velgear Starter Deck",
-			"Roa Kassidy Duel Reward"
+			"Roa Kassidy Duel Reward",
+			"Maddox Sogetsu Duel Reward"
 		]
 	},
 	{
@@ -1989,7 +1990,8 @@
 			"Gavin Sogetsu Duel Reward",
 			"Mimi Imimi Duel Reward",
 			"Asana Mutsuba Duel Reward",
-			"Yuhi Ohdo Duel Reward"
+			"Yuhi Ohdo Duel Reward",
+			"Maddox Sogetsu Duel Reward"
 		]
 	},
 	{
@@ -2379,7 +2381,8 @@
 		},
 		"cardObtain": [
 			"Sevens New Road (Main Box)",
-			"Scorching Flame Burst (Deck Build Box)"
+			"Scorching Flame Burst (Deck Build Box)",
+			"Blazing Chemicalization (Mini Box)"
 		]
 	},
 	{
@@ -2530,7 +2533,8 @@
 		"effect": "Change that monster to face-down Defense Position.",
 		"rarity": "SR",
 		"cardObtain": [
-			"Selection BOX Vol.01"
+			"Selection BOX Vol.01",
+			"Blazing Chemicalization (Mini Box)"
 		]
 	},
 	{
@@ -2612,6 +2616,26 @@
 			"Fusion of Revolution (Mini Box)",
 			"Selection BOX Vol.02",
 			"Boost Red-Boot (Deck Build Box)"
+		]
+	},
+	{
+		"id": 15594,
+		"name": "Sea Dragon King Granganus",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During the turn you Normal Summoned this card.",
+		"effect": "Inflict damage to your opponent equal to [the number of Spell/Trap Cards on your opponent\u0027s field] x 300.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2500,
+			"def": 1800,
+			"attribute": "WATER",
+			"race": "SEA_SERPENT"
+		},
+		"cardObtain": [
+			"Blazing Chemicalization (Mini Box)"
 		]
 	},
 	{
@@ -4290,6 +4314,32 @@
 		]
 	},
 	{
+		"id": 15819,
+		"name": "Big Umi",
+		"cardType": "FIELD",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Activate this card if you have 3 face-up WATER Attribute monsters on your field.",
+		"effect": "While this card is face-up in the Field Zone, face-up non-WATER Attribute monsters on the field lose 300 ATK/DEF.",
+		"rarity": "N",
+		"cardObtain": [
+			"Blazing Chemicalization (Mini Box)"
+		]
+	},
+	{
+		"id": 15820,
+		"name": "Umi",
+		"cardType": "FIELD",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "While this card is face-up in the Field Zone, face-up Fish, Sea Serpent, Thunder, and Aqua Type monsters on the field gain 200 ATK/DEF, and face-up Machine and Pyro Type monsters on the field lose 200 ATK/DEF.",
+		"rarity": "N",
+		"cardObtain": [
+			"Blazing Chemicalization (Mini Box)"
+		]
+	},
+	{
 		"id": 15821,
 		"name": "Forest",
 		"cardType": "FIELD",
@@ -4676,6 +4726,16 @@
 			"attribute": "WATER",
 			"race": "WARRIOR"
 		}
+	},
+	{
+		"id": 15918,
+		"name": "Bleach Mortar",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "1 face-up Level 7 or higher monster on your opponent\u0027s field loses 500 ATK until the end of this turn. Inflict 500 damage to your opponent.",
+		"rarity": "NPC"
 	},
 	{
 		"id": 15919,
@@ -5363,14 +5423,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "Here comes a magma-hot shiatsu massage! Pressure Point Eruption!",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 1,
 			"atk": 0,
 			"def": 1400,
 			"attribute": "EARTH",
 			"race": "PYRO"
-		}
+		},
+		"cardObtain": [
+			"Blazing Chemicalization (Mini Box)"
+		]
 	},
 	{
 		"id": 16134,
@@ -5769,12 +5832,72 @@
 		"isLegend": false,
 		"requirement": "If you have no other monsters on your field, place 1 Pyro Type monster from your Graveyard on the bottom of your Deck.",
 		"effect": "Add 1 Pyro Type Normal Monster from your Graveyard to your hand.",
-		"rarity": "NPC",
+		"rarity": "R",
 		"monsterInfo": {
 			"level": 1,
 			"atk": 100,
 			"def": 100,
 			"attribute": "EARTH",
+			"race": "PYRO"
+		},
+		"cardObtain": [
+			"Blazing Chemicalization (Mini Box)"
+		]
+	},
+	{
+		"id": 16156,
+		"name": "Aromagmabear",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send up to 2 cards from your hand to the Graveyard.",
+		"effect": "Gain LP equal to [the number of cards sent to the Graveyard to meet the requirement] x 300.",
+		"rarity": "N",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 600,
+			"def": 1200,
+			"attribute": "EARTH",
+			"race": "PYRO"
+		},
+		"cardObtain": [
+			"Blazing Chemicalization (Mini Box)"
+		]
+	},
+	{
+		"id": 16157,
+		"name": "Magmassage",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send up to 4 cards from your hand to the Graveyard.",
+		"effect": "1 face-up Level 4 or lower monster on either side of the field gains ATK equal to [the number of cards sent to the Graveyard to meet the requirement] x 500 until the end of this turn.",
+		"rarity": "N",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2100,
+			"def": 2100,
+			"attribute": "FIRE",
+			"race": "PYRO"
+		},
+		"cardObtain": [
+			"Blazing Chemicalization (Mini Box)"
+		]
+	},
+	{
+		"id": 16158,
+		"name": "Magmax Mantleveda",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 Pyro Type monster from your hand to the Graveyard.",
+		"effect": "Destroy all face-up Defense Position monsters on the field with the same Level as the monster sent to the Graveyard to meet the requirement.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2400,
+			"def": 1500,
+			"attribute": "FIRE",
 			"race": "PYRO"
 		}
 	},
@@ -5911,6 +6034,19 @@
 		"rarity": "SR",
 		"cardObtain": [
 			"Tag Duel Tournament"
+		]
+	},
+	{
+		"id": 16172,
+		"name": "Grand Extreme",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Special Summon 1 Fish or Sea Serpent Type monster from your hand face-up to your field. Then, shuffle up to 5 monsters from the opponent\u0027s Graveyard into their Deck.\n-# Note: This effect text is incorrect, as the effect to shuffle monsters from your opponent\u0027s Graveyard is optional, not mandatory.",
+		"rarity": "UR",
+		"cardObtain": [
+			"Special Set (Bundle)"
 		]
 	},
 	{
@@ -8114,7 +8250,8 @@
 		},
 		"cardObtain": [
 			"Steel Kaleidomirror (Mini Box)",
-			"Cyber Dragon Launch"
+			"Cyber Dragon Launch",
+			"Blazing Chemicalization (Mini Box)"
 		]
 	},
 	{
@@ -8296,7 +8433,8 @@
 		"rarity": "R",
 		"cardObtain": [
 			"Genesis Maximum (Mini Box)",
-			"Cyber Dragon Launch"
+			"Cyber Dragon Launch",
+			"Blazing Chemicalization (Mini Box)"
 		]
 	},
 	{
@@ -9440,7 +9578,8 @@
 			"Gavin Sogetsu Duel Reward",
 			"Mimi Imimi Duel Reward",
 			"Yuamu Ohdo Duel Reward",
-			"Yuo Goha Duel Reward"
+			"Yuo Goha Duel Reward",
+			"Maddox Sogetsu Duel Reward"
 		]
 	},
 	{
@@ -9708,6 +9847,7 @@
 			"Gavin Sogetsu Duel Reward",
 			"Nail Saionji Duel Reward",
 			"Yuo Goha Duel Reward",
+			"Maddox Sogetsu Duel Reward",
 			"Tag Duel Tournament"
 		]
 	},
@@ -9746,6 +9886,26 @@
 		},
 		"cardObtain": [
 			"Divine Genesis Blade (Deck Build Box)"
+		]
+	},
+	{
+		"id": 16968,
+		"name": "Takriminos",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "A member of a race of Sea Serpents that freely travels through the sea.",
+		"rarity": "N",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1500,
+			"def": 1200,
+			"attribute": "WATER",
+			"race": "SEA_SERPENT"
+		},
+		"cardObtain": [
+			"Blazing Chemicalization (Mini Box)"
 		]
 	},
 	{
@@ -10041,6 +10201,46 @@
 		}
 	},
 	{
+		"id": 16987,
+		"name": "Light Dolphin",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "You have \"Umi\" or \"Big Umi\" face-up on your field, and you have a Fish, Sea Serpent, Thunder, or Aqua Type Normal Monster face-up on your field.",
+		"effect": "Draw 1 card.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 2,
+			"atk": 500,
+			"def": 1000,
+			"attribute": "WATER",
+			"race": "SEA_SERPENT"
+		},
+		"cardObtain": [
+			"Blazing Chemicalization (Mini Box)"
+		]
+	},
+	{
+		"id": 16990,
+		"name": "Head Bad Catchalot",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "1 face-up monster on your opponent\u0027s field loses 500 ATK until the end of this turn. If you have a face-up \"Umi\" or \"Big Umi\" on your field, also inflict 500 damage to your opponent.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2500,
+			"def": 1200,
+			"attribute": "WATER",
+			"race": "SEA_SERPENT"
+		},
+		"cardObtain": [
+			"Blazing Chemicalization (Mini Box)"
+		]
+	},
+	{
 		"id": 16991,
 		"name": "Gogogo Umpire",
 		"cardType": "EFFECT",
@@ -10143,6 +10343,26 @@
 		}
 	},
 	{
+		"id": 16997,
+		"name": "Sea Dragon Kleindros",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If your opponent has a monster on their field, place 1 \"Sea Dragon King Granganus\" or 1 \"Grand Extreme\" from your Graveyard on the bottom of your Deck.",
+		"effect": "Special Summon 1 Fish or 1 Sea Serpent Type monster from your hand face-up to your field. You can only attack with WATER Attribute monsters this turn.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 1000,
+			"def": 300,
+			"attribute": "WATER",
+			"race": "SEA_SERPENT"
+		},
+		"cardObtain": [
+			"Blazing Chemicalization (Mini Box)"
+		]
+	},
+	{
 		"id": 16999,
 		"name": "Dosodon",
 		"cardType": "EFFECT",
@@ -10221,6 +10441,19 @@
 		"requirement": "Send 1 Spell/Trap Card from your hand to the Graveyard.",
 		"effect": "Special Summon 1 Fish/Sea Serpent/Aqua/Thunder Type monster from your Graveyard face-up to your field. It loses 800 ATK until the end of this turn.",
 		"rarity": "NPC"
+	},
+	{
+		"id": 17012,
+		"name": "Stream of Elimination",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "You have a face-up Sea Serpent Type monster on your field.",
+		"effect": "Destroy 1 Spell/Trap Card on your opponent\u0027s field.",
+		"rarity": "R",
+		"cardObtain": [
+			"Blazing Chemicalization (Mini Box)"
+		]
 	},
 	{
 		"id": 17014,
@@ -10897,14 +11130,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "A ferocious being in a world of fire. The devoured pray leaves not a single bone.",
-		"rarity": "NPC",
+		"rarity": "R",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1500,
 			"def": 400,
 			"attribute": "FIRE",
 			"race": "PYRO"
-		}
+		},
+		"cardObtain": [
+			"Blazing Chemicalization (Mini Box)"
+		]
 	},
 	{
 		"id": 17286,
@@ -12280,7 +12516,8 @@
 		"rarity": "N",
 		"cardObtain": [
 			"Galactica Go Rush (Mini Box)",
-			"Transam Universe"
+			"Transam Universe",
+			"Blazing Chemicalization (Mini Box)"
 		]
 	},
 	{
@@ -12524,7 +12761,8 @@
 		},
 		"cardObtain": [
 			"Galactica Go Rush (Mini Box)",
-			"Transam Universe"
+			"Transam Universe",
+			"Blazing Chemicalization (Mini Box)"
 		]
 	},
 	{
@@ -12564,7 +12802,8 @@
 			"race": "GALAXY"
 		},
 		"cardObtain": [
-			"Galactica Go Rush (Mini Box)"
+			"Galactica Go Rush (Mini Box)",
+			"Blazing Chemicalization (Mini Box)"
 		]
 	},
 	{
@@ -12801,7 +13040,8 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"Galactica Go Rush (Mini Box)"
+			"Galactica Go Rush (Mini Box)",
+			"Blazing Chemicalization (Mini Box)"
 		]
 	},
 	{
@@ -13571,6 +13811,61 @@
 		]
 	},
 	{
+		"id": 17866,
+		"name": "Nitro Hound",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During the turn you Normal Summoned this card.",
+		"effect": "Inflict 400 damage to your opponent. You can only attack with Pyro Type monsters this turn.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 2,
+			"atk": 400,
+			"def": 400,
+			"attribute": "FIRE",
+			"race": "PYRO"
+		},
+		"cardObtain": [
+			"Maddox Sogetsu Duel Reward"
+		]
+	},
+	{
+		"id": 17867,
+		"name": "Dynamo Might",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During the turn you Normal Summoned this card.",
+		"effect": "Inflict 300 damage to your opponent.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1100,
+			"def": 1100,
+			"attribute": "FIRE",
+			"race": "PYRO"
+		}
+	},
+	{
+		"id": 17868,
+		"name": "Chemicalized Salamander",
+		"cardType": "EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Shuffle 3 Pyro Type monsters from your Graveyard into the Deck.",
+		"effect": "All face-up monsters on your opponent\u0027s field lose ATK equal to [the number of monsters in your opponent\u0027s Graveyard] x 100 until the end of this turn.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2500,
+			"def": 1500,
+			"attribute": "FIRE",
+			"race": "PYRO"
+		}
+	},
+	{
 		"id": 17869,
 		"name": "Parafungus Colony",
 		"cardType": "EFFECT",
@@ -13881,6 +14176,26 @@
 		]
 	},
 	{
+		"id": 17926,
+		"name": "Flame Ruler",
+		"cardType": "EFFECT",
+		"effectType": "CONTINUOUS",
+		"isLegend": true,
+		"requirement": "None",
+		"effect": "This face-up card can be treated as 2 Tributes for the Tribute Summon of a FIRE Attribute monster in Attack Position.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1500,
+			"def": 1600,
+			"attribute": "FIRE",
+			"race": "PYRO"
+		},
+		"cardObtain": [
+			"Special Set (Bundle)"
+		]
+	},
+	{
 		"id": 17927,
 		"name": "Archfiend Soldier",
 		"cardType": "NORMAL",
@@ -13898,6 +14213,26 @@
 		},
 		"cardObtain": [
 			"Special Set (Bundle)"
+		]
+	},
+	{
+		"id": 17929,
+		"name": "Vanishing Heliacal Riser",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you have 2 or less cards in your hand, shuffle 1 monster from your Graveyard into the Deck.",
+		"effect": "This card gains 200 ATK until the end of this turn. If a face-up Spell Card is on the field, you can draw 1 card.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2400,
+			"def": 1500,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Blazing Chemicalization (Mini Box)"
 		]
 	},
 	{
@@ -13962,14 +14297,17 @@
 		"isLegend": false,
 		"requirement": "Your opponent has 2 or more Spell/Trap Cards on their field during the turn you Normal Summoned this card.",
 		"effect": "Add 1 Level 4 Machine Type Normal Monster from your Graveyard to your hand.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1300,
 			"def": 900,
 			"attribute": "DARK",
 			"race": "MACHINE"
-		}
+		},
+		"cardObtain": [
+			"Blazing Chemicalization (Mini Box)"
+		]
 	},
 	{
 		"id": 17939,
@@ -14268,6 +14606,23 @@
 		"rarity": "NPC"
 	},
 	{
+		"id": 17955,
+		"name": "Analyze Phlogiston",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 Spell/Trap Card from your hand to the Graveyard.",
+		"effect": "Shuffle 3 Pyro Type monsters whose total Level equals [the total Level of Level 8 or lower Attack Position monsters on the opponent\u0027s field] from your Graveyard into the Deck. Then, destroy all Level 8 or lower Attack Position monsters on your opponent\u0027s field. You can only attack with 1 monster this turn.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2300,
+			"def": 2300,
+			"attribute": "FIRE",
+			"race": "PYRO"
+		}
+	},
+	{
 		"id": 17956,
 		"name": "Flame Cerebrus",
 		"cardType": "NORMAL",
@@ -14318,14 +14673,101 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "A leading light in the field of combustion research. Fiercely proud of his gloves, which come in handy any time something needs turning to ash.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1500,
 			"def": 0,
 			"attribute": "FIRE",
 			"race": "PYRO"
+		},
+		"cardObtain": [
+			"Blazing Chemicalization (Mini Box)"
+		]
+	},
+	{
+		"id": 17960,
+		"name": "Flame Seeker",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "The subleader of Max Firepower. His beloved super-high-powered flamethrower, obtained recently, came at the cost of his life savings. Let it burn!",
+		"rarity": "N",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1400,
+			"def": 400,
+			"attribute": "FIRE",
+			"race": "PYRO"
+		},
+		"cardObtain": [
+			"Blazing Chemicalization (Mini Box)"
+		]
+	},
+	{
+		"id": 17961,
+		"name": "Methyl the Fire Genie of the Lamp",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During the turn you Normal Summoned this card.",
+		"effect": "Add 1 Level 4 Pyro Type Normal Monster from your Graveyard to your hand. You can only attack with Pyro Type monsters this turn.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 1000,
+			"def": 500,
+			"attribute": "FIRE",
+			"race": "PYRO"
 		}
+	},
+	{
+		"id": 17962,
+		"name": "Ethyl the Fire Genie of the Lamp",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "You have no other monsters on your field.",
+		"effect": "Special Summon 1 \"Methyl the Fire Genie of the Lamp\" from your Graveyard to your field in face-up Defense Position.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 500,
+			"def": 1000,
+			"attribute": "FIRE",
+			"race": "PYRO"
+		}
+	},
+	{
+		"id": 17963,
+		"name": "Ember the Super Assistant",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "My favorite experiment is the flame test! I\u0027ll give it my all again today, driven by my burning spirit!",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 0,
+			"def": 1500,
+			"attribute": "FIRE",
+			"race": "PYRO"
+		},
+		"cardObtain": [
+			"Blazing Chemicalization (Mini Box)"
+		]
+	},
+	{
+		"id": 17964,
+		"name": "Scale of Flames",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Shuffle 1 Pyro Type monster from your Graveyard into the Deck.",
+		"effect": "1 face-up Pyro Type monster on your field gains 500 ATK until the end of this turn. Then, you can make 1 face-up monster on your opponent\u0027s field lose 500 ATK until the end of this turn.",
+		"rarity": "NPC"
 	},
 	{
 		"id": 17966,
@@ -14638,6 +15080,23 @@
 		}
 	},
 	{
+		"id": 18244,
+		"name": "Alkyl the Flame Emperor of the Lamp",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Pay 500 LP.",
+		"effect": "Special Summon 1 \"Ethyl the Fire Genie of the Lamp\" or \"Methyl the Fire Genie of the Lamp\" from your Graveyard face-up to your field. Then, if you have a face-up \"Ethyl the Fire Genie of the Lamp\" and \"Methyl the Fire Genie of the Lamp\" on your field, this card gains 1000 ATK until the end of this turn.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 1700,
+			"def": 1200,
+			"attribute": "FIRE",
+			"race": "PYRO"
+		}
+	},
+	{
 		"id": 18259,
 		"name": "Beast Gear Side Fennec",
 		"cardType": "EFFECT",
@@ -14766,6 +15225,45 @@
 		]
 	},
 	{
+		"id": 18272,
+		"name": "Galactica Xiphos",
+		"cardType": "EQUIP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If your opponent has a face-up Level 7-8 monster on their field, equip this card to 1 face-up Galaxy Type monster on your field.",
+		"effect": "The equipped monster gains ATK equal to [the number of face-up Normal Monsters on your field] x 300. If the equipped monster is a \"Galactica Oblivion\", it gains an additional 1000 ATK.",
+		"rarity": "SR",
+		"cardObtain": [
+			"Blazing Chemicalization (Mini Box)"
+		]
+	},
+	{
+		"id": 18273,
+		"name": "Jointech Rush Horn",
+		"cardType": "EQUIP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Equip this card to 1 face-up Machine Type monster on your field.",
+		"effect": "The equipped monster gains 300 ATK and inflicts piercing battle damage.",
+		"rarity": "R",
+		"cardObtain": [
+			"Blazing Chemicalization (Mini Box)"
+		]
+	},
+	{
+		"id": 18275,
+		"name": "Chemicalizer Red",
+		"cardType": "EQUIP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Equip to 1 face-up Pyro Type monster on your field.",
+		"effect": "The equipped monster gains 300 ATK and cannot be destroyed by your opponent\u0027s Trap Card effects.",
+		"rarity": "SR",
+		"cardObtain": [
+			"Maddox Sogetsu Duel Reward"
+		]
+	},
+	{
 		"id": 18286,
 		"name": "JAM:P Check!",
 		"cardType": "SPELL",
@@ -14787,6 +15285,19 @@
 		"requirement": "Send 1 WIND Attribute monster from your handto the Graveyard.",
 		"effect": "Draw 1 card. If you have 2 or more face-up WIND Attribute monsters with 1800 or more ATK on your field, you can draw 1 card.",
 		"rarity": "NPC"
+	},
+	{
+		"id": 18290,
+		"name": "Equipment of Ascension",
+		"cardType": "EQUIP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Equip to 1 face-up monster on your field.",
+		"effect": "The equipped monster\u0027s Level increases by 2 and it gains 200 ATK/DEF.",
+		"rarity": "N",
+		"cardObtain": [
+			"Blazing Chemicalization (Mini Box)"
+		]
 	},
 	{
 		"id": 18296,
@@ -14817,6 +15328,26 @@
 		},
 		"cardObtain": [
 			"Card Trader (Featured)"
+		]
+	},
+	{
+		"id": 18299,
+		"name": "Blast Examiner",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "A specialist in safety assurance. Due to his work, he often finds himself looking down, but his character is positive and kind.",
+		"rarity": "N",
+		"monsterInfo": {
+			"level": 5,
+			"atk": 1700,
+			"def": 1500,
+			"attribute": "FIRE",
+			"race": "PYRO"
+		},
+		"cardObtain": [
+			"Blazing Chemicalization (Mini Box)"
 		]
 	},
 	{
@@ -14882,14 +15413,17 @@
 		"isLegend": false,
 		"requirement": "During the turn you Normal Summoned this card.",
 		"effect": "Each player sends 2 cards from the top of their Deck to the Graveyard, and inflict damage to your opponent equal to [the number of monsters sent to the Graveyard by this effect] x 100. Then, if a face-up Equip Spell Card is on your field, you can change 1 Attack Position monster on your opponent\u0027s field to face-up Defense Position.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 800,
 			"def": 1200,
 			"attribute": "EARTH",
 			"race": "MACHINE"
-		}
+		},
+		"cardObtain": [
+			"Blazing Chemicalization (Mini Box)"
+		]
 	},
 	{
 		"id": 18348,
@@ -14928,6 +15462,27 @@
 			"attribute": "LIGHT",
 			"race": "MACHINE"
 		}
+	},
+	{
+		"id": 18350,
+		"name": "Cyber Rush Dragon",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Cyber Dragon\" + \"Cyber Dragon\"",
+		"requirement": "Your opponent has a monster on their field.",
+		"effect": "Draw until you have 5 cards in hand. Then, send 4 cards from your hand to the Graveyard. Also, you can Special Summon 1 Machine Type monster from your hand face-up to your field.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2800,
+			"def": 2100,
+			"attribute": "LIGHT",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"Blazing Chemicalization (Mini Box)"
+		]
 	},
 	{
 		"id": 18351,
@@ -15488,6 +16043,26 @@
 		]
 	},
 	{
+		"id": 18583,
+		"name": "Chromatographagas",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "This body vaporizes and burns. So long as my fighting spirit endures, I shall remain immortal.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2500,
+			"def": 1600,
+			"attribute": "FIRE",
+			"race": "PYRO"
+		},
+		"cardObtain": [
+			"Maddox Sogetsu Duel Reward"
+		]
+	},
+	{
 		"id": 18584,
 		"name": "Chill Dragon",
 		"cardType": "NORMAL",
@@ -15542,6 +16117,26 @@
 		]
 	},
 	{
+		"id": 18589,
+		"name": "Red Riser",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During the turn you Normal Summoned this card.",
+		"effect": "Add 1 \"Chemicalizer Red\" from your Graveyard to your hand.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 300,
+			"def": 300,
+			"attribute": "FIRE",
+			"race": "PYRO"
+		},
+		"cardObtain": [
+			"Blazing Chemicalization (Mini Box)"
+		]
+	},
+	{
 		"id": 18590,
 		"name": "Voidvelg Cataphract",
 		"cardType": "EFFECT",
@@ -15576,6 +16171,23 @@
 			"def": 0,
 			"attribute": "DARK",
 			"race": "GALAXY"
+		}
+	},
+	{
+		"id": 18595,
+		"name": "Mirroring Wyvern",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "The only monsters in your Graveyard are High Dragon and/or Dragon Type monsters during the turn you Normal Summoned this card.",
+		"effect": "Special Summon 1 Normal Monster from your Graveyard face-up to your field. Then, this turn, this card\u0027s name becomes the same as the monster Special Summoned by this effect.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 1600,
+			"def": 800,
+			"attribute": "LIGHT",
+			"race": "DRAGON"
 		}
 	},
 	{
@@ -15755,6 +16367,16 @@
 		}
 	},
 	{
+		"id": 18653,
+		"name": "Level Blast",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Both players have a face-up Level 7 or higher monster on their field.",
+		"effect": "Choose 1 face-up monster on your field and inflict damage to your opponent equal to [the chosen monster\u0027s Level] x 100. You can only attack with 1 monster this turn.",
+		"rarity": "NPC"
+	},
+	{
 		"id": 18656,
 		"name": "Multistrike Dragon Dragias",
 		"cardType": "EFFECT",
@@ -15863,6 +16485,16 @@
 		]
 	},
 	{
+		"id": 18702,
+		"name": "Polymerization",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": true,
+		"requirement": "None",
+		"effect": "Fusion Summon by sending monsters from your hand or field to the Graveyard as material.",
+		"rarity": "NPC"
+	},
+	{
 		"id": 18710,
 		"name": "Rogue of Archfiend",
 		"cardType": "EFFECT",
@@ -15945,6 +16577,19 @@
 			"attribute": "LIGHT",
 			"race": "GALAXY"
 		}
+	},
+	{
+		"id": 18896,
+		"name": "Legendary Sword",
+		"cardType": "EQUIP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Equip to 1 face-up Warrior Type monster on either field.",
+		"effect": "The equipped monster gains 300 ATK/DEF.",
+		"rarity": "UR",
+		"cardObtain": [
+			"Card Trader (Featured)"
+		]
 	},
 	{
 		"id": 18897,
@@ -16509,6 +17154,111 @@
 		}
 	},
 	{
+		"id": 19286,
+		"name": "Chemipet Purr",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you have a Pyro, Aqua, or Thunder Type monster in your Graveyard, send the top card of your Deck to the Graveyard.",
+		"effect": "Gain 400 LP. Then, you can place 1 Pyro, Aqua, or Thunder Type monster from your Graveyard on top of your Deck.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 600,
+			"def": 0,
+			"attribute": "FIRE",
+			"race": "THUNDER"
+		}
+	},
+	{
+		"id": 19287,
+		"name": "Chemipet Woof",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you have 10 or less monsters in your Graveyard, send 2 cards from your hand to the Graveyard.",
+		"effect": "Draw 1 card. If you sent 2 Pyro, Aqua, and/or Thunder Type monsters to the Graveyard to meet the requirement, you can draw 1 additional card.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 600,
+			"def": 0,
+			"attribute": "FIRE",
+			"race": "AQUA"
+		}
+	},
+	{
+		"id": 19288,
+		"name": "Melt the Aqueous Fairy",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 Level 4 or lower monster from your hand to the Graveyard.",
+		"effect": "Add 1 Level 7 or 10 Pyro or Thunder Type monster from your Graveyard to your hand. Then, you can add 1 \"Chemicalize Structure Force\" from your Graveyard to your hand.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 300,
+			"def": 200,
+			"attribute": "FIRE",
+			"race": "AQUA"
+		}
+	},
+	{
+		"id": 19289,
+		"name": "Volt the Electrical Fairy",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 Level 4 or lower monster from your hand to the Graveyard.",
+		"effect": "Add 1 Level 5 or 10 Pyro or Aqua Type monster from your Graveyard to your hand. Then, you can add 1 \"Chemicalize Structure Force\" from your Graveyard to your hand.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 2,
+			"atk": 400,
+			"def": 0,
+			"attribute": "FIRE",
+			"race": "THUNDER"
+		}
+	},
+	{
+		"id": 19290,
+		"name": "Hot the Combustible Fairy",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During the turn you Normal Summoned this card.",
+		"effect": "Send cards from the top of your Deck to the Graveyard equal to [the number of different Types face-up on your field]. If you sent 2 or more Pyro monsters to the Graveyard by this effect, you can also draw 1 card.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 800,
+			"def": 900,
+			"attribute": "FIRE",
+			"race": "PYRO"
+		}
+	},
+	{
+		"id": 19291,
+		"name": "Ember the Hyper Assistant",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If your opponent has a monster on their field, send this face-up card from your field to the Graveyard.",
+		"effect": "Special Summon 1 Level 7 or higher Pyro Type monster from your hand face-up to your field. If you have \"Ember the Super Assistant\" in your Graveyard, then the monster Special Summoned by this effect gains 800 ATK until the end of this turn.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 800,
+			"def": 1500,
+			"attribute": "FIRE",
+			"race": "PYRO"
+		},
+		"cardObtain": [
+			"Blazing Chemicalization (Mini Box)"
+		]
+	},
+	{
 		"id": 19295,
 		"name": "Agent Miscast",
 		"cardType": "EFFECT",
@@ -16577,6 +17327,58 @@
 		}
 	},
 	{
+		"id": 19299,
+		"name": "Elite Agent Mystery",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Shuffle 2 other face-up Reptile Type monsters from your field and 1 card from your hand into the Deck.",
+		"effect": "This card gains 300 ATK until the end of this turn. Then, you can Special Summon up to 2 Level 7 or higher Reptile Type monsters from your hand and/or Graveyard face-up to your field.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2300,
+			"def": 1000,
+			"attribute": "LIGHT",
+			"race": "REPTILE"
+		}
+	},
+	{
+		"id": 19305,
+		"name": "Change Slime - Dragon Champion Mode",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Shuffle 1 non-Fusion Monster from your Graveyard into the Deck.",
+		"effect": "Fusion Summon by sending 1 Level 7 Warrior Type monster and 1 Level 5 Dragon Type monster from your hand and/or field to the Graveyard as materials.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1100,
+			"def": 600,
+			"attribute": "WATER",
+			"race": "AQUA"
+		}
+	},
+	{
+		"id": 19309,
+		"name": "Battletested Gaia the Fierce Knight",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "You can Tribute Summon this card in Attack Position by Tributing 1 face-up Level 5 or higher monster.",
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "This turn, this card\u0027s name becomes \"Gaia the Fierce Knight\". Then, you can Fusion Summon by shuffling this card from your field and 1 monster from your field or Graveyard into the Deck as materials.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2300,
+			"def": 2100,
+			"attribute": "WIND",
+			"race": "WARRIOR"
+		}
+	},
+	{
 		"id": 19310,
 		"name": "Polygon Butterfly",
 		"cardType": "EFFECT",
@@ -16626,14 +17428,17 @@
 		"isLegend": false,
 		"requirement": "You have 3 or more Galaxy Type monsters in your Graveyard during your Main Phase that you Normal or Special Summoned this card.",
 		"effect": "Add 1 \"Galactica Xiphos\" from your Graveyard to your hand.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1000,
 			"def": 1300,
 			"attribute": "LIGHT",
 			"race": "GALAXY"
-		}
+		},
+		"cardObtain": [
+			"Blazing Chemicalization (Mini Box)"
+		]
 	},
 	{
 		"id": 19316,
@@ -16670,6 +17475,37 @@
 		},
 		"cardObtain": [
 			"Selection BOX Vol.02"
+		]
+	},
+	{
+		"id": 19323,
+		"name": "Gaia, Conqueror of Champions",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "MULTICHOICE",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Gaia the Fierce Knight\" + \"Curse of Dragon\"",
+		"requirement": "During your Main Phase that you Special Summoned this card, shuffle 1 monster from your Graveyard into the Deck, except for a Magical Knight Type monster.",
+		"effect": "⬤ This turn, this card can attack directly. ⬤ Destroy 1 Spell/Trap Card on your opponent\u0027s field.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2600,
+			"def": 2100,
+			"attribute": "WIND",
+			"race": "MAGICAL_KNIGHT"
+		}
+	},
+	{
+		"id": 19329,
+		"name": "Monster Calling",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 monster from your hand to the Graveyard.",
+		"effect": "Draw 1 card. Then, you can Special Summon 1 non-Effect monster with 2000 ATK and/or 2100 DEF from your Graveyard face-up to your field.",
+		"rarity": "SR",
+		"cardObtain": [
+			"Blazing Chemicalization (Mini Box)"
 		]
 	},
 	{
@@ -17104,6 +17940,40 @@
 		}
 	},
 	{
+		"id": 19786,
+		"name": "Icelyn the Super Assistant",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you have 10 or more cards in your Deck, send 1 FIRE Attribute Effect Monster from your hand to the Graveyard.",
+		"effect": "Draw 1 card. Then, you can place all \"Ember the Super Assistant\" from your Graveyard on the bottom of your Deck in any order. If you do, draw 2 additional cards.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 0,
+			"def": 1000,
+			"attribute": "FIRE",
+			"race": "AQUA"
+		}
+	},
+	{
+		"id": 19787,
+		"name": "Sparkle the Super Assistant",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During the turn you Normal Summoned this card.",
+		"effect": "Place 1 FIRE Attribute monster from your Graveyard on top of your Deck. Then, if you have \"Ember the Super Assistant\" in your Graveyard, you can place 2 FIRE Attribute monsters from your Graveyard on top of your Deck in any order.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 0,
+			"def": 1000,
+			"attribute": "FIRE",
+			"race": "THUNDER"
+		}
+	},
+	{
 		"id": 19793,
 		"name": "Twin Coolstars",
 		"cardType": "EFFECT",
@@ -17135,6 +18005,40 @@
 			"def": 0,
 			"attribute": "LIGHT",
 			"race": "GALAXY"
+		}
+	},
+	{
+		"id": 19967,
+		"name": "Vande the Electric Lion",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you have 2 or less monsters on your field.",
+		"effect": "Send cards from the top of your Deck to the Graveyard equal to [the number of face-up Pyro, Aqua, and Thunder Type monsters on your field] x 2.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 2,
+			"atk": 600,
+			"def": 700,
+			"attribute": "FIRE",
+			"race": "THUNDER"
+		}
+	},
+	{
+		"id": 19968,
+		"name": "James the Steam Swallow",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Your opponent has a monster on their field.",
+		"effect": "Special Summon 1 Level 2 or lower FIRE Attribute Thunder Type monster from your Graveyard to your field in face-up Defense Position. Then, you can Set 1 \"Fusion\" from your Graveyard in your Spell \u0026 Trap Zone.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 5,
+			"atk": 1400,
+			"def": 1800,
+			"attribute": "FIRE",
+			"race": "AQUA"
 		}
 	},
 	{
@@ -17186,6 +18090,24 @@
 			"def": 200,
 			"attribute": "LIGHT",
 			"race": "BEAST"
+		}
+	},
+	{
+		"id": 19995,
+		"name": "Swift Gaia the Dragon Chapion",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "1 Warrior Type monster with 2100 DEF + \"Curse of Dragon\"",
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "This card inflicts piercing battle damage this turn. If you have 0 cards in your hand, you can also draw 1 card.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2600,
+			"def": 2100,
+			"attribute": "DARK",
+			"race": "DRAGON"
 		}
 	},
 	{
@@ -17384,6 +18306,23 @@
 		}
 	},
 	{
+		"id": 20306,
+		"name": "Chemipet Chirp",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you have no other monsters on your field, reveal 1 Pyro, Aqua, or Thunder Type monster in your hand.",
+		"effect": "Send the top 3 cards of your Deck to the Graveyard. Then, you can add 1 Pyro, Aqua, or Thunder Type monster that has the same Level as [the monster revealed to meet the requirement] from the Graveyard to your hand.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 600,
+			"def": 0,
+			"attribute": "FIRE",
+			"race": "PYRO"
+		}
+	},
+	{
 		"id": 20351,
 		"name": "Blue-Fang Reconnect",
 		"cardType": "SPELL",
@@ -17411,6 +18350,27 @@
 			"attribute": "WIND",
 			"race": "WARRIOR"
 		}
+	},
+	{
+		"id": 20454,
+		"name": "Elemental HERO Burst Wingman",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Elemental HERO Avian\" + \"Elemental HERO Burstinatrix\"\nThis card must be Fusion Summoned.",
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "1 face-up Warrior Type monster on your field gains 1000 ATK until the end of your opponent\u0027s next turn. Then, you can destroy 1 Spell/Trap Card on your opponent\u0027s field.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 2100,
+			"def": 1200,
+			"attribute": "FIRE",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"Blazing Chemicalization (Mini Box)"
+		]
 	},
 	{
 		"id": 20459,
@@ -17537,6 +18497,23 @@
 		]
 	},
 	{
+		"id": 20618,
+		"name": "Icelyn the Hyper Assistant",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send this face-up card from your field to the Graveyard.",
+		"effect": "Add 1 Level 3 or lower Pyro Type Normal Monster from your Graveyard to your hand. If you added \"Ember the Super Assistant\", you can also add 1 \"Fusion\" from your Graveyard to your hand.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 800,
+			"def": 1500,
+			"attribute": "FIRE",
+			"race": "AQUA"
+		}
+	},
+	{
 		"id": 20623,
 		"name": "Constructor Desk Worker Tarasque",
 		"cardType": "EFFECT",
@@ -17554,6 +18531,26 @@
 		},
 		"cardObtain": [
 			"Requiem of Collapse (Mini Box)"
+		]
+	},
+	{
+		"id": 20629,
+		"name": "Rising HERO Manaccaniter",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Place 1 card from your hand on the bottom of your Deck.",
+		"effect": "Add 1 \"Rising HERO Argent\" or \"Rising HERO Tantalum\" from your Graveyard to your hand.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 900,
+			"def": 1000,
+			"attribute": "LIGHT",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"Blazing Chemicalization (Mini Box)"
 		]
 	},
 	{
@@ -17609,6 +18606,19 @@
 			"attribute": "DARK",
 			"race": "GALAXY"
 		}
+	},
+	{
+		"id": 20660,
+		"name": "Clashing Twin Tides",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Reveal 1 Level 7 or higher Fish or Sea Serpent Type monster in your hand and shuffle it into the Deck.",
+		"effect": "Draw 2 cards.",
+		"rarity": "SR",
+		"cardObtain": [
+			"Blazing Chemicalization (Mini Box)"
+		]
 	},
 	{
 		"id": 20733,
@@ -17845,6 +18855,40 @@
 		]
 	},
 	{
+		"id": 20954,
+		"name": "Sparkle the Hyper Assistant",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send this face-up card from your field to the Graveyard.",
+		"effect": "Send the top 3 cards of your Deck to the Graveyard. Then, if you have \"Ember the Super Assistant\" in your Graveyard, you can destroy 1 Spell/Trap Card on your opponent\u0027s field.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 800,
+			"def": 1500,
+			"attribute": "FIRE",
+			"race": "THUNDER"
+		}
+	},
+	{
+		"id": 20955,
+		"name": "Volcalize Ifrit",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "The ATK of this card is increased by [the original Level of 1 FIRE Attribute Pyro, Aqua, or Thunder Type monster Tributed when Tribute Summoning this card in Attack Position] x 400.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 0,
+			"def": 0,
+			"attribute": "FIRE",
+			"race": "PYRO"
+		}
+	},
+	{
 		"id": 21034,
 		"name": "Steel Strike Dragon Metagias",
 		"cardType": "EFFECT",
@@ -17928,6 +18972,27 @@
 		},
 		"cardObtain": [
 			"Requiem of Collapse (Mini Box)"
+		]
+	},
+	{
+		"id": 21578,
+		"name": "Chemicalized Salamander",
+		"cardType": "EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Shuffle 3 Pyro Type monsters from your Graveyard into the Deck.",
+		"effect": "All face-up monsters on your opponent\u0027s field lose ATK equal to [the number of monsters in your opponent\u0027s Graveyard] x 100 until the end of this turn.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2500,
+			"def": 1500,
+			"attribute": "FIRE",
+			"race": "PYRO"
+		},
+		"cardObtain": [
+			"Blazing Chemicalization (Mini Box)"
 		]
 	}
 ]
