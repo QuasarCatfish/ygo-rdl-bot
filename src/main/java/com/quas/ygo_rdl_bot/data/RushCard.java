@@ -271,10 +271,10 @@ public class RushCard {
 			}
 		}
 		
-		if (getBanlistStatus() != BanlistStatus.UNLIMITED) {
-			eb.setFooter("This card is " + getBanlistStatus() + " on the banlist.", getBanlistStatus().getIconUrl());
-		} else if (getRarity() == Rarity.NPC) {
+		if (getRarity() == Rarity.NPC) {
 			eb.setFooter("This card is currently unobtainable.");
+		} else if (getBanlistStatus() != BanlistStatus.UNLIMITED) {
+			eb.setFooter("This card is " + getBanlistStatus() + " on the banlist.", getBanlistStatus().getIconUrl());
 		}
 		
 		eb.setThumbnail(getImage());
