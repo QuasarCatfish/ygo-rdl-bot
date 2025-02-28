@@ -369,7 +369,8 @@
 			"Nail Saionji Starter Deck",
 			"Yudias Velgear Starter Deck",
 			"Yuhi Ohdo Starter Deck",
-			"Yuo Goha Starter Deck"
+			"Yuo Goha Starter Deck",
+			"Maddox Sogetsu Starter Deck"
 		]
 	},
 	{
@@ -1216,7 +1217,8 @@
 		"cardObtain": [
 			"Genesis Maximum (Mini Box)",
 			"Heavy Strike Excavator (Mini Box)",
-			"Selection BOX Vol.02"
+			"Selection BOX Vol.02",
+			"Challenge Deck (Gaia the Fierce Knight)"
 		]
 	},
 	{
@@ -1313,6 +1315,7 @@
 			"Roa Kassidy Starter Deck",
 			"Yuamu Ohdo Starter Deck",
 			"Yuo Goha Starter Deck",
+			"Maddox Sogetsu Starter Deck",
 			"Gavin Sogetsu Duel Reward",
 			"Romin Kassidy Duel Reward",
 			"GR Festival Special Pack Vol.01",
@@ -1390,6 +1393,7 @@
 			"Nail Saionji Starter Deck",
 			"Yuamu Ohdo Starter Deck",
 			"Yuo Goha Starter Deck",
+			"Maddox Sogetsu Starter Deck",
 			"Romin Kassidy Duel Reward",
 			"Roa Kassidy Duel Reward",
 			"Yudias Velgear Duel Reward",
@@ -1475,6 +1479,7 @@
 			"Yuhi Ohdo Starter Deck",
 			"Yuamu Ohdo Starter Deck",
 			"Yuo Goha Starter Deck",
+			"Maddox Sogetsu Starter Deck",
 			"Yuga Ohdo Duel Reward",
 			"Asana Mutsuba Duel Reward",
 			"Yudias Velgear Duel Reward",
@@ -1529,6 +1534,7 @@
 			"Yuhi Ohdo Starter Deck",
 			"Yuo Goha Starter Deck",
 			"Zuwijo Zwil Velgear Starter Deck",
+			"Maddox Sogetsu Starter Deck",
 			"Lucidien \"Luke\" Kallister Duel Reward",
 			"Roa Kassidy Duel Reward",
 			"Yuamu Ohdo Duel Reward"
@@ -1572,7 +1578,8 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Card Trader (Featured)"
+			"Card Trader (Featured)",
+			"Challenge Deck (Gaia the Fierce Knight)"
 		]
 	},
 	{
@@ -2340,7 +2347,8 @@
 		"cardObtain": [
 			"Heavy Metal Scream (Mini Box)",
 			"Scorching Flame Burst (Deck Build Box)",
-			"Soul with Eyes of Blue"
+			"Soul with Eyes of Blue",
+			"Challenge Deck (Gaia the Fierce Knight)"
 		]
 	},
 	{
@@ -2483,6 +2491,7 @@
 			"Yuhi Ohdo Starter Deck",
 			"Yuamu Ohdo Starter Deck",
 			"Zuwijo Zwil Velgear Starter Deck",
+			"Maddox Sogetsu Starter Deck",
 			"Lucidien \"Luke\" Kallister Duel Reward",
 			"Romin Kassidy Duel Reward",
 			"Nail Saionji Duel Reward",
@@ -3028,7 +3037,8 @@
 			"Fusion of Revolution (Mini Box)",
 			"Hero\u0027s Stage",
 			"Divine Genesis Blade (Deck Build Box)",
-			"Boost Red-Boot (Deck Build Box)"
+			"Boost Red-Boot (Deck Build Box)",
+			"Challenge Deck (Gaia the Fierce Knight)"
 		]
 	},
 	{
@@ -3740,6 +3750,7 @@
 			"Asana Mutsuba Starter Deck",
 			"Yuhi Ohdo Starter Deck",
 			"Yuamu Ohdo Starter Deck",
+			"Maddox Sogetsu Starter Deck",
 			"Roa Kassidy Duel Reward",
 			"Yuo Goha Duel Reward",
 			"Zuwijo Zwil Velgear Duel Reward",
@@ -3772,6 +3783,7 @@
 			"Mimi Imimi Starter Deck",
 			"Yudias Velgear Starter Deck",
 			"Yuhi Ohdo Starter Deck",
+			"Maddox Sogetsu Starter Deck",
 			"Romin Kassidy Duel Reward",
 			"Mimi Imimi Duel Reward",
 			"Nail Saionji Duel Reward",
@@ -3805,6 +3817,7 @@
 			"Asana Mutsuba Starter Deck",
 			"Yuhi Ohdo Starter Deck",
 			"Zuwijo Zwil Velgear Starter Deck",
+			"Maddox Sogetsu Starter Deck",
 			"Romin Kassidy Duel Reward",
 			"Mimi Imimi Duel Reward",
 			"Nail Saionji Duel Reward",
@@ -4735,7 +4748,10 @@
 		"isLegend": false,
 		"requirement": "None",
 		"effect": "1 face-up Level 7 or higher monster on your opponent\u0027s field loses 500 ATK until the end of this turn. Inflict 500 damage to your opponent.",
-		"rarity": "NPC"
+		"rarity": "SR",
+		"cardObtain": [
+			"Ranked Duels Reward Ticket"
+		]
 	},
 	{
 		"id": 15919,
@@ -5057,7 +5073,8 @@
 			"Roa Kassidy Starter Deck",
 			"Asana Mutsuba Starter Deck",
 			"Yudias Velgear Starter Deck",
-			"Yuhi Ohdo Starter Deck"
+			"Yuhi Ohdo Starter Deck",
+			"Maddox Sogetsu Starter Deck"
 		]
 	},
 	{
@@ -5206,6 +5223,7 @@
 			"Yuamu Ohdo Starter Deck",
 			"Yuo Goha Starter Deck",
 			"Zuwijo Zwil Velgear Starter Deck",
+			"Maddox Sogetsu Starter Deck",
 			"Yuga Ohdo Duel Reward",
 			"Lucidien \"Luke\" Kallister Duel Reward",
 			"Yuhi Ohdo Duel Reward",
@@ -5892,14 +5910,17 @@
 		"isLegend": false,
 		"requirement": "Send 1 Pyro Type monster from your hand to the Graveyard.",
 		"effect": "Destroy all face-up Defense Position monsters on the field with the same Level as the monster sent to the Graveyard to meet the requirement.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 8,
 			"atk": 2400,
 			"def": 1500,
 			"attribute": "FIRE",
 			"race": "PYRO"
-		}
+		},
+		"cardObtain": [
+			"Duel Links Mission Research"
+		]
 	},
 	{
 		"id": 16159,
@@ -7090,7 +7111,8 @@
 		"rarity": "SR",
 		"cardObtain": [
 			"Steel Kaleidomirror (Mini Box)",
-			"Selection BOX Vol.02"
+			"Selection BOX Vol.02",
+			"Challenge Deck (Gaia the Fierce Knight)"
 		]
 	},
 	{
@@ -7137,7 +7159,8 @@
 		"rarity": "SR",
 		"cardObtain": [
 			"Heavy Metal Scream (Mini Box)",
-			"Selection BOX Vol.01"
+			"Selection BOX Vol.01",
+			"Challenge Deck (Gaia the Fierce Knight)"
 		]
 	},
 	{
@@ -9574,6 +9597,7 @@
 			"Yudias Velgear Starter Deck",
 			"Yuhi Ohdo Starter Deck",
 			"Zuwijo Zwil Velgear Starter Deck",
+			"Maddox Sogetsu Starter Deck",
 			"Yuga Ohdo Duel Reward",
 			"Gavin Sogetsu Duel Reward",
 			"Mimi Imimi Duel Reward",
@@ -10926,6 +10950,7 @@
 			"Asana Mutsuba Starter Deck",
 			"Yuamu Ohdo Starter Deck",
 			"Yuo Goha Starter Deck",
+			"Maddox Sogetsu Starter Deck",
 			"Nail Saionji Duel Reward",
 			"Yuhi Ohdo Duel Reward",
 			"Zuwijo Zwil Velgear Duel Reward"
@@ -11712,6 +11737,7 @@
 			"Yuhi Ohdo Starter Deck",
 			"Yuamu Ohdo Starter Deck",
 			"Yuo Goha Starter Deck",
+			"Maddox Sogetsu Starter Deck",
 			"Lucidien \"Luke\" Kallister Duel Reward"
 		]
 	},
@@ -13591,7 +13617,8 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Card Trader (Featured)"
+			"Card Trader (Featured)",
+			"Challenge Deck (Gaia the Fierce Knight)"
 		]
 	},
 	{
@@ -13827,6 +13854,7 @@
 			"race": "PYRO"
 		},
 		"cardObtain": [
+			"Maddox Sogetsu Level Up Reward",
 			"Maddox Sogetsu Duel Reward"
 		]
 	},
@@ -14613,14 +14641,17 @@
 		"isLegend": false,
 		"requirement": "Send 1 Spell/Trap Card from your hand to the Graveyard.",
 		"effect": "Shuffle 3 Pyro Type monsters whose total Level equals [the total Level of Level 8 or lower Attack Position monsters on the opponent\u0027s field] from your Graveyard into the Deck. Then, destroy all Level 8 or lower Attack Position monsters on your opponent\u0027s field. You can only attack with 1 monster this turn.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 7,
 			"atk": 2300,
 			"def": 2300,
 			"attribute": "FIRE",
 			"race": "PYRO"
-		}
+		},
+		"cardObtain": [
+			"Maddox Sogetsu Level Up Reward"
+		]
 	},
 	{
 		"id": 17956,
@@ -14742,7 +14773,7 @@
 	{
 		"id": 17963,
 		"name": "Ember the Super Assistant",
-		"cardType": "EFFECT",
+		"cardType": "NORMAL",
 		"effectType": "NORMAL",
 		"isLegend": false,
 		"requirement": "Unknown",
@@ -14767,7 +14798,10 @@
 		"isLegend": false,
 		"requirement": "Shuffle 1 Pyro Type monster from your Graveyard into the Deck.",
 		"effect": "1 face-up Pyro Type monster on your field gains 500 ATK until the end of this turn. Then, you can make 1 face-up monster on your opponent\u0027s field lose 500 ATK until the end of this turn.",
-		"rarity": "NPC"
+		"rarity": "SR",
+		"cardObtain": [
+			"Maddox Sogetsu Level Up Reward"
+		]
 	},
 	{
 		"id": 17966,
@@ -15327,7 +15361,8 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Card Trader (Featured)"
+			"Card Trader (Featured)",
+			"Challenge Deck (Gaia the Fierce Knight)"
 		]
 	},
 	{
@@ -16492,7 +16527,10 @@
 		"isLegend": true,
 		"requirement": "None",
 		"effect": "Fusion Summon by sending monsters from your hand or field to the Graveyard as material.",
-		"rarity": "NPC"
+		"rarity": "UR",
+		"cardObtain": [
+			"Challenge Deck (Gaia the Fierce Knight)"
+		]
 	},
 	{
 		"id": 18710,
@@ -17351,14 +17389,17 @@
 		"isLegend": false,
 		"requirement": "Shuffle 1 non-Fusion Monster from your Graveyard into the Deck.",
 		"effect": "Fusion Summon by sending 1 Level 7 Warrior Type monster and 1 Level 5 Dragon Type monster from your hand and/or field to the Graveyard as materials.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1100,
 			"def": 600,
 			"attribute": "WATER",
 			"race": "AQUA"
-		}
+		},
+		"cardObtain": [
+			"Challenge Deck (Gaia the Fierce Knight)"
+		]
 	},
 	{
 		"id": 19309,
@@ -17369,14 +17410,17 @@
 		"inherentSummonCondition": "You can Tribute Summon this card in Attack Position by Tributing 1 face-up Level 5 or higher monster.",
 		"requirement": "Send the top card of your Deck to the Graveyard.",
 		"effect": "This turn, this card\u0027s name becomes \"Gaia the Fierce Knight\". Then, you can Fusion Summon by shuffling this card from your field and 1 monster from your field or Graveyard into the Deck as materials.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 7,
 			"atk": 2300,
 			"def": 2100,
 			"attribute": "WIND",
 			"race": "WARRIOR"
-		}
+		},
+		"cardObtain": [
+			"Challenge Deck (Gaia the Fierce Knight)"
+		]
 	},
 	{
 		"id": 19310,
@@ -17417,7 +17461,8 @@
 		},
 		"cardObtain": [
 			"Genesis Maximum (Mini Box)",
-			"Boost Red-Boot (Deck Build Box)"
+			"Boost Red-Boot (Deck Build Box)",
+			"Challenge Deck (Gaia the Fierce Knight)"
 		]
 	},
 	{
@@ -17486,14 +17531,17 @@
 		"inherentSummonCondition": "\"Gaia the Fierce Knight\" + \"Curse of Dragon\"",
 		"requirement": "During your Main Phase that you Special Summoned this card, shuffle 1 monster from your Graveyard into the Deck, except for a Magical Knight Type monster.",
 		"effect": "⬤ This turn, this card can attack directly. ⬤ Destroy 1 Spell/Trap Card on your opponent\u0027s field.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 7,
 			"atk": 2600,
 			"def": 2100,
 			"attribute": "WIND",
 			"race": "MAGICAL_KNIGHT"
-		}
+		},
+		"cardObtain": [
+			"Challenge Deck (Gaia the Fierce Knight)"
+		]
 	},
 	{
 		"id": 19329,
@@ -17601,7 +17649,8 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Heavy Strike Excavator (Mini Box)"
+			"Heavy Strike Excavator (Mini Box)",
+			"Challenge Deck (Gaia the Fierce Knight)"
 		]
 	},
 	{
@@ -18094,21 +18143,24 @@
 	},
 	{
 		"id": 19995,
-		"name": "Swift Gaia the Dragon Chapion",
+		"name": "Swift Gaia the Dragon Champion",
 		"cardType": "FUSION_EFFECT",
 		"effectType": "NORMAL",
 		"isLegend": false,
 		"inherentSummonCondition": "1 Warrior Type monster with 2100 DEF + \"Curse of Dragon\"",
 		"requirement": "Send the top card of your Deck to the Graveyard.",
 		"effect": "This card inflicts piercing battle damage this turn. If you have 0 cards in your hand, you can also draw 1 card.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 7,
 			"atk": 2600,
 			"def": 2100,
 			"attribute": "DARK",
 			"race": "DRAGON"
-		}
+		},
+		"cardObtain": [
+			"Challenge Deck (Gaia the Fierce Knight)"
+		]
 	},
 	{
 		"id": 20005,
