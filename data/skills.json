@@ -209,7 +209,8 @@
 			706,
 			709,
 			901,
-			903
+			903,
+			905
 		],
 		"mentionedCards": [
 			15227
@@ -231,7 +232,8 @@
 			717,
 			901,
 			902,
-			903
+			903,
+			905
 		],
 		"mentionedCards": [
 			16618
@@ -452,7 +454,8 @@
 		"isArchive": false,
 		"characters": [
 			702,
-			704
+			704,
+			905
 		],
 		"mentionedCards": []
 	},
@@ -1425,7 +1428,8 @@
 			717,
 			901,
 			902,
-			903
+			903,
+			905
 		],
 		"mentionedCards": []
 	},
@@ -1439,7 +1443,8 @@
 		"characters": [
 			901,
 			902,
-			903
+			903,
+			905
 		],
 		"mentionedCards": [
 			16776
@@ -1508,7 +1513,8 @@
 		"isArchive": false,
 		"characters": [
 			902,
-			903
+			903,
+			905
 		],
 		"mentionedCards": []
 	},
@@ -1969,7 +1975,8 @@
 		"characters": [
 			701,
 			709,
-			902
+			902,
+			905
 		],
 		"mentionedCards": []
 	},
