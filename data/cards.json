@@ -1761,6 +1761,7 @@
 			"Roa Kassidy Duel Reward",
 			"Yuamu Ohdo Duel Reward",
 			"GR Festival Special Pack Vol.01",
+			"GR Festival Special Pack Vol.02",
 			"World Championship 2024 Special Pack (Rush)",
 			"Ranked Duels Reward Ticket"
 		]
@@ -3306,7 +3307,8 @@
 			"race": "FIEND"
 		},
 		"cardObtain": [
-			"Roa Kassidy Level Up Reward"
+			"Roa Kassidy Level Up Reward",
+			"GR Festival Special Pack Vol.02"
 		]
 	},
 	{
@@ -3791,6 +3793,7 @@
 			"Yuamu Ohdo Duel Reward",
 			"Yuo Goha Duel Reward",
 			"GR Festival Special Pack Vol.01",
+			"GR Festival Special Pack Vol.02",
 			"World Championship 2024 Special Pack (Rush)"
 		]
 	},
@@ -4585,7 +4588,8 @@
 			"race": "CYBERSE"
 		},
 		"cardObtain": [
-			"Nail Saionji Level Up Reward"
+			"Nail Saionji Level Up Reward",
+			"GR Festival Special Pack Vol.02"
 		]
 	},
 	{
@@ -4694,14 +4698,17 @@
 		"isLegend": false,
 		"requirement": "Your opponent has a face-up Level 7 or higher monster on their field.",
 		"effect": "Place 1 \"Bleach Mortar\" from your Graveyard on top of your Deck.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 7,
 			"atk": 2300,
 			"def": 1200,
 			"attribute": "WATER",
 			"race": "WARRIOR"
-		}
+		},
+		"cardObtain": [
+			"Ranked Duels Reward Ticket"
+		]
 	},
 	{
 		"id": 15916,
@@ -6141,7 +6148,8 @@
 			"race": "WYRM"
 		},
 		"cardObtain": [
-			"Asana Mutsuba Level Up Reward"
+			"Asana Mutsuba Level Up Reward",
+			"GR Festival Special Pack Vol.02"
 		]
 	},
 	{
@@ -10713,7 +10721,8 @@
 			"race": "FAIRY"
 		},
 		"cardObtain": [
-			"Yuo Goha Level Up Reward"
+			"Yuo Goha Level Up Reward",
+			"GR Festival Special Pack Vol.02"
 		]
 	},
 	{
@@ -10818,7 +10827,8 @@
 			"race": "FAIRY"
 		},
 		"cardObtain": [
-			"Yuo Goha Level Up Reward"
+			"Yuo Goha Level Up Reward",
+			"GR Festival Special Pack Vol.02"
 		]
 	},
 	{
@@ -10855,7 +10865,8 @@
 			"race": "WYRM"
 		},
 		"cardObtain": [
-			"Asana Mutsuba Level Up Reward"
+			"Asana Mutsuba Level Up Reward",
+			"GR Festival Special Pack Vol.02"
 		]
 	},
 	{
@@ -11184,7 +11195,8 @@
 			"race": "INSECT"
 		},
 		"cardObtain": [
-			"Duel Links Appreciation Campaign"
+			"Duel Links Appreciation Campaign",
+			"GR Festival Special Pack Vol.02"
 		]
 	},
 	{
@@ -12645,7 +12657,8 @@
 		},
 		"cardObtain": [
 			"Yudias Velgear Level Up Reward",
-			"Yudias Velgear Duel Reward"
+			"Yudias Velgear Duel Reward",
+			"GR Festival Special Pack Vol.02"
 		]
 	},
 	{
@@ -12953,7 +12966,8 @@
 		},
 		"cardObtain": [
 			"Yudias Velgear Level Up Reward",
-			"Yudias Velgear Duel Reward"
+			"Yudias Velgear Duel Reward",
+			"GR Festival Special Pack Vol.02"
 		]
 	},
 	{
@@ -12984,7 +12998,8 @@
 		"rarity": "UR",
 		"cardObtain": [
 			"Yudias Velgear Level Up Reward",
-			"Yudias Velgear Duel Reward"
+			"Yudias Velgear Duel Reward",
+			"GR Festival Special Pack Vol.02"
 		]
 	},
 	{
@@ -14530,7 +14545,8 @@
 		},
 		"cardObtain": [
 			"Yuamu Ohdo Level Up Reward",
-			"Yuamu Ohdo Duel Reward"
+			"Yuamu Ohdo Duel Reward",
+			"GR Festival Special Pack Vol.02"
 		]
 	},
 	{
@@ -14610,7 +14626,8 @@
 		},
 		"cardObtain": [
 			"Yuamu Ohdo Level Up Reward",
-			"Yuamu Ohdo Duel Reward"
+			"Yuamu Ohdo Duel Reward",
+			"GR Festival Special Pack Vol.02"
 		]
 	},
 	{
