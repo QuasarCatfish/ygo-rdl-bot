@@ -17,8 +17,8 @@
 	{
 		"id": 1243,
 		"name": "Rush On - Sevens Road",
-		"requirement": "At the beginning of the Duel if you have no Level 6 or higher Effect Monsters in your Deck.",
-		"effect": "Add 1 \"Sevens Road Magician\" and 1 \"Torna the Windweaver\" to your Deck.",
+		"requirement": "Activated at the beginning of the Duel.",
+		"effect": "Add 1 \"Sevens Road Magician\" and 1 \"Torna the Windweaver\" to your Deck. (You can only have at most 3 copies of each card.)",
 		"effectType": "NORMAL",
 		"isArchive": false,
 		"characters": [
@@ -32,8 +32,8 @@
 	{
 		"id": 1244,
 		"name": "Rush On - Dragias",
-		"requirement": "At the beginning of the Duel if you have no Level 6 or higher Effect Monsters in your Deck.",
-		"effect": "Add 1 \"Multistrike Dragon Dragias\" and 1 \"Dragonic Slayer\" to your Deck.",
+		"requirement": "Activated at the beginning of the Duel.",
+		"effect": "Add 1 \"Multistrike Dragon Dragias\" and 1 \"Dragonic Slayer\" to your Deck. (You can only have at most 3 copies of each card.)",
 		"effectType": "NORMAL",
 		"isArchive": false,
 		"characters": [
@@ -60,8 +60,8 @@
 	{
 		"id": 1246,
 		"name": "Rush On - Yamiruler",
-		"requirement": "At the beginning of the Duel if you have no Level 6 or higher Effect Monsters in your Deck.",
-		"effect": "Add 1 \"Yamiruler the Dark Delayer\" and 1 \"Kimeruler the Dark Raider\" to your Deck.",
+		"requirement": "Activated at the beginning of the Duel.",
+		"effect": "Add 1 \"Yamiruler the Dark Delayer\" and 1 \"Kimeruler the Dark Raider\" to your Deck. (You can only have at most 3 copies of each card.)",
 		"effectType": "NORMAL",
 		"isArchive": false,
 		"characters": [
@@ -105,8 +105,8 @@
 	{
 		"id": 1249,
 		"name": "Rush On - Prima Guitarna",
-		"requirement": "At the beginning of the Duel if you have no Level 6 or higher Effect Monsters in your Deck.",
-		"effect": "Add 1 \"Prima Guitarna the Shining Superstar\" and 1 \"Folder Blitz the Infinite Dream\" to your Deck.",
+		"requirement": "Activated at the beginning of the Duel.",
+		"effect": "Add 1 \"Prima Guitarna the Shining Superstar\" and 1 \"Folder Blitz the Infinite Dream\" to your Deck. (You can only have at most 3 copies of each card.)",
 		"effectType": "NORMAL",
 		"isArchive": false,
 		"characters": [
@@ -136,8 +136,8 @@
 	{
 		"id": 1252,
 		"name": "Rush On - Dian Keto",
-		"requirement": "At the beginning of the Duel if you have no Level 6 or higher Effect Monsters in your Deck.",
-		"effect": "Add 1 \"Dian Keto the Boogie Master\" to your Deck.",
+		"requirement": "Activated at the beginning of the Duel.",
+		"effect": "Add 1 \"Dian Keto the Boogie Master\" to your Deck. (You can only have at most 3 copies.)",
 		"effectType": "NORMAL",
 		"isArchive": false,
 		"characters": [
@@ -630,8 +630,8 @@
 	{
 		"id": 1311,
 		"name": "Rush On - Royal Rebel",
-		"requirement": "At the beginning of the Duel if you have no Level 6 or higher Effect Monsters in your Deck.",
-		"effect": "Add 1 \"Royal Rebel\u0027s Heavy Metal\" and 1 \"Royal Rebel\u0027s Growl\" to your Deck.",
+		"requirement": "Activated at the beginning of the Duel.",
+		"effect": "Add 1 \"Royal Rebel\u0027s Heavy Metal\" and 1 \"Royal Rebel\u0027s Growl\" to your Deck. (You can only have at most 3 copies of each card.)",
 		"effectType": "NORMAL",
 		"isArchive": false,
 		"characters": [
@@ -881,8 +881,8 @@
 	{
 		"id": 1366,
 		"name": "Rush On - Yggdrago",
-		"requirement": "Activated at the beginning of the Duel if you have no Maximum Monsters in your Deck.",
-		"effect": "Add 1 \"Yggdrago the Sky Emperor [L],\" 1 \"Yggdrago the Sky Emperor,\" and 1 \"Yggdrago the Sky Emperor [R]\" to your Deck.",
+		"requirement": "Activated at the beginning of the Duel.",
+		"effect": "Add 1 \"Yggdrago the Sky Emperor [L],\" 1 \"Yggdrago the Sky Emperor,\" and 1 \"Yggdrago the Sky Emperor [R]\" to your Deck. (You can only have at most 3 copies of each card.)",
 		"effectType": "NORMAL",
 		"isArchive": false,
 		"characters": [
@@ -897,9 +897,9 @@
 	{
 		"id": 1367,
 		"name": "Maximum Ragnarok",
-		"condition": "This Skill can be used if there are 8 or more Maximum Monsters in your Deck and the only monsters in your Deck are Cyberse Type with 100 or less DEF.",
-		"requirement": "Return 1 card in your hand to the top or bottom of your Deck.",
-		"effect": "Choose up to 2 face-up monsters on your field or your opponent\u0027s field. This turn, the chosen monster(s) lose 800 ATK and can be treated as 2 Tributes for the Tribute Summon of a monster in Attack Position.",
+		"condition": "This Skill can be used if your constructed Deck contains 8 or more Maximum Monsters and all of the monsters in your constructed Deck are Cyberse Type monsters with 100 or less DEF or 1500 or more DEF.",
+		"requirement": "Place 1 card from your hand on the top or bottom of the Deck.",
+		"effect": "Choose up to 2 face-up monsters on the field. This turn, the chosen monster(s) lose 800 ATK and can be treated as 2 Tributes for the Tribute Summon of a monster in Attack Position.",
 		"effectType": "NORMAL",
 		"isArchive": false,
 		"characters": [
@@ -938,8 +938,8 @@
 	{
 		"id": 1370,
 		"name": "Beyond Curiosity",
-		"requirement": "Activated at the beginning of the Duel if the only monsters in your Deck are Cyberse Type.",
-		"effect": "Add 3 \"Zeptron\" and 3 \"Peacock Picotron\" to your Deck. Then, send as many \"Femtron\" as possible from your Deck to the Graveyard. During this Duel, during each of your opponent\u0027s End Phases, 1 Maximum Monster on your field loses 600 ATK as long as it stays face-up.",
+		"requirement": "Activated at the beginning of the Duel if all the monsters in your constructed Deck are Cyberse Type monsters.",
+		"effect": "Add 3 \"Zeptron\" and 3 \"Peacock Picotron\" to your Deck. Then, send as many \"Femtron\" as possible from your Deck to the Graveyard.",
 		"effectType": "NORMAL",
 		"isArchive": false,
 		"characters": [
@@ -989,9 +989,9 @@
 	{
 		"id": 1393,
 		"name": "Join the Battle of All Battles!",
-		"condition": "This Skill can only be used if your Deck contains at most 6 non-Cyberse Type monsters and the only Level 5 or higher monsters in your Deck are Level 6, 7, and 10 Cyberse Type monsters.",
-		"requirement": "If you do not control any monsters, reveal 1 \"Sigurstate Sol\" or 1 \"Belsectacle Mani\" in your hand.",
-		"effect": "Add 1 Cyberse Type Normal Monster from your Graveyard to your hand.",
+		"condition": "This Skill can only be used if your constructed Deck contains at most 6 non-Cyberse Type monsters and the only Level 5 or higher monsters in your constructed Deck are Level 6, 7, and 10 Cyberse Type monsters.",
+		"requirement": "Reveal 1 \"Sigurstate Sol\" or \"Belsectacle Mani\" in your hand.",
+		"effect": "Add 1 Cyberse Type Normal Monster or \"Fusion\" from your Graveyard to your hand.",
 		"effectType": "NORMAL",
 		"isArchive": false,
 		"characters": [
@@ -999,7 +999,8 @@
 		],
 		"mentionedCards": [
 			16791,
-			16792
+			16792,
+			16934
 		]
 	},
 	{
@@ -1092,8 +1093,8 @@
 	{
 		"id": 1544,
 		"name": "Rush On - Excavator",
-		"requirement": "At the beginning of the Duel, if you have no Maximum Monsters in your Deck.",
-		"effect": "Add 1 \"Wyrm Excavator the Heavy Cavalry Draco [L]\", 1 \"Wyrm Excavator the Heavy Cavalry Draco\", and 1 \"Wyrm Excavator the Heavy Cavalry Draco [R]\" to your Deck.",
+		"requirement": "Activated at the beginning of the Duel.",
+		"effect": "Add 1 \"Wyrm Excavator the Heavy Cavalry Draco [L]\", 1 \"Wyrm Excavator the Heavy Cavalry Draco\", and 1 \"Wyrm Excavator the Heavy Cavalry Draco [R]\" to your Deck. (You can only have at most 3 copies of each card.)",
 		"effectType": "NORMAL",
 		"isArchive": false,
 		"characters": [
