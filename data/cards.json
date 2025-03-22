@@ -4738,14 +4738,17 @@
 		"isLegend": false,
 		"requirement": "You Normal Summoned this card this turn and your opponent has a face-up Level 7 or higher monster on their field.",
 		"effect": "Shuffle 1 \"Bleach Mortar\" from your Graveyard into the Deck. Then draw 1 card.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 2,
 			"atk": 0,
 			"def": 800,
 			"attribute": "WATER",
 			"race": "WARRIOR"
-		}
+		},
+		"cardObtain": [
+			"Card Trader (Featured)"
+		]
 	},
 	{
 		"id": 15918,
@@ -13664,14 +13667,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "A rhymester representin\u0027 the riverside. He stirs up passersby who approach the water.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 3,
 			"atk": 800,
 			"def": 1300,
 			"attribute": "WATER",
 			"race": "AQUA"
-		}
+		},
+		"cardObtain": [
+			"Card Trader (Featured)"
+		]
 	},
 	{
 		"id": 17845,
@@ -13681,14 +13687,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "An amphibian that sold his soul for unlimited power to avenge his late friend.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 3,
 			"atk": 1200,
 			"def": 900,
 			"attribute": "WATER",
 			"race": "AQUA"
-		}
+		},
+		"cardObtain": [
+			"Card Trader (Featured)"
+		]
 	},
 	{
 		"id": 17849,
