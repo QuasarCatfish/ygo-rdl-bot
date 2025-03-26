@@ -18988,6 +18988,46 @@
 		]
 	},
 	{
+		"id": 21109,
+		"name": "Pinch Hopper",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send this face-up card from your field to the Graveyard.",
+		"effect": "Special Summon 1 Insect Type monster from your hand face-up to your field.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1000,
+			"def": 1200,
+			"attribute": "EARTH",
+			"race": "INSECT"
+		},
+		"cardObtain": [
+			"Ranked Duels Reward Ticket"
+		]
+	},
+	{
+		"id": 21252,
+		"name": "Insect Knight",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": true,
+		"requirement": "Unknown",
+		"effect": "Of all Insect fighters, he is the paragon of the Indestructible Insect Invaders, which only the elite of the elite can join. We can no longer ignore their unmatched battle prowess.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1900,
+			"def": 1500,
+			"attribute": "EARTH",
+			"race": "INSECT"
+		},
+		"cardObtain": [
+			"Ranked Duels Reward Ticket"
+		]
+	},
+	{
 		"id": 21334,
 		"name": "Voidvelg Requiem",
 		"cardType": "EFFECT",
