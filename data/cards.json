@@ -2229,7 +2229,8 @@
 			"Sevens New Road (Main Box)",
 			"Raidacross the Lionhearted",
 			"Scorching Flame Burst (Deck Build Box)",
-			"Divine Genesis Blade (Deck Build Box)"
+			"Divine Genesis Blade (Deck Build Box)",
+			"Infinite Grand Crush (Deck Build Box)"
 		]
 	},
 	{
@@ -3039,7 +3040,8 @@
 			"Hero\u0027s Stage",
 			"Divine Genesis Blade (Deck Build Box)",
 			"Boost Red-Boot (Deck Build Box)",
-			"Challenge Deck (Gaia the Fierce Knight)"
+			"Challenge Deck (Gaia the Fierce Knight)",
+			"Infinite Grand Crush (Deck Build Box)"
 		]
 	},
 	{
@@ -3102,7 +3104,8 @@
 		"cardObtain": [
 			"Steel Kaleidomirror (Mini Box)",
 			"Selection BOX Vol.02",
-			"Hero\u0027s Stage"
+			"Hero\u0027s Stage",
+			"Infinite Grand Crush (Deck Build Box)"
 		]
 	},
 	{
@@ -4367,7 +4370,8 @@
 		"rarity": "N",
 		"cardObtain": [
 			"Sevens New Road (Main Box)",
-			"Scorching Flame Burst (Deck Build Box)"
+			"Scorching Flame Burst (Deck Build Box)",
+			"Infinite Grand Crush (Deck Build Box)"
 		]
 	},
 	{
@@ -4406,7 +4410,8 @@
 		"cardObtain": [
 			"Lightspeed Voltcondor",
 			"Sevens New Road (Main Box)",
-			"Scorching Flame Burst (Deck Build Box)"
+			"Scorching Flame Burst (Deck Build Box)",
+			"Infinite Grand Crush (Deck Build Box)"
 		]
 	},
 	{
@@ -4420,7 +4425,8 @@
 		"rarity": "N",
 		"cardObtain": [
 			"Sevens New Road (Main Box)",
-			"Scorching Flame Burst (Deck Build Box)"
+			"Scorching Flame Burst (Deck Build Box)",
+			"Infinite Grand Crush (Deck Build Box)"
 		]
 	},
 	{
@@ -4507,7 +4513,7 @@
 		},
 		"cardObtain": [
 			"Genesis Maximum (Mini Box)",
-			"Selection BOX Vol.02"
+			"Infinite Grand Crush (Deck Build Box)"
 		]
 	},
 	{
@@ -4530,7 +4536,8 @@
 			"race": "CYBERSE"
 		},
 		"cardObtain": [
-			"Genesis Maximum (Mini Box)"
+			"Genesis Maximum (Mini Box)",
+			"Infinite Grand Crush (Deck Build Box)"
 		]
 	},
 	{
@@ -4552,7 +4559,7 @@
 		},
 		"cardObtain": [
 			"Genesis Maximum (Mini Box)",
-			"Selection BOX Vol.02"
+			"Infinite Grand Crush (Deck Build Box)"
 		]
 	},
 	{
@@ -4661,7 +4668,8 @@
 		"rarity": "N",
 		"cardObtain": [
 			"Genesis Maximum (Mini Box)",
-			"Selection BOX Vol.02"
+			"Selection BOX Vol.02",
+			"Infinite Grand Crush (Deck Build Box)"
 		]
 	},
 	{
@@ -4688,7 +4696,8 @@
 		"rarity": "N",
 		"cardObtain": [
 			"Genesis Maximum (Mini Box)",
-			"Selection BOX Vol.02"
+			"Selection BOX Vol.02",
+			"Infinite Grand Crush (Deck Build Box)"
 		]
 	},
 	{
@@ -5048,7 +5057,8 @@
 		},
 		"cardObtain": [
 			"Genesis Maximum (Mini Box)",
-			"Selection BOX Vol.02"
+			"Selection BOX Vol.02",
+			"Infinite Grand Crush (Deck Build Box)"
 		]
 	},
 	{
@@ -5306,7 +5316,8 @@
 		},
 		"cardObtain": [
 			"Heavy Strike Excavator (Mini Box)",
-			"Requiem of Collapse (Mini Box)"
+			"Requiem of Collapse (Mini Box)",
+			"Infinite Grand Crush (Deck Build Box)"
 		]
 	},
 	{
@@ -5987,7 +5998,8 @@
 		"effect": "While this card is face-up in the Field Zone, face-up Wyrm Type monsters on the field gain 400 ATK and lose 400 DEF.",
 		"rarity": "SR",
 		"cardObtain": [
-			"Heavy Strike Excavator (Mini Box)"
+			"Heavy Strike Excavator (Mini Box)",
+			"Infinite Grand Crush (Deck Build Box)"
 		]
 	},
 	{
@@ -6000,7 +6012,8 @@
 		"effect": "Change 1 Defense Position monster on your opponent\u0027s field to face-up Attack Position. If the monster changed to face-up Attack Position by this effet was a Normal Monster, you can draw 1 card.",
 		"rarity": "N",
 		"cardObtain": [
-			"Heavy Strike Excavator (Mini Box)"
+			"Heavy Strike Excavator (Mini Box)",
+			"Infinite Grand Crush (Deck Build Box)"
 		]
 	},
 	{
@@ -6978,7 +6991,8 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Selection BOX Vol.01"
+			"Selection BOX Vol.01",
+			"Infinite Grand Crush (Deck Build Box)"
 		]
 	},
 	{
@@ -7536,7 +7550,10 @@
 			"def": 1600,
 			"attribute": "LIGHT",
 			"race": "CYBERSE"
-		}
+		},
+		"cardObtain": [
+			"Infinite Grand Crush (Deck Build Box)"
+		]
 	},
 	{
 		"id": 16590,
@@ -7556,7 +7573,8 @@
 		},
 		"cardObtain": [
 			"Steel Kaleidomirror (Mini Box)",
-			"Selection BOX Vol.02"
+			"Selection BOX Vol.02",
+			"Infinite Grand Crush (Deck Build Box)"
 		]
 	},
 	{
@@ -7673,7 +7691,8 @@
 		"effect": "While this card is face-up in the Field Zone, both players can Tribute Summon Level 7 or higher Wyrm Type monsters in Attack Position with only 1 Tribute.",
 		"rarity": "R",
 		"cardObtain": [
-			"Requiem of Collapse (Mini Box)"
+			"Requiem of Collapse (Mini Box)",
+			"Infinite Grand Crush (Deck Build Box)"
 		]
 	},
 	{
@@ -7859,7 +7878,10 @@
 			"def": 200,
 			"attribute": "DARK",
 			"race": "FIEND"
-		}
+		},
+		"cardObtain": [
+			"Infinite Grand Crush (Deck Build Box)"
+		]
 	},
 	{
 		"id": 16657,
@@ -8022,7 +8044,10 @@
 			"def": 1500,
 			"attribute": "EARTH",
 			"race": "PYRO"
-		}
+		},
+		"cardObtain": [
+			"Card Trader (Featured)"
+		]
 	},
 	{
 		"id": 16666,
@@ -8301,7 +8326,10 @@
 			"def": 0,
 			"attribute": "EARTH",
 			"race": "PYRO"
-		}
+		},
+		"cardObtain": [
+			"Card Trader (Featured)"
+		]
 	},
 	{
 		"id": 16685,
@@ -8318,7 +8346,10 @@
 			"def": 2100,
 			"attribute": "EARTH",
 			"race": "PYRO"
-		}
+		},
+		"cardObtain": [
+			"Card Trader (Featured)"
+		]
 	},
 	{
 		"id": 16686,
@@ -8398,7 +8429,8 @@
 		},
 		"cardObtain": [
 			"Genesis Maximum (Mini Box)",
-			"Selection BOX Vol.02"
+			"Selection BOX Vol.02",
+			"Infinite Grand Crush (Deck Build Box)"
 		]
 	},
 	{
@@ -8418,7 +8450,8 @@
 			"race": "WYRM"
 		},
 		"cardObtain": [
-			"Requiem of Collapse (Mini Box)"
+			"Requiem of Collapse (Mini Box)",
+			"Infinite Grand Crush (Deck Build Box)"
 		]
 	},
 	{
@@ -8867,7 +8900,8 @@
 			"Fusion of Revolution (Mini Box)",
 			"Hero\u0027s Stage",
 			"Divine Genesis Blade (Deck Build Box)",
-			"Boost Red-Boot (Deck Build Box)"
+			"Boost Red-Boot (Deck Build Box)",
+			"Infinite Grand Crush (Deck Build Box)"
 		]
 	},
 	{
@@ -9021,7 +9055,8 @@
 			"race": "CYBERSE"
 		},
 		"cardObtain": [
-			"Genesis Maximum (Mini Box)"
+			"Genesis Maximum (Mini Box)",
+			"Infinite Grand Crush (Deck Build Box)"
 		]
 	},
 	{
@@ -9336,7 +9371,8 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Fusion of Revolution (Mini Box)"
+			"Fusion of Revolution (Mini Box)",
+			"Infinite Grand Crush (Deck Build Box)"
 		]
 	},
 	{
@@ -9484,7 +9520,10 @@
 			"def": 2200,
 			"attribute": "WATER",
 			"race": "FIEND"
-		}
+		},
+		"cardObtain": [
+			"Infinite Grand Crush (Deck Build Box)"
+		]
 	},
 	{
 		"id": 16904,
@@ -9524,7 +9563,8 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Fusion of Revolution (Mini Box)"
+			"Fusion of Revolution (Mini Box)",
+			"Infinite Grand Crush (Deck Build Box)"
 		]
 	},
 	{
@@ -9619,7 +9659,8 @@
 			"The Ultimate Ace Breaker",
 			"Legend of Dark Magic",
 			"Hero\u0027s Stage",
-			"Boost Red-Boot (Deck Build Box)"
+			"Boost Red-Boot (Deck Build Box)",
+			"Infinite Grand Crush (Deck Build Box)"
 		]
 	},
 	{
@@ -9708,7 +9749,8 @@
 		},
 		"cardObtain": [
 			"Fusion of Revolution (Mini Box)",
-			"Boost Red-Boot (Deck Build Box)"
+			"Boost Red-Boot (Deck Build Box)",
+			"Infinite Grand Crush (Deck Build Box)"
 		]
 	},
 	{
@@ -9727,7 +9769,10 @@
 			"def": 0,
 			"attribute": "LIGHT",
 			"race": "CYBERSE"
-		}
+		},
+		"cardObtain": [
+			"Infinite Grand Crush (Deck Build Box)"
+		]
 	},
 	{
 		"id": 16926,
@@ -9820,7 +9865,8 @@
 			"Hero\u0027s Stage",
 			"Divine Genesis Blade (Deck Build Box)",
 			"Requiem of Collapse (Mini Box)",
-			"Boost Red-Boot (Deck Build Box)"
+			"Boost Red-Boot (Deck Build Box)",
+			"Infinite Grand Crush (Deck Build Box)"
 		]
 	},
 	{
@@ -9916,7 +9962,10 @@
 			"def": 200,
 			"attribute": "EARTH",
 			"race": "PYRO"
-		}
+		},
+		"cardObtain": [
+			"Card Trader (Featured)"
+		]
 	},
 	{
 		"id": 16960,
@@ -10340,7 +10389,10 @@
 			"def": 2000,
 			"attribute": "EARTH",
 			"race": "WYRM"
-		}
+		},
+		"cardObtain": [
+			"Infinite Grand Crush (Deck Build Box)"
+		]
 	},
 	{
 		"id": 16987,
@@ -10572,7 +10624,10 @@
 		"isLegend": false,
 		"requirement": "Place 3 Level 7 or higher monsters with different Types from your Graveyard on either the top or bottom of the Deck in any order.",
 		"effect": "Add 1 Normal Monster from your Graveyard to your hand. You can make 1 face-up monster on your opponent\u0027s field lose 1500 ATK until the end of this turn.",
-		"rarity": "SR"
+		"rarity": "SR",
+		"cardObtain": [
+			"Infinite Grand Crush (Deck Build Box)"
+		]
 	},
 	{
 		"id": 17011,
@@ -10711,7 +10766,10 @@
 			"def": 1600,
 			"attribute": "LIGHT",
 			"race": "MACHINE"
-		}
+		},
+		"cardObtain": [
+			"Infinite Grand Crush (Deck Build Box)"
+		]
 	},
 	{
 		"id": 17199,
@@ -10998,7 +11056,8 @@
 		"cardObtain": [
 			"Genesis Maximum (Mini Box)",
 			"Hero\u0027s Stage",
-			"Divine Genesis Blade (Deck Build Box)"
+			"Divine Genesis Blade (Deck Build Box)",
+			"Infinite Grand Crush (Deck Build Box)"
 		]
 	},
 	{
@@ -11149,7 +11208,8 @@
 		},
 		"cardObtain": [
 			"Genesis Maximum (Mini Box)",
-			"Selection BOX Vol.02"
+			"Selection BOX Vol.02",
+			"Infinite Grand Crush (Deck Build Box)"
 		]
 	},
 	{
@@ -12555,7 +12615,8 @@
 			"race": "WYRM"
 		},
 		"cardObtain": [
-			"Requiem of Collapse (Mini Box)"
+			"Requiem of Collapse (Mini Box)",
+			"Infinite Grand Crush (Deck Build Box)"
 		]
 	},
 	{
@@ -15438,7 +15499,10 @@
 		"isLegend": false,
 		"requirement": "Equip to 1 face-up DARK Attribute Galaxy Type monster on your field.",
 		"effect": "The equipped monster gains 400 ATK and inflicts piercing battle damage.",
-		"rarity": "UR"
+		"rarity": "UR",
+		"cardObtain": [
+			"Zuwijo Zwil Velgear Duel Reward"
+		]
 	},
 	{
 		"id": 18286,
@@ -16349,7 +16413,10 @@
 			"def": 0,
 			"attribute": "DARK",
 			"race": "GALAXY"
-		}
+		},
+		"cardObtain": [
+			"Zuwijo Zwil Velgear Duel Reward"
+		]
 	},
 	{
 		"id": 18595,
@@ -17069,7 +17136,8 @@
 			"Raidacross the Lionhearted",
 			"Genesis Maximum (Mini Box)",
 			"Heavy Strike Excavator (Mini Box)",
-			"Hero\u0027s Stage"
+			"Hero\u0027s Stage",
+			"Infinite Grand Crush (Deck Build Box)"
 		]
 	},
 	{
@@ -17281,7 +17349,10 @@
 			"def": 1300,
 			"attribute": "EARTH",
 			"race": "WYRM"
-		}
+		},
+		"cardObtain": [
+			"Infinite Grand Crush (Deck Build Box)"
+		]
 	},
 	{
 		"id": 19136,
@@ -17309,7 +17380,10 @@
 			"def": 2000,
 			"attribute": "EARTH",
 			"race": "WYRM"
-		}
+		},
+		"cardObtain": [
+			"Infinite Grand Crush (Deck Build Box)"
+		]
 	},
 	{
 		"id": 19267,

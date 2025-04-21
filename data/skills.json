@@ -2055,6 +2055,9 @@
 		"effect": "Reveal 1 WATER Attribute Fusion Monster in your Extra Deck, and the original ATK of 1 face-up monster on your field whose name is specifically listed as material on that Fusion Monster becomes 1600 until the end of the turn. Then, you can add 1 \"Fusion\" from outside of your Deck to your hand (once per Duel).",
 		"effectType": "NORMAL",
 		"isArchive": false,
+		"characters": [
+			701
+		],
 		"mentionedCards": [
 			16934
 		]
