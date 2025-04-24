@@ -1347,7 +1347,7 @@
 		"id": 5003,
 		"name": "Dragiastar Nova",
 		"requirement": "Can be activated if all of the monsters in your constructed Deck are Dragon Type monsters and all of the monsters in your constructed Extra Deck are High Dragon Type monsters.",
-		"effect": "⬤ Make the ATK of 1 face-up Level 7 LIGHT Attribute monster on your field with 2600 or less ATK become 2700.\n⬤ If the total ATK of the face-up Level 5 or higher monsters on your opponent\u0027s field is 1400/2800/4200 or more, add 1/2/3 \"The Dragon\" and/or \"Fusion\" from your Deck or Graveyard to your hand. (\"The Dragon\" only once per Duel.)",
+		"effect": "⬤ Make the ATK of 1 face-up Level 7 LIGHT Attribute monster on your field with 2600 or less ATK become 2700.\r ⬤ If the total ATK of the face-up Level 5 or higher monsters on your opponent\u0027s field is 1400/2800/4200 or more, add 1/2/3 \"The Dragon\" and/or \"Fusion\" from your Deck or Graveyard to your hand. (Each card once per Duel.)",
 		"effectType": "MULTICHOICE",
 		"isArchive": false,
 		"characters": [
@@ -1795,7 +1795,7 @@
 		"id": 5204,
 		"name": "INFINITE:D LIVE!",
 		"requirement": "Can be activated from turn 2 onward if all of the monsters in your constructed Deck are Psychic Type monsters.",
-		"effect": "⬤ Send 1 LIGHT or DARK Attribute monster with 100/400/1500/2200 ATK from your Deck to your Graveyard.\n⬤ Send 1 card from your hand to the Graveyard, then add 1 \"Psypickupper\", \"Ice Pop Bear\", or \"Fusion\" from your Deck or Graveyard to your hand. (Each card once per Duel.)",
+		"effect": "⬤ Send 1 LIGHT or DARK Attribute monster with 100/400/1500/2200 ATK from your Deck to your Graveyard.\r ⬤ Shuffle 1 card from your hand into the Deck, then add 1 \"Psypickupper\", \"Ice Pop Bear\", or \"Fusion\" from your Deck or Graveyard to your hand. (Each card once per Duel.)",
 		"effectType": "MULTICHOICE",
 		"isArchive": false,
 		"characters": [
@@ -2025,8 +2025,8 @@
 	{
 		"id": 5409,
 		"name": "Chivalrous Celerity",
-		"requirement": "Can be activated if all of the monsters with 1600 or more ATK in your constructed Deck are monsters with 2300 ATK and 2100 DEF and/or Level 5 or lower Dragon Type Normal Monsters.",
-		"effect": "Send 1 Normal Monster from your Deck to your Graveyard and make 1 face-up Level 5 or higher monster on your field gain 600 ATK until the end of this turn. Then, you can add 1 Normal Monster and/or 1 \"Polymerization\" from your Deck and/or Graveyard to your hand. (Once per Duel.)",
+		"requirement": "Can be activated from turn 2 onward if all of the monsters with 1600 or more ATK in your constructed Deck and Extra Deck are monsters with 2300/2600 ATK and 2100 DEF and/or Level 5 or lower Dragon Type Normal Monsters.",
+		"effect": "Send 1 Level 5 or 7 Normal Monster from your Deck to your Graveyard and make 1 face-up Level 5 or 7 monster on your field gain 300 ATK until the end of this turn. Then, you can add 1 Normal Monster and 1 \"Polymerization\" from your Graveyard to your hand. (Once per Duel.)",
 		"effectType": "NORMAL",
 		"isArchive": true,
 		"mentionedCards": [
