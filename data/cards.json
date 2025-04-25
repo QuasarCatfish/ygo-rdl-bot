@@ -5583,7 +5583,7 @@
 		"isLegend": false,
 		"requirement": "Place 4 Normal Monsters from your Graveyard on the bottom of your Deck in any order.",
 		"effect": "This card gains ATK equal to [the number of monsters on the field] x 700 until the end of this turn. Once this turn, this card cannot be destroyed by your opponent\u0027s Trap Card effects.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 7,
 			"atk": 0,
@@ -10615,6 +10615,24 @@
 		"cardObtain": [
 			"Divine Genesis Blade (Deck Build Box)"
 		]
+	},
+	{
+		"id": 17007,
+		"name": "Fenriritter Sol",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Sigurstate Sol\" + \"Connector Dog\"",
+		"requirement": "Send the top 2 cards of your Deck to the Graveyard.",
+		"effect": "Draw 1 card. If your opponent has a monster on their field, you can Special Summon 1 Cyberse Type monster from your hand face-up to your field.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 2800,
+			"def": 2100,
+			"attribute": "LIGHT",
+			"race": "CYBERSE"
+		}
 	},
 	{
 		"id": 17010,
