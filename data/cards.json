@@ -5590,7 +5590,10 @@
 			"def": 0,
 			"attribute": "WIND",
 			"race": "DRAGON"
-		}
+		},
+		"cardObtain": [
+			"Ranked Duels Reward Ticket"
+		]
 	},
 	{
 		"id": 16140,
@@ -10632,7 +10635,10 @@
 			"def": 2100,
 			"attribute": "LIGHT",
 			"race": "CYBERSE"
-		}
+		},
+		"cardObtain": [
+			"Duel Quest"
+		]
 	},
 	{
 		"id": 17010,
