@@ -37,8 +37,8 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Lightspeed Voltcondor",
-			"Soul with Eyes of Blue"
+			"Lightspeed Voltcondor (Structure Deck)",
+			"Soul with Eyes of Blue (Structure Deck)"
 		]
 	},
 	{
@@ -81,11 +81,11 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Lightspeed Voltcondor",
+			"Lightspeed Voltcondor (Structure Deck)",
 			"Sevens New Road (Main Box)",
-			"The Ultimate Ace Breaker",
-			"Legend of Dark Magic",
-			"Soul with Eyes of Blue"
+			"The Ultimate Ace Breaker (Structure Deck)",
+			"Legend of Dark Magic (Structure Deck)",
+			"Soul with Eyes of Blue (Structure Deck)"
 		]
 	},
 	{
@@ -105,9 +105,9 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Lightspeed Voltcondor",
+			"Lightspeed Voltcondor (Structure Deck)",
 			"Sevens New Road (Main Box)",
-			"The Ultimate Ace Breaker",
+			"The Ultimate Ace Breaker (Structure Deck)",
 			"Selection BOX Vol.01"
 		]
 	},
@@ -128,7 +128,7 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Lightspeed Voltcondor",
+			"Lightspeed Voltcondor (Structure Deck)",
 			"Sevens New Road (Main Box)",
 			"Selection BOX Vol.01"
 		]
@@ -179,9 +179,9 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Lightspeed Voltcondor",
+			"Lightspeed Voltcondor (Structure Deck)",
 			"Sevens New Road (Main Box)",
-			"Raidacross the Lionhearted",
+			"Raidacross the Lionhearted (Structure Deck)",
 			"Selection BOX Vol.01",
 			"Boost Red-Boot (Deck Build Box)"
 		]
@@ -203,7 +203,7 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Legend of Dark Magic"
+			"Legend of Dark Magic (Structure Deck)"
 		]
 	},
 	{
@@ -223,10 +223,10 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Lightspeed Voltcondor",
+			"Lightspeed Voltcondor (Structure Deck)",
 			"Sevens New Road (Main Box)",
-			"Raidacross the Lionhearted",
-			"The Ultimate Ace Breaker",
+			"Raidacross the Lionhearted (Structure Deck)",
+			"The Ultimate Ace Breaker (Structure Deck)",
 			"Selection BOX Vol.01",
 			"Fusion of Revolution (Mini Box)",
 			"Boost Red-Boot (Deck Build Box)"
@@ -276,8 +276,8 @@
 		"effect": "The attacking monster loses 500 ATK until the end of this turn.",
 		"rarity": "N",
 		"cardObtain": [
-			"Legend of Dark Magic",
-			"Soul with Eyes of Blue",
+			"Legend of Dark Magic (Structure Deck)",
+			"Soul with Eyes of Blue (Structure Deck)",
 			"Heavy Strike Excavator (Mini Box)",
 			"Boost Red-Boot (Deck Build Box)"
 		]
@@ -392,7 +392,7 @@
 		"cardObtain": [
 			"Sevens New Road (Main Box)",
 			"Scorching Flame Burst (Deck Build Box)",
-			"Soul with Eyes of Blue",
+			"Soul with Eyes of Blue (Structure Deck)",
 			"Selection BOX Vol.02"
 		]
 	},
@@ -415,7 +415,7 @@
 		"cardObtain": [
 			"Sevens New Road (Main Box)",
 			"Scorching Flame Burst (Deck Build Box)",
-			"Soul with Eyes of Blue",
+			"Soul with Eyes of Blue (Structure Deck)",
 			"Selection BOX Vol.02"
 		]
 	},
@@ -512,7 +512,7 @@
 		"cardObtain": [
 			"Sevens New Road (Main Box)",
 			"Scorching Flame Burst (Deck Build Box)",
-			"Soul with Eyes of Blue",
+			"Soul with Eyes of Blue (Structure Deck)",
 			"Selection BOX Vol.02"
 		]
 	},
@@ -541,7 +541,7 @@
 		"rarity": "UR",
 		"cardObtain": [
 			"Lucidien \"Luke\" Kallister Level Up Reward",
-			"Soul with Eyes of Blue",
+			"Soul with Eyes of Blue (Structure Deck)",
 			"Card Trader (Regular)"
 		]
 	},
@@ -621,7 +621,7 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Raidacross the Lionhearted"
+			"Raidacross the Lionhearted (Structure Deck)"
 		]
 	},
 	{
@@ -641,7 +641,7 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Raidacross the Lionhearted"
+			"Raidacross the Lionhearted (Structure Deck)"
 		]
 	},
 	{
@@ -661,11 +661,11 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Lightspeed Voltcondor",
+			"Lightspeed Voltcondor (Structure Deck)",
 			"Sevens New Road (Main Box)",
-			"Raidacross the Lionhearted",
-			"The Ultimate Ace Breaker",
-			"Soul with Eyes of Blue"
+			"Raidacross the Lionhearted (Structure Deck)",
+			"The Ultimate Ace Breaker (Structure Deck)",
+			"Soul with Eyes of Blue (Structure Deck)"
 		]
 	},
 	{
@@ -1033,7 +1033,7 @@
 		"rarity": "R",
 		"cardObtain": [
 			"Sevens New Road (Main Box)",
-			"Raidacross the Lionhearted",
+			"Raidacross the Lionhearted (Structure Deck)",
 			"Selection BOX Vol.01",
 			"Boost Red-Boot (Deck Build Box)"
 		]
@@ -1076,8 +1076,8 @@
 		"effect": "Destroy 1 Spell/Trap Card on your opponent\u0027s field.",
 		"rarity": "SR",
 		"cardObtain": [
-			"Soul with Eyes of Blue",
-			"Hero\u0027s Stage"
+			"Soul with Eyes of Blue (Structure Deck)",
+			"Hero\u0027s Stage (Structure Deck)"
 		]
 	},
 	{
@@ -1091,9 +1091,9 @@
 		"rarity": "N",
 		"cardObtain": [
 			"Heavy Metal Scream (Mini Box)",
-			"Raidacross the Lionhearted",
-			"The Ultimate Ace Breaker",
-			"Legend of Dark Magic",
+			"Raidacross the Lionhearted (Structure Deck)",
+			"The Ultimate Ace Breaker (Structure Deck)",
+			"Legend of Dark Magic (Structure Deck)",
 			"Selection BOX Vol.01",
 			"Galactica Go Rush (Mini Box)",
 			"Boost Red-Boot (Deck Build Box)"
@@ -1496,10 +1496,10 @@
 		"effect": "Change 1 face-up monster on either side of the field to face-down Defense Position.",
 		"rarity": "N",
 		"cardObtain": [
-			"Lightspeed Voltcondor",
+			"Lightspeed Voltcondor (Structure Deck)",
 			"Sevens New Road (Main Box)",
 			"Scorching Flame Burst (Deck Build Box)",
-			"Cyber Dragon Launch",
+			"Cyber Dragon Launch (Structure Deck)",
 			"Divine Genesis Blade (Deck Build Box)"
 		]
 	},
@@ -1558,7 +1558,7 @@
 		},
 		"cardObtain": [
 			"Sevens New Road (Main Box)",
-			"The Ultimate Ace Breaker"
+			"The Ultimate Ace Breaker (Structure Deck)"
 		]
 	},
 	{
@@ -1965,7 +1965,7 @@
 			"race": "WINGED_BEAST"
 		},
 		"cardObtain": [
-			"Lightspeed Voltcondor",
+			"Lightspeed Voltcondor (Structure Deck)",
 			"Sevens New Road (Main Box)",
 			"Scorching Flame Burst (Deck Build Box)",
 			"Selection BOX Vol.02"
@@ -2040,7 +2040,7 @@
 			"race": "WINGED_BEAST"
 		},
 		"cardObtain": [
-			"Lightspeed Voltcondor"
+			"Lightspeed Voltcondor (Structure Deck)"
 		]
 	},
 	{
@@ -2227,7 +2227,7 @@
 		},
 		"cardObtain": [
 			"Sevens New Road (Main Box)",
-			"Raidacross the Lionhearted",
+			"Raidacross the Lionhearted (Structure Deck)",
 			"Scorching Flame Burst (Deck Build Box)",
 			"Divine Genesis Blade (Deck Build Box)",
 			"Infinite Grand Crush (Deck Build Box)"
@@ -2349,7 +2349,7 @@
 		"cardObtain": [
 			"Heavy Metal Scream (Mini Box)",
 			"Scorching Flame Burst (Deck Build Box)",
-			"Soul with Eyes of Blue",
+			"Soul with Eyes of Blue (Structure Deck)",
 			"Challenge Deck (Gaia the Fierce Knight)"
 		]
 	},
@@ -2589,7 +2589,7 @@
 		},
 		"cardObtain": [
 			"Heavy Metal Scream (Mini Box)",
-			"Legend of Dark Magic",
+			"Legend of Dark Magic (Structure Deck)",
 			"Selection BOX Vol.01",
 			"Galactica Go Rush (Mini Box)"
 		]
@@ -2667,7 +2667,7 @@
 		},
 		"cardObtain": [
 			"Genesis Maximum (Mini Box)",
-			"Soul with Eyes of Blue",
+			"Soul with Eyes of Blue (Structure Deck)",
 			"Heavy Strike Excavator (Mini Box)"
 		]
 	},
@@ -2752,7 +2752,7 @@
 		"cardObtain": [
 			"Heavy Metal Scream (Mini Box)",
 			"Selection BOX Vol.01",
-			"Cyber Dragon Launch"
+			"Cyber Dragon Launch (Structure Deck)"
 		]
 	},
 	{
@@ -3034,10 +3034,10 @@
 		},
 		"cardObtain": [
 			"Sevens New Road (Main Box)",
-			"Raidacross the Lionhearted",
+			"Raidacross the Lionhearted (Structure Deck)",
 			"Scorching Flame Burst (Deck Build Box)",
 			"Fusion of Revolution (Mini Box)",
-			"Hero\u0027s Stage",
+			"Hero\u0027s Stage (Structure Deck)",
 			"Divine Genesis Blade (Deck Build Box)",
 			"Boost Red-Boot (Deck Build Box)",
 			"Challenge Deck (Gaia the Fierce Knight)",
@@ -3104,7 +3104,7 @@
 		"cardObtain": [
 			"Steel Kaleidomirror (Mini Box)",
 			"Selection BOX Vol.02",
-			"Hero\u0027s Stage",
+			"Hero\u0027s Stage (Structure Deck)",
 			"Infinite Grand Crush (Deck Build Box)"
 		]
 	},
@@ -3849,7 +3849,7 @@
 		},
 		"cardObtain": [
 			"Sevens New Road (Main Box)",
-			"Legend of Dark Magic",
+			"Legend of Dark Magic (Structure Deck)",
 			"Selection BOX Vol.01"
 		]
 	},
@@ -3908,7 +3908,7 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Raidacross the Lionhearted"
+			"Raidacross the Lionhearted (Structure Deck)"
 		]
 	},
 	{
@@ -4015,7 +4015,7 @@
 		"cardObtain": [
 			"Heavy Metal Scream (Mini Box)",
 			"Scorching Flame Burst (Deck Build Box)",
-			"Soul with Eyes of Blue",
+			"Soul with Eyes of Blue (Structure Deck)",
 			"Selection BOX Vol.02"
 		]
 	},
@@ -4229,7 +4229,7 @@
 			"race": "WINGED_BEAST"
 		},
 		"cardObtain": [
-			"Lightspeed Voltcondor",
+			"Lightspeed Voltcondor (Structure Deck)",
 			"Sevens New Road (Main Box)",
 			"Selection BOX Vol.02"
 		]
@@ -4251,7 +4251,7 @@
 			"race": "WINGED_BEAST"
 		},
 		"cardObtain": [
-			"Lightspeed Voltcondor"
+			"Lightspeed Voltcondor (Structure Deck)"
 		]
 	},
 	{
@@ -4288,7 +4288,7 @@
 			"race": "WINGED_BEAST"
 		},
 		"cardObtain": [
-			"Lightspeed Voltcondor"
+			"Lightspeed Voltcondor (Structure Deck)"
 		]
 	},
 	{
@@ -4301,9 +4301,9 @@
 		"effect": "1 face-up monster on your opponent\u0027s field loses 600 ATK until the end of this turn.",
 		"rarity": "SR",
 		"cardObtain": [
-			"Raidacross the Lionhearted",
-			"Cyber Dragon Launch",
-			"Transam Universe"
+			"Raidacross the Lionhearted (Structure Deck)",
+			"Cyber Dragon Launch (Structure Deck)",
+			"Transam Universe (Structure Deck)"
 		]
 	},
 	{
@@ -4408,7 +4408,7 @@
 		"effect": "Draw 2 cards.",
 		"rarity": "N",
 		"cardObtain": [
-			"Lightspeed Voltcondor",
+			"Lightspeed Voltcondor (Structure Deck)",
 			"Sevens New Road (Main Box)",
 			"Scorching Flame Burst (Deck Build Box)",
 			"Infinite Grand Crush (Deck Build Box)"
@@ -5392,7 +5392,7 @@
 		},
 		"cardObtain": [
 			"Heavy Strike Excavator (Mini Box)",
-			"Cyber Dragon Launch"
+			"Cyber Dragon Launch (Structure Deck)"
 		]
 	},
 	{
@@ -7240,7 +7240,7 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"The Ultimate Ace Breaker"
+			"The Ultimate Ace Breaker (Structure Deck)"
 		]
 	},
 	{
@@ -7862,7 +7862,7 @@
 		"rarity": "SR",
 		"cardObtain": [
 			"Sevens New Road (Main Box)",
-			"Hero\u0027s Stage"
+			"Hero\u0027s Stage (Structure Deck)"
 		]
 	},
 	{
@@ -7940,8 +7940,8 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"The Ultimate Ace Breaker",
-			"Cyber Dragon Launch"
+			"The Ultimate Ace Breaker (Structure Deck)",
+			"Cyber Dragon Launch (Structure Deck)"
 		]
 	},
 	{
@@ -8372,7 +8372,7 @@
 		},
 		"cardObtain": [
 			"Steel Kaleidomirror (Mini Box)",
-			"Cyber Dragon Launch",
+			"Cyber Dragon Launch (Structure Deck)",
 			"Blazing Chemicalization (Mini Box)"
 		]
 	},
@@ -8394,7 +8394,7 @@
 		},
 		"cardObtain": [
 			"Steel Kaleidomirror (Mini Box)",
-			"Cyber Dragon Launch"
+			"Cyber Dragon Launch (Structure Deck)"
 		]
 	},
 	{
@@ -8530,7 +8530,7 @@
 		"cardObtain": [
 			"Genesis Maximum (Mini Box)",
 			"Selection BOX Vol.01",
-			"Cyber Dragon Launch"
+			"Cyber Dragon Launch (Structure Deck)"
 		]
 	},
 	{
@@ -8557,7 +8557,7 @@
 		"rarity": "R",
 		"cardObtain": [
 			"Genesis Maximum (Mini Box)",
-			"Cyber Dragon Launch",
+			"Cyber Dragon Launch (Structure Deck)",
 			"Blazing Chemicalization (Mini Box)"
 		]
 	},
@@ -8644,7 +8644,7 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"The Ultimate Ace Breaker"
+			"The Ultimate Ace Breaker (Structure Deck)"
 		]
 	},
 	{
@@ -8664,8 +8664,8 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"The Ultimate Ace Breaker",
-			"Cyber Dragon Launch"
+			"The Ultimate Ace Breaker (Structure Deck)",
+			"Cyber Dragon Launch (Structure Deck)"
 		]
 	},
 	{
@@ -8685,8 +8685,8 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"The Ultimate Ace Breaker",
-			"Cyber Dragon Launch"
+			"The Ultimate Ace Breaker (Structure Deck)",
+			"Cyber Dragon Launch (Structure Deck)"
 		]
 	},
 	{
@@ -8901,7 +8901,7 @@
 		"cardObtain": [
 			"Steel Kaleidomirror (Mini Box)",
 			"Fusion of Revolution (Mini Box)",
-			"Hero\u0027s Stage",
+			"Hero\u0027s Stage (Structure Deck)",
 			"Divine Genesis Blade (Deck Build Box)",
 			"Boost Red-Boot (Deck Build Box)",
 			"Infinite Grand Crush (Deck Build Box)"
@@ -9189,7 +9189,7 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"The Ultimate Ace Breaker"
+			"The Ultimate Ace Breaker (Structure Deck)"
 		]
 	},
 	{
@@ -9395,9 +9395,9 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Raidacross the Lionhearted",
-			"The Ultimate Ace Breaker",
-			"Legend of Dark Magic"
+			"Raidacross the Lionhearted (Structure Deck)",
+			"The Ultimate Ace Breaker (Structure Deck)",
+			"Legend of Dark Magic (Structure Deck)"
 		]
 	},
 	{
@@ -9658,10 +9658,10 @@
 		"rarity": "R",
 		"cardObtain": [
 			"Heavy Metal Scream (Mini Box)",
-			"Raidacross the Lionhearted",
-			"The Ultimate Ace Breaker",
-			"Legend of Dark Magic",
-			"Hero\u0027s Stage",
+			"Raidacross the Lionhearted (Structure Deck)",
+			"The Ultimate Ace Breaker (Structure Deck)",
+			"Legend of Dark Magic (Structure Deck)",
+			"Hero\u0027s Stage (Structure Deck)",
 			"Boost Red-Boot (Deck Build Box)",
 			"Infinite Grand Crush (Deck Build Box)"
 		]
@@ -9794,7 +9794,7 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"Cyber Dragon Launch"
+			"Cyber Dragon Launch (Structure Deck)"
 		]
 	},
 	{
@@ -9865,7 +9865,7 @@
 		"rarity": "R",
 		"cardObtain": [
 			"Fusion of Revolution (Mini Box)",
-			"Hero\u0027s Stage",
+			"Hero\u0027s Stage (Structure Deck)",
 			"Divine Genesis Blade (Deck Build Box)",
 			"Requiem of Collapse (Mini Box)",
 			"Boost Red-Boot (Deck Build Box)",
@@ -9987,7 +9987,7 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Lightspeed Voltcondor",
+			"Lightspeed Voltcondor (Structure Deck)",
 			"Sevens New Road (Main Box)",
 			"Scorching Flame Burst (Deck Build Box)",
 			"Selection BOX Vol.01"
@@ -10011,7 +10011,7 @@
 		},
 		"cardObtain": [
 			"Heavy Metal Scream (Mini Box)",
-			"Legend of Dark Magic",
+			"Legend of Dark Magic (Structure Deck)",
 			"Selection BOX Vol.01"
 		]
 	},
@@ -10317,7 +10317,7 @@
 		},
 		"cardObtain": [
 			"Heavy Metal Scream (Mini Box)",
-			"Hero\u0027s Stage"
+			"Hero\u0027s Stage (Structure Deck)"
 		]
 	},
 	{
@@ -11079,7 +11079,7 @@
 		},
 		"cardObtain": [
 			"Genesis Maximum (Mini Box)",
-			"Hero\u0027s Stage",
+			"Hero\u0027s Stage (Structure Deck)",
 			"Divine Genesis Blade (Deck Build Box)",
 			"Infinite Grand Crush (Deck Build Box)"
 		]
@@ -11101,7 +11101,7 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Soul with Eyes of Blue"
+			"Soul with Eyes of Blue (Structure Deck)"
 		]
 	},
 	{
@@ -11916,7 +11916,7 @@
 			"race": "GALAXY"
 		},
 		"cardObtain": [
-			"Transam Universe"
+			"Transam Universe (Structure Deck)"
 		]
 	},
 	{
@@ -11985,7 +11985,7 @@
 		},
 		"cardObtain": [
 			"Galactica Go Rush (Mini Box)",
-			"Transam Universe"
+			"Transam Universe (Structure Deck)"
 		]
 	},
 	{
@@ -12246,7 +12246,7 @@
 		},
 		"cardObtain": [
 			"Galactica Go Rush (Mini Box)",
-			"Transam Universe"
+			"Transam Universe (Structure Deck)"
 		]
 	},
 	{
@@ -12382,7 +12382,7 @@
 		},
 		"cardObtain": [
 			"Heavy Metal Scream (Mini Box)",
-			"Legend of Dark Magic",
+			"Legend of Dark Magic (Structure Deck)",
 			"Selection BOX Vol.01",
 			"Galactica Go Rush (Mini Box)"
 		]
@@ -12598,7 +12598,7 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"Cyber Dragon Launch"
+			"Cyber Dragon Launch (Structure Deck)"
 		]
 	},
 	{
@@ -12749,7 +12749,7 @@
 		"rarity": "N",
 		"cardObtain": [
 			"Galactica Go Rush (Mini Box)",
-			"Transam Universe",
+			"Transam Universe (Structure Deck)",
 			"Blazing Chemicalization (Mini Box)"
 		]
 	},
@@ -12914,7 +12914,7 @@
 		},
 		"cardObtain": [
 			"Galactica Go Rush (Mini Box)",
-			"Transam Universe"
+			"Transam Universe (Structure Deck)"
 		]
 	},
 	{
@@ -12995,7 +12995,7 @@
 		},
 		"cardObtain": [
 			"Galactica Go Rush (Mini Box)",
-			"Transam Universe",
+			"Transam Universe (Structure Deck)",
 			"Blazing Chemicalization (Mini Box)"
 		]
 	},
@@ -13057,7 +13057,7 @@
 			"race": "GALAXY"
 		},
 		"cardObtain": [
-			"Transam Universe",
+			"Transam Universe (Structure Deck)",
 			"Requiem of Collapse (Mini Box)"
 		]
 	},
@@ -13098,7 +13098,7 @@
 			"race": "GALAXY"
 		},
 		"cardObtain": [
-			"Transam Universe",
+			"Transam Universe (Structure Deck)",
 			"Requiem of Collapse (Mini Box)"
 		]
 	},
@@ -13140,7 +13140,7 @@
 		},
 		"cardObtain": [
 			"Galactica Go Rush (Mini Box)",
-			"Transam Universe"
+			"Transam Universe (Structure Deck)"
 		]
 	},
 	{
@@ -13208,7 +13208,7 @@
 		"rarity": "R",
 		"cardObtain": [
 			"Galactica Go Rush (Mini Box)",
-			"Transam Universe"
+			"Transam Universe (Structure Deck)"
 		]
 	},
 	{
@@ -13417,7 +13417,7 @@
 		"effect": "Special Summon 1 Spellcaster Type monster from your hand face-up to your field. This turn, the monster Special Summoned by this effect cannot be destroyed by your opponent\u0027s Trap Card effects.",
 		"rarity": "SR",
 		"cardObtain": [
-			"Legend of Dark Magic"
+			"Legend of Dark Magic (Structure Deck)"
 		]
 	},
 	{
@@ -14909,9 +14909,9 @@
 		},
 		"cardObtain": [
 			"Sevens New Road (Main Box)",
-			"Legend of Dark Magic",
+			"Legend of Dark Magic (Structure Deck)",
 			"Scorching Flame Burst (Deck Build Box)",
-			"Hero\u0027s Stage"
+			"Hero\u0027s Stage (Structure Deck)"
 		]
 	},
 	{
@@ -15226,7 +15226,7 @@
 			"race": "GALAXY"
 		},
 		"cardObtain": [
-			"Transam Universe"
+			"Transam Universe (Structure Deck)"
 		]
 	},
 	{
@@ -15277,7 +15277,7 @@
 			"race": "GALAXY"
 		},
 		"cardObtain": [
-			"Transam Universe"
+			"Transam Universe (Structure Deck)"
 		]
 	},
 	{
@@ -15789,7 +15789,7 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"Cyber Dragon Launch"
+			"Cyber Dragon Launch (Structure Deck)"
 		]
 	},
 	{
@@ -15826,7 +15826,7 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"Cyber Dragon Launch"
+			"Cyber Dragon Launch (Structure Deck)"
 		]
 	},
 	{
@@ -15856,7 +15856,7 @@
 		"effect": "Special Summon 1 \"Cyber Dragon\" or \"Proto-Cyber Dragon\" from your hand or Graveyard face-up to your field. This turn, you can only attack with LIGHT Attribute Machine Type monsters.",
 		"rarity": "SR",
 		"cardObtain": [
-			"Cyber Dragon Launch"
+			"Cyber Dragon Launch (Structure Deck)"
 		]
 	},
 	{
@@ -16032,7 +16032,7 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Legend of Dark Magic"
+			"Legend of Dark Magic (Structure Deck)"
 		]
 	},
 	{
@@ -16052,7 +16052,7 @@
 			"race": "GALAXY"
 		},
 		"cardObtain": [
-			"Transam Universe"
+			"Transam Universe (Structure Deck)"
 		]
 	},
 	{
@@ -17157,10 +17157,10 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Raidacross the Lionhearted",
+			"Raidacross the Lionhearted (Structure Deck)",
 			"Genesis Maximum (Mini Box)",
 			"Heavy Strike Excavator (Mini Box)",
-			"Hero\u0027s Stage",
+			"Hero\u0027s Stage (Structure Deck)",
 			"Infinite Grand Crush (Deck Build Box)"
 		]
 	},
@@ -17181,7 +17181,7 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Soul with Eyes of Blue"
+			"Soul with Eyes of Blue (Structure Deck)"
 		]
 	},
 	{
@@ -17267,8 +17267,8 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Legend of Dark Magic",
-			"Soul with Eyes of Blue"
+			"Legend of Dark Magic (Structure Deck)",
+			"Soul with Eyes of Blue (Structure Deck)"
 		]
 	},
 	{
@@ -17895,7 +17895,7 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Soul with Eyes of Blue"
+			"Soul with Eyes of Blue (Structure Deck)"
 		]
 	},
 	{
@@ -17915,7 +17915,7 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Soul with Eyes of Blue"
+			"Soul with Eyes of Blue (Structure Deck)"
 		]
 	},
 	{
@@ -18005,7 +18005,7 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Legend of Dark Magic"
+			"Legend of Dark Magic (Structure Deck)"
 		]
 	},
 	{
@@ -18728,7 +18728,7 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Hero\u0027s Stage"
+			"Hero\u0027s Stage (Structure Deck)"
 		]
 	},
 	{
@@ -18748,7 +18748,7 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Hero\u0027s Stage"
+			"Hero\u0027s Stage (Structure Deck)"
 		]
 	},
 	{
@@ -18768,7 +18768,7 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Hero\u0027s Stage"
+			"Hero\u0027s Stage (Structure Deck)"
 		]
 	},
 	{
@@ -18789,7 +18789,7 @@
 		},
 		"cardObtain": [
 			"Fusion of Revolution (Mini Box)",
-			"Hero\u0027s Stage"
+			"Hero\u0027s Stage (Structure Deck)"
 		]
 	},
 	{
@@ -18811,7 +18811,7 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Hero\u0027s Stage"
+			"Hero\u0027s Stage (Structure Deck)"
 		]
 	},
 	{
@@ -18909,7 +18909,7 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Hero\u0027s Stage"
+			"Hero\u0027s Stage (Structure Deck)"
 		]
 	},
 	{
