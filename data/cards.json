@@ -11642,6 +11642,25 @@
 		]
 	},
 	{
+		"id": 17308,
+		"name": "Master of the Sevens Road",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "CONTINUOUS",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Sevens Road Magician\" + \"Sevens Road Witch\"",
+		"requirement": "None",
+		"effect": "This card gains ATK equal to [the number of DARK Attribute Spellcaster Type monsters with different names in your Graveyard] x 300. If you have 7 or more DARK Attribute Spellcaster Type monsters in your Graveyard, this card inflicts piercing battle damage.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 3000,
+			"def": 2100,
+			"attribute": "DARK",
+			"race": "SPELLCASTER"
+		}
+	},
+	{
 		"id": 17309,
 		"name": "Hazy Strike Dragon Miragiastar F",
 		"cardType": "FUSION_EFFECT",
@@ -14514,6 +14533,43 @@
 		}
 	},
 	{
+		"id": 17933,
+		"name": "Confeitrion",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 3 face-up Level 1 Galaxy Type monsters from your field to the Graveyard.",
+		"effect": "Destroy 1 face-up Level 8 or lower monster on your opponent\u0027s field.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 0,
+			"def": 0,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		}
+	},
+	{
+		"id": 17934,
+		"name": "Galactica Repulsion",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "You have 3 face-up Galaxy Type Normal Monsters on your field.",
+		"effect": "Return 1 face-up Level 8 or lower monster on your opponent\u0027s field to the hand.",
+		"rarity": "NPC"
+	},
+	{
+		"id": 17936,
+		"name": "Nova Spark",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When your opponent Special Summons a monster(s).",
+		"effect": "Special Summon up to 3 Galaxy Type Normal Monsters from your hand face-up to your field.",
+		"rarity": "NPC"
+	},
+	{
 		"id": 17937,
 		"name": "Jointech Tosceratops",
 		"cardType": "EFFECT",
@@ -15692,6 +15748,24 @@
 		]
 	},
 	{
+		"id": 18335,
+		"name": "Sevens Road Magician",
+		"cardType": "EFFECT",
+		"cardStyle": "ALT_ART",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "This card gains ATK equal to [the number of different Attributes in your Graveyard] x 300, until the end of this turn.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2100,
+			"def": 1500,
+			"attribute": "DARK",
+			"race": "SPELLCASTER"
+		}
+	},
+	{
 		"id": 18348,
 		"name": "Cyber End Dragon",
 		"cardType": "FUSION_EFFECT",
@@ -15860,6 +15934,42 @@
 		]
 	},
 	{
+		"id": 18372,
+		"name": "Galactiara Eve",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you have no other monsters on your field, send 1 Galaxy Type monster with 1600 or more ATK from your hand to the Graveyard.",
+		"effect": "Send this card from your field to the Graveyard and draw 1 card. If you have 3 or less monsters in your Graveyard, draw 1 additional card.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 0,
+			"def": 0,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		}
+	},
+	{
+		"id": 18376,
+		"name": "Voidvelg Apocalypse",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Voidvelg Palerider\" + \"Dark Prophet\"",
+		"requirement": "Send 1 card from your hand to the Graveyard.",
+		"effect": "This turn, this card gains 1000 ATK and cannot be destroyed by card effects. If you activated this effect during your Main Phase that you Special Summoned this card, you can add 1 \"Dark Hole\" from your Graveyard to your hand.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 2500,
+			"def": 2000,
+			"attribute": "DARK",
+			"race": "GALAXY"
+		}
+	},
+	{
 		"id": 18377,
 		"name": "Dark Prophet",
 		"cardType": "EFFECT",
@@ -15874,6 +15984,23 @@
 			"def": 0,
 			"attribute": "DARK",
 			"race": "GALAXY"
+		}
+	},
+	{
+		"id": 18380,
+		"name": "Double Twin Dragon",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Shuffle 3 monsters from your Graveyard into the Deck.",
+		"effect": "This turn, if you Tribute Summon a Level 7 Dragon Type monster in Attack Position, this face-up card can be treated as 2 Tributes. This turn, you can only attack with High Dragon or Dragon Type monsters.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1200,
+			"def": 600,
+			"attribute": "LIGHT",
+			"race": "DRAGON"
 		}
 	},
 	{
@@ -16122,7 +16249,7 @@
 		"id": 18549,
 		"name": "Sevens Road Magician",
 		"cardType": "EFFECT",
-		"cardStyle": "OR_STYLE",
+		"cardStyle": "OR_STYLE_ALT_ART",
 		"effectType": "NORMAL",
 		"isLegend": false,
 		"requirement": "Send the top card of your Deck to the Graveyard.",
@@ -16247,6 +16374,25 @@
 		"cardObtain": [
 			"Fusion of Revolution (Mini Box)"
 		]
+	},
+	{
+		"id": 18566,
+		"name": "Voidvelg Apocalypse",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Voidvelg Palerider\" + \"Dark Prophet\"",
+		"requirement": "Send 1 card from your hand to the Graveyard.",
+		"effect": "This turn, this card gains 1000 ATK and cannot be destroyed by card effects. If you activated this effect during your Main Phase that you Special Summoned this card, you can add 1 \"Dark Hole\" from your Graveyard to your hand.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 2500,
+			"def": 2000,
+			"attribute": "DARK",
+			"race": "GALAXY"
+		}
 	},
 	{
 		"id": 18574,
@@ -16508,6 +16654,24 @@
 			"def": 700,
 			"attribute": "FIRE",
 			"race": "WARRIOR"
+		}
+	},
+	{
+		"id": 18615,
+		"name": "Voidvelg Protostar",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Voidvelg Globule\" + \"Dark Prophet\"",
+		"requirement": "None",
+		"effect": "Add 1 Level 4 or lower Galaxy Type monster from your Graveyard to your hand. If you have \"Dark Hole\" in your Graveyard, you can also choose 1 Level 8 monster in your Graveyard and Special Summon it face-up to your field.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 2400,
+			"def": 2800,
+			"attribute": "DARK",
+			"race": "GALAXY"
 		}
 	},
 	{
@@ -17027,6 +17191,23 @@
 		}
 	},
 	{
+		"id": 18937,
+		"name": "Voidvelg Chrysaor",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Your opponent has 2 or more monsters on their field.",
+		"effect": "Send the top 3 cards of your Deck to the Graveyard. If a DARK Attribute Galaxy Type monster is among the cards, this turn, this card can attack up to the number of DARK Attribute Galaxy Type monsters you sent to the Graveyard. If 3 DARK Attribute Galaxy Type monsters with the same Level were sent to the Graveyard by this effect, you can also destroy all face-up Level 8 or lower monsters on your opponent\u0027s field.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2500,
+			"def": 2000,
+			"attribute": "DARK",
+			"race": "GALAXY"
+		}
+	},
+	{
 		"id": 18943,
 		"name": "Zuse the Wisdom Vassal",
 		"cardType": "EFFECT",
@@ -17165,6 +17346,23 @@
 		]
 	},
 	{
+		"id": 18960,
+		"name": "Extra Plorer",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send the top 2 cards of your Deck to the Graveyard.",
+		"effect": "This card gains 300 ATK until the end of this turn. If you have 5 or more Galaxy Type monsters in your Graveyard, you can also add 1 Galaxy Type Normal Monster and/or 1 \"Fusion\" from your Graveyard to your hand.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2300,
+			"def": 2200,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		}
+	},
+	{
 		"id": 18961,
 		"name": "Summoning Sorcerer Doretheo",
 		"cardType": "EFFECT",
@@ -17183,6 +17381,108 @@
 		"cardObtain": [
 			"Soul with Eyes of Blue (Structure Deck)"
 		]
+	},
+	{
+		"id": 18963,
+		"name": "Galactiara FUSE Eve",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Galactiara Eve\" + 1 LIGHT Attribute Galaxy Type monster",
+		"requirement": "Place 1 \"Fusion\" from your Graveyard on the top or bottom of the Deck.",
+		"effect": "Draw 1 card. Then, Special Summon 1 Galaxy Type Normal Monster from your Graveyard face-up to your field.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2400,
+			"def": 1600,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		}
+	},
+	{
+		"id": 18964,
+		"name": "Eternal Galactica Oblivion",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Galactica Oblivion\" + 2 LIGHT Attribute Galaxy Type monsters",
+		"requirement": "Shuffle 5 Galaxy Type monsters from your Graveyard into the Deck.",
+		"effect": "Send the top 3 cards of your Deck to the Graveyard. This turn, this card cannot be destroyed by your opponent\u0027s Trap Card effects. Also, this card gains ATK equal to [the number of monsters in your Graveyard] x 300 until the end of this turn.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 3500,
+			"def": 2500,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		}
+	},
+	{
+		"id": 18968,
+		"name": "Voidvelg Theogonia",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Voidvelg Chrysaor\" + \"Dark Prophet\"",
+		"requirement": "During your Main Phase that you Special Summoned this card.",
+		"effect": "Special Summon 1 Level 8 Galaxy Type monster from your Graveyard face-up to your field. The monster Special Summoned by this effect cannot be destroyed by card effects until the end of your opponent\u0027s next turn.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 3000,
+			"def": 3000,
+			"attribute": "DARK",
+			"race": "GALAXY"
+		}
+	},
+	{
+		"id": 18969,
+		"name": "Voidvelg Gigantomachia",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Voidvelg Requiem\" + \"Voidvelg Chrysaor\"",
+		"requirement": "Send 1 card from your hand to the Graveyard.",
+		"effect": "Destroy 1 Spell/Trap Card on the field. Also, this card gains 500 ATK and can attack twice this turn.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 3400,
+			"def": 2500,
+			"attribute": "DARK",
+			"race": "GALAXY"
+		}
+	},
+	{
+		"id": 18974,
+		"name": "Space Fusion - Extra Plasma",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Extra Plorer\" + 1 LIGHT Attribute Galaxy Type monster",
+		"requirement": "Send the top 2 cards of your Deck to the Graveyard.",
+		"effect": "Destroy 1 Spell/Trap Card on your opponent\u0027s field.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 3000,
+			"def": 2000,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		}
+	},
+	{
+		"id": 18976,
+		"name": "Galactica Adargatling",
+		"cardType": "EQUIP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Equip this card to 1 face-up Galaxy Type monster on your field.",
+		"effect": "The equipped monster gains 200 ATK/DEF, and it cannot be destroyed by your opponent\u0027s Trap Card effects.",
+		"rarity": "NPC"
 	},
 	{
 		"id": 18988,
@@ -17208,10 +17508,28 @@
 		]
 	},
 	{
+		"id": 18996,
+		"name": "Sevens Road Witch",
+		"cardType": "EFFECT",
+		"cardStyle": "ALT_ART",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 card from your hand to the Graveyard.",
+		"effect": "Special Summon 1 Level 7 or higher, DARK Attribute, Spellcaster Type monster from your hand, face-up to your field. If you Special Summoned \"Sevens Road Magician\" by this effect, this card gains 400 ATK until the end of this turn.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 1600,
+			"def": 1000,
+			"attribute": "DARK",
+			"race": "SPELLCASTER"
+		}
+	},
+	{
 		"id": 18997,
 		"name": "Sevens Road Witch",
 		"cardType": "EFFECT",
-		"cardStyle": "OR_STYLE",
+		"cardStyle": "OR_STYLE_ALT_ART",
 		"effectType": "NORMAL",
 		"isLegend": false,
 		"requirement": "Send 1 card from your hand to the Graveyard.",
@@ -17249,6 +17567,44 @@
 		"cardObtain": [
 			"Transcendence Miragias (Super Mini Box)"
 		]
+	},
+	{
+		"id": 19001,
+		"name": "Eternal Galactica Oblivion",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Galactica Oblivion\" + 2 LIGHT Attribute Galaxy Type monsters",
+		"requirement": "Shuffle 5 Galaxy Type monsters from your Graveyard into the Deck.",
+		"effect": "Send the top 3 cards of your Deck to the Graveyard. This turn, this card cannot be destroyed by your opponent\u0027s Trap Card effects. Also, this card gains ATK equal to [the number of monsters in your Graveyard] x 300 until the end of this turn.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 3500,
+			"def": 2500,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		}
+	},
+	{
+		"id": 19002,
+		"name": "Voidvelg Gigantomachia",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Voidvelg Requiem\" + \"Voidvelg Chrysaor\"",
+		"requirement": "Send 1 card from your hand to the Graveyard.",
+		"effect": "Destroy 1 Spell/Trap Card on the field. Also, this card gains 500 ATK and can attack twice this turn.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 3400,
+			"def": 2500,
+			"attribute": "DARK",
+			"race": "GALAXY"
+		}
 	},
 	{
 		"id": 19091,
@@ -17844,6 +18200,16 @@
 		]
 	},
 	{
+		"id": 19341,
+		"name": "Executie Riding!",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When your opponent Normal or Special Summons an Effect Monster face-up.",
+		"effect": "Special Summon 1 monster with ATK less than or equal to that monster from your Graveyard to your field in face-up Attack Position. Then, you can make up to 2 face-up monsters on your opponent\u0027s field lose 1800 ATK until the end of this turn.",
+		"rarity": "NPC"
+	},
+	{
 		"id": 19342,
 		"name": "Negate Attack",
 		"cardType": "TRAP",
@@ -17941,6 +18307,23 @@
 		]
 	},
 	{
+		"id": 19541,
+		"name": "Straynge Magician",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 monster with 0 ATK from your hand to the Graveyard.",
+		"effect": "Target 1 face-up monster you control; this turn, that face-up monster\u0027s original ATK becomes 100, also that face-up monster cannot be destroyed by battle or card effects.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 0,
+			"def": 1400,
+			"attribute": "EARTH",
+			"race": "SPELLCASTER"
+		}
+	},
+	{
 		"id": 19549,
 		"name": "Ultimate Flag Beast Boltricorn",
 		"cardType": "EFFECT",
@@ -17959,6 +18342,41 @@
 		"cardObtain": [
 			"Lifetime Mission Reward"
 		]
+	},
+	{
+		"id": 19557,
+		"name": "Dragonic Demolisher",
+		"cardType": "EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If the only monsters in your Graveyard are High Dragon and/or Dragon Type monsters, send 1 monster from your hand to the Graveyard.",
+		"effect": "Destroy 1 face-up Level 8 or lower monster on your opponent\u0027s field. Then, you can Special Summon 1 \"Dragonic Slayer\" from your Graveyard to your field in face-up Defense Position.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2500,
+			"def": 0,
+			"attribute": "EARTH",
+			"race": "DRAGON"
+		}
+	},
+	{
+		"id": 19558,
+		"name": "Dragonic Scout",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If the only monsters in your Graveyard are High Dragon and/or Dragon Type monsters, send the top 3 cards of your Deck to the Graveyard.",
+		"effect": "Increase this card\u0027s Level by 4 until the end of this turn. Then, you can add 1 Level 7 EARTH Attribute Dragon Type monster from your Graveyard to your hand.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 1300,
+			"def": 0,
+			"attribute": "EARTH",
+			"race": "DRAGON"
+		}
 	},
 	{
 		"id": 19562,
@@ -18070,6 +18488,24 @@
 		"cardObtain": [
 			"Selection BOX Vol.01"
 		]
+	},
+	{
+		"id": 19607,
+		"name": "Dragonic Demolisher",
+		"cardType": "EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If the only monsters in your Graveyard are High Dragon and/or Dragon Type monsters, send 1 monster from your hand to the Graveyard.",
+		"effect": "Destroy 1 face-up Level 8 or lower monster on your opponent\u0027s field. Then, you can Special Summon 1 \"Dragonic Slayer\" from your Graveyard to your field in face-up Defense Position.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2500,
+			"def": 0,
+			"attribute": "EARTH",
+			"race": "DRAGON"
+		}
 	},
 	{
 		"id": 19640,
@@ -18276,6 +18712,26 @@
 		}
 	},
 	{
+		"id": 19772,
+		"name": "Compulsory Evacuation Device",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": true,
+		"requirement": "When a player Normal or Special Summons a monster, or after your opponent activates a Spell Card.",
+		"effect": "Return 1 monster from the field to the owner\u0027s hand.",
+		"rarity": "NPC"
+	},
+	{
+		"id": 19785,
+		"name": "Hammer Shot",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": true,
+		"requirement": "None",
+		"effect": "Destroy 1 Attack Position monster with the highest ATK on the field.",
+		"rarity": "NPC"
+	},
+	{
 		"id": 19786,
 		"name": "Icelyn the Super Assistant",
 		"cardType": "EFFECT",
@@ -18341,6 +18797,23 @@
 			"def": 0,
 			"attribute": "LIGHT",
 			"race": "GALAXY"
+		}
+	},
+	{
+		"id": 19928,
+		"name": "Peace Dragon",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you have 10 or more cards in your Deck and 3 Spell Cards in your Graveyard, place those Spell Cards on the bottom of your Deck in any order.",
+		"effect": "Each player gains 1000 LP.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 800,
+			"def": 1300,
+			"attribute": "LIGHT",
+			"race": "DRAGON"
 		}
 	},
 	{
@@ -18512,6 +18985,25 @@
 		]
 	},
 	{
+		"id": 20136,
+		"name": "Sevens Road Charmy Witch",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Sevens Road Witch\" + 1 Level 1 EARTH Attribute Spellcaster Type monster",
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "Change the battle position of 1 monster on your opponent\u0027s field. Also, this card inflicts piercing battle damage this turn. If you have \"Sevens Road Magician\" in your Graveyard, this card cannot be destroyed by card effects this turn.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2800,
+			"def": 1600,
+			"attribute": "DARK",
+			"race": "SPELLCASTER"
+		}
+	},
+	{
 		"id": 20147,
 		"name": "Animagica Leader",
 		"cardType": "EFFECT",
@@ -18594,6 +19086,25 @@
 		]
 	},
 	{
+		"id": 20170,
+		"name": "Sevens Road Charmy Witch",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Sevens Road Witch\" + 1 Level 1 EARTH Attribute Spellcaster Type monster",
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "Change the battle position of 1 monster on your opponent\u0027s field. Also, this card inflicts piercing battle damage this turn. If you have \"Sevens Road Magician\" in your Graveyard, this card cannot be destroyed by card effects this turn.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2800,
+			"def": 1600,
+			"attribute": "DARK",
+			"race": "SPELLCASTER"
+		}
+	},
+	{
 		"id": 20300,
 		"name": "Hybridrive Scale",
 		"cardType": "EFFECT",
@@ -18645,6 +19156,40 @@
 		}
 	},
 	{
+		"id": 20304,
+		"name": "Straynge Witch",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "You have no other monsters on your field.",
+		"effect": "Special Summon 1 \"Sevens Road Charmy Witch\" or \"Sevens Road Witch\" from your Graveyard face-up to your field. Then, you can add 1 \"Fusion\" from your Graveyard to your hand.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 0,
+			"def": 1400,
+			"attribute": "EARTH",
+			"race": "SPELLCASTER"
+		}
+	},
+	{
+		"id": 20305,
+		"name": "Lily Slayer",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During the turn you Normal Summoned this card.",
+		"effect": "Send the top card of your Deck to the Graveyard. If a Spellcaster Type monster was sent to the Graveyard by this effect, this face-up card can also be treated as 2 Tributes for the Tribute Summon of a DARK Attribute Spellcaster Type monster in Attack Position this turn.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1300,
+			"def": 0,
+			"attribute": "DARK",
+			"race": "SPELLCASTER"
+		}
+	},
+	{
 		"id": 20306,
 		"name": "Chemipet Chirp",
 		"cardType": "EFFECT",
@@ -18662,6 +19207,25 @@
 		}
 	},
 	{
+		"id": 20342,
+		"name": "Sevens Road Ultima Witch",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Sevens Road Witch\" + 1 Magical Knight or Spellcaster Type Fusion Monster",
+		"requirement": "None",
+		"effect": "Shuffle 1 Spell Card from your opponent\u0027s Graveyard into the Deck. Then, you can add 1 Spell Card from your Graveyard to your hand, also for the rest of this turn, you can only activate 1 Normal Spell Card.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 10,
+			"atk": 3300,
+			"def": 1600,
+			"attribute": "DARK",
+			"race": "SPELLCASTER"
+		}
+	},
+	{
 		"id": 20351,
 		"name": "Blue-Fang Reconnect",
 		"cardType": "SPELL",
@@ -18670,6 +19234,25 @@
 		"requirement": "None",
 		"effect": "Shuffle 2 LIGHT Attribute Dragon Type monsters from your Graveyard into the Deck. Then, you can Special Summon 1 \"Blue-Fang Burst Dragon\" from your Graveyard face-up to your field.",
 		"rarity": "NPC"
+	},
+	{
+		"id": 20376,
+		"name": "Sevens Road Ultima Witch",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Sevens Road Witch\" + 1 Magical Knight or Spellcaster Type Fusion Monster",
+		"requirement": "None",
+		"effect": "Shuffle 1 Spell Card from your opponent\u0027s Graveyard into the Deck. Then, you can add 1 Spell Card from your Graveyard to your hand, also for the rest of this turn, you can only activate 1 Normal Spell Card.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 10,
+			"atk": 3300,
+			"def": 1600,
+			"attribute": "DARK",
+			"race": "SPELLCASTER"
+		}
 	},
 	{
 		"id": 20453,
@@ -19373,5 +19956,24 @@
 		"cardObtain": [
 			"Blazing Chemicalization (Mini Box)"
 		]
+	},
+	{
+		"id": 21605,
+		"name": "Master of the Sevens Road",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "CONTINUOUS",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Sevens Road Magician\" + \"Sevens Road Witch\"",
+		"requirement": "None",
+		"effect": "This card gains ATK equal to [the number of DARK Attribute Spellcaster Type monsters with different names in your Graveyard] x 300. If you have 7 or more DARK Attribute Spellcaster Type monsters in your Graveyard, this card inflicts piercing battle damage.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 3000,
+			"def": 2100,
+			"attribute": "DARK",
+			"race": "SPELLCASTER"
+		}
 	}
 ]
