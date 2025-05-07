@@ -18402,7 +18402,7 @@
 		"effectType": "NORMAL",
 		"isLegend": false,
 		"requirement": "Send 1 monster with 0 ATK from your hand to the Graveyard.",
-		"effect": "Target 1 face-up monster you control; this turn, that face-up monster\u0027s original ATK becomes 100, also that face-up monster cannot be destroyed by battle or card effects.",
+		"effect": "Target 1 face-up monster you control; this turn, that face-up monster\u0027s original ATK becomes 100, also that face-up monster cannot be destroyed by battle or card effects.\\n\\n*Note: This is the effect of \"Pianissimo\". The correct effect should read: Draw 1 card. Then, if you have \"Straynge Cat\" in your Graveyard, you can choose 1 face-up monster with 0 ATK on your field. This turn, that monster cannot be destroyed by card effects.",
 		"rarity": "NPC",
 		"monsterInfo": {
 			"level": 1,
