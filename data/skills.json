@@ -2061,5 +2061,70 @@
 		"mentionedCards": [
 			16934
 		]
+	},
+	{
+		"id": 5601,
+		"name": "Master Accel Road",
+		"requirement": "Can be activated by revealing 1 \"Sevens Road Magician\", \"Sevens Road Witch\", or \"Swordsman of Roadstar\" in your hand from turn 2 onward, if all of the Effect Monsters in your constructed Deck are Spellcaster Type monsters.",
+		"effect": "Add up to 2 \"Sevens Road Magician\", \"Sevens Road Witch\", \"Swordsman of Roadstar\", and/or \"Fusion\" from your Deck or Graveyard to your hand. If you added 2 cards to your hand by this effect, also send 1 card from your hand or field to the Graveyard.",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			701
+		],
+		"mentionedCards": [
+			15150,
+			15178,
+			16905,
+			16934
+		]
+	},
+	{
+		"id": 5602,
+		"name": "Demolisher\u0027s Resonance",
+		"requirement": "Can be activated from turn 2 onward, if all of the monsters in your constructed Deck are Dragon Type monsters and it contains 4 or more Level 7 EARTH Attribute monsters.",
+		"effect": "1 face-up monster on the field loses 400 ATK/DEF until the end of this turn. Then, you can send 1 \"Dragonic Slayer\" from your hand or Deck to the Graveyard. (Once per Duel.) If you sent it to the Graveyard, also add 1 \"Dragonic Scout\" from outside your Deck to your hand.",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			702
+		],
+		"mentionedCards": [
+			15190,
+			19558
+		]
+	},
+	{
+		"id": 5603,
+		"name": "Galactica Fusion Draw",
+		"requirement": "Can be activated from turn 2 onward, if all of the monsters in your constructed Deck are Galaxy Type monsters.",
+		"effect": "Send up to 2 Level 7 LIGHT Attribute monsters and/or \"Fusion\" from your hand to the Graveyard, then draw the same number of cards. If you sent \"Galactica Oblivion\" to the Graveyard by this effect, you can also add 1 \"Extra Plorer\", \"Secret Order\", or \"Fusion\" from outside your Deck to your hand. (Twice per Duel.)",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			901
+		],
+		"mentionedCards": [
+			16934,
+			17488,
+			18960,
+			20046
+		]
+	},
+	{
+		"id": 5604,
+		"name": "Voidvelg Fusion Draw",
+		"requirement": "Can be activated from turn 2 onward, if all of the monsters in your constructed Deck are Galaxy Type monsters.",
+		"effect": "Send up to 2 cards (Level 8 DARK Attribute monsters, \"Dark Hole Device\", and/or \"Fusion\") from your hand to the Graveyard, then draw the same number of cards. If you sent \"Voidvelg Requiem\" to the Graveyard by this effect, you can also send the top 3 cards of your Deck to the Graveyard. (Once per Duel.)",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			904
+		],
+		"mentionedCards": [
+			16934,
+			19327,
+			17873
+		]
 	}
 ]
