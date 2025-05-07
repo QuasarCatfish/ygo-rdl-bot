@@ -130,7 +130,8 @@
 		"cardObtain": [
 			"Lightspeed Voltcondor (Structure Deck)",
 			"Sevens New Road (Main Box)",
-			"Selection BOX Vol.01"
+			"Selection BOX Vol.01",
+			"Eternal Galaxy Road (Mini Box)"
 		]
 	},
 	{
@@ -240,7 +241,10 @@
 		"isLegend": false,
 		"requirement": "Send 1 card from your hand to the Graveyard.",
 		"effect": "1 face-up Spellcaster Type monster on your field gains 1000 ATK until the end of the turn.",
-		"rarity": "NPC"
+		"rarity": "N",
+		"cardObtain": [
+			"Eternal Galaxy Road (Mini Box)"
+		]
 	},
 	{
 		"id": 15161,
@@ -416,7 +420,8 @@
 			"Sevens New Road (Main Box)",
 			"Scorching Flame Burst (Deck Build Box)",
 			"Soul with Eyes of Blue (Structure Deck)",
-			"Selection BOX Vol.02"
+			"Selection BOX Vol.02",
+			"Eternal Galaxy Road (Mini Box)"
 		]
 	},
 	{
@@ -553,7 +558,10 @@
 		"isLegend": false,
 		"requirement": "When your opponent Normal or Special Summons a monster.",
 		"effect": "Special Summon 1 Dragon Type monster from your hand face-up to your field.",
-		"rarity": "NPC"
+		"rarity": "N",
+		"cardObtain": [
+			"Eternal Galaxy Road (Mini Box)"
+		]
 	},
 	{
 		"id": 15177,
@@ -1000,14 +1008,17 @@
 		"isLegend": false,
 		"requirement": "Send 1 Spellcaster or Dragon Type monster from your hand to the Graveyard.",
 		"effect": "1 monster on your field cannot be destroyed by an opponent\u0027s card effect this turn.",
-		"rarity": "NPC",
+		"rarity": "R",
 		"monsterInfo": {
 			"level": 2,
 			"atk": 500,
 			"def": 500,
 			"attribute": "LIGHT",
 			"race": "SPELLCASTER"
-		}
+		},
+		"cardObtain": [
+			"Eternal Galaxy Road (Mini Box)"
+		]
 	},
 	{
 		"id": 15204,
@@ -2626,7 +2637,8 @@
 		"cardObtain": [
 			"Fusion of Revolution (Mini Box)",
 			"Selection BOX Vol.02",
-			"Boost Red-Boot (Deck Build Box)"
+			"Boost Red-Boot (Deck Build Box)",
+			"Eternal Galaxy Road (Mini Box)"
 		]
 	},
 	{
@@ -3075,7 +3087,8 @@
 		"effect": "Switch the original ATK and DEF of all face-up monsters on the field until the end of this turn.",
 		"rarity": "UR",
 		"cardObtain": [
-			"Duel Links 7th Anniversary Celebration Campaign"
+			"Duel Links 7th Anniversary Celebration Campaign",
+			"Lifetime Mission Reward"
 		]
 	},
 	{
@@ -3311,7 +3324,8 @@
 		},
 		"cardObtain": [
 			"Roa Kassidy Level Up Reward",
-			"GR Festival Special Pack Vol.02"
+			"GR Festival Special Pack Vol.02",
+			"Wave Duel Scramble"
 		]
 	},
 	{
@@ -3971,7 +3985,8 @@
 		"cardObtain": [
 			"Genesis Maximum (Mini Box)",
 			"Galactica Go Rush (Mini Box)",
-			"Boost Red-Boot (Deck Build Box)"
+			"Boost Red-Boot (Deck Build Box)",
+			"Eternal Galaxy Road (Mini Box)"
 		]
 	},
 	{
@@ -5174,7 +5189,9 @@
 		},
 		"cardObtain": [
 			"Standard Duelist Duel Reward",
-			"Legendary Duelist Duel Reward"
+			"Legendary Duelist Duel Reward",
+			"Tag Duel Tournament",
+			"Wave Duel Scramble"
 		]
 	},
 	{
@@ -6427,14 +6444,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "An exqusite dragon covered in fire. It does not like fights, but still has incredibly high attack power.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1500,
 			"def": 0,
 			"attribute": "FIRE",
 			"race": "DRAGON"
-		}
+		},
+		"cardObtain": [
+			"Eternal Galaxy Road (Mini Box)"
+		]
 	},
 	{
 		"id": 16309,
@@ -6719,7 +6739,8 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Selection BOX Vol.02"
+			"Selection BOX Vol.02",
+			"Eternal Galaxy Road (Mini Box)"
 		]
 	},
 	{
@@ -8784,14 +8805,17 @@
 		"isLegend": false,
 		"requirement": "Shuffle 1 monster from your Graveyard into the Deck.",
 		"effect": "Inflict 400 damage to your opponent. If you inflicted damage to your opponent by this effect, you can make 1 face-up monster on your field become Spellcaster Type until the end of this turn.",
-		"rarity": "NPC",
+		"rarity": "R",
 		"monsterInfo": {
 			"level": 5,
 			"atk": 1700,
 			"def": 1600,
 			"attribute": "FIRE",
 			"race": "SPELLCASTER"
-		}
+		},
+		"cardObtain": [
+			"Eternal Galaxy Road (Mini Box)"
+		]
 	},
 	{
 		"id": 16771,
@@ -9869,7 +9893,8 @@
 			"Divine Genesis Blade (Deck Build Box)",
 			"Requiem of Collapse (Mini Box)",
 			"Boost Red-Boot (Deck Build Box)",
-			"Infinite Grand Crush (Deck Build Box)"
+			"Infinite Grand Crush (Deck Build Box)",
+			"Eternal Galaxy Road (Mini Box)"
 		]
 	},
 	{
@@ -11651,7 +11676,7 @@
 		"inherentSummonCondition": "\"Sevens Road Magician\" + \"Sevens Road Witch\"",
 		"requirement": "None",
 		"effect": "This card gains ATK equal to [the number of DARK Attribute Spellcaster Type monsters with different names in your Graveyard] x 300. If you have 7 or more DARK Attribute Spellcaster Type monsters in your Graveyard, this card inflicts piercing battle damage.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 9,
 			"atk": 3000,
@@ -13015,7 +13040,8 @@
 		"cardObtain": [
 			"Galactica Go Rush (Mini Box)",
 			"Transam Universe (Structure Deck)",
-			"Blazing Chemicalization (Mini Box)"
+			"Blazing Chemicalization (Mini Box)",
+			"Eternal Galaxy Road (Mini Box)"
 		]
 	},
 	{
@@ -13056,7 +13082,8 @@
 		},
 		"cardObtain": [
 			"Galactica Go Rush (Mini Box)",
-			"Blazing Chemicalization (Mini Box)"
+			"Blazing Chemicalization (Mini Box)",
+			"Eternal Galaxy Road (Mini Box)"
 		]
 	},
 	{
@@ -13077,7 +13104,8 @@
 		},
 		"cardObtain": [
 			"Transam Universe (Structure Deck)",
-			"Requiem of Collapse (Mini Box)"
+			"Requiem of Collapse (Mini Box)",
+			"Eternal Galaxy Road (Mini Box)"
 		]
 	},
 	{
@@ -14506,14 +14534,17 @@
 		"isLegend": false,
 		"requirement": "If you have a face-up monster with 1600 or more ATK on your field, send the top card of your Deck to the Graveyard.",
 		"effect": "Choose 1 face-up Level 4 LIGHT Attribute Galaxy Type monster on the field. This turn, that monster can make up to 2 attacks on monsters.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1000,
 			"def": 500,
 			"attribute": "LIGHT",
 			"race": "GALAXY"
-		}
+		},
+		"cardObtain": [
+			"Eternal Galaxy Road (Mini Box)"
+		]
 	},
 	{
 		"id": 17932,
@@ -14540,14 +14571,17 @@
 		"isLegend": false,
 		"requirement": "Send 3 face-up Level 1 Galaxy Type monsters from your field to the Graveyard.",
 		"effect": "Destroy 1 face-up Level 8 or lower monster on your opponent\u0027s field.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 1,
 			"atk": 0,
 			"def": 0,
 			"attribute": "LIGHT",
 			"race": "GALAXY"
-		}
+		},
+		"cardObtain": [
+			"Eternal Galaxy Road (Mini Box)"
+		]
 	},
 	{
 		"id": 17934,
@@ -14557,7 +14591,10 @@
 		"isLegend": false,
 		"requirement": "You have 3 face-up Galaxy Type Normal Monsters on your field.",
 		"effect": "Return 1 face-up Level 8 or lower monster on your opponent\u0027s field to the hand.",
-		"rarity": "NPC"
+		"rarity": "N",
+		"cardObtain": [
+			"Eternal Galaxy Road (Mini Box)"
+		]
 	},
 	{
 		"id": 17936,
@@ -14567,7 +14604,10 @@
 		"isLegend": false,
 		"requirement": "When your opponent Special Summons a monster(s).",
 		"effect": "Special Summon up to 3 Galaxy Type Normal Monsters from your hand face-up to your field.",
-		"rarity": "NPC"
+		"rarity": "N",
+		"cardObtain": [
+			"Eternal Galaxy Road (Mini Box)"
+		]
 	},
 	{
 		"id": 17937,
@@ -15142,14 +15182,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "Spawned from cosmic chaos, this soldier serves a malicious deity. If its merciless eye fixes upon you, you will know the true meaning of fear.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1500,
 			"def": 100,
 			"attribute": "DARK",
 			"race": "GALAXY"
-		}
+		},
+		"cardObtain": [
+			"Eternal Galaxy Road (Mini Box)"
+		]
 	},
 	{
 		"id": 17970,
@@ -15756,7 +15799,7 @@
 		"isLegend": false,
 		"requirement": "Send the top card of your Deck to the Graveyard.",
 		"effect": "This card gains ATK equal to [the number of different Attributes in your Graveyard] x 300, until the end of this turn.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 7,
 			"atk": 2100,
@@ -15941,14 +15984,17 @@
 		"isLegend": false,
 		"requirement": "If you have no other monsters on your field, send 1 Galaxy Type monster with 1600 or more ATK from your hand to the Graveyard.",
 		"effect": "Send this card from your field to the Graveyard and draw 1 card. If you have 3 or less monsters in your Graveyard, draw 1 additional card.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 1,
 			"atk": 0,
 			"def": 0,
 			"attribute": "LIGHT",
 			"race": "GALAXY"
-		}
+		},
+		"cardObtain": [
+			"Eternal Galaxy Road (Mini Box)"
+		]
 	},
 	{
 		"id": 18376,
@@ -15960,7 +16006,7 @@
 		"inherentSummonCondition": "\"Voidvelg Palerider\" + \"Dark Prophet\"",
 		"requirement": "Send 1 card from your hand to the Graveyard.",
 		"effect": "This turn, this card gains 1000 ATK and cannot be destroyed by card effects. If you activated this effect during your Main Phase that you Special Summoned this card, you can add 1 \"Dark Hole\" from your Graveyard to your hand.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 9,
 			"atk": 2500,
@@ -15977,14 +16023,17 @@
 		"isLegend": false,
 		"requirement": "During the turn you Normal Summoned this card, shuffle 3 DARK Attribute Galaxy Type monsters from your Graveyard into the Deck.",
 		"effect": "Add 1 \"Fusion\" from your Graveyard to your hand.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 1,
 			"atk": 0,
 			"def": 0,
 			"attribute": "DARK",
 			"race": "GALAXY"
-		}
+		},
+		"cardObtain": [
+			"Eternal Galaxy Road (Mini Box)"
+		]
 	},
 	{
 		"id": 18380,
@@ -15994,14 +16043,17 @@
 		"isLegend": false,
 		"requirement": "Shuffle 3 monsters from your Graveyard into the Deck.",
 		"effect": "This turn, if you Tribute Summon a Level 7 Dragon Type monster in Attack Position, this face-up card can be treated as 2 Tributes. This turn, you can only attack with High Dragon or Dragon Type monsters.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1200,
 			"def": 600,
 			"attribute": "LIGHT",
 			"race": "DRAGON"
-		}
+		},
+		"cardObtain": [
+			"Eternal Galaxy Road (Mini Box)"
+		]
 	},
 	{
 		"id": 18384,
@@ -16221,7 +16273,7 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Road to Worlds Campaign"
+			"WCS 2024 Qualifiers Celebration! Road to Worlds Campaign"
 		]
 	},
 	{
@@ -16385,14 +16437,17 @@
 		"inherentSummonCondition": "\"Voidvelg Palerider\" + \"Dark Prophet\"",
 		"requirement": "Send 1 card from your hand to the Graveyard.",
 		"effect": "This turn, this card gains 1000 ATK and cannot be destroyed by card effects. If you activated this effect during your Main Phase that you Special Summoned this card, you can add 1 \"Dark Hole\" from your Graveyard to your hand.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 9,
 			"atk": 2500,
 			"def": 2000,
 			"attribute": "DARK",
 			"race": "GALAXY"
-		}
+		},
+		"cardObtain": [
+			"Eternal Galaxy Road (Mini Box)"
+		]
 	},
 	{
 		"id": 18574,
@@ -16665,14 +16720,17 @@
 		"inherentSummonCondition": "\"Voidvelg Globule\" + \"Dark Prophet\"",
 		"requirement": "None",
 		"effect": "Add 1 Level 4 or lower Galaxy Type monster from your Graveyard to your hand. If you have \"Dark Hole\" in your Graveyard, you can also choose 1 Level 8 monster in your Graveyard and Special Summon it face-up to your field.",
-		"rarity": "NPC",
+		"rarity": "R",
 		"monsterInfo": {
 			"level": 9,
 			"atk": 2400,
 			"def": 2800,
 			"attribute": "DARK",
 			"race": "GALAXY"
-		}
+		},
+		"cardObtain": [
+			"Eternal Galaxy Road (Mini Box)"
+		]
 	},
 	{
 		"id": 18624,
@@ -17045,7 +17103,8 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"GR Festival Special Pack Vol.02"
+			"GR Festival Special Pack Vol.02",
+			"Wave Duel Scramble"
 		]
 	},
 	{
@@ -17198,14 +17257,17 @@
 		"isLegend": false,
 		"requirement": "Your opponent has 2 or more monsters on their field.",
 		"effect": "Send the top 3 cards of your Deck to the Graveyard. If a DARK Attribute Galaxy Type monster is among the cards, this turn, this card can attack up to the number of DARK Attribute Galaxy Type monsters you sent to the Graveyard. If 3 DARK Attribute Galaxy Type monsters with the same Level were sent to the Graveyard by this effect, you can also destroy all face-up Level 8 or lower monsters on your opponent\u0027s field.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 8,
 			"atk": 2500,
 			"def": 2000,
 			"attribute": "DARK",
 			"race": "GALAXY"
-		}
+		},
+		"cardObtain": [
+			"Eternal Galaxy Road (Mini Box)"
+		]
 	},
 	{
 		"id": 18943,
@@ -17353,14 +17415,17 @@
 		"isLegend": false,
 		"requirement": "Send the top 2 cards of your Deck to the Graveyard.",
 		"effect": "This card gains 300 ATK until the end of this turn. If you have 5 or more Galaxy Type monsters in your Graveyard, you can also add 1 Galaxy Type Normal Monster and/or 1 \"Fusion\" from your Graveyard to your hand.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 7,
 			"atk": 2300,
 			"def": 2200,
 			"attribute": "LIGHT",
 			"race": "GALAXY"
-		}
+		},
+		"cardObtain": [
+			"Eternal Galaxy Road (Mini Box)"
+		]
 	},
 	{
 		"id": 18961,
@@ -17391,14 +17456,17 @@
 		"inherentSummonCondition": "\"Galactiara Eve\" + 1 LIGHT Attribute Galaxy Type monster",
 		"requirement": "Place 1 \"Fusion\" from your Graveyard on the top or bottom of the Deck.",
 		"effect": "Draw 1 card. Then, Special Summon 1 Galaxy Type Normal Monster from your Graveyard face-up to your field.",
-		"rarity": "NPC",
+		"rarity": "R",
 		"monsterInfo": {
 			"level": 7,
 			"atk": 2400,
 			"def": 1600,
 			"attribute": "LIGHT",
 			"race": "GALAXY"
-		}
+		},
+		"cardObtain": [
+			"Eternal Galaxy Road (Mini Box)"
+		]
 	},
 	{
 		"id": 18964,
@@ -17410,7 +17478,7 @@
 		"inherentSummonCondition": "\"Galactica Oblivion\" + 2 LIGHT Attribute Galaxy Type monsters",
 		"requirement": "Shuffle 5 Galaxy Type monsters from your Graveyard into the Deck.",
 		"effect": "Send the top 3 cards of your Deck to the Graveyard. This turn, this card cannot be destroyed by your opponent\u0027s Trap Card effects. Also, this card gains ATK equal to [the number of monsters in your Graveyard] x 300 until the end of this turn.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 9,
 			"atk": 3500,
@@ -17428,14 +17496,17 @@
 		"inherentSummonCondition": "\"Voidvelg Chrysaor\" + \"Dark Prophet\"",
 		"requirement": "During your Main Phase that you Special Summoned this card.",
 		"effect": "Special Summon 1 Level 8 Galaxy Type monster from your Graveyard face-up to your field. The monster Special Summoned by this effect cannot be destroyed by card effects until the end of your opponent\u0027s next turn.",
-		"rarity": "NPC",
+		"rarity": "R",
 		"monsterInfo": {
 			"level": 9,
 			"atk": 3000,
 			"def": 3000,
 			"attribute": "DARK",
 			"race": "GALAXY"
-		}
+		},
+		"cardObtain": [
+			"Eternal Galaxy Road (Mini Box)"
+		]
 	},
 	{
 		"id": 18969,
@@ -17447,7 +17518,7 @@
 		"inherentSummonCondition": "\"Voidvelg Requiem\" + \"Voidvelg Chrysaor\"",
 		"requirement": "Send 1 card from your hand to the Graveyard.",
 		"effect": "Destroy 1 Spell/Trap Card on the field. Also, this card gains 500 ATK and can attack twice this turn.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 9,
 			"atk": 3400,
@@ -17465,14 +17536,17 @@
 		"inherentSummonCondition": "\"Extra Plorer\" + 1 LIGHT Attribute Galaxy Type monster",
 		"requirement": "Send the top 2 cards of your Deck to the Graveyard.",
 		"effect": "Destroy 1 Spell/Trap Card on your opponent\u0027s field.",
-		"rarity": "NPC",
+		"rarity": "R",
 		"monsterInfo": {
 			"level": 9,
 			"atk": 3000,
 			"def": 2000,
 			"attribute": "LIGHT",
 			"race": "GALAXY"
-		}
+		},
+		"cardObtain": [
+			"Eternal Galaxy Road (Mini Box)"
+		]
 	},
 	{
 		"id": 18976,
@@ -17482,7 +17556,10 @@
 		"isLegend": false,
 		"requirement": "Equip this card to 1 face-up Galaxy Type monster on your field.",
 		"effect": "The equipped monster gains 200 ATK/DEF, and it cannot be destroyed by your opponent\u0027s Trap Card effects.",
-		"rarity": "NPC"
+		"rarity": "R",
+		"cardObtain": [
+			"Eternal Galaxy Road (Mini Box)"
+		]
 	},
 	{
 		"id": 18988,
@@ -17516,7 +17593,7 @@
 		"isLegend": false,
 		"requirement": "Send 1 card from your hand to the Graveyard.",
 		"effect": "Special Summon 1 Level 7 or higher, DARK Attribute, Spellcaster Type monster from your hand, face-up to your field. If you Special Summoned \"Sevens Road Magician\" by this effect, this card gains 400 ATK until the end of this turn.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 6,
 			"atk": 1600,
@@ -17578,14 +17655,17 @@
 		"inherentSummonCondition": "\"Galactica Oblivion\" + 2 LIGHT Attribute Galaxy Type monsters",
 		"requirement": "Shuffle 5 Galaxy Type monsters from your Graveyard into the Deck.",
 		"effect": "Send the top 3 cards of your Deck to the Graveyard. This turn, this card cannot be destroyed by your opponent\u0027s Trap Card effects. Also, this card gains ATK equal to [the number of monsters in your Graveyard] x 300 until the end of this turn.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 9,
 			"atk": 3500,
 			"def": 2500,
 			"attribute": "LIGHT",
 			"race": "GALAXY"
-		}
+		},
+		"cardObtain": [
+			"Eternal Galaxy Road (Mini Box)"
+		]
 	},
 	{
 		"id": 19002,
@@ -17597,14 +17677,17 @@
 		"inherentSummonCondition": "\"Voidvelg Requiem\" + \"Voidvelg Chrysaor\"",
 		"requirement": "Send 1 card from your hand to the Graveyard.",
 		"effect": "Destroy 1 Spell/Trap Card on the field. Also, this card gains 500 ATK and can attack twice this turn.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 9,
 			"atk": 3400,
 			"def": 2500,
 			"attribute": "DARK",
 			"race": "GALAXY"
-		}
+		},
+		"cardObtain": [
+			"Eternal Galaxy Road (Mini Box)"
+		]
 	},
 	{
 		"id": 19091,
@@ -18184,7 +18267,10 @@
 		"inherentSummonCondition": "This card\u0027s name becomes \"Dark Hole\" while in the Graveyard.",
 		"requirement": "You have a face-up DARK Attribute Galaxy Type Fusion Monster on your field and/or send 3 DARK Attribute Galaxy Type monsters from your hand to the Graveyard.",
 		"effect": "Destroy all monsters on the field. Then, you can add 1 Galaxy Type monster from your Graveyard to your hand.",
-		"rarity": "UR"
+		"rarity": "R",
+		"cardObtain": [
+			"Eternal Galaxy Road (Mini Box)"
+		]
 	},
 	{
 		"id": 19329,
@@ -18207,7 +18293,10 @@
 		"isLegend": false,
 		"requirement": "When your opponent Normal or Special Summons an Effect Monster face-up.",
 		"effect": "Special Summon 1 monster with ATK less than or equal to that monster from your Graveyard to your field in face-up Attack Position. Then, you can make up to 2 face-up monsters on your opponent\u0027s field lose 1800 ATK until the end of this turn.",
-		"rarity": "NPC"
+		"rarity": "UR",
+		"cardObtain": [
+			"Eternal Galaxy Road (Mini Box)"
+		]
 	},
 	{
 		"id": 19342,
@@ -18352,7 +18441,7 @@
 		"isLegend": false,
 		"requirement": "If the only monsters in your Graveyard are High Dragon and/or Dragon Type monsters, send 1 monster from your hand to the Graveyard.",
 		"effect": "Destroy 1 face-up Level 8 or lower monster on your opponent\u0027s field. Then, you can Special Summon 1 \"Dragonic Slayer\" from your Graveyard to your field in face-up Defense Position.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 7,
 			"atk": 2500,
@@ -18369,14 +18458,17 @@
 		"isLegend": false,
 		"requirement": "If the only monsters in your Graveyard are High Dragon and/or Dragon Type monsters, send the top 3 cards of your Deck to the Graveyard.",
 		"effect": "Increase this card\u0027s Level by 4 until the end of this turn. Then, you can add 1 Level 7 EARTH Attribute Dragon Type monster from your Graveyard to your hand.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 3,
 			"atk": 1300,
 			"def": 0,
 			"attribute": "EARTH",
 			"race": "DRAGON"
-		}
+		},
+		"cardObtain": [
+			"Eternal Galaxy Road (Mini Box)"
+		]
 	},
 	{
 		"id": 19562,
@@ -18498,14 +18590,17 @@
 		"isLegend": false,
 		"requirement": "If the only monsters in your Graveyard are High Dragon and/or Dragon Type monsters, send 1 monster from your hand to the Graveyard.",
 		"effect": "Destroy 1 face-up Level 8 or lower monster on your opponent\u0027s field. Then, you can Special Summon 1 \"Dragonic Slayer\" from your Graveyard to your field in face-up Defense Position.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 7,
 			"atk": 2500,
 			"def": 0,
 			"attribute": "EARTH",
 			"race": "DRAGON"
-		}
+		},
+		"cardObtain": [
+			"Eternal Galaxy Road (Mini Box)"
+		]
 	},
 	{
 		"id": 19640,
@@ -18719,7 +18814,10 @@
 		"isLegend": true,
 		"requirement": "When a player Normal or Special Summons a monster, or after your opponent activates a Spell Card.",
 		"effect": "Return 1 monster from the field to the owner\u0027s hand.",
-		"rarity": "NPC"
+		"rarity": "UR",
+		"cardObtain": [
+			"Special Set (Bundle)"
+		]
 	},
 	{
 		"id": 19785,
@@ -18729,7 +18827,10 @@
 		"isLegend": true,
 		"requirement": "None",
 		"effect": "Destroy 1 Attack Position monster with the highest ATK on the field.",
-		"rarity": "NPC"
+		"rarity": "UR",
+		"cardObtain": [
+			"Special Set (Bundle)"
+		]
 	},
 	{
 		"id": 19786,
@@ -18807,14 +18908,17 @@
 		"isLegend": false,
 		"requirement": "If you have 10 or more cards in your Deck and 3 Spell Cards in your Graveyard, place those Spell Cards on the bottom of your Deck in any order.",
 		"effect": "Each player gains 1000 LP.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 800,
 			"def": 1300,
 			"attribute": "LIGHT",
 			"race": "DRAGON"
-		}
+		},
+		"cardObtain": [
+			"Eternal Galaxy Road (Mini Box)"
+		]
 	},
 	{
 		"id": 19967,
@@ -19163,14 +19267,17 @@
 		"isLegend": false,
 		"requirement": "You have no other monsters on your field.",
 		"effect": "Special Summon 1 \"Sevens Road Charmy Witch\" or \"Sevens Road Witch\" from your Graveyard face-up to your field. Then, you can add 1 \"Fusion\" from your Graveyard to your hand.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 1,
 			"atk": 0,
 			"def": 1400,
 			"attribute": "EARTH",
 			"race": "SPELLCASTER"
-		}
+		},
+		"cardObtain": [
+			"Eternal Galaxy Road (Mini Box)"
+		]
 	},
 	{
 		"id": 20305,
@@ -19180,14 +19287,17 @@
 		"isLegend": false,
 		"requirement": "During the turn you Normal Summoned this card.",
 		"effect": "Send the top card of your Deck to the Graveyard. If a Spellcaster Type monster was sent to the Graveyard by this effect, this face-up card can also be treated as 2 Tributes for the Tribute Summon of a DARK Attribute Spellcaster Type monster in Attack Position this turn.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1300,
 			"def": 0,
 			"attribute": "DARK",
 			"race": "SPELLCASTER"
-		}
+		},
+		"cardObtain": [
+			"Eternal Galaxy Road (Mini Box)"
+		]
 	},
 	{
 		"id": 20306,
@@ -19216,7 +19326,7 @@
 		"inherentSummonCondition": "\"Sevens Road Witch\" + 1 Magical Knight or Spellcaster Type Fusion Monster",
 		"requirement": "None",
 		"effect": "Shuffle 1 Spell Card from your opponent\u0027s Graveyard into the Deck. Then, you can add 1 Spell Card from your Graveyard to your hand, also for the rest of this turn, you can only activate 1 Normal Spell Card.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 10,
 			"atk": 3300,
@@ -19245,14 +19355,17 @@
 		"inherentSummonCondition": "\"Sevens Road Witch\" + 1 Magical Knight or Spellcaster Type Fusion Monster",
 		"requirement": "None",
 		"effect": "Shuffle 1 Spell Card from your opponent\u0027s Graveyard into the Deck. Then, you can add 1 Spell Card from your Graveyard to your hand, also for the rest of this turn, you can only activate 1 Normal Spell Card.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 10,
 			"atk": 3300,
 			"def": 1600,
 			"attribute": "DARK",
 			"race": "SPELLCASTER"
-		}
+		},
+		"cardObtain": [
+			"Eternal Galaxy Road (Mini Box)"
+		]
 	},
 	{
 		"id": 20453,
@@ -19773,7 +19886,8 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"GO RUSH!! World Release Celebration Campaign"
+			"GO RUSH!! World Release Celebration Campaign",
+			"Lifetime Mission Reward"
 		]
 	},
 	{
@@ -19967,13 +20081,16 @@
 		"inherentSummonCondition": "\"Sevens Road Magician\" + \"Sevens Road Witch\"",
 		"requirement": "None",
 		"effect": "This card gains ATK equal to [the number of DARK Attribute Spellcaster Type monsters with different names in your Graveyard] x 300. If you have 7 or more DARK Attribute Spellcaster Type monsters in your Graveyard, this card inflicts piercing battle damage.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 9,
 			"atk": 3000,
 			"def": 2100,
 			"attribute": "DARK",
 			"race": "SPELLCASTER"
-		}
+		},
+		"cardObtain": [
+			"WCS 2025 Qualifiers Celebration! Road to Worlds Campaign"
+		]
 	}
 ]
