@@ -17558,7 +17558,7 @@
 		"isLegend": false,
 		"inherentSummonCondition": "\"Extra Plorer\" + 1 LIGHT Attribute Galaxy Type monster",
 		"requirement": "Send the top 2 cards of your Deck to the Graveyard.",
-		"effect": "Destroy 1 Spell/Trap Card on your opponent\u0027s field.",
+		"effect": "Destroy 1 Spell/Trap Card on your opponent\u0027s field.\n\n*Note: This effect cannot be used to pop your opponent\u0027s Field Spell, only cards in their Spell \u0026 Trap Zone.*",
 		"rarity": "R",
 		"monsterInfo": {
 			"level": 9,
