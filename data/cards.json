@@ -58,6 +58,7 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
+			"Sevens Road Phantasm (Structure Deck)",
 			"Yuga Ohdo Level Up Reward",
 			"Yuga Ohdo Duel Reward",
 			"GR Festival Special Pack Vol.01",
@@ -108,7 +109,8 @@
 			"Lightspeed Voltcondor (Structure Deck)",
 			"Sevens New Road (Main Box)",
 			"The Ultimate Ace Breaker (Structure Deck)",
-			"Selection BOX Vol.01"
+			"Selection BOX Vol.01",
+			"Sevens Road Phantasm (Structure Deck)"
 		]
 	},
 	{
@@ -230,7 +232,8 @@
 			"The Ultimate Ace Breaker (Structure Deck)",
 			"Selection BOX Vol.01",
 			"Fusion of Revolution (Mini Box)",
-			"Boost Red-Boot (Deck Build Box)"
+			"Boost Red-Boot (Deck Build Box)",
+			"Sevens Road Phantasm (Structure Deck)"
 		]
 	},
 	{
@@ -257,7 +260,8 @@
 		"rarity": "UR",
 		"cardObtain": [
 			"Yuga Ohdo Level Up Reward",
-			"Trader (Regular Inventory)"
+			"Trader (Regular Inventory)",
+			"Sevens Road Phantasm (Structure Deck)"
 		]
 	},
 	{
@@ -283,7 +287,8 @@
 			"Legend of Dark Magic (Structure Deck)",
 			"Soul with Eyes of Blue (Structure Deck)",
 			"Heavy Strike Excavator (Mini Box)",
-			"Boost Red-Boot (Deck Build Box)"
+			"Boost Red-Boot (Deck Build Box)",
+			"Sevens Road Phantasm (Structure Deck)"
 		]
 	},
 	{
@@ -1046,7 +1051,8 @@
 			"Sevens New Road (Main Box)",
 			"Raidacross the Lionhearted (Structure Deck)",
 			"Selection BOX Vol.01",
-			"Boost Red-Boot (Deck Build Box)"
+			"Boost Red-Boot (Deck Build Box)",
+			"Sevens Road Phantasm (Structure Deck)"
 		]
 	},
 	{
@@ -2680,7 +2686,8 @@
 		"cardObtain": [
 			"Genesis Maximum (Mini Box)",
 			"Soul with Eyes of Blue (Structure Deck)",
-			"Heavy Strike Excavator (Mini Box)"
+			"Heavy Strike Excavator (Mini Box)",
+			"Sevens Road Phantasm (Structure Deck)"
 		]
 	},
 	{
@@ -6375,14 +6382,17 @@
 		"isLegend": false,
 		"requirement": "Send 1 Trap Card from your hand to the Graveyard.",
 		"effect": "Add 1 Level 7 or higher DARK Attribute Spellcaster Type monster from your Graveyard to your hand. If you added \"Sevens Road Magician\" to your hand by this effect, you can add 1 Level 6 or higher Spellcaster Type monster from your Graveyard to your hand.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 5,
 			"atk": 1100,
 			"def": 1700,
 			"attribute": "DARK",
 			"race": "SPELLCASTER"
-		}
+		},
+		"cardObtain": [
+			"Sevens Road Phantasm (Structure Deck)"
+		]
 	},
 	{
 		"id": 16304,
@@ -8172,14 +8182,17 @@
 		"isLegend": false,
 		"requirement": "Send 1 card from your hand to the Graveyard.",
 		"effect": "Change the original ATK of 1 face-up Level 8 or lower monster on your opponent\u0027s field with the same ATK with this card to 0 until the end of this turn. Then, if you have \"Sevens Road Magician\" in your Graveyard, you can draw 1 card.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 1,
 			"atk": 1000,
 			"def": 0,
 			"attribute": "DARK",
 			"race": "SPELLCASTER"
-		}
+		},
+		"cardObtain": [
+			"Sevens Road Phantasm (Structure Deck)"
+		]
 	},
 	{
 		"id": 16673,
@@ -8834,7 +8847,8 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Fusion of Revolution (Mini Box)"
+			"Fusion of Revolution (Mini Box)",
+			"Sevens Road Phantasm (Structure Deck)"
 		]
 	},
 	{
@@ -9485,7 +9499,8 @@
 			"race": "MAGICAL_KNIGHT"
 		},
 		"cardObtain": [
-			"Fusion of Revolution (Mini Box)"
+			"Fusion of Revolution (Mini Box)",
+			"Sevens Road Phantasm (Structure Deck)"
 		]
 	},
 	{
@@ -9591,7 +9606,8 @@
 		},
 		"cardObtain": [
 			"Fusion of Revolution (Mini Box)",
-			"Infinite Grand Crush (Deck Build Box)"
+			"Infinite Grand Crush (Deck Build Box)",
+			"Sevens Road Phantasm (Structure Deck)"
 		]
 	},
 	{
@@ -9894,7 +9910,8 @@
 			"Requiem of Collapse (Mini Box)",
 			"Boost Red-Boot (Deck Build Box)",
 			"Infinite Grand Crush (Deck Build Box)",
-			"Eternal Galaxy Road (Mini Box)"
+			"Eternal Galaxy Road (Mini Box)",
+			"Sevens Road Phantasm (Structure Deck)"
 		]
 	},
 	{
@@ -13345,7 +13362,8 @@
 		},
 		"cardObtain": [
 			"Transcendence Miragias (Super Mini Box)",
-			"Boost Red-Boot (Deck Build Box)"
+			"Boost Red-Boot (Deck Build Box)",
+			"Sevens Road Phantasm (Structure Deck)"
 		]
 	},
 	{
@@ -15806,7 +15824,10 @@
 			"def": 1500,
 			"attribute": "DARK",
 			"race": "SPELLCASTER"
-		}
+		},
+		"cardObtain": [
+			"Sevens Road Phantasm (Structure Deck)"
+		]
 	},
 	{
 		"id": 18348,
@@ -17141,7 +17162,8 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Fusion of Revolution (Mini Box)"
+			"Fusion of Revolution (Mini Box)",
+			"Sevens Road Phantasm (Structure Deck)"
 		]
 	},
 	{
@@ -17161,7 +17183,8 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Fusion of Revolution (Mini Box)"
+			"Fusion of Revolution (Mini Box)",
+			"Sevens Road Phantasm (Structure Deck)"
 		]
 	},
 	{
@@ -17600,7 +17623,10 @@
 			"def": 1000,
 			"attribute": "DARK",
 			"race": "SPELLCASTER"
-		}
+		},
+		"cardObtain": [
+			"Sevens Road Phantasm (Structure Deck)"
+		]
 	},
 	{
 		"id": 18997,
@@ -18403,14 +18429,17 @@
 		"isLegend": false,
 		"requirement": "Send 1 monster with 0 ATK from your hand to the Graveyard.",
 		"effect": "Target 1 face-up monster you control; this turn, that face-up monster\u0027s original ATK becomes 100, also that face-up monster cannot be destroyed by battle or card effects.\n\n*Note: This is the effect of \"Pianissimo\". The correct effect should read: Draw 1 card. Then, if you have \"Straynge Cat\" in your Graveyard, you can choose 1 face-up monster with 0 ATK on your field. This turn, that monster cannot be destroyed by card effects.*",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 1,
 			"atk": 0,
 			"def": 1400,
 			"attribute": "EARTH",
 			"race": "SPELLCASTER"
-		}
+		},
+		"cardObtain": [
+			"Sevens Road Phantasm (Structure Deck)"
+		]
 	},
 	{
 		"id": 19549,
@@ -19098,7 +19127,7 @@
 		"inherentSummonCondition": "\"Sevens Road Witch\" + 1 Level 1 EARTH Attribute Spellcaster Type monster",
 		"requirement": "Send the top card of your Deck to the Graveyard.",
 		"effect": "Change the battle position of 1 monster on your opponent\u0027s field. Also, this card inflicts piercing battle damage this turn. If you have \"Sevens Road Magician\" in your Graveyard, this card cannot be destroyed by card effects this turn.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 8,
 			"atk": 2800,
@@ -19199,14 +19228,17 @@
 		"inherentSummonCondition": "\"Sevens Road Witch\" + 1 Level 1 EARTH Attribute Spellcaster Type monster",
 		"requirement": "Send the top card of your Deck to the Graveyard.",
 		"effect": "Change the battle position of 1 monster on your opponent\u0027s field. Also, this card inflicts piercing battle damage this turn. If you have \"Sevens Road Magician\" in your Graveyard, this card cannot be destroyed by card effects this turn.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 8,
 			"atk": 2800,
 			"def": 1600,
 			"attribute": "DARK",
 			"race": "SPELLCASTER"
-		}
+		},
+		"cardObtain": [
+			"Sevens Road Phantasm (Structure Deck)"
+		]
 	},
 	{
 		"id": 20300,
