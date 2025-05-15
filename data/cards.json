@@ -2842,7 +2842,10 @@
 		"isLegend": false,
 		"requirement": "Shuffle 3 \"Kuribot\" from your Graveyard into the Deck.",
 		"effect": "Draw 2 cards.",
-		"rarity": "NPC"
+		"rarity": "UR",
+		"cardObtain": [
+			"Unknown Method"
+		]
 	},
 	{
 		"id": 15608,
@@ -16917,14 +16920,17 @@
 		"isLegend": false,
 		"requirement": "Send 1 card from your hand to the Graveyard.",
 		"effect": "Choose 1 face-up LIGHT Attribute Galaxy Type monster on your field. This turn, that monster inflicts piercing damage. If you have \"Transam Linac\" face-up on your field, you can change the battle position of 1 face-up monster on your opponent\u0027s field.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1000,
 			"def": 1000,
 			"attribute": "LIGHT",
 			"race": "GALAXY"
-		}
+		},
+		"cardObtain": [
+			"Trader (Featured Inventory)"
+		]
 	},
 	{
 		"id": 18692,
