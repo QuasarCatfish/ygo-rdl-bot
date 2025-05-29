@@ -62,7 +62,7 @@
 			"Yuga Ohdo Level Up Reward",
 			"Yuga Ohdo Duel Reward",
 			"GR Festival Special Pack Vol.01",
-			"World Championship 2024 Special Pack (Rush)"
+			"WCS Qualifiers Special Pack Vol.01 (Rush)"
 		]
 	},
 	{
@@ -500,7 +500,7 @@
 			"Lucidien \"Luke\" Kallister Level Up Reward",
 			"Lucidien \"Luke\" Kallister Duel Reward",
 			"GR Festival Special Pack Vol.01",
-			"World Championship 2024 Special Pack (Rush)"
+			"WCS Qualifiers Special Pack Vol.01 (Rush)"
 		]
 	},
 	{
@@ -1286,7 +1286,7 @@
 			"Lucidien \"Luke\" Kallister Duel Reward",
 			"Tag Duel Tournament",
 			"GR Festival Special Pack Vol.01",
-			"World Championship 2024 Special Pack (Rush)"
+			"WCS Qualifiers Special Pack Vol.01 (Rush)"
 		]
 	},
 	{
@@ -1336,7 +1336,7 @@
 			"Gavin Sogetsu Duel Reward",
 			"Romin Kassidy Duel Reward",
 			"GR Festival Special Pack Vol.01",
-			"World Championship 2024 Special Pack (Rush)"
+			"WCS Qualifiers Special Pack Vol.01 (Rush)"
 		]
 	},
 	{
@@ -1779,7 +1779,8 @@
 			"Yuamu Ohdo Duel Reward",
 			"GR Festival Special Pack Vol.01",
 			"GR Festival Special Pack Vol.02",
-			"World Championship 2024 Special Pack (Rush)",
+			"WCS Qualifiers Special Pack Vol.01 (Rush)",
+			"WCS Qualifiers Special Pack Vol.02 (Rush)",
 			"Ranked Duels Reward Ticket"
 		]
 	},
@@ -1865,7 +1866,7 @@
 			"Mimi Imimi Starter Deck",
 			"Mimi Imimi Level Up Reward",
 			"GR Festival Special Pack Vol.01",
-			"World Championship 2024 Special Pack (Rush)"
+			"WCS Qualifiers Special Pack Vol.01 (Rush)"
 		]
 	},
 	{
@@ -2162,7 +2163,7 @@
 		"cardObtain": [
 			"Ranked Duels Reward Ticket",
 			"GR Festival Special Pack Vol.01",
-			"World Championship 2024 Special Pack (Rush)"
+			"WCS Qualifiers Special Pack Vol.01 (Rush)"
 		]
 	},
 	{
@@ -3335,7 +3336,8 @@
 		"cardObtain": [
 			"Roa Kassidy Level Up Reward",
 			"GR Festival Special Pack Vol.02",
-			"Wave Duel Scramble"
+			"Wave Duel Scramble",
+			"WCS Qualifiers Special Pack Vol.02 (Rush)"
 		]
 	},
 	{
@@ -3621,7 +3623,7 @@
 			"Romin Kassidy Level Up Reward",
 			"Romin Kassidy Duel Reward",
 			"GR Festival Special Pack Vol.01",
-			"World Championship 2024 Special Pack (Rush)"
+			"WCS Qualifiers Special Pack Vol.01 (Rush)"
 		]
 	},
 	{
@@ -3786,7 +3788,7 @@
 			"Duel Links Mission Research",
 			"Tag Duel Tournament",
 			"GR Festival Special Pack Vol.01",
-			"World Championship 2024 Special Pack (Rush)"
+			"WCS Qualifiers Special Pack Vol.01 (Rush)"
 		]
 	},
 	{
@@ -3821,7 +3823,8 @@
 			"Yuo Goha Duel Reward",
 			"GR Festival Special Pack Vol.01",
 			"GR Festival Special Pack Vol.02",
-			"World Championship 2024 Special Pack (Rush)"
+			"WCS Qualifiers Special Pack Vol.01 (Rush)",
+			"WCS Qualifiers Special Pack Vol.02 (Rush)"
 		]
 	},
 	{
@@ -3852,7 +3855,7 @@
 			"Mimi Imimi Duel Reward",
 			"Nail Saionji Duel Reward",
 			"GR Festival Special Pack Vol.01",
-			"World Championship 2024 Special Pack (Rush)"
+			"WCS Qualifiers Special Pack Vol.01 (Rush)"
 		]
 	},
 	{
@@ -4622,7 +4625,8 @@
 		},
 		"cardObtain": [
 			"Nail Saionji Level Up Reward",
-			"GR Festival Special Pack Vol.02"
+			"GR Festival Special Pack Vol.02",
+			"WCS Qualifiers Special Pack Vol.02 (Rush)"
 		]
 	},
 	{
@@ -5242,7 +5246,7 @@
 		},
 		"cardObtain": [
 			"GR Festival Special Pack Vol.01",
-			"World Championship 2024 Special Pack (Rush)"
+			"WCS Qualifiers Special Pack Vol.01 (Rush)"
 		]
 	},
 	{
@@ -6176,7 +6180,7 @@
 		},
 		"cardObtain": [
 			"GR Festival Special Pack Vol.01",
-			"World Championship 2024 Special Pack (Rush)"
+			"WCS Qualifiers Special Pack Vol.01 (Rush)"
 		]
 	},
 	{
@@ -6197,7 +6201,8 @@
 		},
 		"cardObtain": [
 			"Asana Mutsuba Level Up Reward",
-			"GR Festival Special Pack Vol.02"
+			"GR Festival Special Pack Vol.02",
+			"WCS Qualifiers Special Pack Vol.02 (Rush)"
 		]
 	},
 	{
@@ -8810,7 +8815,7 @@
 			"Yuga Ohdo Level Up Reward",
 			"Yuga Ohdo Duel Reward",
 			"GR Festival Special Pack Vol.01",
-			"World Championship 2024 Special Pack (Rush)"
+			"WCS Qualifiers Special Pack Vol.01 (Rush)"
 		]
 	},
 	{
@@ -10959,7 +10964,8 @@
 		},
 		"cardObtain": [
 			"Yuo Goha Level Up Reward",
-			"GR Festival Special Pack Vol.02"
+			"GR Festival Special Pack Vol.02",
+			"WCS Qualifiers Special Pack Vol.02 (Rush)"
 		]
 	},
 	{
@@ -11065,7 +11071,8 @@
 		},
 		"cardObtain": [
 			"Yuo Goha Level Up Reward",
-			"GR Festival Special Pack Vol.02"
+			"GR Festival Special Pack Vol.02",
+			"WCS Qualifiers Special Pack Vol.02 (Rush)"
 		]
 	},
 	{
@@ -11103,7 +11110,8 @@
 		},
 		"cardObtain": [
 			"Asana Mutsuba Level Up Reward",
-			"GR Festival Special Pack Vol.02"
+			"GR Festival Special Pack Vol.02",
+			"WCS Qualifiers Special Pack Vol.02 (Rush)"
 		]
 	},
 	{
@@ -11435,7 +11443,8 @@
 		},
 		"cardObtain": [
 			"Duel Links Appreciation Campaign",
-			"GR Festival Special Pack Vol.02"
+			"GR Festival Special Pack Vol.02",
+			"WCS Qualifiers Special Pack Vol.02 (Rush)"
 		]
 	},
 	{
@@ -11933,7 +11942,7 @@
 			"Tag Duel Tournament",
 			"Ranked Duels Reward Ticket",
 			"GR Festival Special Pack Vol.01",
-			"World Championship 2024 Special Pack (Rush)"
+			"WCS Qualifiers Special Pack Vol.01 (Rush)"
 		]
 	},
 	{
@@ -12917,7 +12926,8 @@
 		"cardObtain": [
 			"Yudias Velgear Level Up Reward",
 			"Yudias Velgear Duel Reward",
-			"GR Festival Special Pack Vol.02"
+			"GR Festival Special Pack Vol.02",
+			"WCS Qualifiers Special Pack Vol.02 (Rush)"
 		]
 	},
 	{
@@ -13229,7 +13239,8 @@
 		"cardObtain": [
 			"Yudias Velgear Level Up Reward",
 			"Yudias Velgear Duel Reward",
-			"GR Festival Special Pack Vol.02"
+			"GR Festival Special Pack Vol.02",
+			"WCS Qualifiers Special Pack Vol.02 (Rush)"
 		]
 	},
 	{
@@ -13261,7 +13272,8 @@
 		"cardObtain": [
 			"Yudias Velgear Level Up Reward",
 			"Yudias Velgear Duel Reward",
-			"GR Festival Special Pack Vol.02"
+			"GR Festival Special Pack Vol.02",
+			"WCS Qualifiers Special Pack Vol.02 (Rush)"
 		]
 	},
 	{
@@ -14864,7 +14876,8 @@
 		"cardObtain": [
 			"Yuamu Ohdo Level Up Reward",
 			"Yuamu Ohdo Duel Reward",
-			"GR Festival Special Pack Vol.02"
+			"GR Festival Special Pack Vol.02",
+			"WCS Qualifiers Special Pack Vol.02 (Rush)"
 		]
 	},
 	{
@@ -14945,7 +14958,8 @@
 		"cardObtain": [
 			"Yuamu Ohdo Level Up Reward",
 			"Yuamu Ohdo Duel Reward",
-			"GR Festival Special Pack Vol.02"
+			"GR Festival Special Pack Vol.02",
+			"WCS Qualifiers Special Pack Vol.02 (Rush)"
 		]
 	},
 	{
@@ -17131,7 +17145,8 @@
 		},
 		"cardObtain": [
 			"GR Festival Special Pack Vol.02",
-			"Wave Duel Scramble"
+			"Wave Duel Scramble",
+			"WCS Qualifiers Special Pack Vol.02 (Rush)"
 		]
 	},
 	{
