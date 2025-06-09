@@ -2126,5 +2126,20 @@
 			19327,
 			17873
 		]
+	},
+	{
+		"id": 5701,
+		"name": "Experimental Roar",
+		"requirement": "Can be activated from turn 2 onward during a turn that you Normal Summoned a Normal monster, if all of the monsters in your constructed Deck are Pyro Type monsters.",
+		"effect": "Send the top 3 cards of your Deck to the Graveyard. Then, you can add 1 Level 7 or lower Effect Monster with 1500 or more DEF from your Graveyard to your hand. If you added a Level 7 monster with 1600 or less DEF to your hand, also add 1 \"Red Riser\" from outside of your Deck to your hand and send 1 \"Chemicalizer Red\" from outside of your Deck to your Graveyard.",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			905
+		],
+		"mentionedCards": [
+			18589,
+			18275
+		]
 	}
 ]
