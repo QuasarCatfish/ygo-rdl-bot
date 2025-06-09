@@ -6013,6 +6013,16 @@
 		]
 	},
 	{
+		"id": 16161,
+		"name": "Ancient Barrier",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Shuffle 2 monsters with the same Type from your Graveyard into the Deck.",
+		"effect": "This turn, up to 2 face-up Level 8 or lower monsters on your field cannot be destroyed by your opponent\u0027s Trap Card effects.",
+		"rarity": "NPC"
+	},
+	{
 		"id": 16162,
 		"name": "Evil Star Beacon",
 		"cardType": "SPELL",
@@ -15093,14 +15103,17 @@
 		"isLegend": false,
 		"requirement": "During the turn you Normal Summoned this card.",
 		"effect": "Add 1 Level 4 Pyro Type Normal Monster from your Graveyard to your hand. You can only attack with Pyro Type monsters this turn.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 3,
 			"atk": 1000,
 			"def": 500,
 			"attribute": "FIRE",
 			"race": "PYRO"
-		}
+		},
+		"cardObtain": [
+			"Maddox Sogetsu Duel Reward"
+		]
 	},
 	{
 		"id": 17962,
@@ -16032,6 +16045,26 @@
 		},
 		"cardObtain": [
 			"Eternal Galaxy Road (Mini Box)"
+		]
+	},
+	{
+		"id": 18375,
+		"name": "Finalize Phoenix",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If your opponent has 2 or more face-up monsters on their field, shuffle 4 Pyro Type monsters from your Graveyard into the Deck.",
+		"effect": "Special Summon up to 2 Pyro Type Effect Monsters whose total Levels equal [the total Levels of face-up monsters on your opponent\u0027s field] from your Graveyard face-up to your field.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2400,
+			"def": 1600,
+			"attribute": "FIRE",
+			"race": "PYRO"
+		},
+		"cardObtain": [
+			"Maddox Sogetsu Duel Reward"
 		]
 	},
 	{
