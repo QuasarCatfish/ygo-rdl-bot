@@ -402,7 +402,8 @@
 			"Sevens New Road (Main Box)",
 			"Scorching Flame Burst (Deck Build Box)",
 			"Soul with Eyes of Blue (Structure Deck)",
-			"Selection BOX Vol.02"
+			"Selection BOX Vol.02",
+			"Flash of Shining Flare (Mini Box)"
 		]
 	},
 	{
@@ -477,7 +478,8 @@
 		"cardObtain": [
 			"Sevens New Road (Main Box)",
 			"Scorching Flame Burst (Deck Build Box)",
-			"Selection BOX Vol.02"
+			"Selection BOX Vol.02",
+			"Flash of Shining Flare (Mini Box)"
 		]
 	},
 	{
@@ -523,7 +525,8 @@
 			"Sevens New Road (Main Box)",
 			"Scorching Flame Burst (Deck Build Box)",
 			"Soul with Eyes of Blue (Structure Deck)",
-			"Selection BOX Vol.02"
+			"Selection BOX Vol.02",
+			"Flash of Shining Flare (Mini Box)"
 		]
 	},
 	{
@@ -764,7 +767,8 @@
 			"Scorching Flame Burst (Deck Build Box)",
 			"Steel Kaleidomirror (Mini Box)",
 			"Selection BOX Vol.02",
-			"Divine Genesis Blade (Deck Build Box)"
+			"Divine Genesis Blade (Deck Build Box)",
+			"Flash of Shining Flare (Mini Box)"
 		]
 	},
 	{
@@ -788,7 +792,8 @@
 			"Scorching Flame Burst (Deck Build Box)",
 			"Steel Kaleidomirror (Mini Box)",
 			"Selection BOX Vol.02",
-			"Divine Genesis Blade (Deck Build Box)"
+			"Divine Genesis Blade (Deck Build Box)",
+			"Flash of Shining Flare (Mini Box)"
 		]
 	},
 	{
@@ -1660,7 +1665,8 @@
 			"Steel Kaleidomirror (Mini Box)",
 			"Transcendence Miragias (Super Mini Box)",
 			"Selection BOX Vol.02",
-			"Divine Genesis Blade (Deck Build Box)"
+			"Divine Genesis Blade (Deck Build Box)",
+			"Flash of Shining Flare (Mini Box)"
 		]
 	},
 	{
@@ -2315,6 +2321,7 @@
 		"id": 15441,
 		"name": "Royal Rebel\u0027s Heavy Metal",
 		"cardType": "EFFECT",
+		"cardStyle": "ORIGINAL",
 		"effectType": "NORMAL",
 		"isLegend": false,
 		"requirement": "During the turn you Normal Summoned this card by Tributing a Level 5 or higher monster.",
@@ -4021,7 +4028,8 @@
 		"cardObtain": [
 			"Heavy Metal Scream (Mini Box)",
 			"Scorching Flame Burst (Deck Build Box)",
-			"Selection BOX Vol.02"
+			"Selection BOX Vol.02",
+			"Flash of Shining Flare (Mini Box)"
 		]
 	},
 	{
@@ -4044,7 +4052,8 @@
 			"Heavy Metal Scream (Mini Box)",
 			"Scorching Flame Burst (Deck Build Box)",
 			"Soul with Eyes of Blue (Structure Deck)",
-			"Selection BOX Vol.02"
+			"Selection BOX Vol.02",
+			"Flash of Shining Flare (Mini Box)"
 		]
 	},
 	{
@@ -6372,7 +6381,8 @@
 		},
 		"cardObtain": [
 			"Steel Kaleidomirror (Mini Box)",
-			"Selection BOX Vol.02"
+			"Selection BOX Vol.02",
+			"Flash of Shining Flare (Mini Box)"
 		]
 	},
 	{
@@ -7068,6 +7078,26 @@
 		},
 		"cardObtain": [
 			"Steel Kaleidomirror (Mini Box)"
+		]
+	},
+	{
+		"id": 16344,
+		"name": "Kheiron the Star Knight",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If your opponent has a monster on their field, send the top card of your Deck to the Graveyard.",
+		"effect": "Choose 1 Level 5 or higher face-up Fiend Type monster on your field. This turn, the chosen monster inflicts piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference).",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2300,
+			"def": 1800,
+			"attribute": "LIGHT",
+			"race": "FIEND"
+		},
+		"cardObtain": [
+			"Flash of Shining Flare (Mini Box)"
 		]
 	},
 	{
@@ -8571,7 +8601,10 @@
 		"isLegend": false,
 		"requirement": "None",
 		"effect": "Gain LP equal to [the Level of 1 face-up Normal Monster on your field] x 100.",
-		"rarity": "NPC"
+		"rarity": "N",
+		"cardObtain": [
+			"Flash of Shining Flare (Mini Box)"
+		]
 	},
 	{
 		"id": 16709,
@@ -8871,6 +8904,23 @@
 			"Fusion of Revolution (Mini Box)",
 			"Sevens Road Phantasm (Structure Deck)"
 		]
+	},
+	{
+		"id": 16772,
+		"name": "Amazing Dealer",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you have 3 or less monsters in your Graveyard, pay 300 LP.",
+		"effect": "Send 3 cards from your hand to the Graveyard. Then, draw 3 cards.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 0,
+			"def": 1000,
+			"attribute": "WATER",
+			"race": "SPELLCASTER"
+		}
 	},
 	{
 		"id": 16774,
@@ -10014,6 +10064,16 @@
 		}
 	},
 	{
+		"id": 16958,
+		"name": "Heavy Roller",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 FIRE Attribute monster from your hand to the Graveyard.",
+		"effect": "Draw 1 card. If there is a face-up Field Spell Card on the field, you can also draw 1 card.",
+		"rarity": "NPC"
+	},
+	{
 		"id": 16959,
 		"name": "Haniwaffle",
 		"cardType": "NORMAL",
@@ -10173,14 +10233,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "A baseball warrior with gutsy defense and surprising hitting range. Also known as the fence magician, he is remembered visually rather than statistically.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1200,
 			"def": 400,
 			"attribute": "FIRE",
 			"race": "WARRIOR"
-		}
+		},
+		"cardObtain": [
+			"Flash of Shining Flare (Mini Box)"
+		]
 	},
 	{
 		"id": 16971,
@@ -10525,14 +10588,17 @@
 		"isLegend": false,
 		"requirement": "If a face-up \"Feverous Spirit Stadium\" is on the field, pay 500 LP.",
 		"effect": "This turn, this face-up card can be treated as 2 Tributes for the Tribute Summon of a FIRE Attribute monster in Attack Position.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 0,
 			"def": 1400,
 			"attribute": "FIRE",
 			"race": "WARRIOR"
-		}
+		},
+		"cardObtain": [
+			"Flash of Shining Flare (Mini Box)"
+		]
 	},
 	{
 		"id": 16993,
@@ -10542,14 +10608,17 @@
 		"isLegend": false,
 		"requirement": "If a face-up \"Feverous Spirit Stadium\" is on the field, send 2 face-up Level 4 FIRE Attribute monsters from your field to the Graveyard.",
 		"effect": "This card gains 2500 ATK until the end of this turn. This turn, you can only attack with this card.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 8,
 			"atk": 2500,
 			"def": 2000,
 			"attribute": "FIRE",
 			"race": "WARRIOR"
-		}
+		},
+		"cardObtain": [
+			"Flash of Shining Flare (Mini Box)"
+		]
 	},
 	{
 		"id": 16994,
@@ -10740,6 +10809,19 @@
 		]
 	},
 	{
+		"id": 17013,
+		"name": "Feverous Spirit Stadium",
+		"cardType": "FIELD",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "While this card is face-up in the Field Zone, face-up FIRE Attribute monsters on your field gain 400 ATK during your turn, and face-up FIRE Attribute monsters on your opponent\u0027s field gain 400 ATK during your opponent\u0027s turn.",
+		"rarity": "N",
+		"cardObtain": [
+			"Flash of Shining Flare (Mini Box)"
+		]
+	},
+	{
 		"id": 17014,
 		"name": "Hot Off the Press",
 		"cardType": "SPELL",
@@ -10790,6 +10872,26 @@
 		"isLegend": false,
 		"requirement": "When an opponent\u0027s Level 6 or higher monster declares an attack.",
 		"effect": "Gain LP equal to [the ATK of 1 Level 6 or lower Psychic Type monster] in your Graveyard. Then, if you have gained 1000 or more LP by this effect, you can add that monster to your hand.",
+		"rarity": "NPC"
+	},
+	{
+		"id": 17025,
+		"name": "Gagaga Guts",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When a monster on your field is destroyed by an opponent\u0027s card effect.",
+		"effect": "Special Summon 1 FIRE Attribute monster from your Graveyard to your field in face-up Defense Position. If you Special Summoned \"Player #39: Home Run Hitter\" or \"Player #99: Grand Slam Dragon\" by this effect, you can also destroy 1 monster on your opponent\u0027s field.",
+		"rarity": "NPC"
+	},
+	{
+		"id": 17026,
+		"name": "Requesting 9",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When a monster on your field is destroyed by an opponent\u0027s attack.",
+		"effect": "Gain 900 LP. If you have 9 or more FIRE Attribute monsters in your Graveyard, you can also Special Summon 1 \"Player #39: Home Run Hitter\" or 1 \"Player #99: Grand Slam Dragon\" from your Graveyard face-up to your field.",
 		"rarity": "NPC"
 	},
 	{
@@ -11518,6 +11620,23 @@
 		}
 	},
 	{
+		"id": 17292,
+		"name": "Player #C39: Home Run Smasher",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Shuffle 3 Level 4 FIRE Attribute monsters from your Graveyard into the Deck.",
+		"effect": "This card gains 1500 ATK until the end of this turn. If your LP are 1000 or less, you can also make 1 face-up monster on your opponent\u0027s field lose 3000 ATK until the end of this turn.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2500,
+			"def": 2000,
+			"attribute": "FIRE",
+			"race": "WARRIOR"
+		}
+	},
+	{
 		"id": 17293,
 		"name": "Kamaleon",
 		"cardType": "EFFECT",
@@ -11900,6 +12019,29 @@
 		"rarity": "NPC"
 	},
 	{
+		"id": 17325,
+		"name": "Tag-Up-Magic Sacrifice Force",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 face-up FIRE Attribute monster on your field to the Graveyard.",
+		"effect": "Special Summon 1 Level 8 FIRE Attribute monster from your hand face-up to your field. If you sent a Level 8 monster to the Graveyard to meet the requirement, you can also destroy 1 Spell/Trap Card on your opponent\u0027s field.",
+		"rarity": "R",
+		"cardObtain": [
+			"Flash of Shining Flare (Mini Box)"
+		]
+	},
+	{
+		"id": 17326,
+		"name": "Bobbleheader",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Add up to 2 cards (\"Feverous Spirit Stadium\" and/or \"Tag-Up-Magic Sacrifice Force\") from your Graveyard to your hand.",
+		"rarity": "NPC"
+	},
+	{
 		"id": 17331,
 		"name": "Clapping Thunder",
 		"cardType": "SPELL",
@@ -11983,6 +12125,26 @@
 			"Yudias Velgear Starter Deck",
 			"Yuamu Ohdo Starter Deck",
 			"Zuwijo Zwil Velgear Starter Deck"
+		]
+	},
+	{
+		"id": 17402,
+		"name": "Perion the Star Knight",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "Choose 1 face-up monster on your field and 1 face-up monster on your opponent\u0027s field. Increase those monsters\u0027 Levels by 2 and they gain 500 ATK until the end of this turn.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2500,
+			"def": 2000,
+			"attribute": "LIGHT",
+			"race": "FIEND"
+		},
+		"cardObtain": [
+			"Flash of Shining Flare (Mini Box)"
 		]
 	},
 	{
@@ -12918,7 +13080,10 @@
 		"isLegend": false,
 		"requirement": "Send 1 monster from your field to the Graveyard.",
 		"effect": "Special Summon 1 Level 7 monster from your hand face-up to your field, but it cannot attack this turn.",
-		"rarity": "NPC"
+		"rarity": "N",
+		"cardObtain": [
+			"Flash of Shining Flare (Mini Box)"
+		]
 	},
 	{
 		"id": 17565,
@@ -13428,7 +13593,8 @@
 			"race": "THUNDER"
 		},
 		"cardObtain": [
-			"Selection BOX Vol.02"
+			"Selection BOX Vol.02",
+			"Flash of Shining Flare (Mini Box)"
 		]
 	},
 	{
@@ -14922,14 +15088,17 @@
 		"isLegend": false,
 		"requirement": "If your opponent has a monster on their field, send 1 Spell/Trap Card from your hand to the Graveyard.",
 		"effect": "Special Summon 2 Level 4 Dragon Type Normal Monsters from your Graveyard to your field in face-up Defense Position.",
-		"rarity": "NPC",
+		"rarity": "R",
 		"monsterInfo": {
 			"level": 2,
 			"atk": 700,
 			"def": 300,
 			"attribute": "LIGHT",
 			"race": "DRAGON"
-		}
+		},
+		"cardObtain": [
+			"Flash of Shining Flare (Mini Box)"
+		]
 	},
 	{
 		"id": 17951,
@@ -16051,6 +16220,44 @@
 		]
 	},
 	{
+		"id": 18373,
+		"name": "Jointech Stegosilos",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send up to 3 EARTH Attribute Machine Type monster(s) from your hand to the Graveyard.",
+		"effect": "Destroy face-up monsters with 1600 or less DEF on your opponent\u0027s field equal to [the number of monsters sent to the Graveyard to meet the requirement].",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2500,
+			"def": 1500,
+			"attribute": "EARTH",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"Flash of Shining Flare (Mini Box)"
+		]
+	},
+	{
+		"id": 18374,
+		"name": "Hundred Divine Dragon",
+		"cardType": "EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "CONTINUOUS",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "During your Draw Phase, if you would draw until you have 5 cards for your normal draw, instead draw until you have 6 cards.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2500,
+			"def": 1500,
+			"attribute": "LIGHT",
+			"race": "DRAGON"
+		}
+	},
+	{
 		"id": 18375,
 		"name": "Finalize Phoenix",
 		"cardType": "EFFECT",
@@ -16502,6 +16709,24 @@
 		]
 	},
 	{
+		"id": 18564,
+		"name": "Hundred Divine Dragon",
+		"cardType": "EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "CONTINUOUS",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "During your Draw Phase, if you would draw until you have 5 cards for your normal draw, instead draw until you have 6 cards.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2500,
+			"def": 1500,
+			"attribute": "LIGHT",
+			"race": "DRAGON"
+		}
+	},
+	{
 		"id": 18566,
 		"name": "Voidvelg Apocalypse",
 		"cardType": "FUSION_EFFECT",
@@ -16905,14 +17130,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "This beautiful Dragon spirit harbors hidden strength",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1100,
 			"def": 1200,
 			"attribute": "WIND",
 			"race": "DRAGON"
-		}
+		},
+		"cardObtain": [
+			"Flash of Shining Flare (Mini Box)"
+		]
 	},
 	{
 		"id": 18652,
@@ -17066,6 +17294,26 @@
 		]
 	},
 	{
+		"id": 18708,
+		"name": "Goblin Digging Captain",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you have \"The Warrior Returning Alive\" or \"Trap Hole\" in your Graveyard, send the top card of your Deck to the Graveyard.",
+		"effect": "1 face-up monster on your opponent\u0027s field loses ATK equal to [the number of \"The Warrior Returning Alive\" and \"Trap Hole\" in your Graveyard] x 1000 until the end of this turn.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 900,
+			"def": 400,
+			"attribute": "EARTH",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"Flash of Shining Flare (Mini Box)"
+		]
+	},
+	{
 		"id": 18710,
 		"name": "Rogue of Archfiend",
 		"cardType": "EFFECT",
@@ -17148,6 +17396,26 @@
 			"attribute": "LIGHT",
 			"race": "GALAXY"
 		}
+	},
+	{
+		"id": 18895,
+		"name": "Dragon Bird",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "Though often considered a relative of birds, this mysterious creature is something else entirely. Its strength resembles that of a dragon more than a bird, so it is possible that\u0027s what it is.",
+		"rarity": "N",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 800,
+			"def": 1000,
+			"attribute": "WIND",
+			"race": "DRAGON"
+		},
+		"cardObtain": [
+			"Flash of Shining Flare (Mini Box)"
+		]
 	},
 	{
 		"id": 18896,
@@ -17269,14 +17537,17 @@
 		"isLegend": false,
 		"requirement": "You have \"Blue-Fang Burst Dragon\" or \"Red Boot Boost Dragon\" face-up on your field during your Main Phase that you Normal or Special Summoned this card.",
 		"effect": "Inflict 600 damage to your opponent.",
-		"rarity": "NPC",
+		"rarity": "R",
 		"monsterInfo": {
 			"level": 1,
 			"atk": 300,
 			"def": 300,
 			"attribute": "LIGHT",
 			"race": "DRAGON"
-		}
+		},
+		"cardObtain": [
+			"Flash of Shining Flare (Mini Box)"
+		]
 	},
 	{
 		"id": 18934,
@@ -17286,14 +17557,17 @@
 		"isLegend": false,
 		"requirement": "During your Main Phase that you Normal or Special Summoned this card, reveal 1 \"Blue-Fang Burst Dragon\" or \"Red Boot Boost Dragon\" in your hand.",
 		"effect": "Set 1 \"Dragon\u0027s Burst Fusion\" or \"Dragon\u0027s Boost Fusion\" from your Graveyard to your Spell \u0026 Trap Zone.",
-		"rarity": "NPC",
+		"rarity": "R",
 		"monsterInfo": {
 			"level": 2,
 			"atk": 900,
 			"def": 900,
 			"attribute": "LIGHT",
 			"race": "DRAGON"
-		}
+		},
+		"cardObtain": [
+			"Flash of Shining Flare (Mini Box)"
+		]
 	},
 	{
 		"id": 18935,
@@ -17568,6 +17842,44 @@
 		}
 	},
 	{
+		"id": 18966,
+		"name": "Blue-Fang Enhanced Burst Dragon",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Blue-Fang Burst Dragon\" + \"Booster Wyvern\"",
+		"requirement": "Send 1 monster from your field to the Graveyard.",
+		"effect": "Destroy 1 face-up card on either field. If you sent a monster whose original Level is 7 or higher to the Graveyard to meet the requirement, you can also Special Summon 1 \"Blue-Fang Burst Dragon\" from your Graveyard face-up to your field.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 3000,
+			"def": 2000,
+			"attribute": "LIGHT",
+			"race": "DRAGON"
+		}
+	},
+	{
+		"id": 18967,
+		"name": "Red-Boot Enhanced Boost Dragon",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Red-Boot Boost Dragon\" + \"Booster Wyvern\"",
+		"requirement": "None",
+		"effect": "Choose up to 9 monsters in the Graveyards. Inflict damage to your opponent equal to [the number of chosen monsters] x 200. This card gains ATK equal to [the number of chosen monsters] x 200 until the end of this turn. Then, shuffle the chosen monster(s) into the owner\u0027s Deck.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 2900,
+			"def": 2100,
+			"attribute": "DARK",
+			"race": "DRAGON"
+		}
+	},
+	{
 		"id": 18968,
 		"name": "Voidvelg Theogonia",
 		"cardType": "FUSION_EFFECT",
@@ -17639,6 +17951,32 @@
 		"rarity": "R",
 		"cardObtain": [
 			"Eternal Galaxy Road (Mini Box)"
+		]
+	},
+	{
+		"id": 18977,
+		"name": "Dragons Burst Fusion",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Fusion Summon by sending face-up Dragon Type monsters on your field to the Graveyard as material. If you sent \"Blue-Fang Burst Dragon\" to the Graveyard by this effect, you can also make 1 face-up monster on your opponent\u0027s field lose 1500 ATK until the end of this turn.",
+		"rarity": "R",
+		"cardObtain": [
+			"Flash of Shining Flare (Mini Box)"
+		]
+	},
+	{
+		"id": 18978,
+		"name": "Dragons Boost Fusion",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Fusion Summon by sending face-up Dragon Type monsters on your field to the Graveyard as material. If you sent \"Red-Boot Boost Dragon\" to the Graveyard by this effect, you can send 7 cards from the top of your Deck to the Graveyard. If you sent a card from the Deck to the Graveyard, you can also send 7 cards from the top of your opponent\u0027s Deck to the Graveyard.",
+		"rarity": "R",
+		"cardObtain": [
+			"Flash of Shining Flare (Mini Box)"
 		]
 	},
 	{
@@ -18241,6 +18579,23 @@
 		]
 	},
 	{
+		"id": 19313,
+		"name": "Steel Soldier Gale Vainari",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Toss a coin. Heads: All face-up monsters on your field gain 500 ATK until the end of this turn. Tails: You can make 1 face-up monster on your opponent\u0027s field lose 800 ATK/DEF until the end of this turn.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 1200,
+			"def": 1000,
+			"attribute": "EARTH",
+			"race": "MACHINE"
+		}
+	},
+	{
 		"id": 19314,
 		"name": "Rising Light Angel Essel",
 		"cardType": "EFFECT",
@@ -18454,6 +18809,26 @@
 		},
 		"cardObtain": [
 			"Soul with Eyes of Blue (Structure Deck)"
+		]
+	},
+	{
+		"id": 19429,
+		"name": "Phoenix Dragoon",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you have 10 or more cards in your Deck, send 1 monster from your hand to the Graveyard.",
+		"effect": "Gain 300 LP. Then, if you have a Level 8 monster in your Graveyard, draw 1 card.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1000,
+			"def": 1000,
+			"attribute": "FIRE",
+			"race": "DRAGON"
+		},
+		"cardObtain": [
+			"Flash of Shining Flare (Mini Box)"
 		]
 	},
 	{
@@ -18696,14 +19071,17 @@
 		"isLegend": false,
 		"requirement": "Send the top 2 cards of your Deck and this face-up card from your field to the Graveyard.",
 		"effect": "Special Summon 1 \"Blue-Fang Burst Dragon\" or \"Red Boot Boost Dragon\" from your hand to your field in face-up Defense Position. Then, you can add 1 \"Dragon\u0027s Burst Fusion\" or \"Dragon\u0027s Boost Fusion\" from your Graveyard to your hand.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 1,
 			"atk": 0,
 			"def": 0,
 			"attribute": "LIGHT",
 			"race": "DRAGON"
-		}
+		},
+		"cardObtain": [
+			"Flash of Shining Flare (Mini Box)"
+		]
 	},
 	{
 		"id": 19641,
@@ -18876,6 +19254,19 @@
 		"rarity": "NPC"
 	},
 	{
+		"id": 19701,
+		"name": "Fusion Cancel",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When a monster(s) is destroyed by battle.",
+		"effect": "Choose 1 face-up Fusion Monster on the field and return it to the owner\u0027s Extra Deck. Then, the owner of the chosen monster can Special Summon the monsters listed on that card as materials from their Graveyard face-up to their field.",
+		"rarity": "SR",
+		"cardObtain": [
+			"Flash of Shining Flare (Mini Box)"
+		]
+	},
+	{
 		"id": 19768,
 		"name": "Gravitiara Eye",
 		"cardType": "EFFECT",
@@ -18967,6 +19358,24 @@
 			"def": 200,
 			"attribute": "LIGHT",
 			"race": "GALAXY"
+		}
+	},
+	{
+		"id": 19810,
+		"name": "Royal Rebel\u0027s Heavy Metal",
+		"cardType": "EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During the turn you Normal Summoned this card by Tributing a Level 5 or higher monster.",
+		"effect": "Choose 1 face-up Level 8 or lower monster with the lowest Level on your opponent\u0027s field, and this card gains ATK equal to [that monster\u0027s ATK] until the end of this turn. Destroy that monster.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2500,
+			"def": 0,
+			"attribute": "LIGHT",
+			"race": "FIEND"
 		}
 	},
 	{
@@ -19497,6 +19906,67 @@
 		]
 	},
 	{
+		"id": 20455,
+		"name": "Elemental HERO Thunder Giant",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Elemental HERO Sparkman\" + \"Elemental HERO Clayman\"\nMust be Fusion Summoned.",
+		"requirement": "Send 1 card from your hand to the Graveyard.",
+		"effect": "Destroy 1 face-up monster with a lower original ATK than this card on either field.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 2400,
+			"def": 1500,
+			"attribute": "LIGHT",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"Flash of Shining Flare (Mini Box)"
+		]
+	},
+	{
+		"id": 20457,
+		"name": "Elemental HERO Sparkman",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "An Elemental HERO and a warrior of light who proficiently wields many kinds of armaments. His Static Shockwave cuts off the path of villainy.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1600,
+			"def": 1400,
+			"attribute": "LIGHT",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"Flash of Shining Flare (Mini Box)"
+		]
+	},
+	{
+		"id": 20458,
+		"name": "Elemental HERO Clayman",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "An Elemental HERO with a clay body built-to-last. He\u0027ll preserve his Elemental HERO colleagues at any cost.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 800,
+			"def": 2000,
+			"attribute": "EARTH",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"Flash of Shining Flare (Mini Box)"
+		]
+	},
+	{
 		"id": 20459,
 		"name": "Elemental HERO Burstinatrix",
 		"cardType": "NORMAL",
@@ -19557,6 +20027,32 @@
 		]
 	},
 	{
+		"id": 20465,
+		"name": "Elemental Circulation",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Reveal 1 Level 6 or 7 Warrior Type Fusion Monster in your Extra Deck, and send 1 Warrior Type monster that is mentioned as material from your hand to the Graveyard.",
+		"effect": "Draw 3 cards. Then, send 1 card from your hand to the Graveyard. You cannot activate non-Warrior Type monster effects for the rest of this turn.",
+		"rarity": "SR",
+		"cardObtain": [
+			"Flash of Shining Flare (Mini Box)"
+		]
+	},
+	{
+		"id": 20466,
+		"name": "Miracle Fusion",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Fusion Summon a Warrior Type monster that can only be Fusion Summoned, by placing monsters from your field or Graveyard as material on the bottom of their owners\u0027 Decks in any order.",
+		"rarity": "UR",
+		"cardObtain": [
+			"Special Set (Bundle)"
+		]
+	},
+	{
 		"id": 20470,
 		"name": "Elemental HERO Bubbleman",
 		"cardType": "EFFECT",
@@ -19575,6 +20071,27 @@
 		"cardObtain": [
 			"Fusion of Revolution (Mini Box)",
 			"Hero\u0027s Stage (Structure Deck)"
+		]
+	},
+	{
+		"id": 20472,
+		"name": "Elemental HERO Mudballman",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Elemental HERO Bubbleman\" + \"Elemental HERO Clayman\"\nMust be Fusion Summoned.",
+		"requirement": "None",
+		"effect": "None",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 1900,
+			"def": 3000,
+			"attribute": "EARTH",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"Flash of Shining Flare (Mini Box)"
 		]
 	},
 	{
@@ -19619,6 +20136,25 @@
 		"cardObtain": [
 			"Selection BOX Vol.01"
 		]
+	},
+	{
+		"id": 20610,
+		"name": "Elemental HERO Shining Flare Wingman",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "CONTINUOUS",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Elemental HERO Flame Wingman\" + \"Elemental HERO Sparkman\"\nMust be Fusion Summoned.",
+		"requirement": "None",
+		"effect": "This card gains ATK equal to [the number of Warrior Type monsters in your Graveyard] x 300. If this card destroys a monster by battle and sends it to the Graveyard, inflict damage to your opponent equal to [that monster\u0027s original ATK].",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2500,
+			"def": 2100,
+			"attribute": "LIGHT",
+			"race": "WARRIOR"
+		}
 	},
 	{
 		"id": 20618,
@@ -19742,6 +20278,28 @@
 		"rarity": "SR",
 		"cardObtain": [
 			"Blazing Chemicalization (Mini Box)"
+		]
+	},
+	{
+		"id": 20681,
+		"name": "Elemental HERO Shining Flare Wingman",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "CONTINUOUS",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Elemental HERO Flame Wingman\" + \"Elemental HERO Sparkman\"\nMust be Fusion Summoned.",
+		"requirement": "None",
+		"effect": "This card gains ATK equal to [the number of Warrior Type monsters in your Graveyard] x 300. If this card destroys a monster by battle and sends it to the Graveyard, inflict damage to your opponent equal to [that monster\u0027s original ATK].",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2500,
+			"def": 2100,
+			"attribute": "LIGHT",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"Flash of Shining Flare (Mini Box)"
 		]
 	},
 	{
@@ -20014,6 +20572,37 @@
 		}
 	},
 	{
+		"id": 20998,
+		"name": "Elemental HERO Mariner",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Elemental HERO Bubbleman\" + \"Elemental HERO Avian\"\nMust be Fusion Summoned.",
+		"requirement": "If you have a face-down card in your Spell \u0026 Trap Zone, send the top card of your Deck to the Graveyard.",
+		"effect": "This card can attack directly this turn.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 5,
+			"atk": 1400,
+			"def": 1000,
+			"attribute": "WATER",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"Flash of Shining Flare (Mini Box)"
+		]
+	},
+	{
+		"id": 21007,
+		"name": "Curse of the Rising Light",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If your opponent has 1 or less card in their hand.",
+		"effect": "Change the battle position of 1 monster on your opponent\u0027s field to face-up Attack Position or face-down Defense Position. This turn, if your opponent activated a Trap Card, or it is the first turn of the player going second, both players also draw 2 cards.",
+		"rarity": "NPC"
+	},
+	{
 		"id": 21034,
 		"name": "Steel Strike Dragon Metagias",
 		"cardType": "EFFECT",
@@ -20072,6 +20661,27 @@
 		},
 		"cardObtain": [
 			"Ranked Duels Reward Ticket"
+		]
+	},
+	{
+		"id": 21316,
+		"name": "Elemental HERO Voltic Wingman",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Elemental HERO Sparkman\" + \"Elemental HERO Avian\"\nMust be Fusion Summoned.",
+		"requirement": "During your Main Phase that you Special Summoned this card.",
+		"effect": "Fusion Summon a Level 6-8 Warrior Type monster that can only be Fusion Summoned, by shuffling mosters from your Graveyard into the Deck as material.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 5,
+			"atk": 2000,
+			"def": 1600,
+			"attribute": "LIGHT",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"Flash of Shining Flare (Mini Box)"
 		]
 	},
 	{
@@ -20180,6 +20790,50 @@
 		},
 		"cardObtain": [
 			"WCS 2025 Qualifiers Celebration! Road to Worlds Campaign"
+		]
+	},
+	{
+		"id": 21925,
+		"name": "Blue-Fang Enhanced Burst Dragon",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Blue-Fang Burst Dragon\" + \"Booster Wyvern\"",
+		"requirement": "Send 1 monster from your field to the Graveyard.",
+		"effect": "Destroy 1 face-up card on either field. If you sent a monster whose original Level is 7 or higher to the Graveyard to meet the requirement, you can also Special Summon 1 \"Blue-Fang Burst Dragon\" from your Graveyard face-up to your field.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 3000,
+			"def": 2000,
+			"attribute": "LIGHT",
+			"race": "DRAGON"
+		},
+		"cardObtain": [
+			"Flash of Shining Flare (Mini Box)"
+		]
+	},
+	{
+		"id": 21926,
+		"name": "Red-Boot Enhanced Boost Dragon",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Red-Boot Boost Dragon\" + \"Booster Wyvern\"",
+		"requirement": "None",
+		"effect": "Choose up to 9 monsters in the Graveyards. Inflict damage to your opponent equal to [the number of chosen monsters] x 200. This card gains ATK equal to [the number of chosen monsters] x 200 until the end of this turn. Then, shuffle the chosen monster(s) into the owner\u0027s Deck.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 2900,
+			"def": 2100,
+			"attribute": "DARK",
+			"race": "DRAGON"
+		},
+		"cardObtain": [
+			"Special Set (Bundle)"
 		]
 	}
 ]

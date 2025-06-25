@@ -2141,5 +2141,39 @@
 			18589,
 			18275
 		]
+	},
+	{
+		"id": 5801,
+		"name": "Supersonic Fusion Enhancement",
+		"requirement": "Reveal 1 \"Blue-Fang Burst Dragon\" or \"Red-Boot Boost Dragon\" in your hand from turn 2 onward, if all of the monsters in your constructed Deck are Dragon Type monsters and all of the Level 7 or higher monsters are \"Blue-Fang Burst Dragon\" and/or \"Red-Boot Boost Dragon\".",
+		"effect": "Add 1 \"Booster Wyvern\" from your Deck or Graveyard to your hand. Then, you can send 1 card from your hand to the Graveyard. If you do, also add 1 \"Dragons Burst Fusion\", \"Dragons Boost Fusion\", or \"Striping Wyvern\" from your Deck to your hand. (Each card once per Duel.)",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			903
+		],
+		"mentionedCards": [
+			17865,
+			17946,
+			18933,
+			18977,
+			18978,
+			19640
+		]
+	},
+	{
+		"id": 5802,
+		"name": "Jointech Stampede",
+		"requirement": "Can be activated by revealing 1 Level 7 monster in your hand from turn 2 onward, if all of the monsters in your constructed Deck are EARTH Attribute Machine Type monsters.",
+		"effect": "Send the top 3 cards of your Deck to the Graveyard. Then, you can add 1 monster from your Graveyard to your hand. (Once per Duel.) This turn, you can Normal Summon \"Jointech Rex\" and \"Jointech Stegosilos\" with 1 less Tribute.",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			902
+		],
+		"mentionedCards": [
+			17505,
+			18373
+		]
 	}
 ]
