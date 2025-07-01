@@ -162,7 +162,8 @@
 			"Yuga Ohdo Duel Reward",
 			"Gavin Sogetsu Duel Reward",
 			"Asana Mutsuba Duel Reward",
-			"Yudias Velgear Duel Reward"
+			"Yudias Velgear Duel Reward",
+			"Yuka Goha Starter Deck"
 		]
 	},
 	{
@@ -379,7 +380,8 @@
 			"Yudias Velgear Starter Deck",
 			"Yuhi Ohdo Starter Deck",
 			"Yuo Goha Starter Deck",
-			"Maddox Sogetsu Starter Deck"
+			"Maddox Sogetsu Starter Deck",
+			"Yuka Goha Starter Deck"
 		]
 	},
 	{
@@ -945,7 +947,8 @@
 			"Nail Saionji Starter Deck",
 			"Asana Mutsuba Starter Deck",
 			"Yudias Velgear Starter Deck",
-			"Zuwijo Zwil Velgear Starter Deck"
+			"Zuwijo Zwil Velgear Starter Deck",
+			"Yuka Goha Starter Deck"
 		]
 	},
 	{
@@ -1141,7 +1144,8 @@
 		"effect": "Special Summon up to 2 monsters from your Graveyard face-up to your field.",
 		"rarity": "N",
 		"cardObtain": [
-			"Steel Kaleidomirror (Mini Box)"
+			"Steel Kaleidomirror (Mini Box)",
+			"Selection BOX Vol.03"
 		]
 	},
 	{
@@ -1180,7 +1184,8 @@
 			"Yuhi Ohdo Starter Deck",
 			"Yuo Goha Starter Deck",
 			"Zuwijo Zwil Velgear Starter Deck",
-			"Tag Duel Tournament"
+			"Tag Duel Tournament",
+			"Yuka Goha Starter Deck"
 		]
 	},
 	{
@@ -1261,7 +1266,8 @@
 		},
 		"cardObtain": [
 			"Heavy Metal Scream (Mini Box)",
-			"Selection BOX Vol.01"
+			"Selection BOX Vol.01",
+			"Selection BOX Vol.03"
 		]
 	},
 	{
@@ -1291,7 +1297,8 @@
 			"Lucidien \"Luke\" Kallister Duel Reward",
 			"Tag Duel Tournament",
 			"GR Festival Special Pack Vol.01",
-			"WCS Qualifiers Special Pack Vol.01 (Rush)"
+			"WCS Qualifiers Special Pack Vol.01 (Rush)",
+			"Yuka Goha Starter Deck"
 		]
 	},
 	{
@@ -1369,7 +1376,8 @@
 			"Yuamu Ohdo Starter Deck",
 			"Zuwijo Zwil Velgear Starter Deck",
 			"Roa Kassidy Duel Reward",
-			"Maddox Sogetsu Duel Reward"
+			"Maddox Sogetsu Duel Reward",
+			"Yuka Goha Starter Deck"
 		]
 	},
 	{
@@ -1479,7 +1487,8 @@
 		"cardObtain": [
 			"Sevens New Road (Main Box)",
 			"Scorching Flame Burst (Deck Build Box)",
-			"Divine Genesis Blade (Deck Build Box)"
+			"Divine Genesis Blade (Deck Build Box)",
+			"Selection BOX Vol.03"
 		]
 	},
 	{
@@ -1505,7 +1514,8 @@
 			"Yuga Ohdo Duel Reward",
 			"Asana Mutsuba Duel Reward",
 			"Yudias Velgear Duel Reward",
-			"Zuwijo Zwil Velgear Duel Reward"
+			"Zuwijo Zwil Velgear Duel Reward",
+			"Yuka Goha Starter Deck"
 		]
 	},
 	{
@@ -1787,7 +1797,8 @@
 			"GR Festival Special Pack Vol.02",
 			"WCS Qualifiers Special Pack Vol.01 (Rush)",
 			"WCS Qualifiers Special Pack Vol.02 (Rush)",
-			"Ranked Duels Reward Ticket"
+			"Ranked Duels Reward Ticket",
+			"Yuka Goha Starter Deck"
 		]
 	},
 	{
@@ -2546,7 +2557,8 @@
 		"rarity": "N",
 		"cardObtain": [
 			"Heavy Metal Scream (Mini Box)",
-			"Selection BOX Vol.01"
+			"Selection BOX Vol.01",
+			"Selection BOX Vol.03"
 		]
 	},
 	{
@@ -2616,7 +2628,8 @@
 			"Heavy Metal Scream (Mini Box)",
 			"Legend of Dark Magic (Structure Deck)",
 			"Selection BOX Vol.01",
-			"Galactica Go Rush (Mini Box)"
+			"Galactica Go Rush (Mini Box)",
+			"Selection BOX Vol.03"
 		]
 	},
 	{
@@ -2715,7 +2728,8 @@
 			"race": "FIEND"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream (Mini Box)"
+			"Heavy Metal Scream (Mini Box)",
+			"Selection BOX Vol.03"
 		]
 	},
 	{
@@ -3179,7 +3193,8 @@
 			"race": "FIEND"
 		},
 		"cardObtain": [
-			"Genesis Maximum (Mini Box)"
+			"Genesis Maximum (Mini Box)",
+			"Selection BOX Vol.03"
 		]
 	},
 	{
@@ -3219,7 +3234,8 @@
 			"race": "FIEND"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream (Mini Box)"
+			"Heavy Metal Scream (Mini Box)",
+			"Selection BOX Vol.03"
 		]
 	},
 	{
@@ -3280,7 +3296,8 @@
 		},
 		"cardObtain": [
 			"Heavy Metal Scream (Mini Box)",
-			"Selection BOX Vol.01"
+			"Selection BOX Vol.01",
+			"Selection BOX Vol.03"
 		]
 	},
 	{
@@ -3300,7 +3317,8 @@
 			"race": "FIEND"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream (Mini Box)"
+			"Heavy Metal Scream (Mini Box)",
+			"Selection BOX Vol.03"
 		]
 	},
 	{
@@ -3321,7 +3339,8 @@
 		},
 		"cardObtain": [
 			"Heavy Metal Scream (Mini Box)",
-			"Selection BOX Vol.01"
+			"Selection BOX Vol.01",
+			"Selection BOX Vol.03"
 		]
 	},
 	{
@@ -3357,7 +3376,8 @@
 		"effect": "Destroy 1 face-up Level 6 or lower monster on your opponent\u0027s field. If you do, your opponent draws 1 card. You cannot attack directly this turn.",
 		"rarity": "N",
 		"cardObtain": [
-			"Heavy Metal Scream (Mini Box)"
+			"Heavy Metal Scream (Mini Box)",
+			"Selection BOX Vol.03"
 		]
 	},
 	{
@@ -3884,7 +3904,8 @@
 		"cardObtain": [
 			"Sevens New Road (Main Box)",
 			"Legend of Dark Magic (Structure Deck)",
-			"Selection BOX Vol.01"
+			"Selection BOX Vol.01",
+			"Selection BOX Vol.03"
 		]
 	},
 	{
@@ -5133,7 +5154,8 @@
 			"Asana Mutsuba Starter Deck",
 			"Yudias Velgear Starter Deck",
 			"Yuhi Ohdo Starter Deck",
-			"Maddox Sogetsu Starter Deck"
+			"Maddox Sogetsu Starter Deck",
+			"Yuka Goha Starter Deck"
 		]
 	},
 	{
@@ -5549,7 +5571,8 @@
 			"race": "FIEND"
 		},
 		"cardObtain": [
-			"Heavy Metal Scream (Mini Box)"
+			"Heavy Metal Scream (Mini Box)",
+			"Selection BOX Vol.03"
 		]
 	},
 	{
@@ -6254,7 +6277,8 @@
 			"race": "PLANT"
 		},
 		"cardObtain": [
-			"Heavy Strike Excavator (Mini Box)"
+			"Heavy Strike Excavator (Mini Box)",
+			"Selection BOX Vol.03"
 		]
 	},
 	{
@@ -6360,7 +6384,8 @@
 			"race": "PLANT"
 		},
 		"cardObtain": [
-			"Heavy Strike Excavator (Mini Box)"
+			"Heavy Strike Excavator (Mini Box)",
+			"Selection BOX Vol.03"
 		]
 	},
 	{
@@ -6591,7 +6616,8 @@
 			"race": "PLANT"
 		},
 		"cardObtain": [
-			"Heavy Strike Excavator (Mini Box)"
+			"Heavy Strike Excavator (Mini Box)",
+			"Selection BOX Vol.03"
 		]
 	},
 	{
@@ -6611,7 +6637,8 @@
 			"race": "PLANT"
 		},
 		"cardObtain": [
-			"Heavy Strike Excavator (Mini Box)"
+			"Heavy Strike Excavator (Mini Box)",
+			"Selection BOX Vol.03"
 		]
 	},
 	{
@@ -6896,7 +6923,8 @@
 			"race": "FIEND"
 		},
 		"cardObtain": [
-			"Evolving Rising Heart (Super Mini Box)"
+			"Evolving Rising Heart (Super Mini Box)",
+			"Selection BOX Vol.03"
 		]
 	},
 	{
@@ -6916,7 +6944,8 @@
 			"race": "FIEND"
 		},
 		"cardObtain": [
-			"Evolving Rising Heart (Super Mini Box)"
+			"Evolving Rising Heart (Super Mini Box)",
+			"Selection BOX Vol.03"
 		]
 	},
 	{
@@ -6936,7 +6965,8 @@
 			"race": "PLANT"
 		},
 		"cardObtain": [
-			"Heavy Strike Excavator (Mini Box)"
+			"Heavy Strike Excavator (Mini Box)",
+			"Selection BOX Vol.03"
 		]
 	},
 	{
@@ -6996,7 +7026,8 @@
 			"race": "PLANT"
 		},
 		"cardObtain": [
-			"Heavy Strike Excavator (Mini Box)"
+			"Heavy Strike Excavator (Mini Box)",
+			"Selection BOX Vol.03"
 		]
 	},
 	{
@@ -7199,7 +7230,8 @@
 		"effect": "Special Summon 1 Level 4 or lower Plant Type Normal Monster from your Graveyard face-up to your field, but place it on the bottom of the owner\u0027s Deck during the End Phase.",
 		"rarity": "N",
 		"cardObtain": [
-			"Heavy Strike Excavator (Mini Box)"
+			"Heavy Strike Excavator (Mini Box)",
+			"Selection BOX Vol.03"
 		]
 	},
 	{
@@ -7376,7 +7408,8 @@
 			"race": "PLANT"
 		},
 		"cardObtain": [
-			"Heavy Strike Excavator (Mini Box)"
+			"Heavy Strike Excavator (Mini Box)",
+			"Selection BOX Vol.03"
 		]
 	},
 	{
@@ -8205,7 +8238,8 @@
 			"race": "BEAST"
 		},
 		"cardObtain": [
-			"Genesis Maximum (Mini Box)"
+			"Genesis Maximum (Mini Box)",
+			"Selection BOX Vol.03"
 		]
 	},
 	{
@@ -8913,14 +8947,17 @@
 		"isLegend": false,
 		"requirement": "If you have 3 or less monsters in your Graveyard, pay 300 LP.",
 		"effect": "Send 3 cards from your hand to the Graveyard. Then, draw 3 cards.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 3,
 			"atk": 0,
 			"def": 1000,
 			"attribute": "WATER",
 			"race": "SPELLCASTER"
-		}
+		},
+		"cardObtain": [
+			"Selection BOX Vol.03"
+		]
 	},
 	{
 		"id": 16774,
@@ -9097,7 +9134,8 @@
 		},
 		"cardObtain": [
 			"Heavy Metal Scream (Mini Box)",
-			"Selection BOX Vol.01"
+			"Selection BOX Vol.01",
+			"Selection BOX Vol.03"
 		]
 	},
 	{
@@ -9841,7 +9879,8 @@
 			"Mimi Imimi Duel Reward",
 			"Yuamu Ohdo Duel Reward",
 			"Yuo Goha Duel Reward",
-			"Maddox Sogetsu Duel Reward"
+			"Maddox Sogetsu Duel Reward",
+			"Yuka Goha Starter Deck"
 		]
 	},
 	{
@@ -10135,7 +10174,8 @@
 		"cardObtain": [
 			"Heavy Metal Scream (Mini Box)",
 			"Legend of Dark Magic (Structure Deck)",
-			"Selection BOX Vol.01"
+			"Selection BOX Vol.01",
+			"Selection BOX Vol.03"
 		]
 	},
 	{
@@ -10165,7 +10205,8 @@
 			"Nail Saionji Duel Reward",
 			"Yuo Goha Duel Reward",
 			"Maddox Sogetsu Duel Reward",
-			"Tag Duel Tournament"
+			"Tag Duel Tournament",
+			"Yuka Goha Starter Deck"
 		]
 	},
 	{
@@ -10253,31 +10294,38 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "A baseball warrior with a deft lead and an arrow-like delivery. Also known as the bedrock, he leads his teammates with his passionate play style.",
-		"rarity": "NPC",
+		"rarity": "R",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1400,
 			"def": 400,
 			"attribute": "FIRE",
 			"race": "WARRIOR"
-		}
+		},
+		"cardObtain": [
+			"Yuka Goha Level Up Reward",
+			"Yuka Goha Duel Reward"
+		]
 	},
 	{
 		"id": 16972,
-		"name": "Zubaba Battler",
+		"name": "Zubaba Batter",
 		"cardType": "NORMAL",
 		"effectType": "NORMAL",
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "A baseball warrior with weight behind his swing. Also known as the marauding captain, he aggressively swings from the first pitch.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1500,
 			"def": 400,
 			"attribute": "FIRE",
 			"race": "WARRIOR"
-		}
+		},
+		"cardObtain": [
+			"Yuka Goha Level Up Reward"
+		]
 	},
 	{
 		"id": 16973,
@@ -10571,14 +10619,17 @@
 		"isLegend": false,
 		"requirement": "Shuffle 1 \"Feverous Spirit Stadium\" from your Graveyard into the Deck.",
 		"effect": "Special Summon 1 FIRE Attribute Normal Monster with 400 DEF from your Graveyard faec-up to your field. You can only attack with FIRE Attribute monsters this turn.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1000,
 			"def": 400,
 			"attribute": "FIRE",
 			"race": "WARRIOR"
-		}
+		},
+		"cardObtain": [
+			"Yuka Goha Duel Reward"
+		]
 	},
 	{
 		"id": 16992,
@@ -10628,14 +10679,17 @@
 		"isLegend": false,
 		"requirement": "Shuffle 3 FIRE Attribute monsters from your Graveyard into the Deck.",
 		"effect": "Special Summon 1 \"Player #39: Home Run Hitter\" from your Graveyard face-up to your field. Then, this card gains 2000 ATK until the end of this turn.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 8,
 			"atk": 2000,
 			"def": 2000,
 			"attribute": "FIRE",
 			"race": "DRAGON"
-		}
+		},
+		"cardObtain": [
+			"Yuka Goha Duel Reward"
+		]
 	},
 	{
 		"id": 16995,
@@ -10892,7 +10946,10 @@
 		"isLegend": false,
 		"requirement": "When a monster on your field is destroyed by an opponent\u0027s attack.",
 		"effect": "Gain 900 LP. If you have 9 or more FIRE Attribute monsters in your Graveyard, you can also Special Summon 1 \"Player #39: Home Run Hitter\" or 1 \"Player #99: Grand Slam Dragon\" from your Graveyard face-up to your field.",
-		"rarity": "NPC"
+		"rarity": "UR",
+		"cardObtain": [
+			"Yuka Goha Level Up Reward"
+		]
 	},
 	{
 		"id": 17028,
@@ -11152,7 +11209,10 @@
 		"isLegend": false,
 		"requirement": "None",
 		"effect": "Special Summon 1 Level 7 Normal Monster from your hand or Graveyard face-up to your field. This turn, the monster Special Summoned by this effect gains 700 ATK and cannot be destroyed by your opponent\u0027s Trap Card effects.",
-		"rarity": "UR"
+		"rarity": "UR",
+		"cardObtain": [
+			"Selection BOX Vol.03"
+		]
 	},
 	{
 		"id": 17215,
@@ -12124,7 +12184,8 @@
 			"Asana Mutsuba Starter Deck",
 			"Yudias Velgear Starter Deck",
 			"Yuamu Ohdo Starter Deck",
-			"Zuwijo Zwil Velgear Starter Deck"
+			"Zuwijo Zwil Velgear Starter Deck",
+			"Yuka Goha Starter Deck"
 		]
 	},
 	{
@@ -12271,7 +12332,8 @@
 			"race": "BEAST"
 		},
 		"cardObtain": [
-			"Galactica Go Rush (Mini Box)"
+			"Galactica Go Rush (Mini Box)",
+			"Selection BOX Vol.03"
 		]
 	},
 	{
@@ -12291,7 +12353,8 @@
 			"race": "BEAST"
 		},
 		"cardObtain": [
-			"Galactica Go Rush (Mini Box)"
+			"Galactica Go Rush (Mini Box)",
+			"Selection BOX Vol.03"
 		]
 	},
 	{
@@ -12311,7 +12374,8 @@
 			"race": "BEAST"
 		},
 		"cardObtain": [
-			"Galactica Go Rush (Mini Box)"
+			"Galactica Go Rush (Mini Box)",
+			"Selection BOX Vol.03"
 		]
 	},
 	{
@@ -12331,7 +12395,8 @@
 			"race": "BEAST"
 		},
 		"cardObtain": [
-			"Galactica Go Rush (Mini Box)"
+			"Galactica Go Rush (Mini Box)",
+			"Selection BOX Vol.03"
 		]
 	},
 	{
@@ -12592,7 +12657,8 @@
 			"race": "BEAST"
 		},
 		"cardObtain": [
-			"Galactica Go Rush (Mini Box)"
+			"Galactica Go Rush (Mini Box)",
+			"Selection BOX Vol.03"
 		]
 	},
 	{
@@ -12632,7 +12698,8 @@
 			"Heavy Metal Scream (Mini Box)",
 			"Legend of Dark Magic (Structure Deck)",
 			"Selection BOX Vol.01",
-			"Galactica Go Rush (Mini Box)"
+			"Galactica Go Rush (Mini Box)",
+			"Selection BOX Vol.03"
 		]
 	},
 	{
@@ -12914,7 +12981,8 @@
 		"effect": "Choose 1 face-up Beast Type Normal Monster on your field. This turn, that monster can make up to 3 attacks on monsters. If you have \"Princess of the Flock - Miss Mutton\" face-up on your field, you can also make all face-up Effect Monsters on your opponent\u0027s field lose 500 ATK until the end of this turn.",
 		"rarity": "R",
 		"cardObtain": [
-			"Galactica Go Rush (Mini Box)"
+			"Galactica Go Rush (Mini Box)",
+			"Selection BOX Vol.03"
 		]
 	},
 	{
@@ -13011,7 +13079,8 @@
 		"effect": "The attacked monster loses 2000 ATK until the end of this turn. Then, you can add up to 4 cards sent to the Graveyard to meet the requirement to your hand.",
 		"rarity": "R",
 		"cardObtain": [
-			"Galactica Go Rush (Mini Box)"
+			"Galactica Go Rush (Mini Box)",
+			"Selection BOX Vol.03"
 		]
 	},
 	{
@@ -13025,7 +13094,8 @@
 		"rarity": "R",
 		"cardObtain": [
 			"Fusion of Revolution (Mini Box)",
-			"Boost Red-Boot (Deck Build Box)"
+			"Boost Red-Boot (Deck Build Box)",
+			"Selection BOX Vol.03"
 		]
 	},
 	{
@@ -15772,7 +15842,8 @@
 			"race": "FIEND"
 		},
 		"cardObtain": [
-			"Genesis Maximum (Mini Box)"
+			"Genesis Maximum (Mini Box)",
+			"Selection BOX Vol.03"
 		]
 	},
 	{
@@ -16108,7 +16179,8 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"Special Set (Bundle)"
+			"Special Set (Bundle)",
+			"Selection BOX Vol.03"
 		]
 	},
 	{
@@ -16248,7 +16320,7 @@
 		"isLegend": false,
 		"requirement": "None",
 		"effect": "During your Draw Phase, if you would draw until you have 5 cards for your normal draw, instead draw until you have 6 cards.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 7,
 			"atk": 2500,
@@ -16387,7 +16459,8 @@
 			"race": "FIEND"
 		},
 		"cardObtain": [
-			"Genesis Maximum (Mini Box)"
+			"Genesis Maximum (Mini Box)",
+			"Selection BOX Vol.03"
 		]
 	},
 	{
@@ -16717,14 +16790,17 @@
 		"isLegend": false,
 		"requirement": "None",
 		"effect": "During your Draw Phase, if you would draw until you have 5 cards for your normal draw, instead draw until you have 6 cards.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 7,
 			"atk": 2500,
 			"def": 1500,
 			"attribute": "LIGHT",
 			"race": "DRAGON"
-		}
+		},
+		"cardObtain": [
+			"Selection BOX Vol.03"
+		]
 	},
 	{
 		"id": 18566,
@@ -16776,14 +16852,17 @@
 		"isLegend": false,
 		"requirement": "Send 1 Spellcaster Type monster from your hand to the Graveyard.",
 		"effect": "Destroy 1 Spell/Trap Card on your opponent\u0027s field.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 5,
 			"atk": 1000,
 			"def": 1200,
 			"attribute": "WATER",
 			"race": "SPELLCASTER"
-		}
+		},
+		"cardObtain": [
+			"Ranked Duels Reward Ticket"
+		]
 	},
 	{
 		"id": 18580,
@@ -17535,7 +17614,7 @@
 		"cardType": "EFFECT",
 		"effectType": "NORMAL",
 		"isLegend": false,
-		"requirement": "You have \"Blue-Fang Burst Dragon\" or \"Red Boot Boost Dragon\" face-up on your field during your Main Phase that you Normal or Special Summoned this card.",
+		"requirement": "You have \"Blue-Fang Burst Dragon\" or \"Red-Boot Boost Dragon\" face-up on your field during your Main Phase that you Normal or Special Summoned this card.",
 		"effect": "Inflict 600 damage to your opponent.",
 		"rarity": "R",
 		"monsterInfo": {
@@ -17555,8 +17634,8 @@
 		"cardType": "EFFECT",
 		"effectType": "NORMAL",
 		"isLegend": false,
-		"requirement": "During your Main Phase that you Normal or Special Summoned this card, reveal 1 \"Blue-Fang Burst Dragon\" or \"Red Boot Boost Dragon\" in your hand.",
-		"effect": "Set 1 \"Dragon\u0027s Burst Fusion\" or \"Dragon\u0027s Boost Fusion\" from your Graveyard to your Spell \u0026 Trap Zone.",
+		"requirement": "During your Main Phase that you Normal or Special Summoned this card, reveal 1 \"Blue-Fang Burst Dragon\" or \"Red-Boot Boost Dragon\" in your hand.",
+		"effect": "Set 1 \"Dragons Burst Fusion\" or \"Dragons Boost Fusion\" from your Graveyard to your Spell \u0026 Trap Zone.",
 		"rarity": "R",
 		"monsterInfo": {
 			"level": 2,
@@ -17708,14 +17787,17 @@
 		"inherentSummonCondition": "If you have a face-up Machine Type monster on your field, you can Special Summon this card from your hand face-up to your field.",
 		"requirement": "Send 1 other card from your field to the Graveyard.",
 		"effect": "This turn, this card\u0027s name becomes \"Cyber Dragon\". Then, you can Special Summon 1 \"Cyber Dragon\" from your Graveyard face-up to your field.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 5,
 			"atk": 1500,
 			"def": 1600,
 			"attribute": "LIGHT",
 			"race": "MACHINE"
-		}
+		},
+		"cardObtain": [
+			"Selection BOX Vol.03"
+		]
 	},
 	{
 		"id": 18951,
@@ -18586,14 +18668,17 @@
 		"isLegend": false,
 		"requirement": "None",
 		"effect": "Toss a coin. Heads: All face-up monsters on your field gain 500 ATK until the end of this turn. Tails: You can make 1 face-up monster on your opponent\u0027s field lose 800 ATK/DEF until the end of this turn.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 3,
 			"atk": 1200,
 			"def": 1000,
 			"attribute": "EARTH",
 			"race": "MACHINE"
-		}
+		},
+		"cardObtain": [
+			"Selection BOX Vol.03"
+		]
 	},
 	{
 		"id": 19314,
@@ -19070,7 +19155,7 @@
 		"effectType": "NORMAL",
 		"isLegend": false,
 		"requirement": "Send the top 2 cards of your Deck and this face-up card from your field to the Graveyard.",
-		"effect": "Special Summon 1 \"Blue-Fang Burst Dragon\" or \"Red Boot Boost Dragon\" from your hand to your field in face-up Defense Position. Then, you can add 1 \"Dragon\u0027s Burst Fusion\" or \"Dragon\u0027s Boost Fusion\" from your Graveyard to your hand.",
+		"effect": "Special Summon 1 \"Blue-Fang Burst Dragon\" or \"Red-Boot Boost Dragon\" from your hand to your field in face-up Defense Position. Then, you can add 1 \"Dragons Burst Fusion\" or \"Dragons Boost Fusion\" from your Graveyard to your hand.",
 		"rarity": "SR",
 		"monsterInfo": {
 			"level": 1,
@@ -19376,7 +19461,10 @@
 			"def": 0,
 			"attribute": "LIGHT",
 			"race": "FIEND"
-		}
+		},
+		"cardObtain": [
+			"Selection BOX Vol.03"
+		]
 	},
 	{
 		"id": 19927,
@@ -20600,7 +20688,10 @@
 		"isLegend": false,
 		"requirement": "If your opponent has 1 or less card in their hand.",
 		"effect": "Change the battle position of 1 monster on your opponent\u0027s field to face-up Attack Position or face-down Defense Position. This turn, if your opponent activated a Trap Card, or it is the first turn of the player going second, both players also draw 2 cards.",
-		"rarity": "NPC"
+		"rarity": "SR",
+		"cardObtain": [
+			"Selection BOX Vol.03"
+		]
 	},
 	{
 		"id": 21034,
