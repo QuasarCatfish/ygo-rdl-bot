@@ -14228,14 +14228,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "The most buoyant of the Wooly Wonderland flock. It always remains serene and laid baaack.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 2,
 			"atk": 1000,
 			"def": 500,
 			"attribute": "WATER",
 			"race": "BEAST"
-		}
+		},
+		"cardObtain": [
+			"Trader (Featured Inventory)"
+		]
 	},
 	{
 		"id": 17850,
@@ -14245,14 +14248,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "The most lambent of the Wooly Wonderland flock. It conducts the others\u0027 activities, always with a twinkle in its eye.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 3,
 			"atk": 1200,
 			"def": 400,
 			"attribute": "LIGHT",
 			"race": "BEAST"
-		}
+		},
+		"cardObtain": [
+			"Trader (Featured Inventory)"
+		]
 	},
 	{
 		"id": 17851,
@@ -14262,14 +14268,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "The free-roamer of the Wooly Wonderland flock. It remains blase even while others around are venting.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 3,
 			"atk": 1300,
 			"def": 200,
 			"attribute": "WIND",
 			"race": "BEAST"
-		}
+		},
+		"cardObtain": [
+			"Trader (Featured Inventory)"
+		]
 	},
 	{
 		"id": 17852,
@@ -14524,14 +14533,17 @@
 		"isLegend": false,
 		"requirement": "Send the top card of your Deck to the Graveyard.",
 		"effect": "Gain 200 LP. If you have 3 or more Beast Type Normal Monsters with different Attributes in your Graveyard, you can also Special Summon 1 \"Princess of the Flock - Miss Mutton\" from your Graveyard face-up to your field.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 3,
 			"atk": 800,
 			"def": 300,
 			"attribute": "WATER",
 			"race": "BEAST"
-		}
+		},
+		"cardObtain": [
+			"Trader (Featured Inventory)"
+		]
 	},
 	{
 		"id": 17875,
