@@ -16877,6 +16877,24 @@
 		]
 	},
 	{
+		"id": 18579,
+		"name": "Tamaniabot",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Tamabot\" + \"Tamabot\"",
+		"requirement": "None",
+		"effect": "Your opponent draws 1 card and shows it. If it was a monster, this card gains ATK equal to [the shown monster\u0027s ATK] until the end of this turn.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 2,
+			"atk": 2000,
+			"def": 2000,
+			"attribute": "EARTH",
+			"race": "MACHINE"
+		}
+	},
+	{
 		"id": 18580,
 		"name": "Silent Doom",
 		"cardType": "SPELL",
@@ -19056,6 +19074,41 @@
 		]
 	},
 	{
+		"id": 19570,
+		"name": "Yamiluna the Dark Devotee",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "If you have \"Yamiruler the Dark Delayer\" face-up on your field, you can Special Summon this card from your hand face-up to your field.",
+		"requirement": "Change the battle position of 1 face-up monster on your field.",
+		"effect": "As long as it stays face-up, 1 \"Yamiruler the Dark Delayer\" on your field gains 500 ATK, and if it attacks a Defense Position monster, inflict piercing battle damage.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2500,
+			"def": 2500,
+			"attribute": "DARK",
+			"race": "WARRIOR"
+		}
+	},
+	{
+		"id": 19574,
+		"name": "Seyanen the Blazing Conqueror",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "You have no other monsters on your field.",
+		"effect": "Add 1 Level 8 FIRE or DARK Attribute Warrior Type monster from your Graveyard to your hand. Your monsters with 1900 or less DEF cannot attack this turn.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1000,
+			"def": 1200,
+			"attribute": "FIRE",
+			"race": "WARRIOR"
+		}
+	},
+	{
 		"id": 19595,
 		"name": "Dark Sword Magician",
 		"cardType": "EFFECT",
@@ -19718,6 +19771,16 @@
 			"attribute": "LIGHT",
 			"race": "BEAST"
 		}
+	},
+	{
+		"id": 20151,
+		"name": "Shiny Shady",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During your opponent\u0027s turn, when your opponent Normal or Special Summons a monster, send 1 card from your hand to the Graveyard.",
+		"effect": "Change the battle position of up to 2 face-up Effect Monsters on either field to face-down Defense Position. If you choose a monster with 2600 or higher original ATK, you also gain 1500 LP.",
+		"rarity": "SR"
 	},
 	{
 		"id": 20157,
@@ -20595,6 +20658,25 @@
 		}
 	},
 	{
+		"id": 20850,
+		"name": "Fullmetarion Ashurastar",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "MULTICHOICE",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Imaginary Actor\" + 1 Level 9 Cyborg Type monster",
+		"requirement": "Place 1 card from your hand on the bottom of the Deck.",
+		"effect": "⬤ Special Summon 1 Level 9 Cyborg Type monster fom your Graveyard to your field in face-up Defense Position.\n⬤ Choose 1 face-up non-Cyborg Type monster on your opponent\u0027s field, and this card gains ATK equal to [the chosen monster\u0027s ATK] until the end of this turn.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 10,
+			"atk": 3200,
+			"def": 2500,
+			"attribute": "LIGHT",
+			"race": "CYBORG"
+		}
+	},
+	{
 		"id": 20854,
 		"name": "Imaginary Reactor",
 		"cardType": "EFFECT",
@@ -20613,6 +20695,34 @@
 		"cardObtain": [
 			"Fusion of Revolution (Mini Box)"
 		]
+	},
+	{
+		"id": 20858,
+		"name": "Imaginary Leading Actor",
+		"cardType": "EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send the top 3 cards of your Deck to the Graveyard.",
+		"effect": "This turn, this card\u0027s name becomes \"Imaginary Actor\". Then, you can add 1 LIGHT Attribute Normal Monster with 500 DEF and/or 1 \"Fusion\" from your Graveyard to your hand.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2500,
+			"def": 500,
+			"attribute": "LIGHT",
+			"race": "MACHINE"
+		}
+	},
+	{
+		"id": 20860,
+		"name": "Imaginary Arc Talents",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Excavate 4 cards from the top of your Deck. You can send either 1 LIGHT Attribute Normal Monster with 500 DEF or 1 \"Fusion\" from among the cards to the Graveyard. Place the other cards on the bottom of your Deck in any order. If you sent a card to the Graveyard, you can also draw 1 card.",
+		"rarity": "SR"
 	},
 	{
 		"id": 20886,
@@ -20636,6 +20746,43 @@
 			"GO RUSH!! World Release Celebration Campaign",
 			"Lifetime Mission Reward"
 		]
+	},
+	{
+		"id": 20890,
+		"name": "Fullmetarion Ashurastar",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "MULTICHOICE",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Imaginary Actor\" + 1 Level 9 Cyborg Type monster",
+		"requirement": "Place 1 card from your hand on the bottom of the Deck.",
+		"effect": "⬤ Special Summon 1 Level 9 Cyborg Type monster fom your Graveyard to your field in face-up Defense Position.\n⬤ Choose 1 face-up non-Cyborg Type monster on your opponent\u0027s field, and this card gains ATK equal to [the chosen monster\u0027s ATK] until the end of this turn.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 10,
+			"atk": 3200,
+			"def": 2500,
+			"attribute": "LIGHT",
+			"race": "CYBORG"
+		}
+	},
+	{
+		"id": 20892,
+		"name": "Imaginary Leading Actor",
+		"cardType": "EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send the top 3 cards of your Deck to the Graveyard.",
+		"effect": "This turn, this card\u0027s name becomes \"Imaginary Actor\". Then, you can add 1 LIGHT Attribute Normal Monster with 500 DEF and/or 1 \"Fusion\" from your Graveyard to your hand.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2500,
+			"def": 500,
+			"attribute": "LIGHT",
+			"race": "MACHINE"
+		}
 	},
 	{
 		"id": 20954,
