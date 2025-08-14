@@ -3735,7 +3735,8 @@
 			"Standard Duelist Duel Reward",
 			"Legendary Duelist Duel Reward",
 			"Tag Duel Tournament",
-			"Ranked Duels Reward Ticket"
+			"Ranked Duels Reward Ticket",
+			"Wave Duel Scramble"
 		]
 	},
 	{
@@ -6332,7 +6333,8 @@
 		"cardObtain": [
 			"Standard Duelist Duel Reward",
 			"Legendary Duelist Duel Reward",
-			"Ranked Duels Reward Ticket"
+			"Ranked Duels Reward Ticket",
+			"Wave Duel Scramble"
 		]
 	},
 	{
@@ -13516,7 +13518,8 @@
 			"Yudias Velgear Level Up Reward",
 			"Yudias Velgear Duel Reward",
 			"GR Festival Special Pack Vol.02",
-			"WCS Qualifiers Special Pack Vol.02 (Rush)"
+			"WCS Qualifiers Special Pack Vol.02 (Rush)",
+			"Wave Duel Scramble"
 		]
 	},
 	{
@@ -14437,7 +14440,8 @@
 		},
 		"cardObtain": [
 			"Maddox Sogetsu Level Up Reward",
-			"Maddox Sogetsu Duel Reward"
+			"Maddox Sogetsu Duel Reward",
+			"Wave Duel Scramble"
 		]
 	},
 	{
@@ -14638,14 +14642,17 @@
 		"isLegend": false,
 		"requirement": "Change this Attack Position card to face-up Defense Position.",
 		"effect": "1 face-up monster on your opponent\u0027s field becomes Insect Type this turn. Then, if another face-up Defense Position monster is on the field, you can draw 1 card.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 2,
 			"atk": 800,
 			"def": 1200,
 			"attribute": "LIGHT",
 			"race": "INSECT"
-		}
+		},
+		"cardObtain": [
+			"Wave Duel Scramble"
+		]
 	},
 	{
 		"id": 17885,
