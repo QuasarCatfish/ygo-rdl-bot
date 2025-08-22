@@ -2255,5 +2255,89 @@
 		"mentionedCards": [
 			16993
 		]
+	},
+	{
+		"id": 5901,
+		"name": "Rush On - Ensembullfighter",
+		"requirement": "Activated at the beginning of the Duel.",
+		"effect": "Add 1 \"Ensembullfighter the Music Fiend\" to your Deck. (You can only have at most 3 copies.)",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			712
+		],
+		"mentionedCards": [
+			16187
+		]
+	},
+	{
+		"id": 5902,
+		"name": "Music Princess\u0027s Breath",
+		"requirement": "Can be activated from turn 2 onward by revealing 1 Warrior Type monster with 2000 or more DEF in your hand, if all of the monsters in your constructed Deck are WIND Attribute Warrior Type or WIND Attribute Beast Type monsters.",
+		"effect": "Add 1 \"Boton the Music Princess\" or \"Fusion\" from your Deck or Graveyard to your hand. This turn, you can Normal Summon/Set Warrior Type monsters with 2000 or more DEF with 1 less Tribute.",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			712
+		],
+		"mentionedCards": [
+			19116,
+			16934
+		]
+	},
+	{
+		"id": 5903,
+		"name": "Tiger Recital",
+		"requirement": "Can be activated from turn 2 onwards by shuffling 1 card from your hand into the Deck during a turn that you Normal Summoned \"Trumpetiger the Music Fiend\".",
+		"effect": "Add 1 \"Ensembullfighter the Music Fiend\" or \"Digisoon the Music Fiend\" from your Deck or Graveyard to your hand.",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			712
+		],
+		"mentionedCards": [
+			19112,
+			16187,
+			16150
+		]
+	},
+	{
+		"id": 5904,
+		"name": "Music Fiend Pierce",
+		"requirement": "Can be activated from turn 2 onward.",
+		"effect": "Choose 1 face-up \"Ensembullfighter the Music Fiend\" or \"Digisoon the Music Fiend\" on your field that was Normal or Special Summoned this turn. This turn, that monster will inflict piercing battle damage. Then, you can add 1 \"Music Princess\u0027s Whirling Wind\" from outside your Deck to your hand. (Once per Duel if going first, twice per Duel if going second.)",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			712
+		],
+		"mentionedCards": [
+			16187,
+			16150,
+			16604
+		]
+	},
+	{
+		"id": 5905,
+		"name": "Avaricious Destiny Draw",
+		"requirement": "Can be activated from turn 2 onward before your normal draw. (Once per Duel if going first, twice per Duel if going second.)",
+		"effect": "Place 1 \"Pot of Avarice\" from your Deck or Graveyard on top of your Deck. In this Draw Phase, if you would draw until you have 5 cards for your normal draw, instead draw until you have 6 cards.",
+		"effectType": "NORMAL",
+		"isArchive": true,
+		"mentionedCards": [
+			17724
+		]
+	},
+	{
+		"id": 5906,
+		"name": "Vi-FRND LIVE!",
+		"requirement": "Can be activated from turn 2 onward if all of the monsters in your constructed Deck are Psychic Type monsters and all of the Level 5 or higher monsters in your constructed Deck have 0 DEF.",
+		"effect": "Send 1 DARK Attribute monster with 2400 or less ATK from your Deck to your Graveyard. If you are going second, you can add that monster to your hand instead (once per Duel). This turn, you can Normal Summon/Set DARK Attribute monsters with 1 less Tribute.",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			704
+		],
+		"mentionedCards": []
 	}
 ]

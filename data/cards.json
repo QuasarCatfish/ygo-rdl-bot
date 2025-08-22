@@ -234,7 +234,8 @@
 			"Selection BOX Vol.01",
 			"Fusion of Revolution (Mini Box)",
 			"Boost Red-Boot (Deck Build Box)",
-			"Sevens Road Phantasm (Structure Deck)"
+			"Sevens Road Phantasm (Structure Deck)",
+			"Extreme Overlord (Mini Box)"
 		]
 	},
 	{
@@ -5137,7 +5138,10 @@
 		"isLegend": false,
 		"requirement": "None",
 		"effect": "Send any number of monsters from your hand to the Graveyard. If [the total Levels of those monsters sent to the Graveyard by this effect] is 10 or higher, you can draw 2 cards.",
-		"rarity": "NPC"
+		"rarity": "SR",
+		"cardObtain": [
+			"Extreme Overlord (Mini Box)"
+		]
 	},
 	{
 		"id": 16111,
@@ -5419,14 +5423,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "The heart and soul of the band. Her dynamic tones make her an excellent solo fighter, but she needs help to equip the weapon on her left arm.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 3,
 			"atk": 1000,
 			"def": 1200,
 			"attribute": "WIND",
 			"race": "WARRIOR"
-		}
+		},
+		"cardObtain": [
+			"Extreme Overlord (Mini Box)"
+		]
 	},
 	{
 		"id": 16128,
@@ -5436,14 +5443,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "The vanguard of the band. She creates beautiful melodies by swinging her axes through the air. Some believe she chooses her outfit to hide the weaponry, but it\u0027s just because she gets cold easily.",
-		"rarity": "NPC",
+		"rarity": "R",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1500,
 			"def": 0,
 			"attribute": "WIND",
 			"race": "WARRIOR"
-		}
+		},
+		"cardObtain": [
+			"Extreme Overlord (Mini Box)"
+		]
 	},
 	{
 		"id": 16129,
@@ -5823,31 +5833,37 @@
 		"isLegend": false,
 		"requirement": "Your opponent has a face-up monster on their field.",
 		"effect": "Send the top card of your Deck to the Graveyard. If you sent a WIND Attribute Warrior Type monster to the Graveyard by this effect, 1 face-up monster on your opponent\u0027s field loses ATK/DEF equal to [the number of face-up WIND Attribute Warior Type monsters on your field] x 500 until the end of this turn.",
-		"rarity": "NPC",
+		"rarity": "R",
 		"monsterInfo": {
 			"level": 5,
 			"atk": 1600,
 			"def": 500,
 			"attribute": "WIND",
 			"race": "WARRIOR"
-		}
+		},
+		"cardObtain": [
+			"Extreme Overlord (Mini Box)"
+		]
 	},
 	{
 		"id": 16149,
-		"name": "Trumpetonea the Music Princess",
+		"name": "Trumpetonfa the Music Princess",
 		"cardType": "EFFECT",
 		"effectType": "NORMAL",
 		"isLegend": false,
 		"requirement": "You have a Warrior Type Normal Monster in your Graveyard.",
 		"effect": "Send the top card of your Deck to the Graveyard, then 1 face-up monster on your field gains ATK equal to [the number of Warrior Type Normal Monsters in your Graveyard] x 100 until the end of this turn.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 6,
 			"atk": 1600,
 			"def": 1000,
 			"attribute": "WIND",
 			"race": "WARRIOR"
-		}
+		},
+		"cardObtain": [
+			"Extreme Overlord (Mini Box)"
+		]
 	},
 	{
 		"id": 16150,
@@ -5857,14 +5873,17 @@
 		"isLegend": false,
 		"requirement": "If your opponent has a Defense Position monster on their field, send the top card of your Deck to the Graveyard.",
 		"effect": "This card gains ATK equal to the number of Defense Position monsters on the opponent\u0027s field] x 800 until the end of this turn.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 8,
 			"atk": 2400,
 			"def": 2000,
 			"attribute": "WIND",
 			"race": "WARRIOR"
-		}
+		},
+		"cardObtain": [
+			"Extreme Overlord (Mini Box)"
+		]
 	},
 	{
 		"id": 16151,
@@ -6136,7 +6155,10 @@
 		"isLegend": false,
 		"requirement": "You have 2 face-up WIND Attribute Warrior Type monsters on your field.",
 		"effect": "Special Summon 1 Level 6 or lower Warrior Type monster from your Graveyard face-up to your field, but it cannot attack directly this turn.",
-		"rarity": "NPC"
+		"rarity": "UR",
+		"cardObtain": [
+			"Tiadosia \"Tiger\" Kallister Level Up Reward"
+		]
 	},
 	{
 		"id": 16168,
@@ -6258,6 +6280,26 @@
 			"Asana Mutsuba Level Up Reward",
 			"GR Festival Special Pack Vol.02",
 			"WCS Qualifiers Special Pack Vol.02 (Rush)"
+		]
+	},
+	{
+		"id": 16187,
+		"name": "Ensembullfighter the Music Fiend",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 card from your hand to the Graveyard.",
+		"effect": "This turn, while this card is face-up, your opponent cannot activate Trap Cards when your WIND Attribute Warrior Type monsters declare attacks.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2200,
+			"def": 2200,
+			"attribute": "WIND",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"Tiadosia \"Tiger\" Kallister Duel Reward"
 		]
 	},
 	{
@@ -7843,14 +7885,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "The jack of all trades in the band. The gentle melody fills weight in each swing. The top of the head glows when excited.",
-		"rarity": "NPC",
+		"rarity": "R",
 		"monsterInfo": {
 			"level": 3,
 			"atk": 800,
 			"def": 1400,
 			"attribute": "WIND",
 			"race": "WARRIOR"
-		}
+		},
+		"cardObtain": [
+			"Extreme Overlord (Mini Box)"
+		]
 	},
 	{
 		"id": 16602,
@@ -7860,14 +7905,30 @@
 		"isLegend": false,
 		"requirement": "During the turn you Normal Summoned this card.",
 		"effect": "Send the top card of your Deck to the Graveyard. Then, if you sent a Warrior Type monster to the Graveyard by this effect, you can add 1 Warrior Type Normal Monster from your Graveyard to your hand.",
-		"rarity": "NPC",
+		"rarity": "R",
 		"monsterInfo": {
 			"level": 2,
 			"atk": 500,
 			"def": 500,
 			"attribute": "WIND",
 			"race": "WARRIOR"
-		}
+		},
+		"cardObtain": [
+			"Extreme Overlord (Mini Box)"
+		]
+	},
+	{
+		"id": 16603,
+		"name": "Straight Pierce",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Shuffle 5 WIND Attribute Warrior Type monsters from your Graveyard into the Deck.",
+		"effect": "Choose 1 face-up Level 7 or 8 monster on your field. This turn, the chosen monster gains 2000 ATK, and inflicts piercing battle damage (If the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference).",
+		"rarity": "N",
+		"cardObtain": [
+			"Extreme Overlord (Mini Box)"
+		]
 	},
 	{
 		"id": 16604,
@@ -7877,7 +7938,10 @@
 		"isLegend": false,
 		"requirement": "You have a face-up Level 5 or higher WIND Attribute Warrior Type monster on your field.",
 		"effect": "Change up to 2 Attack Position monsters on your opponent\u0027s field to face-up Defense Position.",
-		"rarity": "NPC"
+		"rarity": "N",
+		"cardObtain": [
+			"Extreme Overlord (Mini Box)"
+		]
 	},
 	{
 		"id": 16607,
@@ -8525,7 +8589,8 @@
 		},
 		"cardObtain": [
 			"Steel Kaleidomirror (Mini Box)",
-			"Cyber Dragon Launch (Structure Deck)"
+			"Cyber Dragon Launch (Structure Deck)",
+			"Extreme Overlord (Mini Box)"
 		]
 	},
 	{
@@ -8613,14 +8678,17 @@
 		"isLegend": false,
 		"requirement": "Send 1 card from your hand to the Graveyard.",
 		"effect": "Choose 1 face-up WIND Attribute monster on your field. If it attacks a Defense Position monster this turn, inflict piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference).",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 6,
 			"atk": 1700,
 			"def": 0,
 			"attribute": "WIND",
 			"race": "WARRIOR"
-		}
+		},
+		"cardObtain": [
+			"Extreme Overlord (Mini Box)"
+		]
 	},
 	{
 		"id": 16693,
@@ -9675,7 +9743,8 @@
 		},
 		"cardObtain": [
 			"Fusion of Revolution (Mini Box)",
-			"Boost Red-Boot (Deck Build Box)"
+			"Boost Red-Boot (Deck Build Box)",
+			"Extreme Overlord (Mini Box)"
 		]
 	},
 	{
@@ -9717,7 +9786,8 @@
 		},
 		"cardObtain": [
 			"Fusion of Revolution (Mini Box)",
-			"Boost Red-Boot (Deck Build Box)"
+			"Boost Red-Boot (Deck Build Box)",
+			"Extreme Overlord (Mini Box)"
 		]
 	},
 	{
@@ -10048,7 +10118,8 @@
 			"Infinite Grand Crush (Deck Build Box)",
 			"Eternal Galaxy Road (Mini Box)",
 			"Sevens Road Phantasm (Structure Deck)",
-			"Forbidden Fantastic Show (Deck Build Box)"
+			"Forbidden Fantastic Show (Deck Build Box)",
+			"Extreme Overlord (Mini Box)"
 		]
 	},
 	{
@@ -10202,7 +10273,8 @@
 			"Heavy Metal Scream (Mini Box)",
 			"Legend of Dark Magic (Structure Deck)",
 			"Selection BOX Vol.01",
-			"Selection BOX Vol.03"
+			"Selection BOX Vol.03",
+			"Extreme Overlord (Mini Box)"
 		]
 	},
 	{
@@ -11565,7 +11637,8 @@
 		},
 		"cardObtain": [
 			"Genesis Maximum (Mini Box)",
-			"Requiem of Collapse (Mini Box)"
+			"Requiem of Collapse (Mini Box)",
+			"Extreme Overlord (Mini Box)"
 		]
 	},
 	{
@@ -11813,7 +11886,8 @@
 			"race": "THUNDER"
 		},
 		"cardObtain": [
-			"Requiem of Collapse (Mini Box)"
+			"Requiem of Collapse (Mini Box)",
+			"Extreme Overlord (Mini Box)"
 		]
 	},
 	{
@@ -12037,7 +12111,8 @@
 			"race": "THUNDER"
 		},
 		"cardObtain": [
-			"Requiem of Collapse (Mini Box)"
+			"Requiem of Collapse (Mini Box)",
+			"Extreme Overlord (Mini Box)"
 		]
 	},
 	{
@@ -13125,7 +13200,8 @@
 			"Fusion of Revolution (Mini Box)",
 			"Boost Red-Boot (Deck Build Box)",
 			"Selection BOX Vol.03",
-			"Forbidden Fantastic Show (Deck Build Box)"
+			"Forbidden Fantastic Show (Deck Build Box)",
+			"Extreme Overlord (Mini Box)"
 		]
 	},
 	{
@@ -13732,6 +13808,62 @@
 		"cardObtain": [
 			"Steel Kaleidomirror (Mini Box)"
 		]
+	},
+	{
+		"id": 17665,
+		"name": "Supreme Beasteam Magnum Overlord [L]",
+		"cardType": "MAXIMUM",
+		"cardStyle": "ORIGINAL",
+		"effectType": "CONTINUOUS",
+		"isLegend": false,
+		"requirement": "Maximum Mode",
+		"effect": "This card gains ATK equal to [the number of monsters on your opponent\u0027s field] x 500. If you have 10 or more monsters in your Graveyard, this card inflicts piercing battle damage.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 800,
+			"def": 0,
+			"attribute": "DARK",
+			"race": "MACHINE"
+		}
+	},
+	{
+		"id": 17666,
+		"name": "Supreme Beasteam Magnum Overlord",
+		"cardType": "MAXIMUM",
+		"cardStyle": "ORIGINAL",
+		"effectType": "CONTINUOUS",
+		"isLegend": false,
+		"inherentSummonCondition": "You can Maximum Summon this card together with \"Supreme Beasteam Magnum Overlord [L]\" and \"Supreme Beasteam Magnum Overlord [R]\".",
+		"requirement": "Maximum Mode",
+		"effect": "This card cannot be destroyed by your opponent\u0027s Trap Card effects.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 10,
+			"atk": 1900,
+			"def": 0,
+			"maxAtk": 3500,
+			"attribute": "DARK",
+			"race": "MACHINE"
+		}
+	},
+	{
+		"id": 17667,
+		"name": "Supreme Beasteam Magnum Overlord [R]",
+		"cardType": "MAXIMUM",
+		"cardStyle": "ORIGINAL",
+		"effectType": "CONTINUOUS",
+		"isLegend": false,
+		"requirement": "Maximum Mode",
+		"effect": "During the turn your opponent Special Summoned a Level 5 or higher monster face-up, your opponent cannot activate the effects of Level 10 or lower face-up monsters while this card is face-up.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 500,
+			"def": 0,
+			"attribute": "DARK",
+			"race": "MACHINE"
+		}
 	},
 	{
 		"id": 17671,
@@ -14796,6 +14928,26 @@
 		]
 	},
 	{
+		"id": 17924,
+		"name": "Twin-Barrel Dragon",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": true,
+		"requirement": "During your Main Phase that you Normal or Special Summoned this card.",
+		"effect": "Choose 1 card on your opponent\u0027s field, and toss a coin twice. If the result is 2 heads, destroy it.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1700,
+			"def": 200,
+			"attribute": "DARK",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"Ranked Duels Reward Ticket"
+		]
+	},
+	{
 		"id": 17926,
 		"name": "Flame Ruler",
 		"cardType": "EFFECT",
@@ -15724,14 +15876,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "Equipped with a multipurpose shovel, this police robot can simultaneously carry out field work and security duties.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1500,
 			"def": 0,
 			"attribute": "EARTH",
 			"race": "MACHINE"
-		}
+		},
+		"cardObtain": [
+			"Extreme Overlord (Mini Box)"
+		]
 	},
 	{
 		"id": 18240,
@@ -16296,14 +16451,17 @@
 		"isLegend": false,
 		"requirement": "You have another face-up LIGHT Attribute Machine Type monster on your field.",
 		"effect": "Send the top 3 cards of your Deck to the Graveyard. If 2 or more LIGHT Attribute Machine Type monsters were sent to the Graveyard by this effect, you can also draw 1 card.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 1,
 			"atk": 0,
 			"def": 0,
 			"attribute": "LIGHT",
 			"race": "MACHINE"
-		}
+		},
+		"cardObtain": [
+			"Extreme Overlord (Mini Box)"
+		]
 	},
 	{
 		"id": 18358,
@@ -16519,6 +16677,19 @@
 		"requirement": "If you have a face-up Level 6 monster on your field, send 1 monster from your hand to the Graveyard.",
 		"effect": "Draw 2 cards.",
 		"rarity": "NPC"
+	},
+	{
+		"id": 18394,
+		"name": "Heavenly Selection",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If the total Level of all face-up monsters on your field are 10 or higher.",
+		"effect": "Destroy 1 Spell/Trap Card on your opponent\u0027s field. If you only have 1 face-up monster on your field, you can also make 1 face-up monster on your opponent\u0027s field lose 1000 ATK until the end of this turn.",
+		"rarity": "R",
+		"cardObtain": [
+			"Extreme Overlord (Mini Box)"
+		]
 	},
 	{
 		"id": 18398,
@@ -17529,6 +17700,71 @@
 		"rarity": "NPC"
 	},
 	{
+		"id": 18875,
+		"name": "Supreme Beasteam Magnum Overlord [L]",
+		"cardType": "MAXIMUM",
+		"cardStyle": "OR_STYLE",
+		"effectType": "CONTINUOUS",
+		"isLegend": false,
+		"requirement": "Maximum Mode",
+		"effect": "This card gains ATK equal to [the number of monsters on your opponent\u0027s field] x 500. If you have 10 or more monsters in your Graveyard, this card inflicts piercing battle damage.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 800,
+			"def": 0,
+			"attribute": "DARK",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"Extreme Overlord (Mini Box)"
+		]
+	},
+	{
+		"id": 18876,
+		"name": "Supreme Beasteam Magnum Overlord",
+		"cardType": "MAXIMUM",
+		"cardStyle": "OR_STYLE",
+		"effectType": "CONTINUOUS",
+		"isLegend": false,
+		"inherentSummonCondition": "You can Maximum Summon this card together with \"Supreme Beasteam Magnum Overlord [L]\" and \"Supreme Beasteam Magnum Overlord [R]\".",
+		"requirement": "Maximum Mode",
+		"effect": "This card cannot be destroyed by your opponent\u0027s Trap Card effects.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 10,
+			"atk": 1900,
+			"def": 0,
+			"maxAtk": 3500,
+			"attribute": "DARK",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"Extreme Overlord (Mini Box)"
+		]
+	},
+	{
+		"id": 18877,
+		"name": "Supreme Beasteam Magnum Overlord [R]",
+		"cardType": "MAXIMUM",
+		"cardStyle": "OR_STYLE",
+		"effectType": "CONTINUOUS",
+		"isLegend": false,
+		"requirement": "Maximum Mode",
+		"effect": "During the turn your opponent Special Summoned a Level 5 or higher monster face-up, your opponent cannot activate the effects of Level 10 or lower face-up monsters while this card is face-up.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 500,
+			"def": 0,
+			"attribute": "DARK",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"Extreme Overlord (Mini Box)"
+		]
+	},
+	{
 		"id": 18893,
 		"name": "Crack Neutron",
 		"cardType": "NORMAL",
@@ -18072,6 +18308,27 @@
 		}
 	},
 	{
+		"id": 18973,
+		"name": "Cyber Tactical Dragon",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Cyber Assault Dragon\" + \"Cyber Dragon\"",
+		"requirement": "Shuffle 2 LIGHT Attribute Machine Type monsters from your Graveyard into the Deck.",
+		"effect": "Destroy up to 2 face-up monsters whose combined ATK is less than or equal to this monster\u0027s ATK.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 3200,
+			"def": 2100,
+			"attribute": "LIGHT",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"Extreme Overlord (Mini Box)"
+		]
+	},
+	{
 		"id": 18974,
 		"name": "Space Fusion - Extra Plasma",
 		"cardType": "FUSION_EFFECT",
@@ -18371,6 +18628,130 @@
 		]
 	},
 	{
+		"id": 19109,
+		"name": "Divinebreath the Orchestral Music Fiend",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Digisoon the Music Fiend\" + \"Boton the Music Princess\"",
+		"requirement": "Send up to 3 cards from your hand to the Graveyard.",
+		"effect": "This turn, this card cannot be destroyed by your opponent\u0027s Trap Card effects and it inflicts piercing battle damage. If you activated this effect during your Main Phase that you Special Summoned this card, it also gains ATK equal to [the number of monsters sent to the Graveyard to meet the requirement] x 1000 until the end of this turn.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 3000,
+			"def": 3000,
+			"attribute": "WIND",
+			"race": "WARRIOR"
+		}
+	},
+	{
+		"id": 19110,
+		"name": "Full Orchestra the Music Fiend",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Ensembullfighter the Music Fiend\" + \"Boton the Music Princess\"",
+		"requirement": "Send 1 card from your hand to the Graveyard.",
+		"effect": "Destroy all face-down cards in your opponent\u0027s Spell \u0026 Trap Zone. This card gains ATK equal to [the number of cards destroyed by this effect] x 600 until the end of this turn.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 2900,
+			"def": 2900,
+			"attribute": "WIND",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"Tiadosia \"Tiger\" Kallister Duel Reward"
+		]
+	},
+	{
+		"id": 19112,
+		"name": "Trumpetiger the Music Fiend",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "This card gains 300 ATK until the end of this turn. Then, you can Special Summon 1 Level 8 or lower WIND Attribute Warrior Type monster from your hand face-up to your field.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2300,
+			"def": 1500,
+			"attribute": "WIND",
+			"race": "BEAST"
+		},
+		"cardObtain": [
+			"Tiadosia \"Tiger\" Kallister Level Up Reward"
+		]
+	},
+	{
+		"id": 19115,
+		"name": "Ophiclaymore the Music Princess",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "The veteran of the band. She provides her allies with resounding support. The impressive progress of the young Tubardiche gives her hope for the future.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 2100,
+			"def": 400,
+			"attribute": "WIND",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"Tiadosia \"Tiger\" Kallister Level Up Reward"
+		]
+	},
+	{
+		"id": 19116,
+		"name": "Boton the Music Princess",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "The linchpin of the band. She commands her characterful comrades with deft motions of her rod. Say anything about her glasses and she\u0027ll stir up a storm.",
+		"rarity": "N",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 0,
+			"def": 500,
+			"attribute": "WIND",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"Extreme Overlord (Mini Box)"
+		]
+	},
+	{
+		"id": 19117,
+		"name": "Music Princess\u0027s Battle Ballet",
+		"cardType": "SPELL",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "You have 5 or more WIND Attribute Warrior Type monsters in your Graveyard.",
+		"effect": "Fusion Summon a WIND Attribute Warrior Type Monster by shuffling monsters from your hand and/or Graveyard into the Deck as materials.",
+		"rarity": "SR"
+	},
+	{
+		"id": 19120,
+		"name": "Destruction of the Universe",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When an opponent\u0027s monster declares an attack, pay 3000 LP.",
+		"effect": "Destroy the attacking monster.",
+		"rarity": "SR",
+		"cardObtain": [
+			"Extreme Overlord (Mini Box)"
+		]
+	},
+	{
 		"id": 19126,
 		"name": "Constructor Sentry Dragline",
 		"cardType": "EFFECT",
@@ -18418,6 +18799,42 @@
 		},
 		"cardObtain": [
 			"Trader (Featured Inventory)"
+		]
+	},
+	{
+		"id": 19227,
+		"name": "Divinebreath the Orchestral Music Fiend",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Digisoon the Music Fiend\" + \"Boton the Music Princess\"",
+		"requirement": "Send up to 3 cards from your hand to the Graveyard.",
+		"effect": "This turn, this card cannot be destroyed by your opponent\u0027s Trap Card effects and it inflicts piercing battle damage. If you activated this effect during your Main Phase that you Special Summoned this card, it also gains ATK equal to [the number of monsters sent to the Graveyard to meet the requirement] x 1000 until the end of this turn.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 3000,
+			"def": 3000,
+			"attribute": "WIND",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"Extreme Overlord (Mini Box)"
+		]
+	},
+	{
+		"id": 19229,
+		"name": "Music Princess\u0027s Battle Ballet",
+		"cardType": "SPELL",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "You have 5 or more WIND Attribute Warrior Type monsters in your Graveyard.",
+		"effect": "Fusion Summon a WIND Attribute Warrior Type Monster by shuffling monsters from your hand and/or Graveyard into the Deck as materials.",
+		"rarity": "SR",
+		"cardObtain": [
+			"Extreme Overlord (Mini Box)"
 		]
 	},
 	{
@@ -18847,7 +19264,8 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Selection BOX Vol.02"
+			"Selection BOX Vol.02",
+			"Extreme Overlord (Mini Box)"
 		]
 	},
 	{
@@ -19175,6 +19593,77 @@
 		]
 	},
 	{
+		"id": 19579,
+		"name": "Vi-FRND",
+		"cardType": "EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send up to 5 cards from the top of your Deck to the Graveyard.",
+		"effect": "This card gains 500 ATK until the end of this turn. Then, if you have \"Giftarist\", \"Romic n\u0027 Roller\", \"Berry Bassist\", \"Dream Drummer\", and \"Keytar Kid\" in your Graveyard, you can destroy 1 card on your opponent\u0027s field.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2500,
+			"def": 0,
+			"attribute": "DARK",
+			"race": "PSYCHIC"
+		}
+	},
+	{
+		"id": 19580,
+		"name": "Ordoll the Adorable Star",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During the turn you Normal Summoned this card.",
+		"effect": "Shuffle 2 monsters from your opponent\u0027s Graveyard into the Deck. Then, you can Special Summon 1 \"Ordoll the Adorable Star\" from your Graveyard to your field in face-up Defense Position.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 1000,
+			"def": 1000,
+			"attribute": "LIGHT",
+			"race": "PSYCHIC"
+		},
+		"cardObtain": [
+			"Extreme Overlord (Mini Box)"
+		]
+	},
+	{
+		"id": 19582,
+		"name": "Star\u0027s Hand Illuminator",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During your Main Phase that you Normal or Special Summoned this card.",
+		"effect": "Send the top 2 cards of your Deck to the Graveyard. Then, if you have \"Vi-FRND\" face-up on your field, you can look at up to 2 face-down cards on your opponent\u0027s field.",
+		"rarity": "N",
+		"monsterInfo": {
+			"level": 2,
+			"atk": 500,
+			"def": 0,
+			"attribute": "LIGHT",
+			"race": "PSYCHIC"
+		},
+		"cardObtain": [
+			"Extreme Overlord (Mini Box)"
+		]
+	},
+	{
+		"id": 19587,
+		"name": "Psychicomposition",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Pay 500 LP.",
+		"effect": "Add 1 DARK Attribute Psychic Type monster with 0 DEF from your Graveyard to your hand. Then, if it was \"Vi-FRND\", you can send the top 3 cards of your Deck to the Graveyard.",
+		"rarity": "R",
+		"cardObtain": [
+			"Extreme Overlord (Mini Box)"
+		]
+	},
+	{
 		"id": 19595,
 		"name": "Dark Sword Magician",
 		"cardType": "EFFECT",
@@ -19277,6 +19766,27 @@
 		},
 		"cardObtain": [
 			"Eternal Galaxy Road (Mini Box)"
+		]
+	},
+	{
+		"id": 19611,
+		"name": "Vi-FRND",
+		"cardType": "EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send up to 5 cards from the top of your Deck to the Graveyard.",
+		"effect": "This card gains 500 ATK until the end of this turn. Then, if you have \"Giftarist\", \"Romic n\u0027 Roller\", \"Berry Bassist\", \"Dream Drummer\", and \"Keytar Kid\" in your Graveyard, you can destroy 1 card on your opponent\u0027s field.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2500,
+			"def": 0,
+			"attribute": "DARK",
+			"race": "PSYCHIC"
+		},
+		"cardObtain": [
+			"Extreme Overlord (Mini Box)"
 		]
 	},
 	{
@@ -19822,6 +20332,45 @@
 		}
 	},
 	{
+		"id": 20142,
+		"name": "Supreme Machine Burning Overlord",
+		"cardType": "EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "If you have a face-up Machine Type Maximum Monster on your field, you can Normal Summon this card without Tributing.",
+		"requirement": "If you have 3 or more DARK Attribute Machine Type Maximum Monsters in your Graveyard, pay 500 LP.",
+		"effect": "This card gains 1200 ATK and cannot be destroyed by card effects, until the end of your opponent\u0027s next turn.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 5,
+			"atk": 1900,
+			"def": 0,
+			"attribute": "DARK",
+			"race": "MACHINE"
+		}
+	},
+	{
+		"id": 20144,
+		"name": "Trombow the Music Princess of Melodic Crown",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send the top 2 cards of your Deck to the Graveyard, then send 1 WIND Attribute Warrior Type monster from your hand to the Graveyard.",
+		"effect": "Draw 1 card. If you have a Normal Monster in your Graveyard, you can also change the battle position of 1 monster on either field.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 1000,
+			"def": 1000,
+			"attribute": "WIND",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"Extreme Overlord (Mini Box)"
+		]
+	},
+	{
 		"id": 20147,
 		"name": "Animagica Leader",
 		"cardType": "EFFECT",
@@ -19939,6 +20488,28 @@
 		]
 	},
 	{
+		"id": 20172,
+		"name": "Supreme Machine Burning Overlord",
+		"cardType": "EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "If you have a face-up Machine Type Maximum Monster on your field, you can Normal Summon this card without Tributing.",
+		"requirement": "If you have 3 or more DARK Attribute Machine Type Maximum Monsters in your Graveyard, pay 500 LP.",
+		"effect": "This card gains 1200 ATK and cannot be destroyed by card effects, until the end of your opponent\u0027s next turn.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 5,
+			"atk": 1900,
+			"def": 0,
+			"attribute": "DARK",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"Extreme Overlord (Mini Box)"
+		]
+	},
+	{
 		"id": 20300,
 		"name": "Hybridrive Scale",
 		"cardType": "EFFECT",
@@ -20045,6 +20616,26 @@
 			"attribute": "FIRE",
 			"race": "PYRO"
 		}
+	},
+	{
+		"id": 20326,
+		"name": "Dragonic Geist",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If the only monsters in your Graveyard are High Dragon and/or Dragon Type, send 2 Level 4 or lower face-up Effect Monsters from your field to the Graveyard.",
+		"effect": "Special Summon 1 Level 7 EARTH or DARK Attribute monster with 2500 ATK from your Graveyard face-up to your field.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 0,
+			"def": 0,
+			"attribute": "EARTH",
+			"race": "DRAGON"
+		},
+		"cardObtain": [
+			"Extreme Overlord (Mini Box)"
+		]
 	},
 	{
 		"id": 20342,
