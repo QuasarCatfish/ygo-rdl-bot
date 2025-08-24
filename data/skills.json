@@ -189,6 +189,7 @@
 			703,
 			705,
 			708,
+			712,
 			717,
 			902
 		],
@@ -230,6 +231,7 @@
 			706,
 			708,
 			709,
+			712,
 			717,
 			715,
 			901,
@@ -1429,6 +1431,7 @@
 		"effectType": "NORMAL",
 		"isArchive": false,
 		"characters": [
+			712,
 			717,
 			715,
 			901,
@@ -1446,6 +1449,7 @@
 		"effectType": "NORMAL",
 		"isArchive": false,
 		"characters": [
+			712,
 			715,
 			901,
 			902,
@@ -1651,6 +1655,7 @@
 		"effectType": "NORMAL",
 		"isArchive": false,
 		"characters": [
+			712,
 			717
 		],
 		"mentionedCards": [
@@ -1981,6 +1986,7 @@
 		"characters": [
 			701,
 			709,
+			712,
 			715,
 			902,
 			905
@@ -2324,6 +2330,9 @@
 		"effect": "Place 1 \"Pot of Avarice\" from your Deck or Graveyard on top of your Deck. In this Draw Phase, if you would draw until you have 5 cards for your normal draw, instead draw until you have 6 cards.",
 		"effectType": "NORMAL",
 		"isArchive": true,
+		"characters": [
+			712
+		],
 		"mentionedCards": [
 			17724
 		]
