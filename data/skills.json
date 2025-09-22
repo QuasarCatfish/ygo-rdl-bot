@@ -2352,5 +2352,49 @@
 			704
 		],
 		"mentionedCards": []
+	},
+	{
+		"id": 6001,
+		"name": "Giastar F Charge",
+		"requirement": "Can be activated if all the monsters in your constructed Deck are Dragon Type monsters and it contains 4 or more DARK Attribute monsters with 2500 ATK.",
+		"effect": "⬤ Make the original ATK of 1 face-up Level 7 DARK Attribute monster with 2500 ATK on your field become 2800 ATK until the end of this turn.\n⬤ If the total ATK of the face-up Level 5 or higher monsters on your opponent\u0027s field is 1400/2800/4200 or more, add 1/2/3 \"The Dragon\", \"Twin Edge Phantom Dragon\", and/or \"Fusion\" from your Deck or Graveyard to your hand. (\"The Dragon\" and \"Twin Edge Phantom Dragon\" only once per Duel each.)",
+		"effectType": "MULTICHOICE",
+		"isArchive": false,
+		"characters": [
+			702
+		],
+		"mentionedCards": [
+			16910,
+			20327,
+			16934
+		]
+	},
+	{
+		"id": 6002,
+		"name": "Handy Lady Mission",
+		"requirement": "Can be activated from turn 2 onward by sending \"Handy Lady\" from your hand or 1 face-up \"Handy Lady\" from your field to the Graveyard.",
+		"effect": "Add 1 \"Secret Order\" from your Deck or Graveyard to your hand.",
+		"effectType": "NORMAL",
+		"isArchive": true,
+		"mentionedCards": [
+			16670,
+			17212
+		]
+	},
+	{
+		"id": 6003,
+		"name": "Grand Slam Smasher",
+		"requirement": "Can be activated during a turn you Normal or Special Summoned a FIRE Attribute Warrior or Dragon Type Effect Monster with 2000 DEF.",
+		"effect": "Send 1 \"Gagaga Outfielder\", 1 \"Achacha Catcher\", and 1 \"Zubaba Batter\" from outside of your Deck to the Graveyard.",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			715
+		],
+		"mentionedCards": [
+			16970,
+			16971,
+			16972
+		]
 	}
 ]
