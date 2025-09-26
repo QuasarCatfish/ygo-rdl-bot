@@ -1313,7 +1313,7 @@
 		"name": "Cybernetic Combat Customization",
 		"condition": "This Skill can be used if all of the monsters in your Deck are Machine Type, and the Deck contains no Level 7 monsters.",
 		"requirement": "From turn 2 onward.",
-		"effect": "Choose 1 face-up monster on your field with 2100 or 2400 ATK, and it gains 500 ATK until the end of the turn. You can shuffle 1 card from your hand into the Deck, and if you do, add 1 \"Proto-Cyber Dragon\" or 1 \"Fusion\" from your Deck or Graveyard to your hand (each card once per Duel).",
+		"effect": "Choose 1 face-up monster on your field with 2100 or 2400 ATK, and it gains 500 ATK until the end of the turn. You can shuffle 1 card from your hand into the Deck, and if you do, add 1 \"Proto-Cyber Dragon\" or 1 \"Fusion\" from your Deck or Graveyard to your hand.",
 		"effectType": "NORMAL",
 		"isArchive": true,
 		"mentionedCards": [
@@ -2110,7 +2110,7 @@
 		"id": 5603,
 		"name": "Galactica Fusion Draw",
 		"requirement": "Can be activated from turn 2 onward, if all of the monsters in your constructed Deck are Galaxy Type monsters.",
-		"effect": "Send up to 2 Level 7 LIGHT Attribute monsters and/or \"Fusion\" from your hand to the Graveyard, then draw the same number of cards. If you sent \"Galactica Oblivion\" to the Graveyard by this effect, you can also add 1 \"Extra Plorer\", \"Secret Order\", or \"Fusion\" from outside your Deck to your hand. (Twice per Duel.)",
+		"effect": "Send up to 2 Level 7 LIGHT Attribute monsters and/or \"Fusion\" from your hand to the Graveyard, then draw the same number of cards. If you sent \"Galactica Oblivion\" to the Graveyard by this effect, you can also add 1 \"Extra Plorer\", \"Secret Order\", or \"Fusion\" from outside your Deck to your hand. (Once per Duel.)",
 		"effectType": "NORMAL",
 		"isArchive": false,
 		"characters": [
@@ -2177,7 +2177,7 @@
 		"id": 5802,
 		"name": "Jointech Stampede",
 		"requirement": "Can be activated by revealing 1 Level 7 monster in your hand from turn 2 onward, if all of the monsters in your constructed Deck are EARTH Attribute Machine Type monsters.",
-		"effect": "Send the top 3 cards of your Deck to the Graveyard. Then, you can add 1 monster from your Graveyard to your hand. (Once per Duel.) This turn, you can Normal Summon \"Jointech Rex\" and \"Jointech Stegosilos\" with 1 less Tribute.",
+		"effect": "Send the top 3 cards of your Deck to the Graveyard. Then, you can add 1 monster from your Graveyard to your hand. (Twice per Duel.) This turn, you can Normal Summon \"Jointech Rex\" and \"Jointech Stegosilos\" with 1 less Tribute.",
 		"effectType": "NORMAL",
 		"isArchive": false,
 		"characters": [
