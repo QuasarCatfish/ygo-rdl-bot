@@ -14475,6 +14475,23 @@
 		]
 	},
 	{
+		"id": 17847,
+		"name": "Luster Dragon",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": true,
+		"requirement": "Unknown",
+		"effect": "A very beautiful dragon covered with sapphire. It does not like fights, but has incredibly high attack power.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1900,
+			"def": 1600,
+			"attribute": "WIND",
+			"race": "DRAGON"
+		}
+	},
+	{
 		"id": 17849,
 		"name": "Wooly Wonderland Aqua Sheep",
 		"cardType": "NORMAL",
@@ -17626,6 +17643,25 @@
 			"Trader (Regular Inventory)",
 			"Starter Deck (Friend Invitation Campaign: LIGHT-Galaxy)"
 		]
+	},
+	{
+		"id": 18681,
+		"name": "Five-Headed Dragon",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "CONTINUOUS",
+		"isLegend": false,
+		"inherentSummonCondition": "5 Dragon Type monsters\nMust be Fusion Summoned.",
+		"requirement": "None",
+		"effect": "This card cannot be destroyed by battle with DARK, EARTH, WATER, FIRE, or WIND Attribute monsters.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 12,
+			"atk": 5000,
+			"def": 5000,
+			"attribute": "DARK",
+			"race": "DRAGON"
+		}
 	},
 	{
 		"id": 18692,
@@ -20910,6 +20946,28 @@
 		"requirement": "None",
 		"effect": "Shuffle 2 LIGHT Attribute Dragon Type monsters from your Graveyard into the Deck. Then, you can Special Summon 1 \"Blue-Fang Burst Dragon\" from your Graveyard face-up to your field.",
 		"rarity": "NPC"
+	},
+	{
+		"id": 20371,
+		"name": "Five-Headed Dragon",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "CONTINUOUS",
+		"isLegend": false,
+		"inherentSummonCondition": "5 Dragon Type monsters\nMust be Fusion Summoned.",
+		"requirement": "None",
+		"effect": "This card cannot be destroyed by battle with DARK, EARTH, WATER, FIRE, or WIND Attribute monsters.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 12,
+			"atk": 5000,
+			"def": 5000,
+			"attribute": "DARK",
+			"race": "DRAGON"
+		},
+		"cardObtain": [
+			"\"Yu-Gi-Oh! Duel Monsters\" World Update Celebration Campaign"
+		]
 	},
 	{
 		"id": 20376,
