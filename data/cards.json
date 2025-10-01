@@ -10260,7 +10260,10 @@
 		"isLegend": false,
 		"requirement": "Send 1 FIRE Attribute monster from your hand to the Graveyard.",
 		"effect": "Draw 1 card. If there is a face-up Field Spell Card on the field, you can also draw 1 card.",
-		"rarity": "NPC"
+		"rarity": "SR",
+		"cardObtain": [
+			"Ranked Duels Reward Ticket"
+		]
 	},
 	{
 		"id": 16959,
