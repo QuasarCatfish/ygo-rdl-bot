@@ -14492,7 +14492,10 @@
 			"def": 1600,
 			"attribute": "WIND",
 			"race": "DRAGON"
-		}
+		},
+		"cardObtain": [
+			"Card Flipper Campaign"
+		]
 	},
 	{
 		"id": 17849,
