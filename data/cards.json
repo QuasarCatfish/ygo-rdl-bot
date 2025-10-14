@@ -17711,6 +17711,26 @@
 		]
 	},
 	{
+		"id": 18696,
+		"name": "Great Maju Garzett",
+		"cardType": "EFFECT",
+		"effectType": "CONTINUOUS",
+		"isLegend": true,
+		"requirement": "None",
+		"effect": "This card gains ATK equal to [the original ATK of 1 monster that was Tributed to Tribute Summon this card in Attack Position] x 2.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 0,
+			"def": 0,
+			"attribute": "DARK",
+			"race": "FIEND"
+		},
+		"cardObtain": [
+			"Tour Guide Bingo Missions"
+		]
+	},
+	{
 		"id": 18697,
 		"name": "Nimble Lemming",
 		"cardType": "EFFECT",
