@@ -2396,5 +2396,33 @@
 			16971,
 			16972
 		]
+	},
+	{
+		"id": 6101,
+		"name": "Full Metarion Script",
+		"requirement": "Can be activated from turn 2 onward if all of the monsters in your constructed Deck are LIGHT Attribute monsters with 500 or 2000 DEF, and if there are 2 or more different Level 10 monsters in your Extra Deck.",
+		"effect": "⬤ Send 1 \"Imaginary Actor\" or \"Monster Reincarnation\" from your Deck to your Graveyard. (Each card once per Duel.)\n⬤ Add 1 \"Fusion\" from your Deck or Graveyard to your hand. (Once per Duel.)",
+		"effectType": "MULTICHOICE",
+		"isArchive": false,
+		"characters": [
+			717
+		],
+		"mentionedCards": [
+			16891,
+			16305,
+			16935
+		]
+	},
+	{
+		"id": 6102,
+		"name": "Hard Rock Overture",
+		"requirement": "Can be activated by sending 1 Level 7 or 8 monster from your hand to the Graveyard if all of the monsters in your constructed Deck are LIGHT Attribute Fiend Type monsters.",
+		"effect": "Place up to 2 Level 8 monsters from your hand and/or Graveyard in face-up Defense Position. From turn 2 onwards, you can then also add 1 Level 8 monster from your Graveyard to your hand. (Once per Duel.) While a monster placed on the field using this effect is face-up, it loses 1000 DEF, and its battle position can only be changed with a card effect. This turn, you cannot attack directly using a monster that has an original Level of 7 or higher.",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			706
+		],
+		"mentionedCards": []
 	}
 ]

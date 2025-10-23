@@ -1166,7 +1166,10 @@
 		"isLegend": false,
 		"requirement": "When a monster(s) on your field is destroyed by an opponent\u0027s attack or their card effect.",
 		"effect": "Special Summon 1 Level 1 Normal Monster from your Graveyard face-up to your field.",
-		"rarity": "NPC"
+		"rarity": "SR",
+		"cardObtain": [
+			"Fullmetarion of the Radiant Wings (Deck Build Box)"
+		]
 	},
 	{
 		"id": 15213,
@@ -2755,7 +2758,8 @@
 		},
 		"cardObtain": [
 			"Heavy Metal Scream (Mini Box)",
-			"Selection BOX Vol.03"
+			"Selection BOX Vol.03",
+			"Fullmetarion of the Radiant Wings (Deck Build Box)"
 		]
 	},
 	{
@@ -3326,7 +3330,8 @@
 		"cardObtain": [
 			"Heavy Metal Scream (Mini Box)",
 			"Selection BOX Vol.01",
-			"Selection BOX Vol.03"
+			"Selection BOX Vol.03",
+			"Fullmetarion of the Radiant Wings (Deck Build Box)"
 		]
 	},
 	{
@@ -3347,7 +3352,8 @@
 		},
 		"cardObtain": [
 			"Heavy Metal Scream (Mini Box)",
-			"Selection BOX Vol.03"
+			"Selection BOX Vol.03",
+			"Fullmetarion of the Radiant Wings (Deck Build Box)"
 		]
 	},
 	{
@@ -3406,7 +3412,8 @@
 		"rarity": "N",
 		"cardObtain": [
 			"Heavy Metal Scream (Mini Box)",
-			"Selection BOX Vol.03"
+			"Selection BOX Vol.03",
+			"Fullmetarion of the Radiant Wings (Deck Build Box)"
 		]
 	},
 	{
@@ -5626,7 +5633,8 @@
 		},
 		"cardObtain": [
 			"Heavy Metal Scream (Mini Box)",
-			"Selection BOX Vol.03"
+			"Selection BOX Vol.03",
+			"Fullmetarion of the Radiant Wings (Deck Build Box)"
 		]
 	},
 	{
@@ -6788,7 +6796,8 @@
 			"race": "THUNDER"
 		},
 		"cardObtain": [
-			"Genesis Maximum (Mini Box)"
+			"Genesis Maximum (Mini Box)",
+			"Fullmetarion of the Radiant Wings (Deck Build Box)"
 		]
 	},
 	{
@@ -7016,7 +7025,8 @@
 		},
 		"cardObtain": [
 			"Evolving Rising Heart (Super Mini Box)",
-			"Selection BOX Vol.03"
+			"Selection BOX Vol.03",
+			"Fullmetarion of the Radiant Wings (Deck Build Box)"
 		]
 	},
 	{
@@ -7037,7 +7047,8 @@
 		},
 		"cardObtain": [
 			"Evolving Rising Heart (Super Mini Box)",
-			"Selection BOX Vol.03"
+			"Selection BOX Vol.03",
+			"Fullmetarion of the Radiant Wings (Deck Build Box)"
 		]
 	},
 	{
@@ -8170,7 +8181,8 @@
 		},
 		"cardObtain": [
 			"The Ultimate Ace Breaker (Structure Deck)",
-			"Cyber Dragon Launch (Structure Deck)"
+			"Cyber Dragon Launch (Structure Deck)",
+			"Fullmetarion of the Radiant Wings (Deck Build Box)"
 		]
 	},
 	{
@@ -8633,7 +8645,8 @@
 		"cardObtain": [
 			"Steel Kaleidomirror (Mini Box)",
 			"Cyber Dragon Launch (Structure Deck)",
-			"Extreme Overlord (Mini Box)"
+			"Extreme Overlord (Mini Box)",
+			"Fullmetarion of the Radiant Wings (Deck Build Box)"
 		]
 	},
 	{
@@ -8805,7 +8818,8 @@
 			"Cyber Dragon Launch (Structure Deck)",
 			"Blazing Chemicalization (Mini Box)",
 			"Forbidden Fantastic Show (Deck Build Box)",
-			"High Dragon of Solid Strikes (Deck Build Box)"
+			"High Dragon of Solid Strikes (Deck Build Box)",
+			"Fullmetarion of the Radiant Wings (Deck Build Box)"
 		]
 	},
 	{
@@ -8913,7 +8927,8 @@
 		},
 		"cardObtain": [
 			"The Ultimate Ace Breaker (Structure Deck)",
-			"Cyber Dragon Launch (Structure Deck)"
+			"Cyber Dragon Launch (Structure Deck)",
+			"Fullmetarion of the Radiant Wings (Deck Build Box)"
 		]
 	},
 	{
@@ -9264,7 +9279,8 @@
 		"cardObtain": [
 			"Heavy Metal Scream (Mini Box)",
 			"Selection BOX Vol.01",
-			"Selection BOX Vol.03"
+			"Selection BOX Vol.03",
+			"Fullmetarion of the Radiant Wings (Deck Build Box)"
 		]
 	},
 	{
@@ -9592,7 +9608,8 @@
 		},
 		"cardObtain": [
 			"Fusion of Revolution (Mini Box)",
-			"Forbidden Fantastic Show (Deck Build Box)"
+			"Forbidden Fantastic Show (Deck Build Box)",
+			"Fullmetarion of the Radiant Wings (Deck Build Box)"
 		]
 	},
 	{
@@ -10171,7 +10188,8 @@
 			"Forbidden Fantastic Show (Deck Build Box)",
 			"Extreme Overlord (Mini Box)",
 			"Starter Deck (Friend Invitation Campaign: LIGHT-Galaxy)",
-			"High Dragon of Solid Strikes (Deck Build Box)"
+			"High Dragon of Solid Strikes (Deck Build Box)",
+			"Fullmetarion of the Radiant Wings (Deck Build Box)"
 		]
 	},
 	{
@@ -11218,6 +11236,26 @@
 		]
 	},
 	{
+		"id": 17201,
+		"name": "Royal Rebel\u0027s Hard Rock",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During the turn you Normal Summoned this card by Tributing 2 Level 7 or higher Fiend Type monsters.",
+		"effect": "Choose 1 Level 7 or higher face-up monster on your opponent\u0027s field. Inflict damage to your opponent equal to [the difference between the chosen monster\u0027s ATK and this card\u0027s]. This card gains ATK equal to [the chosen monster\u0027s ATK] until the end of this turn.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2500,
+			"def": 2000,
+			"attribute": "LIGHT",
+			"race": "FIEND"
+		},
+		"cardObtain": [
+			"Fullmetarion of the Radiant Wings (Deck Build Box)"
+		]
+	},
+	{
 		"id": 17202,
 		"name": "Attrashoot Hydron",
 		"cardType": "EFFECT",
@@ -11698,7 +11736,8 @@
 		"cardObtain": [
 			"Genesis Maximum (Mini Box)",
 			"Requiem of Collapse (Mini Box)",
-			"Extreme Overlord (Mini Box)"
+			"Extreme Overlord (Mini Box)",
+			"Fullmetarion of the Radiant Wings (Deck Build Box)"
 		]
 	},
 	{
@@ -11719,7 +11758,8 @@
 		},
 		"cardObtain": [
 			"Genesis Maximum (Mini Box)",
-			"Requiem of Collapse (Mini Box)"
+			"Requiem of Collapse (Mini Box)",
+			"Fullmetarion of the Radiant Wings (Deck Build Box)"
 		]
 	},
 	{
@@ -11950,7 +11990,8 @@
 		},
 		"cardObtain": [
 			"Requiem of Collapse (Mini Box)",
-			"Extreme Overlord (Mini Box)"
+			"Extreme Overlord (Mini Box)",
+			"Fullmetarion of the Radiant Wings (Deck Build Box)"
 		]
 	},
 	{
@@ -12010,7 +12051,8 @@
 			"race": "THUNDER"
 		},
 		"cardObtain": [
-			"Genesis Maximum (Mini Box)"
+			"Genesis Maximum (Mini Box)",
+			"Fullmetarion of the Radiant Wings (Deck Build Box)"
 		]
 	},
 	{
@@ -12154,7 +12196,8 @@
 			"race": "THUNDER"
 		},
 		"cardObtain": [
-			"Requiem of Collapse (Mini Box)"
+			"Requiem of Collapse (Mini Box)",
+			"Fullmetarion of the Radiant Wings (Deck Build Box)"
 		]
 	},
 	{
@@ -12176,7 +12219,8 @@
 		},
 		"cardObtain": [
 			"Requiem of Collapse (Mini Box)",
-			"Extreme Overlord (Mini Box)"
+			"Extreme Overlord (Mini Box)",
+			"Fullmetarion of the Radiant Wings (Deck Build Box)"
 		]
 	},
 	{
@@ -12279,7 +12323,8 @@
 		"effect": "All face-up monsters on your opponent\u0027s field lose 400 ATK/DEF until the end of this turn. If you have 3 face-up Thunder Type monsters on your field, you can draw 1 card.",
 		"rarity": "R",
 		"cardObtain": [
-			"Evolving Rising Heart (Super Mini Box)"
+			"Evolving Rising Heart (Super Mini Box)",
+			"Fullmetarion of the Radiant Wings (Deck Build Box)"
 		]
 	},
 	{
@@ -12292,7 +12337,8 @@
 		"effect": "Destroy 1 Spell/Trap Card on your opponent\u0027s field.",
 		"rarity": "R",
 		"cardObtain": [
-			"Genesis Maximum (Mini Box)"
+			"Genesis Maximum (Mini Box)",
+			"Fullmetarion of the Radiant Wings (Deck Build Box)"
 		]
 	},
 	{
@@ -14206,7 +14252,8 @@
 		},
 		"cardObtain": [
 			"Evolving Rising Heart (Super Mini Box)",
-			"Selection BOX Vol.02"
+			"Selection BOX Vol.02",
+			"Fullmetarion of the Radiant Wings (Deck Build Box)"
 		]
 	},
 	{
@@ -14227,7 +14274,8 @@
 		},
 		"cardObtain": [
 			"Evolving Rising Heart (Super Mini Box)",
-			"Selection BOX Vol.02"
+			"Selection BOX Vol.02",
+			"Fullmetarion of the Radiant Wings (Deck Build Box)"
 		]
 	},
 	{
@@ -14248,7 +14296,8 @@
 		},
 		"cardObtain": [
 			"Evolving Rising Heart (Super Mini Box)",
-			"Selection BOX Vol.02"
+			"Selection BOX Vol.02",
+			"Fullmetarion of the Radiant Wings (Deck Build Box)"
 		]
 	},
 	{
@@ -14269,7 +14318,8 @@
 		},
 		"cardObtain": [
 			"Evolving Rising Heart (Super Mini Box)",
-			"Selection BOX Vol.02"
+			"Selection BOX Vol.02",
+			"Fullmetarion of the Radiant Wings (Deck Build Box)"
 		]
 	},
 	{
@@ -14290,7 +14340,8 @@
 		},
 		"cardObtain": [
 			"Evolving Rising Heart (Super Mini Box)",
-			"Selection BOX Vol.02"
+			"Selection BOX Vol.02",
+			"Fullmetarion of the Radiant Wings (Deck Build Box)"
 		]
 	},
 	{
@@ -14347,7 +14398,8 @@
 			"race": "ZOMBIE"
 		},
 		"cardObtain": [
-			"Sevens New Road (Main Box)"
+			"Sevens New Road (Main Box)",
+			"Fullmetarion of the Radiant Wings (Deck Build Box)"
 		]
 	},
 	{
@@ -16497,7 +16549,8 @@
 		},
 		"cardObtain": [
 			"Special Set (Bundle)",
-			"Selection BOX Vol.03"
+			"Selection BOX Vol.03",
+			"Fullmetarion of the Radiant Wings (Deck Build Box)"
 		]
 	},
 	{
@@ -16784,7 +16837,8 @@
 		},
 		"cardObtain": [
 			"Genesis Maximum (Mini Box)",
-			"Selection BOX Vol.03"
+			"Selection BOX Vol.03",
+			"Fullmetarion of the Radiant Wings (Deck Build Box)"
 		]
 	},
 	{
@@ -18383,7 +18437,8 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"Selection BOX Vol.03"
+			"Selection BOX Vol.03",
+			"Fullmetarion of the Radiant Wings (Deck Build Box)"
 		]
 	},
 	{
@@ -18954,6 +19009,27 @@
 		]
 	},
 	{
+		"id": 19111,
+		"name": "Axtion Melody the Music Princess",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Tubardiche the Music Princess\" + \"Boton the Music Princess\"",
+		"requirement": "Place 1 Spell Card from your Graveyard on either the top or bottom of your Deck.",
+		"effect": "Make 1 face-up monster on your opponent\u0027s field lose 2000 ATK/DEF until the end of their next turn. If you placed \"Straight Pierce\" or \"Fusion\" on the top or bottom of your Deck to meet the requirement, you can also draw 1 card.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2800,
+			"def": 2800,
+			"attribute": "WIND",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"Tiadosia \"Tiger\" Kallister Duel Reward"
+		]
+	},
+	{
 		"id": 19112,
 		"name": "Trumpetiger the Music Fiend",
 		"cardType": "EFFECT",
@@ -18971,6 +19047,26 @@
 		},
 		"cardObtain": [
 			"Tiadosia \"Tiger\" Kallister Level Up Reward"
+		]
+	},
+	{
+		"id": 19114,
+		"name": "Tubardiche the Music Princess",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "You have another face-up Warrior Type monster on your field during the turn you Normal Summoned this card.",
+		"effect": "Add 1 Level 7 or higher WIND Attribute monster and 1 Warrior Type Normal Monster from your Graveyard to your hand. This turn, you cannot activate monster effects, ecept those of WIND Attribute Warrior Type monsters or WIND Attribute Beast Type monsters.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 1800,
+			"def": 900,
+			"attribute": "WIND",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"Tiadosia \"Tiger\" Kallister Duel Reward"
 		]
 	},
 	{
@@ -19470,7 +19566,8 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"Selection BOX Vol.03"
+			"Selection BOX Vol.03",
+			"Fullmetarion of the Radiant Wings (Deck Build Box)"
 		]
 	},
 	{
@@ -20279,6 +20376,27 @@
 		]
 	},
 	{
+		"id": 19760,
+		"name": "Faceless Culdesac",
+		"cardType": "EFFECT",
+		"effectType": "CONTINUOUS",
+		"isLegend": false,
+		"inherentSummonCondition": "You can Special Summon this card from your hand face-up to your field by revealing 1 other Fiend Type monster in your hand.",
+		"requirement": "None",
+		"effect": "Face-up Fiend Type monsters on your field gain 300 ATK.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 1500,
+			"def": 0,
+			"attribute": "LIGHT",
+			"race": "FIEND"
+		},
+		"cardObtain": [
+			"Fullmetarion of the Radiant Wings (Deck Build Box)"
+		]
+	},
+	{
 		"id": 19768,
 		"name": "Gravitiara Eye",
 		"cardType": "EFFECT",
@@ -20371,6 +20489,27 @@
 			"attribute": "LIGHT",
 			"race": "GALAXY"
 		}
+	},
+	{
+		"id": 19806,
+		"name": "Royal Rebel\u0027s Heavy Metal",
+		"cardType": "EFFECT",
+		"cardStyle": "ALT_ART",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During the turn you Normal Summoned this card by Tributing a Level 5 or higher monster.",
+		"effect": "Choose 1 face-up Level 8 or lower monster with the lowest Level on your opponent\u0027s field, and this card gains ATK equal to [that monster\u0027s ATK] until the end of this turn. Destroy that monster.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2500,
+			"def": 0,
+			"attribute": "LIGHT",
+			"race": "FIEND"
+		},
+		"cardObtain": [
+			"Fullmetarion of the Radiant Wings (Deck Build Box)"
+		]
 	},
 	{
 		"id": 19810,
@@ -21669,6 +21808,46 @@
 		}
 	},
 	{
+		"id": 20851,
+		"name": "Fullmetarion Vritrastar",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "MULTICHOICE",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Imaginary Actor\" + \"Metarion Vritrastar\"",
+		"requirement": "None",
+		"effect": "⬤ Special Summon 1 Level 9 Cyborg Type monster from your Graveyard to your field in face-up Defense Position.\n⬤ Destroy 1 face-up non-Cyborg Type monster on your opponent\u0027s field.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 10,
+			"atk": 3200,
+			"def": 2500,
+			"attribute": "LIGHT",
+			"race": "CYBORG"
+		}
+	},
+	{
+		"id": 20852,
+		"name": "Metarion Medustar",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "MULTICHOICE",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Imaginary Actor\" + \"Evil Bowler\"",
+		"requirement": "Place 1 monster from your Graveyard on the bottom of the Deck.",
+		"effect": "⬤ Choose 1 face-down Spell/Trap Card on your opponent\u0027s field. It cannot be activated until the end of your opponent\u0027s next turn.\n⬤ Destroy 1 face-up Fiend Type monster on your opponent\u0027s field.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 2800,
+			"def": 2500,
+			"attribute": "LIGHT",
+			"race": "CYBORG"
+		},
+		"cardObtain": [
+			"Fullmetarion of the Radiant Wings (Deck Build Box)"
+		]
+	},
+	{
 		"id": 20854,
 		"name": "Imaginary Reactor",
 		"cardType": "EFFECT",
@@ -21687,6 +21866,26 @@
 		"cardObtain": [
 			"Fusion of Revolution (Mini Box)",
 			"Forbidden Fantastic Show (Deck Build Box)"
+		]
+	},
+	{
+		"id": 20856,
+		"name": "Evil Bowler",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Reveal 1 LIGHT Attribute monster with 500 DEF in your hand.",
+		"effect": "Choose 1 face-up monster on your opponent\u0027s field, and it\u0027s Type becomes Fiend or the same Type as the moster revealed to meet the requirement until the end of this turn.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1400,
+			"def": 500,
+			"attribute": "LIGHT",
+			"race": "FIEND"
+		},
+		"cardObtain": [
+			"Fullmetarion of the Radiant Wings (Deck Build Box)"
 		]
 	},
 	{
@@ -21718,6 +21917,19 @@
 		"rarity": "SR",
 		"cardObtain": [
 			"Forbidden Fantastic Show (Deck Build Box)"
+		]
+	},
+	{
+		"id": 20861,
+		"name": "Imaginary Arc Surge",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When your opponent Normal or Special Summons a monster.",
+		"effect": "Fusion Summon 1 Cyborg Type monster by shuffling monsters from your field or Graveyard into their owner\u0027s Deck as materials. Then, you can destroy 1 face-up Level 8 or lower monster on your opponent\u0027s field.",
+		"rarity": "SR",
+		"cardObtain": [
+			"Lifetime Mission Reward"
 		]
 	},
 	{
@@ -21763,6 +21975,28 @@
 		},
 		"cardObtain": [
 			"Forbidden Fantastic Show (Deck Build Box)"
+		]
+	},
+	{
+		"id": 20891,
+		"name": "Fullmetarion Vritrastar",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "MULTICHOICE",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Imaginary Actor\" + \"Metarion Vritrastar\"",
+		"requirement": "None",
+		"effect": "⬤ Special Summon 1 Level 9 Cyborg Type monster from your Graveyard to your field in face-up Defense Position.\n⬤ Destroy 1 face-up non-Cyborg Type monster on your opponent\u0027s field.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 10,
+			"atk": 3200,
+			"def": 2500,
+			"attribute": "LIGHT",
+			"race": "CYBORG"
+		},
+		"cardObtain": [
+			"Fullmetarion of the Radiant Wings (Deck Build Box)"
 		]
 	},
 	{
