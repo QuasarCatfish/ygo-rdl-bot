@@ -8844,7 +8844,10 @@
 		"isLegend": false,
 		"requirement": "When an opponent\u0027s Level 7 or higher monster declares an attack.",
 		"effect": "Draw 3 cards and show them. If 2 or more Level 7 monsters are among them, gain LP equal to [the number of those Level 7 monsters] x 1500.",
-		"rarity": "NPC"
+		"rarity": "SR",
+		"cardObtain": [
+			"Ranked Duels Reward Ticket"
+		]
 	},
 	{
 		"id": 16716,
