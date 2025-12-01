@@ -148,6 +148,10 @@
 		"name": "Terza Flatwood (Suit)"
 	},
 	{
+		"id": 869,
+		"name": "Graves"
+	},
+	{
 		"id": 901,
 		"name": "Yudias Velgear"
 	},
@@ -168,6 +172,10 @@
 		"name": "Maddox Sogetsu"
 	},
 	{
+		"id": 906,
+		"name": "Immi Imimi"
+	},
+	{
 		"id": 931,
 		"name": "Meowdestar"
 	},
@@ -182,5 +190,9 @@
 	{
 		"id": 934,
 		"name": "Yudias Velgear (UTS)"
+	},
+	{
+		"id": 935,
+		"name": "Graves (Dog)"
 	}
 ]

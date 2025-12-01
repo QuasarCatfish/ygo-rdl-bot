@@ -1364,6 +1364,7 @@
 			"Tiadosia \"Tiger\" Kallister Starter Deck",
 			"Gavin Sogetsu Duel Reward",
 			"Romin Kassidy Duel Reward",
+			"Immi Imimi Duel Reward",
 			"GR Festival Special Pack Vol.01",
 			"WCS Qualifiers Special Pack Vol.01 (Rush)"
 		]
@@ -1535,7 +1536,8 @@
 			"Asana Mutsuba Duel Reward",
 			"Yudias Velgear Duel Reward",
 			"Zuwijo Zwil Velgear Duel Reward",
-			"Tiadosia \"Tiger\" Kallister Duel Reward"
+			"Tiadosia \"Tiger\" Kallister Duel Reward",
+			"Immi Imimi Duel Reward"
 		]
 	},
 	{
@@ -2293,7 +2295,8 @@
 			"Scorching Flame Burst (Deck Build Box)",
 			"Divine Genesis Blade (Deck Build Box)",
 			"Infinite Grand Crush (Deck Build Box)",
-			"Forbidden Fantastic Show (Deck Build Box)"
+			"Forbidden Fantastic Show (Deck Build Box)",
+			"The Distant Neo Space (Mini Box)"
 		]
 	},
 	{
@@ -2562,7 +2565,8 @@
 			"Lucidien \"Luke\" Kallister Duel Reward",
 			"Romin Kassidy Duel Reward",
 			"Nail Saionji Duel Reward",
-			"Yuo Goha Duel Reward"
+			"Yuo Goha Duel Reward",
+			"Immi Imimi Duel Reward"
 		]
 	},
 	{
@@ -6354,7 +6358,10 @@
 		"isLegend": false,
 		"requirement": "None",
 		"effect": "Gain 1000 LP.",
-		"rarity": "NPC"
+		"rarity": "N",
+		"cardObtain": [
+			"The Distant Neo Space (Mini Box)"
+		]
 	},
 	{
 		"id": 16286,
@@ -7372,7 +7379,8 @@
 		"effect": "Choose up to 5 monsters in your opponent\u0027s Graveyard and shuffle them into the Deck. If your opponent has a face-up Spellcaster Type monster on their field, you can choose up to 5 additional monsters in their Graveyard and shuffle them into the Deck.",
 		"rarity": "R",
 		"cardObtain": [
-			"Transcendence Miragias (Super Mini Box)"
+			"Transcendence Miragias (Super Mini Box)",
+			"The Distant Neo Space (Mini Box)"
 		]
 	},
 	{
@@ -8623,7 +8631,8 @@
 			"Steel Kaleidomirror (Mini Box)",
 			"Cyber Dragon Launch (Structure Deck)",
 			"Blazing Chemicalization (Mini Box)",
-			"High Dragon of Solid Strikes (Deck Build Box)"
+			"High Dragon of Solid Strikes (Deck Build Box)",
+			"The Distant Neo Space (Mini Box)"
 		]
 	},
 	{
@@ -8646,7 +8655,8 @@
 			"Steel Kaleidomirror (Mini Box)",
 			"Cyber Dragon Launch (Structure Deck)",
 			"Extreme Overlord (Mini Box)",
-			"Fullmetarion of the Radiant Wings (Deck Build Box)"
+			"Fullmetarion of the Radiant Wings (Deck Build Box)",
+			"The Distant Neo Space (Mini Box)"
 		]
 	},
 	{
@@ -10192,7 +10202,8 @@
 			"Extreme Overlord (Mini Box)",
 			"Starter Deck (Friend Invitation Campaign: LIGHT-Galaxy)",
 			"High Dragon of Solid Strikes (Deck Build Box)",
-			"Fullmetarion of the Radiant Wings (Deck Build Box)"
+			"Fullmetarion of the Radiant Wings (Deck Build Box)",
+			"The Distant Neo Space (Mini Box)"
 		]
 	},
 	{
@@ -11511,7 +11522,8 @@
 			"Hero\u0027s Stage (Structure Deck)",
 			"Divine Genesis Blade (Deck Build Box)",
 			"Infinite Grand Crush (Deck Build Box)",
-			"Forbidden Fantastic Show (Deck Build Box)"
+			"Forbidden Fantastic Show (Deck Build Box)",
+			"The Distant Neo Space (Mini Box)"
 		]
 	},
 	{
@@ -11587,7 +11599,8 @@
 			"Maddox Sogetsu Starter Deck",
 			"Nail Saionji Duel Reward",
 			"Yuhi Ohdo Duel Reward",
-			"Zuwijo Zwil Velgear Duel Reward"
+			"Zuwijo Zwil Velgear Duel Reward",
+			"Immi Imimi Duel Reward"
 		]
 	},
 	{
@@ -13317,7 +13330,8 @@
 			"Boost Red-Boot (Deck Build Box)",
 			"Selection BOX Vol.03",
 			"Forbidden Fantastic Show (Deck Build Box)",
-			"Extreme Overlord (Mini Box)"
+			"Extreme Overlord (Mini Box)",
+			"The Distant Neo Space (Mini Box)"
 		]
 	},
 	{
@@ -14218,6 +14232,19 @@
 		"rarity": "NPC"
 	},
 	{
+		"id": 17697,
+		"name": "Master\u0027s Cure",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When your opponent Normal or Special Summons a Level 7 or higher monster face-up.",
+		"effect": "Gain 1000 LP. Then, you can make 1 face-up Aqua Type monster on your field gain 1000 ATK until the end of this turn.",
+		"rarity": "N",
+		"cardObtain": [
+			"The Distant Neo Space (Mini Box)"
+		]
+	},
+	{
 		"id": 17698,
 		"name": "Dark Doom Dread Ruler",
 		"cardType": "EFFECT",
@@ -14375,14 +14402,17 @@
 		"isLegend": false,
 		"requirement": "None",
 		"effect": "Excavate the top 3 cards of your Deck. Send 1 excavated card to the Graveyard. Then, shuffle the remaining cards into the Deck.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 3,
 			"atk": 1200,
 			"def": 0,
 			"attribute": "DARK",
 			"race": "ZOMBIE"
-		}
+		},
+		"cardObtain": [
+			"The Distant Neo Space (Mini Box)"
+		]
 	},
 	{
 		"id": 17719,
@@ -14473,6 +14503,83 @@
 		]
 	},
 	{
+		"id": 17839,
+		"name": "Mystical Sandbox",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "She bends water to her will, hardening sand into stone. With muddy hands, She brings all sorts of creations to life.",
+		"rarity": "N",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 1200,
+			"def": 1200,
+			"attribute": "WATER",
+			"race": "AQUA"
+		},
+		"cardObtain": [
+			"The Distant Neo Space (Mini Box)"
+		]
+	},
+	{
+		"id": 17840,
+		"name": "Kanan the Beautiful Swordsmistress",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "A little lady warrior whose stage is the drama club. With sword and shield in hand, she floats lightly and dances gracefully.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1400,
+			"def": 0,
+			"attribute": "WATER",
+			"race": "AQUA"
+		},
+		"cardObtain": [
+			"The Distant Neo Space (Mini Box)"
+		]
+	},
+	{
+		"id": 17841,
+		"name": "Spirit of the Mini Harp",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "She is a gentle spirit who plays the harp at recitals. Her melody soothes every soul.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 0,
+			"def": 1400,
+			"attribute": "WATER",
+			"race": "AQUA"
+		},
+		"cardObtain": [
+			"Immi Imimi Duel Reward"
+		]
+	},
+	{
+		"id": 17842,
+		"name": "Mean Mutt Chihuahua Warrior",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "With innocent eyes that melt hearts, this cutie slips right past enemy defenses. His loyalty? So-so.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 0,
+			"def": 1500,
+			"attribute": "DARK",
+			"race": "BEAST_WARRIOR"
+		}
+	},
+	{
 		"id": 17843,
 		"name": "Psychic Kappa",
 		"cardType": "NORMAL",
@@ -14550,6 +14657,26 @@
 		},
 		"cardObtain": [
 			"Card Flipper Campaign"
+		]
+	},
+	{
+		"id": 17848,
+		"name": "Abyss Soldier",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": true,
+		"requirement": "Send 1 WATER Attribute monster from your hand to the Graveyard.",
+		"effect": "Return 1 card on the field to the owner\u0027s hand.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1800,
+			"def": 1300,
+			"attribute": "WATER",
+			"race": "AQUA"
+		},
+		"cardObtain": [
+			"Special Set (Bundle)"
 		]
 	},
 	{
@@ -14631,6 +14758,57 @@
 		"cardObtain": [
 			"Trader (Featured Inventory)"
 		]
+	},
+	{
+		"id": 17853,
+		"name": "Tutumes Dark Witch",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "An angelic ballerina who never spares effort. Even through harsh training, she presses on with unwavering determination.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1500,
+			"def": 0,
+			"attribute": "WATER",
+			"race": "AQUA"
+		}
+	},
+	{
+		"id": 17854,
+		"name": "Mean Mutt Blasting Bowwow",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "He fights back with water guns against any foe. Trust from his allies? So-so.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1300,
+			"def": 1400,
+			"attribute": "DARK",
+			"race": "BEAST_WARRIOR"
+		}
+	},
+	{
+		"id": 17857,
+		"name": "Mean Mutt Blasting Chow Chow",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "While normally calm, this is one mutt you don\u0027t want to cross. His motivation? So-so.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 800,
+			"def": 2100,
+			"attribute": "DARK",
+			"race": "BEAST_WARRIOR"
+		}
 	},
 	{
 		"id": 17860,
@@ -14919,6 +15097,46 @@
 		]
 	},
 	{
+		"id": 17877,
+		"name": "Nuvia the Mischievous",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you have 3 face-up Aqua Type monsters on your field, send the top card of your Deck to the Graveyard.",
+		"effect": "All face-up Aqua Type monsters on your field gain 200 ATK until the end of this turn. Then, you can add 1 \"Rainapolis\" from your Graveyard to your hand.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1000,
+			"def": 800,
+			"attribute": "WATER",
+			"race": "AQUA"
+		},
+		"cardObtain": [
+			"Immi Imimi Duel Reward"
+		]
+	},
+	{
+		"id": 17878,
+		"name": "Dian Keto the Cure Prodigy",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "You have a face-up Field Spell Card on your field.",
+		"effect": "Draw 1 card and show it to your opponent. If it was a Field Spell Card, you also gain 1000 LP.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2500,
+			"def": 1000,
+			"attribute": "WATER",
+			"race": "AQUA"
+		},
+		"cardObtain": [
+			"The Distant Neo Space (Mini Box)"
+		]
+	},
+	{
 		"id": 17881,
 		"name": "Beast Gear Sage Roller Stag",
 		"cardType": "EFFECT",
@@ -15052,6 +15270,19 @@
 		"requirement": "If you have a \"Princess of the Flock - Miss Mutton\" face-up on your field, send 2 Beast Type Normal Monsters from your hand to the Graveyard.",
 		"effect": "Destroy all face-up Level 8 or lower monsters on your opponent\u0027s field. This turn, you can only attack with Beast Type monsters.",
 		"rarity": "NPC"
+	},
+	{
+		"id": 17896,
+		"name": "Rainapolis",
+		"cardType": "FIELD",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you control 2 or more face-up Aqua Type monsters.",
+		"effect": "While this card is face-up on the Field Zone, face-up Aqua Type monsters on the field gain 200 ATK, and face-up non-Aqua Type monsters on the field lose 200 ATK.",
+		"rarity": "SR",
+		"cardObtain": [
+			"Immi Imimi Duel Reward"
+		]
 	},
 	{
 		"id": 17900,
@@ -19553,6 +19784,26 @@
 		]
 	},
 	{
+		"id": 19312,
+		"name": "Specter of Heaven\u0027s Beginning",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During the turn you Normal Summoned this card.",
+		"effect": "Special Summon 1 Zombie Type monster with 1200 ATK and 0 DEF from your Graveyard in face-up Defense Position to your field. If you Special Summoned \"Specter of Heaven\u0027s End\" by this effect, you can also shuffle up to 2 cards from your opponent\u0027s Graveyard into the Deck.",
+		"rarity": "N",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 1200,
+			"def": 0,
+			"attribute": "LIGHT",
+			"race": "ZOMBIE"
+		},
+		"cardObtain": [
+			"The Distant Neo Space (Mini Box)"
+		]
+	},
+	{
 		"id": 19313,
 		"name": "Steel Soldier Gale Vainari",
 		"cardType": "EFFECT",
@@ -20742,6 +20993,104 @@
 		]
 	},
 	{
+		"id": 20123,
+		"name": "Cute Lovely Anela",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 card from your hand to the Graveyard.",
+		"effect": "Make up to 3 face-up monsters with 0 original ATK on your field gain 600 ATK until the end of this turn. If you have monsters in your Graveyard and their total ATK is 0, you can also place 1 Spell/Trap Card on your opponent\u0027s field on the bottom of the owner\u0027s Deck.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 0,
+			"def": 0,
+			"attribute": "EARTH",
+			"race": "FAIRY"
+		}
+	},
+	{
+		"id": 20124,
+		"name": "Lovely Anela",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you have 10 or more cards in your Deck, shuffle 3 non-Level 4 monsters with 0 ATK from your Graveyard into the Deck.",
+		"effect": "Draw 1 card.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 0,
+			"def": 0,
+			"attribute": "EARTH",
+			"race": "FAIRY"
+		}
+	},
+	{
+		"id": 20125,
+		"name": "Lovely Wolf",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During the turn you Normal Summoned this card, reveal 1 Fairy Type monster with 0 ATK from your hand.",
+		"effect": "Change the battle position of 1 face-up monster on your field or 1 monster on your opponent\u0027s field. Then, you can add 1 \"Lovely Sanctuary\" from your Graveyard to your hand.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 2,
+			"atk": 0,
+			"def": 1400,
+			"attribute": "EARTH",
+			"race": "FAIRY"
+		}
+	},
+	{
+		"id": 20126,
+		"name": "Lovely Dove",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During the turn you Normal Summoned this card, reveal 1 Fairy Type monster with 0 ATK from your hand.",
+		"effect": "Send the top 3 cards of your Deck to the Graveyard. Then, you can add 1 \"Lovely Angel\" or 1 \"Lovely Blessing\" from your Graveyard to your hand.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 2,
+			"atk": 0,
+			"def": 1400,
+			"attribute": "LIGHT",
+			"race": "FAIRY"
+		}
+	},
+	{
+		"id": 20127,
+		"name": "Lovely Shoot",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "Choose 1 face-up Fairy Type monster with 0 original ATK on your field. This turn, that monster gains 100 ATK and it can attack directly. This turn, you can only attack with 1 monster.",
+		"rarity": "NPC"
+	},
+	{
+		"id": 20129,
+		"name": "Lovely Letter",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you have 3 or more monsters in your Graveyard and their total ATK is 0.",
+		"effect": "Add 1 Fairy Type monster with 0 ATK from your Graveyard to your hand. Then, you can add 1 \"Lovely Memory\" from your Graveyard to your hand.",
+		"rarity": "NPC"
+	},
+	{
+		"id": 20133,
+		"name": "Lovely Memory",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When a monster on the field is destroyed by an opponent\u0027s attack or their card effect.",
+		"effect": "Special Summon 1 Fairy Type monster with 0 ATK from your Graveyard face-up to your field.",
+		"rarity": "NPC"
+	},
+	{
 		"id": 20136,
 		"name": "Sevens Road Charmy Witch",
 		"cardType": "FUSION_EFFECT",
@@ -20758,6 +21107,43 @@
 			"def": 1600,
 			"attribute": "DARK",
 			"race": "SPELLCASTER"
+		}
+	},
+	{
+		"id": 20138,
+		"name": "Dian Keto the Food Prodigy",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If a Spell/Trap Card is on the field, send 1 card from your hand to the Graveyard.",
+		"effect": "Gain 1000 LP. Then, you can make this card gain ATK equal to [the number of face-up Spell Cards on the field] x 300 until the end of this turn.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2500,
+			"def": 1000,
+			"attribute": "FIRE",
+			"race": "AQUA"
+		},
+		"cardObtain": [
+			"The Distant Neo Space (Mini Box)"
+		]
+	},
+	{
+		"id": 20139,
+		"name": "Dian Keto the Cleaning Prodigy",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If your LP are lower than your opponent\u0027s, send 1 card from your hand to the Graveyard.",
+		"effect": "Gain 1000 LP. Then, this card gains 1000 ATK until the end of this turn.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2500,
+			"def": 1000,
+			"attribute": "EARTH",
+			"race": "AQUA"
 		}
 	},
 	{
@@ -20815,6 +21201,32 @@
 			"attribute": "LIGHT",
 			"race": "BEAST"
 		}
+	},
+	{
+		"id": 20149,
+		"name": "Cornful Charity",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you have a face-up Aqua Type monster on your field and an Aqua Type monster in your Graveyard.",
+		"effect": "Draw 2 cards. Then, place 1 card from your hand on the bottom of the Deck.",
+		"rarity": "SR",
+		"cardObtain": [
+			"The Distant Neo Space (Mini Box)"
+		]
+	},
+	{
+		"id": 20150,
+		"name": "Over Rush Storm",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Place 2 monsters from your Graveyard on the bottom of the Deck in any order.",
+		"effect": "Place 1 Spell/Trap Card fmo your opponent\u0027s field on the bottom of the owner\u0027s Deck.",
+		"rarity": "SR",
+		"cardObtain": [
+			"The Distant Neo Space (Mini Box)"
+		]
 	},
 	{
 		"id": 20151,
@@ -21218,7 +21630,28 @@
 		},
 		"cardObtain": [
 			"Flash of Shining Flare (Mini Box)",
-			"Forbidden Fantastic Show (Deck Build Box)"
+			"Forbidden Fantastic Show (Deck Build Box)",
+			"The Distant Neo Space (Mini Box)"
+		]
+	},
+	{
+		"id": 20456,
+		"name": "Elemental HERO Neos",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "A new Elemental HERO has arrived from Neo-Space! When he initiates a Contact Fusion with a Neo-Spacian his unknown powers are unleashed.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2500,
+			"def": 2000,
+			"attribute": "LIGHT",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"The Distant Neo Space (Mini Box)"
 		]
 	},
 	{
@@ -21239,7 +21672,8 @@
 		},
 		"cardObtain": [
 			"Flash of Shining Flare (Mini Box)",
-			"Forbidden Fantastic Show (Deck Build Box)"
+			"Forbidden Fantastic Show (Deck Build Box)",
+			"The Distant Neo Space (Mini Box)"
 		]
 	},
 	{
@@ -21260,7 +21694,8 @@
 		},
 		"cardObtain": [
 			"Flash of Shining Flare (Mini Box)",
-			"Forbidden Fantastic Show (Deck Build Box)"
+			"Forbidden Fantastic Show (Deck Build Box)",
+			"The Distant Neo Space (Mini Box)"
 		]
 	},
 	{
@@ -21511,6 +21946,66 @@
 		]
 	},
 	{
+		"id": 20626,
+		"name": "Neo-Spacian Aqua Dolphin",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 card from your hand to the Graveyard.",
+		"effect": "Look at your opponent\u0027s hand. You can send 1 monster with ATK equal or less than [the face-up monster with the highest ATK on your field] from your opponent\u0027s hand to the Graveyard. If you sent a monster to the Graveyard by this effect, also inflict 500 damage to your opponent.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 600,
+			"def": 800,
+			"attribute": "WATER",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"The Distant Neo Space (Mini Box)"
+		]
+	},
+	{
+		"id": 20627,
+		"name": "Neo-Spacian Flare Scarab",
+		"cardType": "EFFECT",
+		"effectType": "CONTINUOUS",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "This card gains ATK equal to [the number of Spell/Trap Cards on your opponent\u0027s field] x 400.",
+		"rarity": "N",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 500,
+			"def": 500,
+			"attribute": "FIRE",
+			"race": "INSECT"
+		},
+		"cardObtain": [
+			"The Distant Neo Space (Mini Box)"
+		]
+	},
+	{
+		"id": 20628,
+		"name": "Fake Neos",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send the top 2 cards of your Deck to the Graveyard.",
+		"effect": "This turn, this card\u0027s name becomes \"Elemental HERO Neos\". This turn, you can only attack with Warrior Type monsters.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1300,
+			"def": 1000,
+			"attribute": "LIGHT",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"The Distant Neo Space (Mini Box)"
+		]
+	},
+	{
 		"id": 20629,
 		"name": "Rising HERO Manaccaniter",
 		"cardType": "EFFECT",
@@ -21551,6 +22046,74 @@
 		]
 	},
 	{
+		"id": 20633,
+		"name": "Freshberry Smart",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 other card from your hand or field to the Graveyard.",
+		"effect": "This card gains 1500 ATK until the end of your opponent\u0027s next turn. Then, you can add 1 \"Freshberry Garden\" or \"Bye-Bye Strawberries\" from your Graveyard to your hand.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 100,
+			"def": 500,
+			"attribute": "WATER",
+			"race": "AQUA"
+		}
+	},
+	{
+		"id": 20634,
+		"name": "Freshberry Cure",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 other card from your hand or field to the Graveyard.",
+		"effect": "This card gains 1500 ATK until the end of your opponent\u0027s next turn. Then, you can add 1 \"Freshberry Garden\" or \"Freshberry Swimming\" from your Graveyard to your hand.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 100,
+			"def": 500,
+			"attribute": "WATER",
+			"race": "AQUA"
+		}
+	},
+	{
+		"id": 20635,
+		"name": "Freshberry Artless",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During your Main Phase that you Normal or Special Summoned this card.",
+		"effect": "Add 1 \"Freshberry Happiness\" or \"Freshberry Happiness Harvest\" from your Graveyard to your hand. If you added \"Freshberry Happiness Harvest\" by this effect, also send this card from your field to the Graveyard.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 100,
+			"def": 500,
+			"attribute": "WATER",
+			"race": "AQUA"
+		}
+	},
+	{
+		"id": 20636,
+		"name": "Freshberry Rich",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you have 10 or more cards in your Deck during the turn you Normal Summoned this card, send 2 other cards from your hand or field to the Graveyard.",
+		"effect": "Draw 1 card. If you sent an Aqua Type monster with 100 original ATK to the Graveyard to meet the requirement, you can also draw 1 card.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 100,
+			"def": 500,
+			"attribute": "WATER",
+			"race": "AQUA"
+		}
+	},
+	{
 		"id": 20643,
 		"name": "False Moon",
 		"cardType": "EFFECT",
@@ -21585,6 +22148,27 @@
 		}
 	},
 	{
+		"id": 20659,
+		"name": "Enigmatic Princess of Eternal Heaven",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "CONTINUOUS",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Specter of Heaven\u0027s Beginning\" + \"Specter of Heaven\u0027s End\"\nThis card can be Contact Fusioned.",
+		"requirement": "None",
+		"effect": "This card can attack directly. You take no battle damage from battles involving this card.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 1700,
+			"def": 0,
+			"attribute": "LIGHT",
+			"race": "ZOMBIE"
+		},
+		"cardObtain": [
+			"The Distant Neo Space (Mini Box)"
+		]
+	},
+	{
 		"id": 20660,
 		"name": "Clashing Twin Tides",
 		"cardType": "SPELL",
@@ -21595,6 +22179,61 @@
 		"rarity": "SR",
 		"cardObtain": [
 			"Blazing Chemicalization (Mini Box)"
+		]
+	},
+	{
+		"id": 20665,
+		"name": "Hero Descent",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Special Summon up to 2 monsters whose total Levels equal 7 or lower, among the monsters in your Graveyard that are \"Neo-Spacian Aqua Dolphin\", \"Neo-Spacian Flare Scarab\", or Warrior Type Normal Monsters, to your field in face-up Defense Position. This turn, you can only attack with Warrior Type monsters.",
+		"rarity": "SR",
+		"cardObtain": [
+			"The Distant Neo Space (Mini Box)"
+		]
+	},
+	{
+		"id": 20674,
+		"name": "Elemental HERO Pulse Neos",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Elemental HERO Neos\" + \"Neo-Spacian Aqua Dolphin\"\nThis card can be Contact Fusioned (Fusion Summon by shuffling the above face-up monsters from your field into the owner\u0027s Deck as materials).",
+		"requirement": "None",
+		"effect": "Destroy 1 face-up Level 9 or lower monster on your opponent\u0027s field.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2500,
+			"def": 2000,
+			"attribute": "WATER",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"The Distant Neo Space (Mini Box)"
+		]
+	},
+	{
+		"id": 20675,
+		"name": "Elemental HERO Heat Neos",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Elemental HERO Neos\" + \"Neo-Spacian Flare Scarab\"\nThis card can be Contact Fusioned (Fusion Summon by shuffling the above face-up monsters from your field into the owner\u0027s Deck as materials).",
+		"requirement": "Send the top 2 cards of your Deck to the Graveyard.",
+		"effect": "This card gains ATK equal to [the number of cards on the field] x 200 until the end of this turn.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2500,
+			"def": 2000,
+			"attribute": "FIRE",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"The Distant Neo Space (Mini Box)"
 		]
 	},
 	{
@@ -22078,6 +22717,23 @@
 		}
 	},
 	{
+		"id": 20977,
+		"name": "Lovely Ange",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During the turn you Normal Summoned this card, pay 500 LP.",
+		"effect": "Excavate 4 cards from the top of your Deck and show them. You can add 1 non-Level 4 Fairy Type monster with 0 ATK from those cards to your hand. Place the other cards on the bottom of your Deck in any order. If you chose a LIGHT Attribute monster by this effect, you can also gain 1000 LP.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 0,
+			"def": 0,
+			"attribute": "DARK",
+			"race": "FAIRY"
+		}
+	},
+	{
 		"id": 20998,
 		"name": "Elemental HERO Mariner",
 		"cardType": "FUSION_EFFECT",
@@ -22102,6 +22758,7 @@
 		"id": 21007,
 		"name": "Curse of the Rising Light",
 		"cardType": "SPELL",
+		"cardStyle": "ORIGINAL",
 		"effectType": "NORMAL",
 		"isLegend": false,
 		"requirement": "If your opponent has 1 or less card in their hand.",
@@ -22109,6 +22766,20 @@
 		"rarity": "SR",
 		"cardObtain": [
 			"Selection BOX Vol.03"
+		]
+	},
+	{
+		"id": 21022,
+		"name": "Curse of the Rising Light",
+		"cardType": "SPELL",
+		"cardStyle": "ALT_ART",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If your opponent has 1 or less card in their hand.",
+		"effect": "Change the battle position of 1 monster on your opponent\u0027s field to face-up Attack Position or face-down Defense Position. This turn, if your opponent activated a Trap Card, or it is the first turn of the player going second, both players also draw 2 cards.",
+		"rarity": "SR",
+		"cardObtain": [
+			"The Distant Neo Space (Mini Box)"
 		]
 	},
 	{
@@ -22130,6 +22801,27 @@
 		},
 		"cardObtain": [
 			"Selection BOX Vol.02"
+		]
+	},
+	{
+		"id": 21076,
+		"name": "Blue-Fang Concurrent Burst Dragon",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Blue-Fang Burst Dragon\" + \"Booster Wyvern\"\nThis card can be Contact Fusioned.",
+		"requirement": "Send 1 card from your hand to the Graveyard.",
+		"effect": "This turn, this card gains 1500 ATK, and it cannot attack directly. If you sent a Level 7 or higher Dragon Type monster to the Graveyard to meet the requirement, this card can make up to 2 attacks on monsters during this turn.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 3000,
+			"def": 2000,
+			"attribute": "LIGHT",
+			"race": "DRAGON"
+		},
+		"cardObtain": [
+			"The Distant Neo Space (Mini Box)"
 		]
 	},
 	{
@@ -22344,6 +23036,205 @@
 		},
 		"cardObtain": [
 			"Special Set (Bundle)"
+		]
+	},
+	{
+		"id": 22406,
+		"name": "Gradius",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "A high-performance jet fighter with power capsules for variable attack capabilities.",
+		"rarity": "N",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1200,
+			"def": 800,
+			"attribute": "LIGHT",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"The Distant Neo Space (Mini Box)"
+		]
+	},
+	{
+		"id": 22428,
+		"name": "Gradius\u0027 Option",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "Choose 1 face-up Level 4 LIGHT Attribute Machine Type monster with 800 original DEF on your field, and this card gains ATK equal to [the chosen monster\u0027s original ATK] until the end of your opponent\u0027s next turn.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 0,
+			"def": 800,
+			"attribute": "LIGHT",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"The Distant Neo Space (Mini Box)"
+		]
+	},
+	{
+		"id": 22429,
+		"name": "Multiple",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "This card\u0027s name becomes \"Gradius\u0027 Option\" while in the hand or in the Graveyard.",
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "This turn, this card\u0027s name becomes \"Gradius\u0027 Option\". If you have a face-up monster whose original name is \"Super-Dimensional Lord British Space Fighter\" on your field, you can also change the battle position of 1 monster on your opponent\u0027s field.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 0,
+			"def": 800,
+			"attribute": "LIGHT",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"The Distant Neo Space (Mini Box)"
+		]
+	},
+	{
+		"id": 22430,
+		"name": "Vic Viper Spread Bomb",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 other monster from your hand or field to the Graveyard.",
+		"effect": "This turn, this card\u0027s name becomes \"Gradius\". Then, you can destroy 1 Spell/Trap Card on your opponent\u0027s field. This turn, you can only attack with Machine Type monsters with 800 original DEF.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1200,
+			"def": 800,
+			"attribute": "LIGHT",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"The Distant Neo Space (Mini Box)"
+		]
+	},
+	{
+		"id": 22431,
+		"name": "Vic Viper Beginning",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Pay 100 LP.",
+		"effect": "This turn, this card\u0027s name becomes \"Gradius\". Then, you can send up to 2 other monsters from your hand or field to the Graveyard. If you sent a monster to the Graveyard, you can Special Summon \"Gradius\u0027 Option\" from your Graveyard to your field in face-up Defense Position equal to [the number of monsters sent to the Graveyard by this effect].",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1200,
+			"def": 800,
+			"attribute": "LIGHT",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"The Distant Neo Space (Mini Box)"
+		]
+	},
+	{
+		"id": 22446,
+		"name": "Vic Viper Ripple Laser",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Gradius\" + \"Gradius\u0027 Option\"\nThis card can be Contact Fusioned.",
+		"requirement": "None",
+		"effect": "Send the top 2 cards of your Deck to the Graveyard. Then, you can make up to 2 face-up monsters on your opponent\u0027s field lose 800 ATK until the end of this turn.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 2500,
+			"def": 800,
+			"attribute": "LIGHT",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"The Distant Neo Space (Mini Box)"
+		]
+	},
+	{
+		"id": 22447,
+		"name": "Vic Viper Full Custom",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "CONTINUOUS",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Gradius\" + \"Gradius\u0027 Option\" + \"Gradius\u0027 Option\"\\nThis card can be Contact Fusioned.",
+		"requirement": "None",
+		"effect": "This card cannot be destroyed by card effects. This card inflicts piercing battle damage.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 3200,
+			"def": 800,
+			"attribute": "LIGHT",
+			"race": "MACHINE"
+		}
+	},
+	{
+		"id": 22458,
+		"name": "Hyperspeed",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Fusion Summon a Level 4 Machine Type monster with 800 DEF by sending monsters from your hand or field to the Graveyard as material. If you have \"Power Capsule Red\" in your Graveyard, the monster Special Summoned by this effect gains 600 ATK until the end of this turn.",
+		"rarity": "N",
+		"cardObtain": [
+			"The Distant Neo Space (Mini Box)"
+		]
+	},
+	{
+		"id": 22459,
+		"name": "Power Meter",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Place 1 face-up monster from your field on the bottom of the owner\u0027s Deck.",
+		"effect": "Add 1 LIGHT Attribute Machine Type monster with 800 DEF from your Graveyard to your hand. If you have \"Power Capsule Red\" in your Graveyard, you can also Fusion Summon a Level 4 Machine Type monster with 800 DEF by sending monsters from your hand or field to the Graveyard as material.",
+		"rarity": "N",
+		"cardObtain": [
+			"The Distant Neo Space (Mini Box)"
+		]
+	},
+	{
+		"id": 22461,
+		"name": "Power Capsule Red",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Excavate 4 cards from the top of your Deck and show them. You can add up to 1 each \"Gradius\" and a LIGHT Attribute Machine Type Effect Monster with 800 DEF to your hand. Place the other cards on the bottom of your Deck in any order.",
+		"rarity": "SR",
+		"cardObtain": [
+			"The Distant Neo Space (Mini Box)"
+		]
+	},
+	{
+		"id": 22470,
+		"name": "Super-Dimensional Lord British Space Fighter",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "This turn, this card\u0027s name becomes \"Gradius\". Then, you can Special Summon 1 \"Gradius\u0027 Option\" from your Graveyard face-up to your field. This turn, you can only attack with Machine Type monsters with 800 original DEF.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1200,
+			"def": 800,
+			"attribute": "LIGHT",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"The Distant Neo Space (Mini Box)"
 		]
 	}
 ]

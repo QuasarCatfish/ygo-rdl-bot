@@ -2424,5 +2424,101 @@
 			706
 		],
 		"mentionedCards": []
+	},
+	{
+		"id": 6201,
+		"name": "Rush On - Cure Prodigy",
+		"requirement": "Activated at the beginning of the Duel.",
+		"effect": "Add 1 \"Dian Keto the Cure Prodigy\" to your Deck. (You can only have at most 3 copies.)",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			906
+		],
+		"mentionedCards": [
+			17878
+		]
+	},
+	{
+		"id": 6202,
+		"name": "Immi Special",
+		"requirement": "Can be activated from turn 2 onward by revealing 1 Level 8 monster with 1000 DEF from your hand if all of the monsters in your constructed Deck are EARTH, WATER, or FIRE Attribute Aqua Type monsters, except those with 500 DEF.",
+		"effect": "Add up to 2 cards (Normal Monsters with 1200 or less ATK or 0 DEF, and/or \"Nuvia the Mischievous\", and/or \"Rainapolis\") from your Deck to your hand. Then, send 1 card from your hand to the Graveyard. This turn, your monsters can be treated as 2 Tributes for the Tribute Summon of Level 8 monsters with 1000 DEF in Attack Position.",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			906
+		],
+		"mentionedCards": [
+			17877,
+			17896
+		]
+	},
+	{
+		"id": 6203,
+		"name": "The Prodigy\u0027s Big Moment",
+		"requirement": "Can be activated during a turn you Normal or Special Summoned \"Dian Keto the Cure Prodigy\".",
+		"effect": "Add 1 \"Nuvia the Mischievous\" or \"Rainapolis\" from your Deck or Graveyard to your hand.",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			906
+		],
+		"mentionedCards": [
+			17878,
+			17877,
+			17896
+		]
+	},
+	{
+		"id": 6204,
+		"name": "Get Your Mind Right",
+		"requirement": "None",
+		"effect": "Make 1 face-up Level 8 Aqua Type monster you control gain 800 ATK until the end of this turn. If your LP are lower than your opponent\u0027s, gain 2000 LP. (Once per Duel.)",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			906
+		],
+		"mentionedCards": []
+	},
+	{
+		"id": 6205,
+		"name": "Destiny Draw: Cornful Blessings",
+		"requirement": "Can be activated from turn 2 onward before your normal draw. (Once per Duel if going first, twice per Duel if going second.)",
+		"effect": "Place 1 \"Cornful Charity\" from your Deck or Graveyard on top of your Deck. In this Draw Phase, if you would draw until you have 5 cards for your normal draw, instead draw until you have 6 cards.",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			906
+		],
+		"mentionedCards": [
+			20149
+		]
+	},
+	{
+		"id": 6206,
+		"name": "Neos Contact Draw",
+		"requirement": "Can be activated from turn 2 onward if all of the monsters in your constructed Deck are LIGHT Attribute Warrior Type monsters with 1300 or more ATK.",
+		"effect": "Send up to 2 cards (\"Elemental HERO Neos\", and/or \"Neo-Spacian Aqua Dolphin\", and/or \"Neo-Spacian Flare Scarab\") from your hand to the Graveyard, then draw that many cards. If you have \"Elemental HERO Neos\" in your Graveyard, you can also add 1 \"Hero Descent\" from your Graveyard to your hand. (Once per Duel.)",
+		"effectType": "NORMAL",
+		"isArchive": true,
+		"mentionedCards": [
+			20456,
+			20626,
+			20627,
+			20665
+		]
+	},
+	{
+		"id": 6207,
+		"name": "Super-Dimensional Fighter Launch",
+		"requirement": "At the beginning of the Duel if your constructed Deck includes 15 or more Machine Type monsters with 800 DEF.",
+		"effect": "Add 3 \"Vic Viper Full Custom\" to your Extra Deck.",
+		"effectType": "NORMAL",
+		"isArchive": true,
+		"mentionedCards": [
+			22447
+		]
 	}
 ]
