@@ -14559,6 +14559,7 @@
 			"race": "AQUA"
 		},
 		"cardObtain": [
+			"Immi Imimi Level Up Reward",
 			"Immi Imimi Duel Reward"
 		]
 	},
@@ -14767,14 +14768,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "An angelic ballerina who never spares effort. Even through harsh training, she presses on with unwavering determination.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1500,
 			"def": 0,
 			"attribute": "WATER",
 			"race": "AQUA"
-		}
+		},
+		"cardObtain": [
+			"Immi Imimi Level Up Reward"
+		]
 	},
 	{
 		"id": 17854,
@@ -21137,14 +21141,17 @@
 		"isLegend": false,
 		"requirement": "If your LP are lower than your opponent\u0027s, send 1 card from your hand to the Graveyard.",
 		"effect": "Gain 1000 LP. Then, this card gains 1000 ATK until the end of this turn.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 8,
 			"atk": 2500,
 			"def": 1000,
 			"attribute": "EARTH",
 			"race": "AQUA"
-		}
+		},
+		"cardObtain": [
+			"Immi Imimi Level Up Reward"
+		]
 	},
 	{
 		"id": 20142,
