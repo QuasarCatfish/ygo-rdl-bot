@@ -160,6 +160,7 @@
 			"Yuhi Ohdo Starter Deck",
 			"Zuwijo Zwil Velgear Starter Deck",
 			"Yuka Goha Starter Deck",
+			"Immi Imimi Starter Deck",
 			"Yuga Ohdo Duel Reward",
 			"Gavin Sogetsu Duel Reward",
 			"Asana Mutsuba Duel Reward",
@@ -460,6 +461,7 @@
 			"Yuo Goha Starter Deck",
 			"Zuwijo Zwil Velgear Starter Deck",
 			"Tiadosia \"Tiger\" Kallister Starter Deck",
+			"Immi Imimi Starter Deck",
 			"Lucidien \"Luke\" Kallister Duel Reward",
 			"Mimi Imimi Duel Reward",
 			"Yudias Velgear Duel Reward"
@@ -1199,7 +1201,8 @@
 			"Zuwijo Zwil Velgear Starter Deck",
 			"Tag Duel Tournament",
 			"Yuka Goha Starter Deck",
-			"Tiadosia \"Tiger\" Kallister Starter Deck"
+			"Tiadosia \"Tiger\" Kallister Starter Deck",
+			"Immi Imimi Starter Deck"
 		]
 	},
 	{
@@ -1443,6 +1446,7 @@
 			"Yuamu Ohdo Starter Deck",
 			"Yuo Goha Starter Deck",
 			"Maddox Sogetsu Starter Deck",
+			"Immi Imimi Starter Deck",
 			"Romin Kassidy Duel Reward",
 			"Roa Kassidy Duel Reward",
 			"Yudias Velgear Duel Reward",
@@ -1532,6 +1536,7 @@
 			"Yuo Goha Starter Deck",
 			"Maddox Sogetsu Starter Deck",
 			"Yuka Goha Starter Deck",
+			"Immi Imimi Starter Deck",
 			"Yuga Ohdo Duel Reward",
 			"Asana Mutsuba Duel Reward",
 			"Yudias Velgear Duel Reward",
@@ -1591,6 +1596,7 @@
 			"Zuwijo Zwil Velgear Starter Deck",
 			"Maddox Sogetsu Starter Deck",
 			"Tiadosia \"Tiger\" Kallister Starter Deck",
+			"Immi Imimi Starter Deck",
 			"Lucidien \"Luke\" Kallister Duel Reward",
 			"Roa Kassidy Duel Reward",
 			"Yuamu Ohdo Duel Reward"
@@ -2056,6 +2062,7 @@
 			"Yudias Velgear Starter Deck",
 			"Yuamu Ohdo Starter Deck",
 			"Yuo Goha Starter Deck",
+			"Immi Imimi Starter Deck",
 			"Gavin Sogetsu Duel Reward",
 			"Mimi Imimi Duel Reward",
 			"Asana Mutsuba Duel Reward",
@@ -2562,6 +2569,7 @@
 			"Zuwijo Zwil Velgear Starter Deck",
 			"Maddox Sogetsu Starter Deck",
 			"Tiadosia \"Tiger\" Kallister Starter Deck",
+			"Immi Imimi Starter Deck",
 			"Lucidien \"Luke\" Kallister Duel Reward",
 			"Romin Kassidy Duel Reward",
 			"Nail Saionji Duel Reward",
@@ -3889,6 +3897,7 @@
 			"Yuhi Ohdo Starter Deck",
 			"Maddox Sogetsu Starter Deck",
 			"Tiadosia \"Tiger\" Kallister Starter Deck",
+			"Immi Imimi Starter Deck",
 			"Romin Kassidy Duel Reward",
 			"Mimi Imimi Duel Reward",
 			"Nail Saionji Duel Reward",
@@ -3925,6 +3934,7 @@
 			"Yuhi Ohdo Starter Deck",
 			"Zuwijo Zwil Velgear Starter Deck",
 			"Maddox Sogetsu Starter Deck",
+			"Immi Imimi Starter Deck",
 			"Romin Kassidy Duel Reward",
 			"Mimi Imimi Duel Reward",
 			"Nail Saionji Duel Reward",
@@ -5213,7 +5223,8 @@
 			"Yuhi Ohdo Starter Deck",
 			"Maddox Sogetsu Starter Deck",
 			"Yuka Goha Starter Deck",
-			"Tiadosia \"Tiger\" Kallister Starter Deck"
+			"Tiadosia \"Tiger\" Kallister Starter Deck",
+			"Immi Imimi Starter Deck"
 		]
 	},
 	{
@@ -5365,6 +5376,7 @@
 			"Yuo Goha Starter Deck",
 			"Zuwijo Zwil Velgear Starter Deck",
 			"Maddox Sogetsu Starter Deck",
+			"Immi Imimi Starter Deck",
 			"Yuga Ohdo Duel Reward",
 			"Lucidien \"Luke\" Kallister Duel Reward",
 			"Yuhi Ohdo Duel Reward",
@@ -10048,6 +10060,7 @@
 			"Zuwijo Zwil Velgear Starter Deck",
 			"Maddox Sogetsu Starter Deck",
 			"Yuka Goha Starter Deck",
+			"Immi Imimi Starter Deck",
 			"Yuga Ohdo Duel Reward",
 			"Gavin Sogetsu Duel Reward",
 			"Mimi Imimi Duel Reward",
@@ -12484,6 +12497,7 @@
 			"Yuamu Ohdo Starter Deck",
 			"Yuo Goha Starter Deck",
 			"Maddox Sogetsu Starter Deck",
+			"Immi Imimi Starter Deck",
 			"Lucidien \"Luke\" Kallister Duel Reward"
 		]
 	},
@@ -14559,6 +14573,7 @@
 			"race": "AQUA"
 		},
 		"cardObtain": [
+			"Immi Imimi Starter Deck",
 			"Immi Imimi Level Up Reward",
 			"Immi Imimi Duel Reward"
 		]
