@@ -1314,9 +1314,8 @@
 	{
 		"id": 1605,
 		"name": "Cybernetic Combat Customization",
-		"condition": "This Skill can be used if all of the monsters in your Deck are Machine Type, and the Deck contains no Level 7 monsters.",
-		"requirement": "From turn 2 onward.",
-		"effect": "Choose 1 face-up monster on your field with 2100 or 2400 ATK, and it gains 500 ATK until the end of the turn. You can shuffle 1 card from your hand into the Deck, and if you do, add 1 \"Proto-Cyber Dragon\" or 1 \"Fusion\" from your Deck or Graveyard to your hand.",
+		"requirement": "From turn 2 onward if all of the monsters in your constructed Deck are Machine Type and none are Level 7.",
+		"effect": "1 face-up monster on your field with 1100/2100/2400 ATK gains 700 ATK until the end of the turn. You can shuffle 1 card from your hand into the Deck, and if you do, add 1 \"Proto-Cyber Dragon\" or \"Fusion\" from your Deck or Graveyard to your hand.",
 		"effectType": "NORMAL",
 		"isArchive": true,
 		"mentionedCards": [
@@ -2363,7 +2362,7 @@
 		"id": 6001,
 		"name": "Giastar F Charge",
 		"requirement": "Can be activated if all the monsters in your constructed Deck are Dragon Type monsters and it contains 4 or more DARK Attribute monsters with 2500 ATK.",
-		"effect": "⬤ Make the original ATK of 1 face-up Level 7 DARK Attribute monster with 2500 ATK on your field become 2800 ATK until the end of this turn.\n⬤ If the total ATK of the face-up Level 5 or higher monsters on your opponent\u0027s field is 1400/2800/4200 or more, add 1/2/3 \"The Dragon\", \"Twin Edge Phantom Dragon\", and/or \"Fusion\" from your Deck or Graveyard to your hand. (\"The Dragon\" and \"Twin Edge Phantom Dragon\" only once per Duel each.)",
+		"effect": "⬤ Make the original ATK of 1 face-up Level 7 DARK Attribute monster with 2500 ATK on your field become 2800 ATK until the end of this turn.\r ⬤ If the total ATK of the face-up Level 5 or higher monsters on your opponent\u0027s field is 1400/2800/4200 or more, add 1/2/3 \"The Dragon\", \"Twin Edge Phantom Dragon\", and/or \"Fusion\" from your Deck or Graveyard to your hand. (\"Twin Edge Phantom Dragon\" only once per Duel.)",
 		"effectType": "MULTICHOICE",
 		"isArchive": false,
 		"characters": [
