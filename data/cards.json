@@ -7784,7 +7784,10 @@
 		"isLegend": true,
 		"requirement": "Non",
 		"effect": "Draw 1 card. Then, your opponent gains 1000 LP.",
-		"rarity": "UR"
+		"rarity": "UR",
+		"cardObtain": [
+			"Ranked Duels Reward Ticket"
+		]
 	},
 	{
 		"id": 16589,
@@ -17457,7 +17460,7 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"(Deck Build Box)"
+			"Black Skulls Showdown (Deck Build Box)"
 		]
 	},
 	{
@@ -18026,7 +18029,7 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"(Deck Build Box)"
+			"Black Skulls Showdown (Deck Build Box)"
 		]
 	},
 	{
@@ -19157,7 +19160,7 @@
 			"race": "SEA_SERPENT"
 		},
 		"cardObtain": [
-			"(Deck Build Box)"
+			"Black Skulls Showdown (Deck Build Box)"
 		]
 	},
 	{
@@ -20735,7 +20738,7 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"(Deck Build Box)"
+			"Black Skulls Showdown (Deck Build Box)"
 		]
 	},
 	{
@@ -20800,7 +20803,7 @@
 			"race": "FIEND"
 		},
 		"cardObtain": [
-			"(Deck Build Box)"
+			"Black Skulls Showdown (Deck Build Box)"
 		]
 	},
 	{
@@ -21078,7 +21081,10 @@
 			"def": 200,
 			"attribute": "LIGHT",
 			"race": "BEAST"
-		}
+		},
+		"cardObtain": [
+			"Tag Duel Tournament"
+		]
 	},
 	{
 		"id": 19995,
@@ -21130,7 +21136,7 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"(Deck Build Box)"
+			"Black Skulls Showdown (Deck Build Box)"
 		]
 	},
 	{
@@ -22085,7 +22091,7 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"(Deck Build Box)"
+			"Black Skulls Showdown (Deck Build Box)"
 		]
 	},
 	{
@@ -23061,7 +23067,7 @@
 			"race": "AQUA"
 		},
 		"cardObtain": [
-			"(Deck Build Box)"
+			"Black Skulls Showdown (Deck Build Box)"
 		]
 	},
 	{
