@@ -7777,6 +7777,16 @@
 		]
 	},
 	{
+		"id": 16586,
+		"name": "Upstart Goblin",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": true,
+		"requirement": "Non",
+		"effect": "Draw 1 card. Then, your opponent gains 1000 LP.",
+		"rarity": "UR"
+	},
+	{
 		"id": 16589,
 		"name": "Seedchrotron Brusselun",
 		"cardType": "EFFECT",
@@ -16766,6 +16776,7 @@
 		"id": 18350,
 		"name": "Cyber Rush Dragon",
 		"cardType": "FUSION_EFFECT",
+		"cardStyle": "ORIGINAL",
 		"effectType": "NORMAL",
 		"isLegend": false,
 		"inherentSummonCondition": "\"Cyber Dragon\" + \"Cyber Dragon\"",
@@ -17428,6 +17439,28 @@
 		]
 	},
 	{
+		"id": 18558,
+		"name": "Cyber Rush Dragon",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Cyber Dragon\" + \"Cyber Dragon\"",
+		"requirement": "Your opponent has a monster on their field.",
+		"effect": "Draw until you have 5 cards in your hand. Then, send 4 cards from your hand to the Graveyard. Also, you can Special Summon 1 Machine Type monster from your hand face-up to your field.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2800,
+			"def": 2100,
+			"attribute": "LIGHT",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"(Deck Build Box)"
+		]
+	},
+	{
 		"id": 18564,
 		"name": "Hundred Divine Dragon",
 		"cardType": "EFFECT",
@@ -17975,6 +18008,26 @@
 			"attribute": "DARK",
 			"race": "DRAGON"
 		}
+	},
+	{
+		"id": 18685,
+		"name": "Legendary Magician",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Excavate 3 cards from the top of your Deck and show them. You can send 1 monster among them to the Graveyard. Shuffle the rest of the cards into the Deck. Then, you can add 1 Legend Normal Monster from your Graveyard to your hand.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1100,
+			"def": 300,
+			"attribute": "LIGHT",
+			"race": "SPELLCASTER"
+		},
+		"cardObtain": [
+			"(Deck Build Box)"
+		]
 	},
 	{
 		"id": 18692,
@@ -18781,6 +18834,24 @@
 		]
 	},
 	{
+		"id": 18962,
+		"name": "Pulglace Spierce",
+		"cardType": "EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Change the battle position of this card (Attack Position to face-up Defense Position, Defense Position to face-up Attack Position).",
+		"effect": "Choose 1 face-up monster on your field. This turn, that monster gains 1000 ATK, and inflicts piercing battle damage.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2500,
+			"def": 2500,
+			"attribute": "LIGHT",
+			"race": "SEA_SERPENT"
+		}
+	},
+	{
 		"id": 18963,
 		"name": "Galactiara FUSE Eve",
 		"cardType": "FUSION_EFFECT",
@@ -19066,6 +19137,27 @@
 		},
 		"cardObtain": [
 			"Transcendence Miragias (Super Mini Box)"
+		]
+	},
+	{
+		"id": 19000,
+		"name": "Pulglace Spierce",
+		"cardType": "EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Change the battle position of this card (Attack Position to face-up Defense Position, Defense Position to face-up Attack Position).",
+		"effect": "Choose 1 face-up monster on your field. This turn, that monster gains 1000 ATK, and inflicts piercing battle damage.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2500,
+			"def": 2500,
+			"attribute": "LIGHT",
+			"race": "SEA_SERPENT"
+		},
+		"cardObtain": [
+			"(Deck Build Box)"
 		]
 	},
 	{
@@ -20626,6 +20718,27 @@
 		}
 	},
 	{
+		"id": 19660,
+		"name": "Red-Eyes Moon Dragon",
+		"cardType": "EFFECT",
+		"effectType": "CONTINUOUS",
+		"isLegend": false,
+		"inherentSummonCondition": "This card\u0027s name becomes \"Red-Eyes Black Dragon\" while in the hand.",
+		"requirement": "None",
+		"effect": "If used as material for a Fusion Summon, this card\u0027s name becomes \"Red-Eyes Black Dragon\".",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1200,
+			"def": 1200,
+			"attribute": "DARK",
+			"race": "DRAGON"
+		},
+		"cardObtain": [
+			"(Deck Build Box)"
+		]
+	},
+	{
 		"id": 19685,
 		"name": "Dragonic Progression",
 		"cardType": "SPELL",
@@ -20667,6 +20780,27 @@
 		},
 		"cardObtain": [
 			"Fullmetarion of the Radiant Wings (Deck Build Box)"
+		]
+	},
+	{
+		"id": 19767,
+		"name": "Showdown Skull Archfiend",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "This card\u0027s name becomes \"Summoned Skull\" while in the hand or Graveyard.",
+		"requirement": "Send 1 card from your hand to the Graveyard.",
+		"effect": "This turn, this card\u0027s name becomes \"Summoned Skull\". Then, you can Special Summon 1 Level 7 or lower Normal Monster from your Graveyard face-up to your field.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2500,
+			"def": 1200,
+			"attribute": "DARK",
+			"race": "FIEND"
+		},
+		"cardObtain": [
+			"(Deck Build Box)"
 		]
 	},
 	{
@@ -20843,6 +20977,25 @@
 		]
 	},
 	{
+		"id": 19948,
+		"name": "Black Skull Dragon",
+		"cardType": "FUSION",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Summoned Skull\" + \"Red-Eyes Black Dragon\"",
+		"requirement": "Unknown",
+		"effect": "Unknown",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 3200,
+			"def": 2500,
+			"attribute": "DARK",
+			"race": "DRAGON"
+		}
+	},
+	{
 		"id": 19967,
 		"name": "Vande the Electric Lion",
 		"cardType": "EFFECT",
@@ -20918,7 +21071,7 @@
 		"isLegend": false,
 		"requirement": "Reveal up to 2 Level 7 or 8 LIGHT Attribute Effect Monsters in your hand.",
 		"effect": "Draw cards equal to [the number of monsters revealed to meet the requirement]. Then, shuffle cards from your hand into the Deck equal to [the number of cards drawn by this effect].",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 3,
 			"atk": 1000,
@@ -20957,6 +21110,28 @@
 		"requirement": "None",
 		"effect": "Both players excavate the top 4 cards of their Deck. You can send up to a total of 2 excavated Machine Type monsters and/or Trap Cards among those 8 cards to the Graveyard. Both players place the other cards on the bottom of their Deck in any order. If you sent a Trap Card to the Graveyard by this effect, also draw 1 card.",
 		"rarity": "NPC"
+	},
+	{
+		"id": 20019,
+		"name": "Black Skull Dragon",
+		"cardType": "FUSION",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Summoned Skull\" + \"Red-Eyes Black Dragon\"",
+		"requirement": "Unknown",
+		"effect": "Unknown",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 3200,
+			"def": 2500,
+			"attribute": "DARK",
+			"race": "DRAGON"
+		},
+		"cardObtain": [
+			"(Deck Build Box)"
+		]
 	},
 	{
 		"id": 20035,
@@ -21616,6 +21791,7 @@
 		"id": 20454,
 		"name": "Elemental HERO Burst Wingman",
 		"cardType": "FUSION_EFFECT",
+		"cardStyle": "ORIGINAL",
 		"effectType": "NORMAL",
 		"isLegend": false,
 		"inherentSummonCondition": "\"Elemental HERO Avian\" + \"Elemental HERO Burstinatrix\"\nThis card must be Fusion Summoned.",
@@ -21888,6 +22064,28 @@
 		},
 		"cardObtain": [
 			"Hero\u0027s Stage (Structure Deck)"
+		]
+	},
+	{
+		"id": 20475,
+		"name": "Elemental HERO Burst Wingman",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Elemental HERO Avian\" + \"Elemental HERO Burstinatrix\"\\nThis card must be Fusion Summoned.",
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "1 face-up Warrior Type monster on your field gains 1000 ATK until the end of your opponent\u0027s next turn. Then, you can destroy 1 Spell/Trap Card on your opponent\u0027s field.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 2100,
+			"def": 1200,
+			"attribute": "FIRE",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"(Deck Build Box)"
 		]
 	},
 	{
@@ -22844,6 +23042,26 @@
 		},
 		"cardObtain": [
 			"The Distant Neo Space (Mini Box)"
+		]
+	},
+	{
+		"id": 21085,
+		"name": "Change Slime - Skull Dragon Mode",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send this face-up card from your field to the Graveyard.",
+		"effect": "Fusion Summon a monster that mentions \"Summoned Skull\" or \"Red-Eyes Black Dragon\" as material by sending monsters from your hand or field to the Graveyard as material.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1200,
+			"def": 500,
+			"attribute": "WATER",
+			"race": "AQUA"
+		},
+		"cardObtain": [
+			"(Deck Build Box)"
 		]
 	},
 	{

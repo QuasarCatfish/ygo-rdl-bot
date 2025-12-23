@@ -2525,5 +2525,20 @@
 		"mentionedCards": [
 			22447
 		]
+	},
+	{
+		"id": 6301,
+		"name": "Black Skull Rising",
+		"requirement": "Reveal 1 \"Red-Eyes Black Dragon\", \"Summoned Skull\", or \"Change Slime - Skull Dragon Mode\" from your hand from turn 2 onward if all of the Level 5 or higher monsters in your constructed Deck are \"Red-Eyes Black Dragon\" and \"Showdown Skull Archfiend\".",
+		"effect": "Add 2 Level 7 monsters from among \"Red-Eyes Moon Dragon\" and/or \"Change Slime - Skull Dragon Mode\" from your Deck or Graveyard to your hand, then send 1 card from your hand to the Graveyard.",
+		"effectType": "NORMAL",
+		"isArchive": true,
+		"mentionedCards": [
+			15351,
+			15781,
+			21085,
+			19767,
+			19660
+		]
 	}
 ]
