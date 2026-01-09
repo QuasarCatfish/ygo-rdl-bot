@@ -2539,5 +2539,14 @@
 			21085,
 			19660
 		]
+	},
+	{
+		"id": 6401,
+		"name": "Power to Weave Hope",
+		"requirement": "Reveal 1 Level 8 monster from your hand if all of the Level 5 or higher monsters in your constructed Deck are Level 8 LIGHT Attribute monsters with 2500 ATK.",
+		"effect": "Make 1 monster on the field lose 900 ATK until the end of this turn. Then, you can apply the following effects.\n● Play up to 2 Level 8 Normal Monsters from your hand to your field.\n● If it is turn 2 onward, shuffle 1 monster from your field into your Deck, then play 1 Level 8 monster from your hand.",
+		"effectType": "NORMAL",
+		"isArchive": true,
+		"mentionedCards": []
 	}
 ]

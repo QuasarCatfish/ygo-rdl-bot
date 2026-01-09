@@ -1647,7 +1647,7 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Trader (Featured Inventory)",
+			"Trader (Regular Inventory)",
 			"Challenge Deck (Gaia the Fierce Knight)"
 		]
 	},
@@ -1655,6 +1655,7 @@
 		"id": 15351,
 		"name": "Red-Eyes Black Dragon",
 		"cardType": "NORMAL",
+		"cardStyle": "ORIGINAL",
 		"effectType": "NORMAL",
 		"isLegend": true,
 		"requirement": "Unknown",
@@ -14553,7 +14554,7 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"Trader (Featured Inventory)",
+			"Trader (Regular Inventory)",
 			"Challenge Deck (Gaia the Fierce Knight)"
 		]
 	},
@@ -23123,6 +23124,27 @@
 		]
 	},
 	{
+		"id": 21137,
+		"name": "Red-Eyes Black Dragon",
+		"cardType": "NORMAL",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": true,
+		"requirement": "Unknown",
+		"effect": "A ferocious dragon with a deadly attack.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2400,
+			"def": 2000,
+			"attribute": "DARK",
+			"race": "DRAGON"
+		},
+		"cardObtain": [
+			"Duel Links 9th Anniversary Celebration Campaign"
+		]
+	},
+	{
 		"id": 21252,
 		"name": "Insect Knight",
 		"cardType": "NORMAL",
@@ -23513,6 +23535,45 @@
 		},
 		"cardObtain": [
 			"The Distant Neo Space (Mini Box)"
+		]
+	},
+	{
+		"id": 22619,
+		"name": "Dimension Linker",
+		"cardType": "NORMAL",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "Duel Dimension System activated-\nBorn in the Sea of Neuron, a proud swordswoman who journeyed across nine dimensions.\nHer blade, wielded alongside countless Duelists, is not meant to sever, but to unite.\n\nPeople\u0027s hope link beyond time and space.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2500,
+			"def": 2000,
+			"attribute": "LIGHT",
+			"race": "CYBERSE"
+		}
+	},
+	{
+		"id": 22620,
+		"name": "Dimension Linker",
+		"cardType": "NORMAL",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "Duel Dimension System activated-\nBorn in the Sea of Neuron, a proud swordswoman who journeyed across nine dimensions.\nHer blade, wielded alongside countless Duelists, is not meant to sever, but to unite.\n\nPeople\u0027s hope link beyond time and space.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2500,
+			"def": 2000,
+			"attribute": "LIGHT",
+			"race": "CYBERSE"
+		},
+		"cardObtain": [
+			"Duel Links 9th Anniversary Celebration Campaign"
 		]
 	}
 ]
