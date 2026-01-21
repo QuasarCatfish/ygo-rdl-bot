@@ -12878,14 +12878,17 @@
 		"isLegend": false,
 		"requirement": "During the turn you Normal Summoned this card.",
 		"effect": "Send the top card of your Deck to the Graveyard. If you have 1 or less monsters in your Graveyard, you can destroy 1 face-up Level 8 or lower monster on your opponent\u0027s field.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1300,
 			"def": 600,
 			"attribute": "LIGHT",
 			"race": "GALAXY"
-		}
+		},
+		"cardObtain": [
+			"Yudias Velgear Level Up Reward"
+		]
 	},
 	{
 		"id": 17504,
@@ -15333,6 +15336,19 @@
 		"rarity": "NPC"
 	},
 	{
+		"id": 17895,
+		"name": "Embracing the Rain",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If a face-up Field Spell Card is on the field.",
+		"effect": "All face-up Normal Monsters on your opponent\u0027s field lose ATK equal to [the number of monsters on their field] x 300 until the end of this turn. Then, you can destroy 1 card in your opponent\u0027s Spell \u0026 Trap Zone.",
+		"rarity": "UR",
+		"cardObtain": [
+			"Immi Imimi Duel Reward"
+		]
+	},
+	{
 		"id": 17896,
 		"name": "Rainapolis",
 		"cardType": "FIELD",
@@ -15340,6 +15356,19 @@
 		"isLegend": false,
 		"requirement": "If you control 2 or more face-up Aqua Type monsters.",
 		"effect": "While this card is face-up on the Field Zone, face-up Aqua Type monsters on the field gain 200 ATK, and face-up non-Aqua Type monsters on the field lose 200 ATK.",
+		"rarity": "SR",
+		"cardObtain": [
+			"Immi Imimi Duel Reward"
+		]
+	},
+	{
+		"id": 17897,
+		"name": "Kingdom of Bubbles",
+		"cardType": "FIELD",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "While this card is face-up in the Field Zone, face-up Aqua Type Normal Monsters on the field gain 500 ATK.",
 		"rarity": "SR",
 		"cardObtain": [
 			"Immi Imimi Duel Reward"
@@ -16027,14 +16056,17 @@
 		"isLegend": false,
 		"requirement": "You have no other monsters on your field.",
 		"effect": "Special Summon 1 \"Methyl the Fire Genie of the Lamp\" from your Graveyard to your field in face-up Defense Position.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 3,
 			"atk": 500,
 			"def": 1000,
 			"attribute": "FIRE",
 			"race": "PYRO"
-		}
+		},
+		"cardObtain": [
+			"Maddox Sogetsu Level Up Reward"
+		]
 	},
 	{
 		"id": 17963,
@@ -19088,6 +19120,19 @@
 		]
 	},
 	{
+		"id": 18979,
+		"name": "Voidvelg Gullinbursti",
+		"cardType": "EQUIP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Equip this card to 1 face-up DARK Attribute Galaxy Type monster on your field.",
+		"effect": "The equipped monster cannot be destroyed by Spell Card effects, and gains 800 ATK during your turn.",
+		"rarity": "SR",
+		"cardObtain": [
+			"Zuwijo Zwil Velgear Level Up Reward"
+		]
+	},
+	{
 		"id": 18988,
 		"name": "Recombination Galactica",
 		"cardType": "TRAP",
@@ -20070,6 +20115,19 @@
 		},
 		"cardObtain": [
 			"Challenge Deck (Gaia the Fierce Knight)"
+		]
+	},
+	{
+		"id": 19324,
+		"name": "Jointech Digup",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 EARTH Attribute Machine Type monster from your hand to the Graveyard.",
+		"effect": "Excavate the top 3 cards of your Deck. Add 1 excavated card to your hand. Place the rest on top of your Deck in any order or send them all to the Graveyard.",
+		"rarity": "UR",
+		"cardObtain": [
+			"Yuhi Ohdo Level Up Reward"
 		]
 	},
 	{
@@ -21761,7 +21819,10 @@
 		"isLegend": false,
 		"requirement": "None",
 		"effect": "Shuffle 2 LIGHT Attribute Dragon Type monsters from your Graveyard into the Deck. Then, you can Special Summon 1 \"Blue-Fang Burst Dragon\" from your Graveyard face-up to your field.",
-		"rarity": "NPC"
+		"rarity": "SR",
+		"cardObtain": [
+			"Yuamu Ohdo Level Up Reward"
+		]
 	},
 	{
 		"id": 20371,
@@ -22371,6 +22432,26 @@
 			"attribute": "WATER",
 			"race": "AQUA"
 		}
+	},
+	{
+		"id": 20641,
+		"name": "Good Goo",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If your opponent has 2 or more monsters on their field, send this face-up card from your field to the Graveyard.",
+		"effect": "1 face-up Level 7 or higher monster on your opponent\u0027s field loses 1000 ATK/DEF until the end of this turn.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 100,
+			"def": 1000,
+			"attribute": "WATER",
+			"race": "AQUA"
+		},
+		"cardObtain": [
+			"Immi Imimi Level Up Reward"
+		]
 	},
 	{
 		"id": 20643,

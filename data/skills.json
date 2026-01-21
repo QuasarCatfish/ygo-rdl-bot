@@ -2548,5 +2548,21 @@
 		"effectType": "NORMAL",
 		"isArchive": true,
 		"mentionedCards": []
+	},
+	{
+		"id": 6501,
+		"name": "Set - Immi Field",
+		"requirement": "None",
+		"effect": "Set 1 \"Kingdom of Bubbles\" or \"Rainapolis\" from your Deck or Graveyard in your Field Zone. Then, you can add 1 \"Dian Keto the Cure Prodigy\" from your Deck or Graveyard to your hand. (Once per Duel.)",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			906
+		],
+		"mentionedCards": [
+			17897,
+			17896,
+			17878
+		]
 	}
 ]
