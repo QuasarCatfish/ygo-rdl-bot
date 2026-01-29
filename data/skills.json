@@ -2564,5 +2564,28 @@
 			17896,
 			17878
 		]
+	},
+	{
+		"id": 6601,
+		"name": "Volcalize Burst Draw",
+		"requirement": "If the only monsters in your constructed Deck are FIRE Attribute Pyro/Aqua/Thunder Type monsters, send 2 cards from your hand, including a Level 10 monster, and the top card of your Deck to the Graveyard.",
+		"effect": "Draw 2 cards. If it is turn 2 onward, instead of drawing cards, you can add up to 2 Level 10 monsters from your Graveyard to your hand.",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			905
+		],
+		"mentionedCards": []
+	},
+	{
+		"id": 6602,
+		"name": "Emperor Aura",
+		"requirement": "Can be activated from turn 2 onward by revealing 1 Level 5 or higher monster from your hand if all of the Level 5 or higher monsters in your constructed Deck have 2000/2400 ATK and 1000 DEF.",
+		"effect": "Add 1 \"The Emperor Realm\" from your Deck or Graveyard to your hand. If you have a face-up \"The Emperor Realm\" in your Field Zone, you can instead add 1 monster (excluding Legend Monsters) with 800/2000/2400 ATK and 1000 DEF from your Deck to your hand.",
+		"effectType": "NORMAL",
+		"isArchive": true,
+		"mentionedCards": [
+			18985
+		]
 	}
 ]

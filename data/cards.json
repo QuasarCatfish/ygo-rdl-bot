@@ -1627,7 +1627,8 @@
 		},
 		"cardObtain": [
 			"Sevens New Road (Main Box)",
-			"The Ultimate Ace Breaker (Structure Deck)"
+			"The Ultimate Ace Breaker (Structure Deck)",
+			"Crimson Volcalize (Deck Build Box)"
 		]
 	},
 	{
@@ -2476,7 +2477,8 @@
 		"cardObtain": [
 			"Sevens New Road (Main Box)",
 			"Scorching Flame Burst (Deck Build Box)",
-			"Blazing Chemicalization (Mini Box)"
+			"Blazing Chemicalization (Mini Box)",
+			"Crimson Volcalize (Deck Build Box)"
 		]
 	},
 	{
@@ -3206,7 +3208,8 @@
 			"Selection BOX Vol.02",
 			"Hero\u0027s Stage (Structure Deck)",
 			"Infinite Grand Crush (Deck Build Box)",
-			"Forbidden Fantastic Show (Deck Build Box)"
+			"Forbidden Fantastic Show (Deck Build Box)",
+			"Crimson Volcalize (Deck Build Box)"
 		]
 	},
 	{
@@ -4809,7 +4812,8 @@
 			"Genesis Maximum (Mini Box)",
 			"Selection BOX Vol.02",
 			"Infinite Grand Crush (Deck Build Box)",
-			"Black Skulls Showdown (Deck Build Box)"
+			"Black Skulls Showdown (Deck Build Box)",
+			"Crimson Volcalize (Deck Build Box)"
 		]
 	},
 	{
@@ -5213,7 +5217,8 @@
 		"effect": "Send any number of monsters from your hand to the Graveyard. If [the total Levels of those monsters sent to the Graveyard by this effect] is 10 or higher, you can draw 2 cards.",
 		"rarity": "SR",
 		"cardObtain": [
-			"Extreme Overlord (Mini Box)"
+			"Extreme Overlord (Mini Box)",
+			"Crimson Volcalize (Deck Build Box)"
 		]
 	},
 	{
@@ -6095,7 +6100,8 @@
 			"race": "PYRO"
 		},
 		"cardObtain": [
-			"Blazing Chemicalization (Mini Box)"
+			"Blazing Chemicalization (Mini Box)",
+			"Crimson Volcalize (Deck Build Box)"
 		]
 	},
 	{
@@ -10016,7 +10022,8 @@
 		"rarity": "N",
 		"cardObtain": [
 			"Fusion of Revolution (Mini Box)",
-			"Boost Red-Boot (Deck Build Box)"
+			"Boost Red-Boot (Deck Build Box)",
+			"Crimson Volcalize (Deck Build Box)"
 		]
 	},
 	{
@@ -10036,7 +10043,8 @@
 			"Hero\u0027s Stage (Structure Deck)",
 			"Boost Red-Boot (Deck Build Box)",
 			"Infinite Grand Crush (Deck Build Box)",
-			"Forbidden Fantastic Show (Deck Build Box)"
+			"Forbidden Fantastic Show (Deck Build Box)",
+			"Crimson Volcalize (Deck Build Box)"
 		]
 	},
 	{
@@ -11216,7 +11224,8 @@
 		"rarity": "R",
 		"cardObtain": [
 			"Fusion of Revolution (Mini Box)",
-			"Boost Red-Boot (Deck Build Box)"
+			"Boost Red-Boot (Deck Build Box)",
+			"Crimson Volcalize (Deck Build Box)"
 		]
 	},
 	{
@@ -11870,7 +11879,8 @@
 			"race": "PYRO"
 		},
 		"cardObtain": [
-			"Blazing Chemicalization (Mini Box)"
+			"Blazing Chemicalization (Mini Box)",
+			"Crimson Volcalize (Deck Build Box)"
 		]
 	},
 	{
@@ -12846,7 +12856,8 @@
 		},
 		"cardObtain": [
 			"Galactica Go Rush (Mini Box)",
-			"Transam Universe (Structure Deck)"
+			"Transam Universe (Structure Deck)",
+			"Crimson Volcalize (Deck Build Box)"
 		]
 	},
 	{
@@ -13390,7 +13401,8 @@
 			"Selection BOX Vol.03",
 			"Forbidden Fantastic Show (Deck Build Box)",
 			"Extreme Overlord (Mini Box)",
-			"The Distant Neo Space (Mini Box)"
+			"The Distant Neo Space (Mini Box)",
+			"Crimson Volcalize (Deck Build Box)"
 		]
 	},
 	{
@@ -13491,7 +13503,8 @@
 			"race": "GALAXY"
 		},
 		"cardObtain": [
-			"Galactica Go Rush (Mini Box)"
+			"Galactica Go Rush (Mini Box)",
+			"Crimson Volcalize (Deck Build Box)"
 		]
 	},
 	{
@@ -13552,7 +13565,8 @@
 			"race": "GALAXY"
 		},
 		"cardObtain": [
-			"Requiem of Collapse (Mini Box)"
+			"Requiem of Collapse (Mini Box)",
+			"Crimson Volcalize (Deck Build Box)"
 		]
 	},
 	{
@@ -13636,7 +13650,8 @@
 			"race": "GALAXY"
 		},
 		"cardObtain": [
-			"Requiem of Collapse (Mini Box)"
+			"Requiem of Collapse (Mini Box)",
+			"Crimson Volcalize (Deck Build Box)"
 		]
 	},
 	{
@@ -13723,7 +13738,8 @@
 		},
 		"cardObtain": [
 			"Transam Universe (Structure Deck)",
-			"Requiem of Collapse (Mini Box)"
+			"Requiem of Collapse (Mini Box)",
+			"Crimson Volcalize (Deck Build Box)"
 		]
 	},
 	{
@@ -13765,7 +13781,8 @@
 		},
 		"cardObtain": [
 			"Galactica Go Rush (Mini Box)",
-			"Transam Universe (Structure Deck)"
+			"Transam Universe (Structure Deck)",
+			"Crimson Volcalize (Deck Build Box)"
 		]
 	},
 	{
@@ -14495,6 +14512,19 @@
 		]
 	},
 	{
+		"id": 17721,
+		"name": "Trade-In",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 Level 8 monster from your hand to the Graveyard.",
+		"effect": "Draw 2 cards.",
+		"rarity": "UR",
+		"cardObtain": [
+			"Crimson Volcalize (Deck Build Box)"
+		]
+	},
+	{
 		"id": 17722,
 		"name": "Combustion Crisis",
 		"cardType": "TRAP",
@@ -15020,7 +15050,10 @@
 			"def": 1500,
 			"attribute": "FIRE",
 			"race": "PYRO"
-		}
+		},
+		"cardObtain": [
+			"Crimson Volcalize (Deck Build Box)"
+		]
 	},
 	{
 		"id": 17869,
@@ -15039,7 +15072,8 @@
 			"race": "GALAXY"
 		},
 		"cardObtain": [
-			"Requiem of Collapse (Mini Box)"
+			"Requiem of Collapse (Mini Box)",
+			"Crimson Volcalize (Deck Build Box)"
 		]
 	},
 	{
@@ -15551,7 +15585,8 @@
 			"race": "GALAXY"
 		},
 		"cardObtain": [
-			"Eternal Galaxy Road (Mini Box)"
+			"Eternal Galaxy Road (Mini Box)",
+			"Crimson Volcalize (Deck Build Box)"
 		]
 	},
 	{
@@ -16005,7 +16040,8 @@
 			"race": "PYRO"
 		},
 		"cardObtain": [
-			"Blazing Chemicalization (Mini Box)"
+			"Blazing Chemicalization (Mini Box)",
+			"Crimson Volcalize (Deck Build Box)"
 		]
 	},
 	{
@@ -16025,7 +16061,8 @@
 			"race": "PYRO"
 		},
 		"cardObtain": [
-			"Blazing Chemicalization (Mini Box)"
+			"Blazing Chemicalization (Mini Box)",
+			"Crimson Volcalize (Deck Build Box)"
 		]
 	},
 	{
@@ -16085,7 +16122,8 @@
 			"race": "PYRO"
 		},
 		"cardObtain": [
-			"Blazing Chemicalization (Mini Box)"
+			"Blazing Chemicalization (Mini Box)",
+			"Crimson Volcalize (Deck Build Box)"
 		]
 	},
 	{
@@ -16175,7 +16213,8 @@
 			"race": "GALAXY"
 		},
 		"cardObtain": [
-			"Eternal Galaxy Road (Mini Box)"
+			"Eternal Galaxy Road (Mini Box)",
+			"Crimson Volcalize (Deck Build Box)"
 		]
 	},
 	{
@@ -16276,7 +16315,8 @@
 			"race": "GALAXY"
 		},
 		"cardObtain": [
-			"Requiem of Collapse (Mini Box)"
+			"Requiem of Collapse (Mini Box)",
+			"Crimson Volcalize (Deck Build Box)"
 		]
 	},
 	{
@@ -17192,7 +17232,8 @@
 		"effect": "Destroy 1 Spell/Trap Card on your opponent\u0027s field. If you only have 1 face-up monster on your field, you can also make 1 face-up monster on your opponent\u0027s field lose 1000 ATK until the end of this turn.",
 		"rarity": "R",
 		"cardObtain": [
-			"Extreme Overlord (Mini Box)"
+			"Extreme Overlord (Mini Box)",
+			"Crimson Volcalize (Deck Build Box)"
 		]
 	},
 	{
@@ -18733,7 +18774,8 @@
 			"race": "CYBERSE"
 		},
 		"cardObtain": [
-			"Transcendence Miragias (Super Mini Box)"
+			"Transcendence Miragias (Super Mini Box)",
+			"Crimson Volcalize (Deck Build Box)"
 		]
 	},
 	{
@@ -18744,14 +18786,17 @@
 		"isLegend": false,
 		"requirement": "During the turn you Normal Summoned this card, shuffle 2 monsters with 1000 DEF from your Graveyard into the Deck.",
 		"effect": "Your opponent Special Summons 1 Level 6 or lower Effect Monster from their Graveyard in face-up Defense Position to their field. Then, you can add 1 Level 5 or higher monster with 1000 DEF from your Graveyard to your hand.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 800,
 			"def": 1000,
 			"attribute": "LIGHT",
 			"race": "GALAXY"
-		}
+		},
+		"cardObtain": [
+			"Crimson Volcalize (Deck Build Box)"
+		]
 	},
 	{
 		"id": 18945,
@@ -18770,7 +18815,28 @@
 			"race": "CYBERSE"
 		},
 		"cardObtain": [
-			"Transcendence Miragias (Super Mini Box)"
+			"Transcendence Miragias (Super Mini Box)",
+			"Crimson Volcalize (Deck Build Box)"
+		]
+	},
+	{
+		"id": 18946,
+		"name": "Star Monarch Estrome",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During the turn you Tribute Summoned this card in Attack Position.",
+		"effect": "Destroy 1 face-up Level 6 or lower Effect Monster on your opponent\u0027s field.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 5,
+			"atk": 2000,
+			"def": 1000,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Crimson Volcalize (Deck Build Box)"
 		]
 	},
 	{
@@ -18790,6 +18856,28 @@
 			"def": 1000,
 			"attribute": "DARK",
 			"race": "CYBERSE"
+		},
+		"cardObtain": [
+			"Crimson Volcalize (Deck Build Box)"
+		]
+	},
+	{
+		"id": 18948,
+		"name": "Mega Star Monarch Estrome",
+		"cardType": "EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "You can Tribute Summon this card in Attack Position by Tributing 1 face-up Level 5 or higher monster with 1000 DEF.",
+		"requirement": "During the turn you Tribute Summoned this card in Attack Position.",
+		"effect": "Your opponent chooses 1 card on their field, and you destroy 1 other card on the field.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2400,
+			"def": 1000,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
 		}
 	},
 	{
@@ -18856,7 +18944,8 @@
 			"Heavy Strike Excavator (Mini Box)",
 			"Hero\u0027s Stage (Structure Deck)",
 			"Infinite Grand Crush (Deck Build Box)",
-			"Forbidden Fantastic Show (Deck Build Box)"
+			"Forbidden Fantastic Show (Deck Build Box)",
+			"Crimson Volcalize (Deck Build Box)"
 		]
 	},
 	{
@@ -19090,7 +19179,8 @@
 		"effect": "The equipped monster gains 200 ATK/DEF, and it cannot be destroyed by your opponent\u0027s Trap Card effects.",
 		"rarity": "R",
 		"cardObtain": [
-			"Eternal Galaxy Road (Mini Box)"
+			"Eternal Galaxy Road (Mini Box)",
+			"Crimson Volcalize (Deck Build Box)"
 		]
 	},
 	{
@@ -19130,6 +19220,19 @@
 		"rarity": "SR",
 		"cardObtain": [
 			"Zuwijo Zwil Velgear Level Up Reward"
+		]
+	},
+	{
+		"id": 18985,
+		"name": "The Emperor Realm",
+		"cardType": "FIELD",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send the top 2 cards of your Deck to the Graveyard.",
+		"effect": "While this card is face-up in the Field Zone, face-up Level 5 or higher monsters with 1000 original DEF on the field gain 400 ATK.",
+		"rarity": "SR",
+		"cardObtain": [
+			"Trader (Featured Inventory)"
 		]
 	},
 	{
@@ -19217,6 +19320,28 @@
 		},
 		"cardObtain": [
 			"Transcendence Miragias (Super Mini Box)"
+		]
+	},
+	{
+		"id": 18999,
+		"name": "Mega Star Monarch Estrome",
+		"cardType": "EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "You can Tribute Summon this card in Attack Position by Tributing 1 face-up Level 5 or higher monster with 1000 DEF.",
+		"requirement": "During the turn you Tribute Summoned this card in Attack Position.",
+		"effect": "Your opponent chooses 1 card on their field, and you destroy 1 other card on the field.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2400,
+			"def": 1000,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Crimson Volcalize (Deck Build Box)"
 		]
 	},
 	{
@@ -19683,7 +19808,8 @@
 		},
 		"cardObtain": [
 			"Heavy Metal Scream (Mini Box)",
-			"Scorching Flame Burst (Deck Build Box)"
+			"Scorching Flame Burst (Deck Build Box)",
+			"Crimson Volcalize (Deck Build Box)"
 		]
 	},
 	{
@@ -19827,6 +19953,62 @@
 		"cardObtain": [
 			"Blazing Chemicalization (Mini Box)"
 		]
+	},
+	{
+		"id": 19292,
+		"name": "Roaring Firestorm Volcalize Phoenix [L]",
+		"cardType": "MAXIMUM",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Shuffle 1 FIRE Attribute Thunder Type monster from your Graveyard into the Deck.",
+		"effect": "Destroy 1 face-up Level 9 or lower monster on your opponent\u0027s field. If this card is in Maximum Mode, you can also destroy 1 additional monster on your opponent\u0027s field.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 10,
+			"atk": 2000,
+			"def": 0,
+			"attribute": "FIRE",
+			"race": "THUNDER"
+		}
+	},
+	{
+		"id": 19293,
+		"name": "Roaring Firestorm Volcalize Phoenix",
+		"cardType": "MAXIMUM",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "You can Maximum Summon this card together with \"Roaring Firestorm Volcalize Phoenix [L]\" and \"Roaring Firestorm Volcalize Phoenix [R]\".",
+		"requirement": "Maximum Mode: Send 1 FIRE Attribute or Pyro Type monster from your hand to the Graveyard.",
+		"effect": "Inflict 1000 damage to your opponent. Also, this turn, this card cannot be destroyed by your opponent\u0027s Trap Card effects and it inflicts piercing battle damage.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 10,
+			"atk": 2400,
+			"def": 0,
+			"maxAtk": 3500,
+			"attribute": "FIRE",
+			"race": "PYRO"
+		}
+	},
+	{
+		"id": 19294,
+		"name": "Roaring Firestorm Volcalize Phoenix [R]",
+		"cardType": "MAXIMUM",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Shuffle 1 FIRE Attribute Aqua Type monster from your Graveyard into the Deck.",
+		"effect": "Destroy 1 Spell/Trap Card on your opponent\u0027s field. If this card is in Maximum Mode, you can also destroy 1 additional Spell/Trap Card on your opponent\u0027s field.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 10,
+			"atk": 2000,
+			"def": 0,
+			"attribute": "FIRE",
+			"race": "AQUA"
+		}
 	},
 	{
 		"id": 19295,
@@ -20131,6 +20313,32 @@
 		]
 	},
 	{
+		"id": 19325,
+		"name": "Volcalize Compound",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you have a face-up FIRE Attribute monster on your field, shuffle 1 Pyro, Aqua, or Thunder Type monster from your Graveyard into the Deck.",
+		"effect": "Draw 1 card. If you have a monster in Maximum Mode or a face-up Equip Spell Card on your field, you can also draw 1 additional card.",
+		"rarity": "SR",
+		"cardObtain": [
+			"Crimson Volcalize (Deck Build Box)"
+		]
+	},
+	{
+		"id": 19326,
+		"name": "Chemicalize Structure Force",
+		"cardType": "EQUIP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Equip this card to 1 face-up Pyro, Aqua, or Thunder Type monster on your field.",
+		"effect": "The equipped monster gains ATK equal to [the number of different Types face-up on the field] x 300. If the equipped monster is in Maximum Mode, also it cannot be destroyed by your opponent\u0027s card effects.",
+		"rarity": "SR",
+		"cardObtain": [
+			"Ranked Duels Reward Ticket"
+		]
+	},
+	{
 		"id": 19327,
 		"name": "Dark Hole Device",
 		"cardType": "SPELL",
@@ -20202,6 +20410,71 @@
 		},
 		"cardObtain": [
 			"Selection BOX Vol.01"
+		]
+	},
+	{
+		"id": 19350,
+		"name": "Roaring Firestorm Volcalize Phoenix [L]",
+		"cardType": "MAXIMUM",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Shuffle 1 FIRE Attribute Thunder Type monster from your Graveyard into the Deck.",
+		"effect": "Destroy 1 face-up Level 9 or lower monster on your opponent\u0027s field. If this card is in Maximum Mode, you can also destroy 1 additional monster on your opponent\u0027s field.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 10,
+			"atk": 2000,
+			"def": 0,
+			"attribute": "FIRE",
+			"race": "THUNDER"
+		},
+		"cardObtain": [
+			"Crimson Volcalize (Deck Build Box)"
+		]
+	},
+	{
+		"id": 19351,
+		"name": "Roaring Firestorm Volcalize Phoenix",
+		"cardType": "MAXIMUM",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "You can Maximum Summon this card together with \"Roaring Firestorm Volcalize Phoenix [L]\" and \"Roaring Firestorm Volcalize Phoenix [R]\".",
+		"requirement": "Maximum Mode: Send 1 FIRE Attribute or Pyro Type monster from your hand to the Graveyard.",
+		"effect": "Inflict 1000 damage to your opponent. Also, this turn, this card cannot be destroyed by your opponent\u0027s Trap Card effects and it inflicts piercing battle damage.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 10,
+			"atk": 2400,
+			"def": 0,
+			"maxAtk": 3500,
+			"attribute": "FIRE",
+			"race": "PYRO"
+		},
+		"cardObtain": [
+			"Crimson Volcalize (Deck Build Box)"
+		]
+	},
+	{
+		"id": 19352,
+		"name": "Roaring Firestorm Volcalize Phoenix [R]",
+		"cardType": "MAXIMUM",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Shuffle 1 FIRE Attribute Aqua Type monster from your Graveyard into the Deck.",
+		"effect": "Destroy 1 Spell/Trap Card on your opponent\u0027s field. If this card is in Maximum Mode, you can also destroy 1 additional Spell/Trap Card on your opponent\u0027s field.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 10,
+			"atk": 0,
+			"def": 0,
+			"attribute": "FIRE",
+			"race": "AQUA"
+		},
+		"cardObtain": [
+			"Crimson Volcalize (Deck Build Box)"
 		]
 	},
 	{
