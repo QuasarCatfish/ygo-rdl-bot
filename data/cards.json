@@ -2622,7 +2622,7 @@
 		"isLegend": false,
 		"requirement": "When a Trap Card(s) on your field is destroyed by an opponent\u0027s card effect.",
 		"effect": "Destroy 1 Spell/Trap Card on either side of the field.",
-		"rarity": "NPC"
+		"rarity": "SR"
 	},
 	{
 		"id": 15458,
@@ -2835,6 +2835,16 @@
 			"Scorching Flame Burst (Deck Build Box)",
 			"Divine Genesis Blade (Deck Build Box)"
 		]
+	},
+	{
+		"id": 15600,
+		"name": "Wasteland",
+		"cardType": "FIELD",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "While this card is face-up in the Field Spell Zone, face-up Dinosaur, Zombie, and Rock Type monsters on the field gain 200 ATK/DEF.",
+		"rarity": "SR"
 	},
 	{
 		"id": 15602,
@@ -9065,7 +9075,7 @@
 		"isLegend": true,
 		"requirement": "Unknown",
 		"effect": "A delicate elf that lacks offense, but has a terrific defense backed by mystical power.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 800,
