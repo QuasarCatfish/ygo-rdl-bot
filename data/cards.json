@@ -2622,7 +2622,10 @@
 		"isLegend": false,
 		"requirement": "When a Trap Card(s) on your field is destroyed by an opponent\u0027s card effect.",
 		"effect": "Destroy 1 Spell/Trap Card on either side of the field.",
-		"rarity": "SR"
+		"rarity": "SR",
+		"cardObtain": [
+			"Duel Links Mission Research"
+		]
 	},
 	{
 		"id": 15458,
