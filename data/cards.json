@@ -2847,7 +2847,10 @@
 		"isLegend": false,
 		"requirement": "None",
 		"effect": "While this card is face-up in the Field Spell Zone, face-up Dinosaur, Zombie, and Rock Type monsters on the field gain 200 ATK/DEF.",
-		"rarity": "SR"
+		"rarity": "SR",
+		"cardObtain": [
+			"Trader (Featured Inventory)"
+		]
 	},
 	{
 		"id": 15602,
@@ -9085,7 +9088,10 @@
 			"def": 2000,
 			"attribute": "LIGHT",
 			"race": "SPELLCASTER"
-		}
+		},
+		"cardObtain": [
+			"Ranked Duels Reward Ticket"
+		]
 	},
 	{
 		"id": 16767,
