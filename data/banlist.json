@@ -344,5 +344,21 @@
 			"19293": "LIMIT3",
 			"19351": "LIMIT3"
 		}
+	},
+	{
+		"date": "2026-03-09",
+		"banlist": {
+			"15164": "UNLIMITED",
+			"16160": "UNLIMITED",
+			"16465": "UNLIMITED",
+			"16929": "UNLIMITED",
+			"17199": "UNLIMITED",
+			"17865": "UNLIMITED",
+			"17896": "LIMIT1",
+			"18656": "UNLIMITED",
+			"18995": "UNLIMITED",
+			"20149": "LIMIT3",
+			"20465": "LIMIT3"
+		}
 	}
 ]
