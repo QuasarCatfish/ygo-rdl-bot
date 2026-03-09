@@ -68,8 +68,16 @@
 		"name": "Yuo Goha"
 	},
 	{
+		"id": 719,
+		"name": "Saburamen"
+	},
+	{
 		"id": 720,
-		"name": "Yuka Goha (Baseball Uniform)"
+		"name": "Yuka Goha"
+	},
+	{
+		"id": 723,
+		"name": "Yuro Goha"
 	},
 	{
 		"id": 731,
@@ -77,7 +85,7 @@
 	},
 	{
 		"id": 732,
-		"name": "Kaizo (Duel-cycle)"
+		"name": "Kaizo"
 	},
 	{
 		"id": 733,
@@ -85,7 +93,7 @@
 	},
 	{
 		"id": 734,
-		"name": "President Mimi Imimi"
+		"name": "Mimi Imimi"
 	},
 	{
 		"id": 735,
@@ -120,6 +128,10 @@
 		"name": "Oceania Illumilina"
 	},
 	{
+		"id": 860,
+		"name": "Terra Kneadalina"
+	},
+	{
 		"id": 862,
 		"name": "Chupataro Kaburagi"
 	},
@@ -141,11 +153,11 @@
 	},
 	{
 		"id": 867,
-		"name": "Chupataro Kaburagi (Alien)"
+		"name": "Chupataro Kaburagi"
 	},
 	{
 		"id": 868,
-		"name": "Terza Flatwood (Suit)"
+		"name": "Terza Flatwood"
 	},
 	{
 		"id": 869,
@@ -189,10 +201,10 @@
 	},
 	{
 		"id": 934,
-		"name": "Yudias Velgear (UTS)"
+		"name": "Yudias Velgear"
 	},
 	{
 		"id": 935,
-		"name": "Graves (Dog)"
+		"name": "Graves"
 	}
 ]

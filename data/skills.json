@@ -2584,8 +2584,122 @@
 		"effect": "Add 1 \"The Emperor Realm\" from your Deck or Graveyard to your hand. If you have a face-up \"The Emperor Realm\" in your Field Zone, you can instead add 1 monster (excluding Legend Monsters) with 800/2000/2400 ATK and 1000 DEF from your Deck to your hand.",
 		"effectType": "NORMAL",
 		"isArchive": true,
+		"characters": [],
 		"mentionedCards": [
 			18985
+		]
+	},
+	{
+		"id": 6701,
+		"name": "Rush On - Air Formula Eagle",
+		"requirement": "Activated at the beginning of the Duel.",
+		"effect": "Add 1 \"Air Formula Eagle\" to your Deck. (You can only have at most 3 copies.)",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			713
+		],
+		"mentionedCards": [
+			16679
+		]
+	},
+	{
+		"id": 6702,
+		"name": "Air Formula Accelerator",
+		"requirement": "Can be activated from turn 2 onward by revealing 1 Level 5 or higher monster from your hand if all of the monsters in your constructed Deck are WIND Attribute, and all of the Level 4 or higher monsters are \"Air Formula Eagle\" or Normal Monsters.",
+		"effect": "Send 2 \"Sky Dragon\" cards from outside your Deck to the Graveyard, then add up to 2 monsters from your Deck to your hand that are either Level 7 monsters, \"Cyber Falcon\", or \"Mecha Umbretta\" cards. Then, send 1 card from your hand or field to the Graveyard. Then, add 1 \"Following World\" from your Deck or Graveyard to your hand. (Once per Duel.)",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			713
+		],
+		"mentionedCards": [
+			16679,
+			16119,
+			16112,
+			17291,
+			16701
+		]
+	},
+	{
+		"id": 6703,
+		"name": "Turbo Destiny Draw",
+		"requirement": "Can be activated from turn 2 onward before your normal draw. (Twice per Duel if going first, thrice per Duel if going second.)",
+		"effect": "Place 1 WIND Attribute Normal Monster from your Deck or Graveyard on top of your Deck. In this Draw Phase, if you would draw until you have 5 cards for your normal draw, instead draw until you have 6 cards.",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			713
+		],
+		"mentionedCards": []
+	},
+	{
+		"id": 6704,
+		"name": "Rush On - Spice",
+		"requirement": "Activated at the beginning of the Duel.",
+		"effect": "Add 1 \"Spice the Elite Noodle Ninja\" to your Deck. (You can only have at most 3 copies.)",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			719
+		],
+		"mentionedCards": [
+			15196
+		]
+	},
+	{
+		"id": 6705,
+		"name": "#1: Dueling is Ramen",
+		"requirement": "Can be activated from turn 2 onward by revealing 1 Level 7 or 8 monster from your hand during a turn in which you have not Fusion Summoned a monster, if all of the monsters in your constructed Deck are FIRE Attribute Pyro Type monsters, and all of the Level 5 or higher monsters have 0 DEF.",
+		"effect": "Add up to 2 monsters from your Deck and/or Graveyard to your hand that are either Normal Monsters, \"The Noodle Art of Flavor Shift\", or \"Fusion\" cards. (\"The Noodle Art of Flavor Shift\" can only be added once per Duel.) Then, send 1 card from your hand to the Graveyard. This turn, you can only Fusion Summon once.",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			719
+		],
+		"mentionedCards": [
+			22883,
+			16934
+		]
+	},
+	{
+		"id": 6706,
+		"name": "Fire Frontline",
+		"requirement": "Can be activated from turn 2 onward.",
+		"effect": "Make 1 face-up FIRE Attribute monster you control gain ATK equal to [the number of FIRE Attribute Normal Monsters in your Graveyard] x 100 until the end of this turn. Then, add 1 FIRE Attribute Normal Monster from your Graveyard to your hand. (Twice per Duel).",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			720,
+			719,
+			905
+		],
+		"mentionedCards": []
+	},
+	{
+		"id": 6707,
+		"name": "Meteor Black Rising",
+		"requirement": "Can be activated from turn 2 onward by revealing 1 \"Red-Eyes Black Dragon\" or \"Meteor Dragon\" from your hand if all of the Level 5 or higher monsters in your constructed Deck are \"Red-Eyes Black Dragon\", \"Meteor Dragon\", and/or \"Meteor Drake\" cards.",
+		"effect": "Add 1 \"Red-Eyes Black Dragon\", \"Meteor Dragon\", or \"Meteor Flare Fusion\" card from your Deck or Graveyard to your hand. (Each card once per Duel).",
+		"effectType": "NORMAL",
+		"isArchive": true,
+		"mentionedCards": [
+			15351,
+			18705,
+			19663,
+			19692
+		]
+	},
+	{
+		"id": 6708,
+		"name": "Lilius Contact",
+		"requirement": "Activated at the beginning of the Duel.",
+		"effect": "Add 3 \"Excutie Lilius\" cards to your Deck and 3 \"Excutie Lumière Frontier\" cards to your Extra Deck. (You can only have at most 3 copies of each card.)",
+		"effectType": "NORMAL",
+		"isArchive": true,
+		"mentionedCards": [
+			20155,
+			20688
 		]
 	}
 ]

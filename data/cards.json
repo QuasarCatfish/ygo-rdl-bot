@@ -581,7 +581,8 @@
 		"rarity": "N",
 		"cardObtain": [
 			"Eternal Galaxy Road (Mini Box)",
-			"Black Skulls Showdown (Deck Build Box)"
+			"Black Skulls Showdown (Deck Build Box)",
+			"Dark Meteor of Skybreaker (Mini Box)"
 		]
 	},
 	{
@@ -783,7 +784,8 @@
 			"Divine Genesis Blade (Deck Build Box)",
 			"Flash of Shining Flare (Mini Box)",
 			"High Dragon of Solid Strikes (Deck Build Box)",
-			"Black Skulls Showdown (Deck Build Box)"
+			"Black Skulls Showdown (Deck Build Box)",
+			"Dark Meteor of Skybreaker (Mini Box)"
 		]
 	},
 	{
@@ -810,7 +812,8 @@
 			"Divine Genesis Blade (Deck Build Box)",
 			"Flash of Shining Flare (Mini Box)",
 			"High Dragon of Solid Strikes (Deck Build Box)",
-			"Black Skulls Showdown (Deck Build Box)"
+			"Black Skulls Showdown (Deck Build Box)",
+			"Dark Meteor of Skybreaker (Mini Box)"
 		]
 	},
 	{
@@ -917,7 +920,8 @@
 		},
 		"cardObtain": [
 			"Sevens New Road (Main Box)",
-			"Scorching Flame Burst (Deck Build Box)"
+			"Scorching Flame Burst (Deck Build Box)",
+			"Dark Meteor of Skybreaker (Mini Box)"
 		]
 	},
 	{
@@ -1163,7 +1167,8 @@
 		"rarity": "N",
 		"cardObtain": [
 			"Steel Kaleidomirror (Mini Box)",
-			"Selection BOX Vol.03"
+			"Selection BOX Vol.03",
+			"Dark Meteor of Skybreaker (Mini Box)"
 		]
 	},
 	{
@@ -2016,14 +2021,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "A fish with a proboscis that heats up when attacking. Its mild flavor makes it a true delicacy.",
-		"rarity": "NPC",
+		"rarity": "R",
 		"monsterInfo": {
 			"level": 3,
 			"atk": 1000,
 			"def": 500,
 			"attribute": "WATER",
 			"race": "FISH"
-		}
+		},
+		"cardObtain": [
+			"Ranked Duels Reward Ticket"
+		]
 	},
 	{
 		"id": 15424,
@@ -2722,7 +2730,8 @@
 			"Selection BOX Vol.02",
 			"Boost Red-Boot (Deck Build Box)",
 			"Eternal Galaxy Road (Mini Box)",
-			"Black Skulls Showdown (Deck Build Box)"
+			"Black Skulls Showdown (Deck Build Box)",
+			"Dark Meteor of Skybreaker (Mini Box)"
 		]
 	},
 	{
@@ -2971,7 +2980,8 @@
 		},
 		"cardObtain": [
 			"Sevens New Road (Main Box)",
-			"Scorching Flame Burst (Deck Build Box)"
+			"Scorching Flame Burst (Deck Build Box)",
+			"Dark Meteor of Skybreaker (Mini Box)"
 		]
 	},
 	{
@@ -4005,14 +4015,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "A tired old fish that can\u0027t seem to get rid of his aches.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 5,
 			"atk": 1600,
 			"def": 1600,
 			"attribute": "WATER",
 			"race": "FISH"
-		}
+		},
+		"cardObtain": [
+			"Ranked Duels Reward Ticket"
+		]
 	},
 	{
 		"id": 15792,
@@ -4355,14 +4368,17 @@
 		"isLegend": false,
 		"requirement": "You have \"Umi\" or \"Big Umi\" face-up on your field.",
 		"effect": "Add 1 Level 3 or lower Fish Type Normal Monster from your Graveyard to your hand.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 3,
 			"atk": 900,
 			"def": 600,
 			"attribute": "WATER",
 			"race": "FISH"
-		}
+		},
+		"cardObtain": [
+			"Ranked Duels Reward Ticket"
+		]
 	},
 	{
 		"id": 15809,
@@ -4470,6 +4486,19 @@
 		"rarity": "SR",
 		"cardObtain": [
 			"Ranked Duels Reward Ticket"
+		]
+	},
+	{
+		"id": 15816,
+		"name": "The Noodle Art of Spicery",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "This turn, 1 face-up Pyro Type monster on your field gains 300 ATK, and if it attacks a Defense Position monster, inflict piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference).",
+		"rarity": "R",
+		"cardObtain": [
+			"Saburamen Level Up Reward"
 		]
 	},
 	{
@@ -5275,14 +5304,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "A jet-powered hawk that travels at the speed of sound.\n\n(This card is not treated as a \"Cyber\" card.)",
-		"rarity": "NPC",
+		"rarity": "R",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1400,
 			"def": 1200,
 			"attribute": "WIND",
 			"race": "MACHINE"
-		}
+		},
+		"cardObtain": [
+			"Yuro Goha Level Up Reward"
+		]
 	},
 	{
 		"id": 16113,
@@ -8169,6 +8201,26 @@
 		"rarity": "NPC"
 	},
 	{
+		"id": 16615,
+		"name": "Upgrade Goblin",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send this face-up card from your field to the Graveyard.",
+		"effect": "Special Summon 1 Level 5 or lower monster from your hand face-up to your field. The monster Special Summoned by this effect gains 500 ATK until the end of this turn. If an \"Upstart Goblin\" is in your Graveyard, also inflict 500 damage to your opponent.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1000,
+			"def": 1000,
+			"attribute": "EARTH",
+			"race": "BEAST_WARRIOR"
+		},
+		"cardObtain": [
+			"Duel Links Mission Research"
+		]
+	},
+	{
 		"id": 16618,
 		"name": "Hammer Crush",
 		"cardType": "SPELL",
@@ -8443,7 +8495,8 @@
 		},
 		"cardObtain": [
 			"Genesis Maximum (Mini Box)",
-			"Selection BOX Vol.03"
+			"Selection BOX Vol.03",
+			"Dark Meteor of Skybreaker (Mini Box)"
 		]
 	},
 	{
@@ -8586,6 +8639,26 @@
 			"attribute": "LIGHT",
 			"race": "WARRIOR"
 		}
+	},
+	{
+		"id": 16679,
+		"name": "Air Formula Eagle",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "You have 3 or more WIND Attribute Normal Monsters in your Graveyard.",
+		"effect": "Special Summon 1 WIND Attribute Normal Monster from your hand to your field face-up. Then, you can Special Summon 1 Level 6 or lower WIND Attribute Normal Monster from your Graveyard to your field face-up.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2300,
+			"def": 1800,
+			"attribute": "WIND",
+			"race": "WINGED_BEAST"
+		},
+		"cardObtain": [
+			"Dark Meteor of Skybreaker (Mini Box)"
+		]
 	},
 	{
 		"id": 16680,
@@ -8845,6 +8918,42 @@
 		}
 	},
 	{
+		"id": 16699,
+		"name": "Against Buster",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "1 face-up WIND Attribute monster with 2000 or more ATK on your field loses 500 ATK until the end of this turn. Then, you can destroy 1 Spell/Trap Card on your opponent\u0027s field.",
+		"rarity": "NPC"
+	},
+	{
+		"id": 16700,
+		"name": "Storm Sonic",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you have 2 or more face-up WIND Attribute monsters on your field.",
+		"effect": "Make 1 face-up monster on your opponent\u0027s field lose 600 ATK/DEF until the end of this turn. If you have \"Cyber-Tech Alligator\" face-up on your field, you can also destroy 1 card on your opponent\u0027s field.",
+		"rarity": "UR",
+		"cardObtain": [
+			"Yuro Goha Duel Reward"
+		]
+	},
+	{
+		"id": 16701,
+		"name": "Following World",
+		"cardType": "FIELD",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "While this card is face-up in the Field Zone, face-up WIND Attribute Normal Monsters on the field gain 500 ATK.",
+		"rarity": "UR",
+		"cardObtain": [
+			"Yuro Goha Level Up Reward"
+		]
+	},
+	{
 		"id": 16703,
 		"name": "Nutrient Zero",
 		"cardType": "SPELL",
@@ -8941,6 +9050,19 @@
 		"rarity": "SR",
 		"cardObtain": [
 			"Heavy Metal Scream (Mini Box)"
+		]
+	},
+	{
+		"id": 16717,
+		"name": "Backup Barrage",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When an opponent\u0027s monster declares an attack targeting your face-up WIND Attribute monster, shuffle 1 WIND Attribute Normal Monster from your Graveyard into the Deck.",
+		"effect": "The attacking monster loses 1000 ATK until the end of this turn.",
+		"rarity": "R",
+		"cardObtain": [
+			"Dark Meteor of Skybreaker (Mini Box)"
 		]
 	},
 	{
@@ -10283,7 +10405,8 @@
 			"Starter Deck (Friend Invitation Campaign: LIGHT-Galaxy)",
 			"High Dragon of Solid Strikes (Deck Build Box)",
 			"Fullmetarion of the Radiant Wings (Deck Build Box)",
-			"The Distant Neo Space (Mini Box)"
+			"The Distant Neo Space (Mini Box)",
+			"Dark Meteor of Skybreaker (Mini Box)"
 		]
 	},
 	{
@@ -10630,6 +10753,26 @@
 		"cardObtain": [
 			"Heavy Metal Scream (Mini Box)",
 			"Scorching Flame Burst (Deck Build Box)"
+		]
+	},
+	{
+		"id": 16975,
+		"name": "Medley the Elite Noodle Ninja",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "Overcoming every noodle-front and steadily evolving, the leader of the Noodle Ninja Clan. Unbound by status or noodle identity, he reaches out to members without noodle awareness.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2500,
+			"def": 0,
+			"attribute": "FIRE",
+			"race": "PYRO"
+		},
+		"cardObtain": [
+			"Saburamen Level Up Reward"
 		]
 	},
 	{
@@ -11073,6 +11216,27 @@
 		]
 	},
 	{
+		"id": 17004,
+		"name": "Instant Miso the Special Noodle Ninja",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Medley the Elite Noodle Ninja\" + \"Flavor Inspector\"",
+		"requirement": "Shuffle 3 Pyro Type monsters from your Graveyard into the Deck.",
+		"effect": "This turn, this card gains 600 ATK, and also inflicts piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference).",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 2900,
+			"def": 0,
+			"attribute": "FIRE",
+			"race": "PYRO"
+		},
+		"cardObtain": [
+			"Saburamen Level Up Reward"
+		]
+	},
+	{
 		"id": 17007,
 		"name": "Fenriritter Sol",
 		"cardType": "FUSION_EFFECT",
@@ -11245,6 +11409,27 @@
 			"Fusion of Revolution (Mini Box)",
 			"Boost Red-Boot (Deck Build Box)",
 			"Crimson Volcalize (Deck Build Box)"
+		]
+	},
+	{
+		"id": 17061,
+		"name": "Mach Mega Falcon",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Cyber Falcon\" + \"Cyber Falcon\"",
+		"requirement": "None",
+		"effect": "Gain 500 LP. If you gained LP by this effect, also inflict 500 damage to your opponent.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2500,
+			"def": 1500,
+			"attribute": "WIND",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"Yuro Goha Level Up Reward"
 		]
 	},
 	{
@@ -11965,6 +12150,26 @@
 		]
 	},
 	{
+		"id": 17289,
+		"name": "Excutie Feena",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If your opponent has a face-up monster with 1700 or higher ATK on the field, send the top card of your Deck to the Graveyard.",
+		"effect": "All face-up monsters on your field gain 200 ATK until the end of this turn.",
+		"rarity": "N",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 1700,
+			"def": 500,
+			"attribute": "FIRE",
+			"race": "PSYCHIC"
+		},
+		"cardObtain": [
+			"Dark Meteor of Skybreaker (Mini Box)"
+		]
+	},
+	{
 		"id": 17290,
 		"name": "Shearkyrie the Celestial Seamstress",
 		"cardType": "EFFECT",
@@ -11980,6 +12185,26 @@
 			"attribute": "LIGHT",
 			"race": "FAIRY"
 		}
+	},
+	{
+		"id": 17291,
+		"name": "Mecha Umbretta",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During the turn you Normal Summoned this card, if you have a face-up WIND Attribute Normal Monster on your field.",
+		"effect": "Add 1 \"Following World\" from your Graveyard to your hand.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 1200,
+			"def": 400,
+			"attribute": "WIND",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"Yuro Goha Duel Reward"
+		]
 	},
 	{
 		"id": 17292,
@@ -12610,7 +12835,8 @@
 		},
 		"cardObtain": [
 			"Galactica Go Rush (Mini Box)",
-			"Transam Universe (Structure Deck)"
+			"Transam Universe (Structure Deck)",
+			"Dark Meteor of Skybreaker (Mini Box)"
 		]
 	},
 	{
@@ -13178,7 +13404,7 @@
 	},
 	{
 		"id": 17519,
-		"name": "Executie Phermi",
+		"name": "Excutie Phermi",
 		"cardType": "EFFECT",
 		"effectType": "NORMAL",
 		"isLegend": false,
@@ -13360,6 +13586,19 @@
 		"rarity": "UR",
 		"cardObtain": [
 			"Trader (Regular Inventory)"
+		]
+	},
+	{
+		"id": 17538,
+		"name": "Excutie Power Up!",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Choose 2 face-up monsters with different Types on your field. This turn, the chosen monster can be treated as 2 Tributes for the Tribute Summon of a monster in Attack Position. If you have a face-up Level 6 monster with 500 DEF on your field, inflict 800 damage to your opponent.",
+		"rarity": "N",
+		"cardObtain": [
+			"Dark Meteor of Skybreaker (Mini Box)"
 		]
 	},
 	{
@@ -17034,6 +17273,179 @@
 		]
 	},
 	{
+		"id": 18360,
+		"name": "Excutie Lumière",
+		"cardType": "EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "If you have no monsters on your field, you can Special Summon this card from your hand face-up to your field.",
+		"requirement": "None",
+		"effect": "Shuffle 1 face-up Level 6 monster on your field and 1 Level 7 or 8 face-up monster on your opponent\u0027s field into the owner\u0027s Deck. This turn, you cannot attack with Level 7 or higher monsters.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 1800,
+			"def": 500,
+			"attribute": "LIGHT",
+			"race": "FAIRY"
+		}
+	},
+	{
+		"id": 18361,
+		"name": "Excutie Leya",
+		"cardType": "EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "CONTINUOUS",
+		"isLegend": false,
+		"inherentSummonCondition": "If you have a face-up Level 6 monster with 500 DEF on your field, you can Special Summon this card from your hand face-up to your field.",
+		"requirement": "None",
+		"effect": "All face-up Level 7 or higher monsters on the field lose 300 ATK/DEF",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 1800,
+			"def": 500,
+			"attribute": "WIND",
+			"race": "WARRIOR"
+		}
+	},
+	{
+		"id": 18362,
+		"name": "Excutie Floa",
+		"cardType": "EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During the turn you Normal Summoned this card.",
+		"effect": "Add 1 Level 6 non-WATER Attribute monster with 500 DEF from your Graveyard to your hand. This turn, you cannot attack with Level 7 or higher monsters.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 1700,
+			"def": 500,
+			"attribute": "WATER",
+			"race": "SPELLCASTER"
+		}
+	},
+	{
+		"id": 18363,
+		"name": "Excutie Lilius",
+		"cardType": "EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "CONTINUOUS",
+		"isLegend": false,
+		"inherentSummonCondition": "If you have a face-up Level 6 monster with 500 DEF on your field, you can Special Summon this card from your hand face-up to your field.",
+		"requirement": "None",
+		"effect": "You cannot attack with Level 7 or higher monsters.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 2500,
+			"def": 500,
+			"attribute": "DARK",
+			"race": "FIEND"
+		}
+	},
+	{
+		"id": 18364,
+		"name": "Excutie Lucy",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Shuffle 1 Level 6 monster with 500 DEF from your Graveyard into the Deck.",
+		"effect": "Change the battle position of 1 monster on your opponent\u0027s field (Attack Position becomes face-up Defense Position, Defense Position becomes face-up Attack Position).",
+		"rarity": "N",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 1700,
+			"def": 500,
+			"attribute": "EARTH",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"Dark Meteor of Skybreaker (Mini Box)"
+		]
+	},
+	{
+		"id": 18365,
+		"name": "Excutie RAM",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 Level 6 monster with 500 DEF from your hand to the Graveyard.",
+		"effect": "Destroy 1 Spell/Trap Card on your opponent\u0027s field. This turn, you cannot attack with Level 7 or higher monsters.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 1600,
+			"def": 500,
+			"attribute": "FIRE",
+			"race": "CYBERSE"
+		},
+		"cardObtain": [
+			"Dark Meteor of Skybreaker (Mini Box)"
+		]
+	},
+	{
+		"id": 18366,
+		"name": "Excutie Plawtie",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "You can Special Summon this card from your hand face-up to your field by revealing 1 other Level 6 monster with 500 DEF in your hand.",
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "Gain 500 LP.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 1500,
+			"def": 500,
+			"attribute": "EARTH",
+			"race": "PLANT"
+		},
+		"cardObtain": [
+			"Dark Meteor of Skybreaker (Mini Box)"
+		]
+	},
+	{
+		"id": 18367,
+		"name": "Excutie Scout!",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Shuffle 4 Level 6 monsters with 500 DEF, but with different names, from your Graveyard into the Deck.",
+		"effect": "Draw 2 cards. This turn, you cannot attack with Level 7 or higher monsters.",
+		"rarity": "R",
+		"cardObtain": [
+			"Dark Meteor of Skybreaker (Mini Box)"
+		]
+	},
+	{
+		"id": 18368,
+		"name": "Excutie Scramble!",
+		"cardType": "SPELL",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Special Summon 1 Level 6 monster with 500 DEF from your hand or Graveyard face-up to your field. This turn, you cannot attack with Level 7 or higher monsters.",
+		"rarity": "SR"
+	},
+	{
+		"id": 18370,
+		"name": "Excutie Capture!",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When your opponent Normal or Special Summons a monster face-up to their field, while you have a face-up Level 6 monster with 500 DEF on your field.",
+		"effect": "Change 1 face-up Level 8 or lower monster on your opponent\u0027s field to face-down Defense Position.",
+		"rarity": "N",
+		"cardObtain": [
+			"Dark Meteor of Skybreaker (Mini Box)"
+		]
+	},
+	{
 		"id": 18372,
 		"name": "Galactiara Eve",
 		"cardType": "EFFECT",
@@ -17239,7 +17651,10 @@
 		"isLegend": false,
 		"requirement": "If you have a face-up Level 6 monster on your field, send 1 monster from your hand to the Graveyard.",
 		"effect": "Draw 2 cards.",
-		"rarity": "NPC"
+		"rarity": "R",
+		"cardObtain": [
+			"Dark Meteor of Skybreaker (Mini Box)"
+		]
 	},
 	{
 		"id": 18394,
@@ -17588,6 +18003,71 @@
 		]
 	},
 	{
+		"id": 18559,
+		"name": "Excutie Lumière",
+		"cardType": "EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "If you have no monsters on your field, you can Special Summon this card from your hand face-up to your field.",
+		"requirement": "None",
+		"effect": "Shuffle 1 face-up Level 6 monster on your field and 1 Level 7 or 8 face-up monster on your opponent\u0027s field into the owner\u0027s Deck. This turn, you cannot attack with Level 7 or higher monsters.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 1800,
+			"def": 500,
+			"attribute": "LIGHT",
+			"race": "FAIRY"
+		},
+		"cardObtain": [
+			"Dark Meteor of Skybreaker (Mini Box)"
+		]
+	},
+	{
+		"id": 18560,
+		"name": "Excutie Leya",
+		"cardType": "EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "If you have a face-up Level 6 monster with 500 DEF on your field, you can Special Summon this card from your hand face-up to your field.",
+		"requirement": "None",
+		"effect": "All face-up Level 7 or higher monsters on the field lose 300 ATK/DEF",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 1800,
+			"def": 500,
+			"attribute": "WIND",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"Dark Meteor of Skybreaker (Mini Box)"
+		]
+	},
+	{
+		"id": 18561,
+		"name": "Excutie Floa",
+		"cardType": "EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During the turn you Normal Summoned this card.",
+		"effect": "Add 1 Level 6 non-WATER Attribute monster with 500 DEF from your Graveyard to your hand. This turn, you cannot attack with Level 7 or higher monsters.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 1700,
+			"def": 500,
+			"attribute": "WATER",
+			"race": "SPELLCASTER"
+		},
+		"cardObtain": [
+			"Dark Meteor of Skybreaker (Mini Box)"
+		]
+	},
+	{
 		"id": 18564,
 		"name": "Hundred Divine Dragon",
 		"cardType": "EFFECT",
@@ -17699,7 +18179,10 @@
 		"isLegend": false,
 		"requirement": "None",
 		"effect": "Special Summon 1 Normal Monster from your Graveyard to your field in face-up Defense Position, but it cannot attack while it is face-up.",
-		"rarity": "NPC"
+		"rarity": "N",
+		"cardObtain": [
+			"Dark Meteor of Skybreaker (Mini Box)"
+		]
 	},
 	{
 		"id": 18581,
@@ -18118,6 +18601,25 @@
 		]
 	},
 	{
+		"id": 18680,
+		"name": "Meteor Black Dragon",
+		"cardType": "FUSION",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Red-Eyes Black Dragon\" + \"Meteor Dragon\"",
+		"requirement": "Unknown",
+		"effect": "Unknown",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 3500,
+			"def": 2000,
+			"attribute": "FIRE",
+			"race": "DRAGON"
+		}
+	},
+	{
 		"id": 18681,
 		"name": "Five-Headed Dragon",
 		"cardType": "FUSION_EFFECT",
@@ -18261,6 +18763,26 @@
 		]
 	},
 	{
+		"id": 18705,
+		"name": "Meteor Dragon",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "This dragon appeared from the sky and crashed to the earth.",
+		"rarity": "N",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 1800,
+			"def": 2000,
+			"attribute": "EARTH",
+			"race": "DRAGON"
+		},
+		"cardObtain": [
+			"Dark Meteor of Skybreaker (Mini Box)"
+		]
+	},
+	{
 		"id": 18708,
 		"name": "Goblin Digging Captain",
 		"cardType": "EFFECT",
@@ -18336,6 +18858,28 @@
 			"attribute": "EARTH",
 			"race": "BEAST"
 		}
+	},
+	{
+		"id": 18752,
+		"name": "Meteor Black Dragon",
+		"cardType": "FUSION",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Red-Eyes Black Dragon\" + \"Meteor Dragon\"",
+		"requirement": "Unknown",
+		"effect": "Unknown",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 3500,
+			"def": 2000,
+			"attribute": "FIRE",
+			"race": "DRAGON"
+		},
+		"cardObtain": [
+			"Dark Meteor of Skybreaker (Mini Box)"
+		]
 	},
 	{
 		"id": 18754,
@@ -19265,6 +19809,17 @@
 		"rarity": "NPC"
 	},
 	{
+		"id": 18989,
+		"name": "Nobody Phantom Thief",
+		"cardType": "TRAP",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When a monster on your field is destroyed by an opponent\u0027s attack or their card effect.",
+		"effect": "Draw 3 cards. Then, send 1 or more cards from your hand to the Graveyard. If you have no monsters on your field, you also take no battle damage from your opponent\u0027s Level 8 or lower monsters\u0027 attacks this turn.",
+		"rarity": "UR"
+	},
+	{
 		"id": 18995,
 		"name": "Rice Terrace Crisis",
 		"cardType": "TRAP",
@@ -19430,6 +19985,20 @@
 		]
 	},
 	{
+		"id": 19005,
+		"name": "Nobody Phantom Thief",
+		"cardType": "TRAP",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When a monster on your field is destroyed by an opponent\u0027s attack or their card effect.",
+		"effect": "Draw 3 cards. Then, send 1 or more cards from your hand to the Graveyard. If you have no monsters on your field, you also take no battle damage from your opponent\u0027s Level 8 or lower monsters\u0027 attacks this turn.",
+		"rarity": "UR",
+		"cardObtain": [
+			"Special Set (Bundle)"
+		]
+	},
+	{
 		"id": 19091,
 		"name": "Light Sorcerer of Sanctity",
 		"cardType": "EFFECT",
@@ -19518,6 +20087,94 @@
 		]
 	},
 	{
+		"id": 19099,
+		"name": "Harpie Lady 1",
+		"cardType": "EFFECT",
+		"effectType": "CONTINUOUS",
+		"isLegend": false,
+		"inherentSummonCondition": "This card\u0027s name becomes \"Harpie Lady\" while in the Graveyard.",
+		"requirement": "None",
+		"effect": "This card\u0027s name becomes \"Harpie Lady\". Face-up WIND Attribute monsters on the field gain 300 ATK.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1300,
+			"def": 1400,
+			"attribute": "WIND",
+			"race": "WINGED_BEAST"
+		}
+	},
+	{
+		"id": 19100,
+		"name": "Harpie Lady 2",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "This card\u0027s name becomes \"Harpie Lady\" while in the Graveyard.",
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "Until the end of your opponent\u0027s next turn, this card\u0027s name becomes \"Harpie Lady\" and your opponent cannot activate Trap Cards when it declares an attack.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1300,
+			"def": 1400,
+			"attribute": "WIND",
+			"race": "WINGED_BEAST"
+		}
+	},
+	{
+		"id": 19101,
+		"name": "Harpie Lady 3",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "This card\u0027s name becomes \"Harpie Lady\" while in the Graveyard.",
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "This card\u0027s name becomes \"Harpie Lady\" until the end of your opponent\u0027s next turn. Then, you can choose 1 face-up Level 8 or lower monster on your opponent\u0027s field. If chosen, your opponent cannot attack with that monster during their next turn.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1300,
+			"def": 1400,
+			"attribute": "WIND",
+			"race": "WINGED_BEAST"
+		}
+	},
+	{
+		"id": 19102,
+		"name": "Harpie Regina",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you have another face-up WIND Attribute Winged Beast Type monster on your field, send 1 card from your hand to the Graveyard.",
+		"effect": "Draw 1 card. If you don\u0027t have a face-up Normal Monster on your field, you can also add 1 \"Harpie Lady\" or \"Harpie Lady Sisters\" from your Graveyard to your hand.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1000,
+			"def": 300,
+			"attribute": "WIND",
+			"race": "WINGED_BEAST"
+		}
+	},
+	{
+		"id": 19103,
+		"name": "Harpie Cara",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Set 1 \"Harpie\u0027s Electro Shield\" from your Graveyard to your Spell \u0026 Trap Zone.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 2,
+			"atk": 500,
+			"def": 500,
+			"attribute": "WIND",
+			"race": "WINGED_BEAST"
+		}
+	},
+	{
 		"id": 19104,
 		"name": "Harpie\u0027s Pet Dragon",
 		"cardType": "EFFECT",
@@ -19536,6 +20193,16 @@
 		"cardObtain": [
 			"Genesis Maximum (Mini Box)"
 		]
+	},
+	{
+		"id": 19107,
+		"name": "Elegant Egotist",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "You have \"Harpie Lady\" or \"Harpie Lady Sisters\" face-up on your field.",
+		"effect": "Special Summon up to 2 \"Harpie Lady\" and/or \"Harpie Lady Sisters\" from your Graveyard face-up to your field. This turn, you cannot declare an attack on Attack Position monsters with 1200 or less ATK.",
+		"rarity": "NPC"
 	},
 	{
 		"id": 19109,
@@ -20558,6 +21225,23 @@
 		]
 	},
 	{
+		"id": 19437,
+		"name": "Harpie Cielo",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Return 1 face-up \"Harpie Lady Sisters\" from your field to the owner\u0027s hand.",
+		"effect": "Send the top 3 cards of your Deck to the Graveyard. Then, if a \"Harpie Lady\" or \"Harpie Lady Sisters\" was among the cards sent, you can add 1 \"Harpie\u0027s Feather Tempest\" from your Graveyard to your hand.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1000,
+			"def": 300,
+			"attribute": "WIND",
+			"race": "WINGED_BEAST"
+		}
+	},
+	{
 		"id": 19439,
 		"name": "Swift Gaia the Fierce Knight",
 		"cardType": "EFFECT",
@@ -21103,6 +21787,26 @@
 		}
 	},
 	{
+		"id": 19659,
+		"name": "Meteor Dragon\u0027s Chick",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During the turn you Normal Summoned this card.",
+		"effect": "Add 1 EARTH Attribute Dragon Type monster with 1800 ATK from your Graveyard to your hand.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 600,
+			"def": 800,
+			"attribute": "EARTH",
+			"race": "DRAGON"
+		},
+		"cardObtain": [
+			"Dark Meteor of Skybreaker (Mini Box)"
+		]
+	},
+	{
 		"id": 19660,
 		"name": "Red-Eyes Moon Dragon",
 		"cardType": "EFFECT",
@@ -21124,6 +21828,89 @@
 		]
 	},
 	{
+		"id": 19662,
+		"name": "Rocket Medic",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Place 1 card from your hand on the bottom of the Deck.",
+		"effect": "Add 1 \"Meteor Dragon\" or \"Meteor Flare Fusion\" from your Graveyard to your hand.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1300,
+			"def": 1300,
+			"attribute": "LIGHT",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"Dark Meteor of Skybreaker (Mini Box)"
+		]
+	},
+	{
+		"id": 19663,
+		"name": "Meteor Drake",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "If you have no monsters on your field, you can Special Summon this card from your hand face-up to your field.",
+		"requirement": "None",
+		"effect": "Excavate the top 4 cards of your Deck. You can add 1 excavated \"Meteor Dragon\" or 1 excavated \"Meteor Flare Fusion\" to your hand. Place the other cards on the bottom of your Deck in any order.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 5,
+			"atk": 1800,
+			"def": 1000,
+			"attribute": "EARTH",
+			"race": "DRAGON"
+		},
+		"cardObtain": [
+			"Dark Meteor of Skybreaker (Mini Box)"
+		]
+	},
+	{
+		"id": 19681,
+		"name": "Meteor Swarm Dragon",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Meteor Dragon\" + \"Meteor Drake\"",
+		"requirement": "None",
+		"effect": "Special Summon 1 EARTH Attribute Dragon Type monster with 1800 ATK from your Graveyard to your field in face-up Defense Position.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2600,
+			"def": 2000,
+			"attribute": "FIRE",
+			"race": "DRAGON"
+		},
+		"cardObtain": [
+			"Dark Meteor of Skybreaker (Mini Box)"
+		]
+	},
+	{
+		"id": 19682,
+		"name": "Meteor Black Drake",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Red-Eyes Black Dragon\" + \"Meteor Drake\"",
+		"requirement": "If you have \"Meteor Flare Fusion\" in your Graveyard, send the top card of your Deck to the Graveyard.",
+		"effect": "This card cannot be destroyed by your opponent\u0027s card effects until the end of your opponent\u0027s next turn. Also, if you have 2 or more \"Meteor Flare Fusion\" in your Graveyard, inflict 500 damage to your opponent.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 3100,
+			"def": 2000,
+			"attribute": "FIRE",
+			"race": "DRAGON"
+		},
+		"cardObtain": [
+			"Dark Meteor of Skybreaker (Mini Box)"
+		]
+	},
+	{
 		"id": 19685,
 		"name": "Dragonic Progression",
 		"cardType": "SPELL",
@@ -21132,6 +21919,45 @@
 		"requirement": "Place 1 card from your hand on the bottom of the Deck.",
 		"effect": "Add 1 Level 1 LIGHT or DARK Attribute Dragon Type monster from your Graveyard to your hand. Then, you can add 1 \"Dragon\u0027s Burst Fusion\" or 1 \"Dragon\u0027s Boost Fusion\" from your Graveyard to your hand.",
 		"rarity": "NPC"
+	},
+	{
+		"id": 19692,
+		"name": "Meteor Flare Fusion",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Fusion Summon by sending 2 monsters from your hand and/or field to the Graveyard as material, including at least 1 \"Red-Eyes Black Dragon\", \"Summoned Skull\", or \"Meteor Dragon\". If you Special Summoned a non-Effect Monster by this effect, you can also destroy 1 card on your opponent\u0027s field.",
+		"rarity": "SR",
+		"cardObtain": [
+			"Dark Meteor of Skybreaker (Mini Box)"
+		]
+	},
+	{
+		"id": 19693,
+		"name": "Meteor Dragon\u0027s Nails",
+		"cardType": "EQUIP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Equip this card to 1 face-up EARTH, FIRE, or DARK Attribute Dragon Type monster on your field.",
+		"effect": "The equipped monster gains 300 ATK. Also, if it is a non-Effect Fusion Monster, it gains an additional 700 ATK and cannot be destroyed by your opponent\u0027s card effects.",
+		"rarity": "SR",
+		"cardObtain": [
+			"Wave Duel Scramble"
+		]
+	},
+	{
+		"id": 19698,
+		"name": "Meteorite Fall",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When an opponent\u0027s monster declares an attack while you have 3 or more Dragon Type monsters in your Graveyard.",
+		"effect": "The attacking monster loses 1000 ATK until the end of this turn. Then, you can set 1 \"Meteor Flare Fusion\" from your Graveyard to your Spell \u0026 Trap Zone.",
+		"rarity": "N",
+		"cardObtain": [
+			"Dark Meteor of Skybreaker (Mini Box)"
+		]
 	},
 	{
 		"id": 19701,
@@ -21166,6 +21992,24 @@
 		"cardObtain": [
 			"Fullmetarion of the Radiant Wings (Deck Build Box)"
 		]
+	},
+	{
+		"id": 19762,
+		"name": "Pet Master Harpie Lady",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "This card\u0027s name becomes \"Harpie Lady\" while in the Graveyard.",
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "This card\u0027s name becomes \"Harpie Lady\" until the end of your opponent\u0027s next turn. Then, if you have 3 \"Harpie Lady\" and/or \"Harpie Lady Sisters\" face-up on your field, you can destroy 1 monster on your opponent\u0027s field.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1300,
+			"def": 1400,
+			"attribute": "WIND",
+			"race": "WINGED_BEAST"
+		}
 	},
 	{
 		"id": 19767,
@@ -21828,6 +22672,25 @@
 		]
 	},
 	{
+		"id": 20155,
+		"name": "Excutie Lilius",
+		"cardType": "EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "If you have a face-up Level 6 monster with 500 DEF on your field, you can Special Summon this card from your hand face-up to your field.",
+		"requirement": "None",
+		"effect": "You cannot attack with Level 7 or higher monsters.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 2500,
+			"def": 500,
+			"attribute": "DARK",
+			"race": "FIEND"
+		}
+	},
+	{
 		"id": 20157,
 		"name": "Yggdrago the Sky Emperor [L]",
 		"cardType": "MAXIMUM",
@@ -22159,6 +23022,23 @@
 		"cardObtain": [
 			"Eternal Galaxy Road (Mini Box)"
 		]
+	},
+	{
+		"id": 20443,
+		"name": "Luster Dragon #2",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": true,
+		"requirement": "Unknown",
+		"effect": "This dragon feeds on emerald. Enchanted by this monster even when attacked, few people live to tell of its beauty.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 2400,
+			"def": 1400,
+			"attribute": "WIND",
+			"race": "DRAGON"
+		}
 	},
 	{
 		"id": 20453,
@@ -22780,6 +23660,25 @@
 		}
 	},
 	{
+		"id": 20658,
+		"name": "Excutie Lumière Frontier",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Excutie Lumière\" + \"Excutie Lilius\"\nThis card can be Contact Fusioned (Fusion Summon by shuffling the above face-up monsters from your field into the owner\u0027s Deck as materials).",
+		"requirement": "During your Main Phase that you Fusion Summoned this card.",
+		"effect": "Shuffle 1 face-up monster on your opponent\u0027s field into the owner\u0027s Deck.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 2800,
+			"def": 500,
+			"attribute": "LIGHT",
+			"race": "FAIRY"
+		}
+	},
+	{
 		"id": 20659,
 		"name": "Enigmatic Princess of Eternal Heaven",
 		"cardType": "FUSION_EFFECT",
@@ -22889,6 +23788,25 @@
 		"cardObtain": [
 			"Flash of Shining Flare (Mini Box)"
 		]
+	},
+	{
+		"id": 20688,
+		"name": "Excutie Lumière Frontier",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Excutie Lumière\" + \"Excutie Lilius\"\nThis card can be Contact Fusioned (Fusion Summon by shuffling the above face-up monsters from your field into the owner\u0027s Deck as materials).",
+		"requirement": "During your Main Phase that you Fusion Summoned this card.",
+		"effect": "Shuffle 1 face-up monster on your opponent\u0027s field into the owner\u0027s Deck.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 2800,
+			"def": 500,
+			"attribute": "LIGHT",
+			"race": "FAIRY"
+		}
 	},
 	{
 		"id": 20733,
@@ -23624,6 +24542,50 @@
 		]
 	},
 	{
+		"id": 21400,
+		"name": "Harpie Signora",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During the turn you Normal Summoned this card, if you have 10 or more cards in your Deck.",
+		"effect": "Send the top 2 cards of your Deck to the Graveyard. If a \"Harpie Lady\" or \"Harpie Lady Sisters\" is among the cards sent, you can also draw 1 card.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1000,
+			"def": 300,
+			"attribute": "WIND",
+			"race": "WINGED_BEAST"
+		}
+	},
+	{
+		"id": 21401,
+		"name": "Harpie Belle",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During the turn you Normal Summoned this card.",
+		"effect": "Special Summon 1 Level 2 Winged Beast Type monster from your Graveyard face-up to your field. If you Special Summoned a Normal Monster by this effect, you can also destroy 1 face-down card on your opponent\u0027s field.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 2,
+			"atk": 500,
+			"def": 500,
+			"attribute": "WIND",
+			"race": "WINGED_BEAST"
+		}
+	},
+	{
+		"id": 21402,
+		"name": "Hysteric Party",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When your opponent draws a card during their turn or when your monster is destroyed by an opponent\u0027s attack.",
+		"effect": "Send 1 card from your hand to the Graveyard. Then, Special Summon up to 3 monsters (\"Harpie Lady\", \"Harpie Lady Sisters\", and/or WIND Attribute Winged Beast Type Fusion Monster) from your Graveyard face-up to your field.",
+		"rarity": "NPC"
+	},
+	{
 		"id": 21578,
 		"name": "Chemicalized Salamander",
 		"cardType": "EFFECT",
@@ -23709,6 +24671,100 @@
 		},
 		"cardObtain": [
 			"Special Set (Bundle)"
+		]
+	},
+	{
+		"id": 22002,
+		"name": "Towline Cattle Healer",
+		"cardType": "EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 monster from your field to the Graveyard.",
+		"effect": "Gain 300 LP. Then, you can Fusion Summon a WIND Attribute monster by sending WIND Attribute monsters from your hand or field to the Graveyard as materials. This turn, you can only attack with WIND Attribute monsters.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 1000,
+			"def": 1200,
+			"attribute": "WIND",
+			"race": "WARRIOR"
+		}
+	},
+	{
+		"id": 22055,
+		"name": "Towline Cattle Healer",
+		"cardType": "EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 monster from your field to the Graveyard.",
+		"effect": "Gain 300 LP. Then, you can Fusion Summon a WIND Attribute monster by sending WIND Attribute monsters from your hand or field to the Graveyard as materials. This turn, you can only attack with WIND Attribute monsters.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 1000,
+			"def": 1200,
+			"attribute": "WIND",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"Dark Meteor of Skybreaker (Mini Box)"
+		]
+	},
+	{
+		"id": 22271,
+		"name": "Cattle Healer Amore",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "CONTINUOUS",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Towline Cattle Healer\" + 1 Level 4 or lower WIND Attribute monster",
+		"requirement": "None",
+		"effect": "Neither player takes any battle damage from battles involving this card. During your turn, this card gains 200 ATK.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 2900,
+			"def": 1200,
+			"attribute": "WIND",
+			"race": "WARRIOR"
+		}
+	},
+	{
+		"id": 22277,
+		"name": "Excutie Scramble!",
+		"cardType": "SPELL",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Special Summon 1 Level 6 monster with 500 DEF from your hand or Graveyard face-up to your field. This turn, you cannot attack with Level 7 or higher monsters.",
+		"rarity": "SR",
+		"cardObtain": [
+			"Dark Meteor of Skybreaker (Mini Box)"
+		]
+	},
+	{
+		"id": 22300,
+		"name": "Cattle Healer Amore",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Towline Cattle Healer\" + 1 Level 4 or lower WIND Attribute monster",
+		"requirement": "None",
+		"effect": "Neither player takes any battle damage from battles involving this card. During your turn, this card gains 200 ATK.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 2900,
+			"def": 1200,
+			"attribute": "WIND",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"Dark Meteor of Skybreaker (Mini Box)"
 		]
 	},
 	{
@@ -23947,6 +25003,81 @@
 		},
 		"cardObtain": [
 			"Duel Links 9th Anniversary Celebration Campaign"
+		]
+	},
+	{
+		"id": 22846,
+		"name": "Straigh the Noodle Ninja",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 card from your hand to the Graveyard.",
+		"effect": "Send the top 2 cards of your Deck to the Graveyard. Then, you can add 1 Pyro Type Normal Monster or 1 \"The Noodle Art of Flavor Shift\" from your Graveyard to your hand.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1100,
+			"def": 1100,
+			"attribute": "FIRE",
+			"race": "PYRO"
+		},
+		"cardObtain": [
+			"Dark Meteor of Skybreaker (Mini Box)"
+		]
+	},
+	{
+		"id": 22847,
+		"name": "Special Operative Flavor Inspector",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "If you have a Pyro Type Normal Monster in your Graveyard, you can Normal Summon this card without Tributing.",
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "This card\u0027s name becomes \"Flavor Inspector\" this turn. Then, you can add 1 \"Fusion\" from your Graveyard to your hand.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 1600,
+			"def": 0,
+			"attribute": "FIRE",
+			"race": "PYRO"
+		},
+		"cardObtain": [
+			"Dark Meteor of Skybreaker (Mini Box)"
+		]
+	},
+	{
+		"id": 22866,
+		"name": "Spice the Special Noodle Ninja Rich Broth",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Spice the Elite Noodle Ninja\" + \"Flavor Inspector\"",
+		"requirement": "During your Main Phase that you Fusion Summoned this card.",
+		"effect": "Special Summon 1 Level 7 Pyro Type monster from your Graveyard face-up to your field. If you Special Summoned \"Spice the Elite Noodle Ninja\" by this effect, you can also destroy 1 card on your opponent\u0027s field.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 2900,
+			"def": 0,
+			"attribute": "FIRE",
+			"race": "PYRO"
+		},
+		"cardObtain": [
+			"Dark Meteor of Skybreaker (Mini Box)"
+		]
+	},
+	{
+		"id": 22883,
+		"name": "The Noodle Art of Flavor Shift",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During the turn you have not activated \"The Noodle Art of Flavor Shift\", reveal 1 FIRE Attribute Fusion Monster with 2900 ATK from your Extra Deck, and declare 1 card name that is mentioned on that monster as material.",
+		"effect": "Choose 1 face-up monster on your field. This turn, that monster\u0027s card name becomes the monster\u0027s card name that was declared to meet the requirement.",
+		"rarity": "R",
+		"cardObtain": [
+			"Dark Meteor of Skybreaker (Mini Box)"
 		]
 	}
 ]
