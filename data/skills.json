@@ -190,6 +190,7 @@
 			705,
 			708,
 			712,
+			713,
 			717,
 			902,
 			906
@@ -211,6 +212,7 @@
 			706,
 			709,
 			715,
+			719,
 			901,
 			903,
 			905
@@ -233,8 +235,10 @@
 			708,
 			709,
 			712,
+			713,
 			717,
 			715,
+			719,
 			901,
 			902,
 			903,
@@ -257,6 +261,7 @@
 			705,
 			708,
 			709,
+			713,
 			717,
 			715,
 			901,
@@ -491,7 +496,8 @@
 		"isArchive": false,
 		"characters": [
 			701,
-			703
+			703,
+			713
 		],
 		"mentionedCards": []
 	},
@@ -717,7 +723,9 @@
 			706,
 			708,
 			709,
+			713,
 			717,
+			719,
 			901
 		],
 		"mentionedCards": [
@@ -1434,8 +1442,10 @@
 		"isArchive": false,
 		"characters": [
 			712,
+			713,
 			717,
 			715,
+			719,
 			901,
 			902,
 			903,
@@ -1453,7 +1463,9 @@
 		"isArchive": false,
 		"characters": [
 			712,
+			713,
 			715,
+			719,
 			901,
 			902,
 			903,
@@ -1660,7 +1672,8 @@
 		"isArchive": false,
 		"characters": [
 			712,
-			717
+			717,
+			719
 		],
 		"mentionedCards": [
 			16934
@@ -1755,7 +1768,8 @@
 		"isArchive": false,
 		"characters": [
 			701,
-			704
+			704,
+			719
 		],
 		"mentionedCards": [
 			16934
@@ -1991,7 +2005,9 @@
 			701,
 			709,
 			712,
+			713,
 			715,
+			719,
 			902,
 			905,
 			906
@@ -2584,7 +2600,6 @@
 		"effect": "Add 1 \"The Emperor Realm\" from your Deck or Graveyard to your hand. If you have a face-up \"The Emperor Realm\" in your Field Zone, you can instead add 1 monster (excluding Legend Monsters) with 800/2000/2400 ATK and 1000 DEF from your Deck to your hand.",
 		"effectType": "NORMAL",
 		"isArchive": true,
-		"characters": [],
 		"mentionedCards": [
 			18985
 		]
@@ -2670,7 +2685,7 @@
 		"effectType": "NORMAL",
 		"isArchive": false,
 		"characters": [
-			720,
+			715,
 			719,
 			905
 		],

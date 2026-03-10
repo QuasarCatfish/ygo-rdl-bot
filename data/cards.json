@@ -161,6 +161,7 @@
 			"Zuwijo Zwil Velgear Starter Deck",
 			"Yuka Goha Starter Deck",
 			"Immi Imimi Starter Deck",
+			"Saburamen Starter Deck",
 			"Yuga Ohdo Duel Reward",
 			"Gavin Sogetsu Duel Reward",
 			"Asana Mutsuba Duel Reward",
@@ -384,7 +385,9 @@
 			"Yuo Goha Starter Deck",
 			"Maddox Sogetsu Starter Deck",
 			"Yuka Goha Starter Deck",
-			"Tiadosia \"Tiger\" Kallister Starter Deck"
+			"Tiadosia \"Tiger\" Kallister Starter Deck",
+			"Yuro Goha Starter Deck",
+			"Saburamen Starter Deck"
 		]
 	},
 	{
@@ -969,7 +972,8 @@
 			"Yudias Velgear Starter Deck",
 			"Zuwijo Zwil Velgear Starter Deck",
 			"Yuka Goha Starter Deck",
-			"Tiadosia \"Tiger\" Kallister Starter Deck"
+			"Tiadosia \"Tiger\" Kallister Starter Deck",
+			"Saburamen Starter Deck"
 		]
 	},
 	{
@@ -1213,7 +1217,8 @@
 			"Tag Duel Tournament",
 			"Yuka Goha Starter Deck",
 			"Tiadosia \"Tiger\" Kallister Starter Deck",
-			"Immi Imimi Starter Deck"
+			"Immi Imimi Starter Deck",
+			"Saburamen Starter Deck"
 		]
 	},
 	{
@@ -1326,7 +1331,9 @@
 			"Zuwijo Zwil Velgear Starter Deck",
 			"Yuka Goha Starter Deck",
 			"Tiadosia \"Tiger\" Kallister Starter Deck",
+			"Yuro Goha Starter Deck",
 			"Lucidien \"Luke\" Kallister Duel Reward",
+			"Yuro Goha Duel Reward",
 			"Tag Duel Tournament",
 			"GR Festival Special Pack Vol.01",
 			"WCS Qualifiers Special Pack Vol.01 (Rush)"
@@ -1377,6 +1384,7 @@
 			"Yuo Goha Starter Deck",
 			"Maddox Sogetsu Starter Deck",
 			"Tiadosia \"Tiger\" Kallister Starter Deck",
+			"Saburamen Starter Deck",
 			"Gavin Sogetsu Duel Reward",
 			"Romin Kassidy Duel Reward",
 			"Immi Imimi Duel Reward",
@@ -1410,6 +1418,7 @@
 			"Zuwijo Zwil Velgear Starter Deck",
 			"Yuka Goha Starter Deck",
 			"Tiadosia \"Tiger\" Kallister Starter Deck",
+			"Yuro Goha Starter Deck",
 			"Roa Kassidy Duel Reward",
 			"Maddox Sogetsu Duel Reward"
 		]
@@ -1459,11 +1468,13 @@
 			"Yuo Goha Starter Deck",
 			"Maddox Sogetsu Starter Deck",
 			"Immi Imimi Starter Deck",
+			"Saburamen Starter Deck",
 			"Romin Kassidy Duel Reward",
 			"Roa Kassidy Duel Reward",
 			"Yudias Velgear Duel Reward",
 			"Yuhi Ohdo Duel Reward",
-			"Zuwijo Zwil Velgear Duel Reward"
+			"Zuwijo Zwil Velgear Duel Reward",
+			"Yuro Goha Duel Reward"
 		]
 	},
 	{
@@ -1549,12 +1560,15 @@
 			"Maddox Sogetsu Starter Deck",
 			"Yuka Goha Starter Deck",
 			"Immi Imimi Starter Deck",
+			"Yuro Goha Starter Deck",
+			"Saburamen Starter Deck",
 			"Yuga Ohdo Duel Reward",
 			"Asana Mutsuba Duel Reward",
 			"Yudias Velgear Duel Reward",
 			"Zuwijo Zwil Velgear Duel Reward",
 			"Tiadosia \"Tiger\" Kallister Duel Reward",
-			"Immi Imimi Duel Reward"
+			"Immi Imimi Duel Reward",
+			"Yuro Goha Duel Reward"
 		]
 	},
 	{
@@ -1609,6 +1623,8 @@
 			"Maddox Sogetsu Starter Deck",
 			"Tiadosia \"Tiger\" Kallister Starter Deck",
 			"Immi Imimi Starter Deck",
+			"Yuro Goha Starter Deck",
+			"Saburamen Starter Deck",
 			"Lucidien \"Luke\" Kallister Duel Reward",
 			"Roa Kassidy Duel Reward",
 			"Yuamu Ohdo Duel Reward"
@@ -1839,6 +1855,7 @@
 			"Yuhi Ohdo Starter Deck",
 			"Yuo Goha Starter Deck",
 			"Yuka Goha Starter Deck",
+			"Saburamen Starter Deck",
 			"Roa Kassidy Duel Reward",
 			"Yuamu Ohdo Duel Reward",
 			"GR Festival Special Pack Vol.01",
@@ -2081,6 +2098,8 @@
 			"Yuamu Ohdo Starter Deck",
 			"Yuo Goha Starter Deck",
 			"Immi Imimi Starter Deck",
+			"Yuro Goha Starter Deck",
+			"Saburamen Starter Deck",
 			"Gavin Sogetsu Duel Reward",
 			"Mimi Imimi Duel Reward",
 			"Asana Mutsuba Duel Reward",
@@ -2590,6 +2609,7 @@
 			"Maddox Sogetsu Starter Deck",
 			"Tiadosia \"Tiger\" Kallister Starter Deck",
 			"Immi Imimi Starter Deck",
+			"Yuro Goha Starter Deck",
 			"Lucidien \"Luke\" Kallister Duel Reward",
 			"Romin Kassidy Duel Reward",
 			"Nail Saionji Duel Reward",
@@ -3904,6 +3924,7 @@
 			"Yuamu Ohdo Starter Deck",
 			"Maddox Sogetsu Starter Deck",
 			"Tiadosia \"Tiger\" Kallister Starter Deck",
+			"Saburamen Starter Deck",
 			"Roa Kassidy Duel Reward",
 			"Yuo Goha Duel Reward",
 			"Zuwijo Zwil Velgear Duel Reward",
@@ -3976,6 +3997,7 @@
 			"Zuwijo Zwil Velgear Starter Deck",
 			"Maddox Sogetsu Starter Deck",
 			"Immi Imimi Starter Deck",
+			"Yuro Goha Starter Deck",
 			"Romin Kassidy Duel Reward",
 			"Mimi Imimi Duel Reward",
 			"Nail Saionji Duel Reward",
@@ -5293,7 +5315,8 @@
 			"Maddox Sogetsu Starter Deck",
 			"Yuka Goha Starter Deck",
 			"Tiadosia \"Tiger\" Kallister Starter Deck",
-			"Immi Imimi Starter Deck"
+			"Immi Imimi Starter Deck",
+			"Saburamen Starter Deck"
 		]
 	},
 	{
@@ -5449,10 +5472,12 @@
 			"Zuwijo Zwil Velgear Starter Deck",
 			"Maddox Sogetsu Starter Deck",
 			"Immi Imimi Starter Deck",
+			"Yuro Goha Starter Deck",
 			"Yuga Ohdo Duel Reward",
 			"Lucidien \"Luke\" Kallister Duel Reward",
 			"Yuhi Ohdo Duel Reward",
 			"Tiadosia \"Tiger\" Kallister Duel Reward",
+			"Yuro Goha Duel Reward",
 			"Ranked Duels Reward Ticket"
 		]
 	},
@@ -10250,13 +10275,15 @@
 			"Maddox Sogetsu Starter Deck",
 			"Yuka Goha Starter Deck",
 			"Immi Imimi Starter Deck",
+			"Saburamen Starter Deck",
 			"Yuga Ohdo Duel Reward",
 			"Gavin Sogetsu Duel Reward",
 			"Mimi Imimi Duel Reward",
 			"Yuamu Ohdo Duel Reward",
 			"Yuo Goha Duel Reward",
 			"Maddox Sogetsu Duel Reward",
-			"Tiadosia \"Tiger\" Kallister Duel Reward"
+			"Tiadosia \"Tiger\" Kallister Duel Reward",
+			"Yuro Goha Duel Reward"
 		]
 	},
 	{
@@ -11864,6 +11891,8 @@
 			"Yuamu Ohdo Starter Deck",
 			"Yuo Goha Starter Deck",
 			"Maddox Sogetsu Starter Deck",
+			"Yuro Goha Starter Deck",
+			"Saburamen Starter Deck",
 			"Nail Saionji Duel Reward",
 			"Yuhi Ohdo Duel Reward",
 			"Zuwijo Zwil Velgear Duel Reward",
@@ -12724,7 +12753,8 @@
 			"Yudias Velgear Starter Deck",
 			"Yuamu Ohdo Starter Deck",
 			"Zuwijo Zwil Velgear Starter Deck",
-			"Yuka Goha Starter Deck"
+			"Yuka Goha Starter Deck",
+			"Yuro Goha Starter Deck"
 		]
 	},
 	{
@@ -12794,6 +12824,7 @@
 			"Yuo Goha Starter Deck",
 			"Maddox Sogetsu Starter Deck",
 			"Immi Imimi Starter Deck",
+			"Yuro Goha Starter Deck",
 			"Lucidien \"Luke\" Kallister Duel Reward"
 		]
 	},
