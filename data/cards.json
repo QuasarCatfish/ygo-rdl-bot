@@ -1691,7 +1691,7 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"GR Festival Celebration Campaign",
+			"~~GR Festival Celebration Campaign~~",
 			"Lifetime Mission Reward"
 		]
 	},
@@ -1758,7 +1758,7 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"SEVENS World Release Celebration Campaign",
+			"~~SEVENS World Release Celebration Campaign~~",
 			"Lifetime Mission Reward"
 		]
 	},
@@ -3222,7 +3222,7 @@
 		"effect": "Switch the original ATK and DEF of all face-up monsters on the field until the end of this turn.",
 		"rarity": "UR",
 		"cardObtain": [
-			"Duel Links 7th Anniversary Celebration Campaign",
+			"~~Duel Links 7th Anniversary Celebration Campaign~~",
 			"Lifetime Mission Reward"
 		]
 	},
@@ -3380,7 +3380,9 @@
 			"race": "FIEND"
 		},
 		"cardObtain": [
-			"Roa Kassidy Duel Reward"
+			"Roa Kassidy Duel Reward",
+			"GR Festival Special Pack Vol.03",
+			"WCS Qualifiers Special Pack Vol.03 (Rush)"
 		]
 	},
 	{
@@ -5400,7 +5402,9 @@
 			"Standard Duelist Duel Reward",
 			"Legendary Duelist Duel Reward",
 			"Tag Duel Tournament",
-			"Wave Duel Scramble"
+			"Wave Duel Scramble",
+			"GR Festival Special Pack Vol.03",
+			"WCS Qualifiers Special Pack Vol.03 (Rush)"
 		]
 	},
 	{
@@ -6894,7 +6898,9 @@
 		"cardObtain": [
 			"Standard Duelist Duel Reward",
 			"Legendary Duelist Duel Reward",
-			"Ranked Duels Reward Ticket"
+			"Ranked Duels Reward Ticket",
+			"GR Festival Special Pack Vol.03",
+			"WCS Qualifiers Special Pack Vol.03 (Rush)"
 		]
 	},
 	{
@@ -7612,7 +7618,8 @@
 		"effect": "Draw 2 cards.",
 		"rarity": "UR",
 		"cardObtain": [
-			"Duel Links 8th Anniversary Celebration Campaign"
+			"~~Duel Links 8th Anniversary Celebration Campaign~~",
+			"Lifetime Mission Reward"
 		]
 	},
 	{
@@ -10494,7 +10501,9 @@
 		"effect": "Fusion Summon by sending face-up monsters from your field to the Graveyard as material.",
 		"rarity": "R",
 		"cardObtain": [
-			"Code-Entry Campaign"
+			"~~Code-Entry Campaign~~",
+			"GR Festival Special Pack Vol.03",
+			"WCS Qualifiers Special Pack Vol.03 (Rush)"
 		]
 	},
 	{
@@ -10524,7 +10533,9 @@
 		"effect": "Draw 1 card. If there is a face-up Field Spell Card on the field, you can also draw 1 card.",
 		"rarity": "SR",
 		"cardObtain": [
-			"Ranked Duels Reward Ticket"
+			"Ranked Duels Reward Ticket",
+			"GR Festival Special Pack Vol.03",
+			"WCS Qualifiers Special Pack Vol.03 (Rush)"
 		]
 	},
 	{
@@ -10721,7 +10732,9 @@
 		},
 		"cardObtain": [
 			"Yuka Goha Level Up Reward",
-			"Yuka Goha Duel Reward"
+			"Yuka Goha Duel Reward",
+			"GR Festival Special Pack Vol.03",
+			"WCS Qualifiers Special Pack Vol.03 (Rush)"
 		]
 	},
 	{
@@ -12133,7 +12146,7 @@
 			"race": "INSECT"
 		},
 		"cardObtain": [
-			"Duel Links Appreciation Campaign",
+			"~~Duel Links Appreciation Campaign~~",
 			"GR Festival Special Pack Vol.02",
 			"WCS Qualifiers Special Pack Vol.02 (Rush)"
 		]
@@ -12252,7 +12265,9 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Yuka Goha Duel Reward"
+			"Yuka Goha Duel Reward",
+			"GR Festival Special Pack Vol.03",
+			"WCS Qualifiers Special Pack Vol.03 (Rush)"
 		]
 	},
 	{
@@ -13390,7 +13405,9 @@
 			"race": "INSECT"
 		},
 		"cardObtain": [
-			"Ranked Duels Reward Ticket"
+			"Ranked Duels Reward Ticket",
+			"GR Festival Special Pack Vol.03",
+			"WCS Qualifiers Special Pack Vol.03 (Rush)"
 		]
 	},
 	{
@@ -14294,7 +14311,9 @@
 		},
 		"cardObtain": [
 			"Yuhi Ohdo Level Up Reward",
-			"Yuhi Ohdo Duel Reward"
+			"Yuhi Ohdo Duel Reward",
+			"GR Festival Special Pack Vol.03",
+			"WCS Qualifiers Special Pack Vol.03 (Rush)"
 		]
 	},
 	{
@@ -15402,7 +15421,9 @@
 			"race": "GALAXY"
 		},
 		"cardObtain": [
-			"Zuwijo Zwil Velgear Duel Reward"
+			"Zuwijo Zwil Velgear Duel Reward",
+			"GR Festival Special Pack Vol.03",
+			"WCS Qualifiers Special Pack Vol.03 (Rush)"
 		]
 	},
 	{
@@ -15557,7 +15578,9 @@
 			"race": "INSECT"
 		},
 		"cardObtain": [
-			"Wave Duel Scramble"
+			"Wave Duel Scramble",
+			"GR Festival Special Pack Vol.03",
+			"WCS Qualifiers Special Pack Vol.03 (Rush)"
 		]
 	},
 	{
@@ -16371,7 +16394,9 @@
 			"race": "PYRO"
 		},
 		"cardObtain": [
-			"Maddox Sogetsu Duel Reward"
+			"Maddox Sogetsu Duel Reward",
+			"GR Festival Special Pack Vol.03",
+			"WCS Qualifiers Special Pack Vol.03 (Rush)"
 		]
 	},
 	{
@@ -16658,7 +16683,7 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"\"The Legend of Duelist QUARTER CENTURY\" Celebration Campaign",
+			"~~\"The Legend of Duelist QUARTER CENTURY\" Celebration Campaign~~",
 			"Lifetime Mission Reward"
 		]
 	},
@@ -17555,7 +17580,9 @@
 			"race": "PYRO"
 		},
 		"cardObtain": [
-			"Maddox Sogetsu Duel Reward"
+			"Maddox Sogetsu Duel Reward",
+			"GR Festival Special Pack Vol.03",
+			"WCS Qualifiers Special Pack Vol.03 (Rush)"
 		]
 	},
 	{
@@ -17856,7 +17883,7 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"WCS 2024 Qualifiers Celebration! Road to Worlds Campaign"
+			"~~WCS 2024 Qualifiers Celebration! Road to Worlds Campaign~~"
 		]
 	},
 	{
@@ -19176,8 +19203,8 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"GR Festival Special Pack Vol.02",
 			"Wave Duel Scramble",
+			"GR Festival Special Pack Vol.02",
 			"WCS Qualifiers Special Pack Vol.02 (Rush)"
 		]
 	},
@@ -20068,7 +20095,7 @@
 			"race": "WINGED_BEAST"
 		},
 		"cardObtain": [
-			"\"Maximum Summon\" Launch Campaign",
+			"~~\"Maximum Summon\" Launch Campaign~~",
 			"Lifetime Mission Reward"
 		]
 	},
@@ -20091,7 +20118,7 @@
 			"race": "WINGED_BEAST"
 		},
 		"cardObtain": [
-			"\"Maximum Summon\" Launch Campaign",
+			"~~\"Maximum Summon\" Launch Campaign~~",
 			"Lifetime Mission Reward"
 		]
 	},
@@ -20113,7 +20140,7 @@
 			"race": "WINGED_BEAST"
 		},
 		"cardObtain": [
-			"\"Maximum Summon\" Launch Campaign",
+			"~~\"Maximum Summon\" Launch Campaign~~",
 			"Lifetime Mission Reward"
 		]
 	},
@@ -20293,7 +20320,9 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Tiadosia \"Tiger\" Kallister Duel Reward"
+			"Tiadosia \"Tiger\" Kallister Duel Reward",
+			"GR Festival Special Pack Vol.03",
+			"WCS Qualifiers Special Pack Vol.03 (Rush)"
 		]
 	},
 	{
@@ -20333,7 +20362,9 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"Tiadosia \"Tiger\" Kallister Duel Reward"
+			"Tiadosia \"Tiger\" Kallister Duel Reward",
+			"GR Festival Special Pack Vol.03",
+			"WCS Qualifiers Special Pack Vol.03 (Rush)"
 		]
 	},
 	{
@@ -23857,7 +23888,7 @@
 			"race": "WARRIOR"
 		},
 		"cardObtain": [
-			"\"Buster Blader\" Gift Campaign",
+			"~~\"Buster Blader\" Gift Campaign~~",
 			"Lifetime Mission Reward"
 		]
 	},
@@ -24194,7 +24225,7 @@
 			"race": "MACHINE"
 		},
 		"cardObtain": [
-			"GO RUSH!! World Release Celebration Campaign",
+			"~~GO RUSH!! World Release Celebration Campaign~~",
 			"Lifetime Mission Reward"
 		]
 	},
@@ -24656,7 +24687,7 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"WCS 2025 Qualifiers Celebration! Road to Worlds Campaign",
+			"~~WCS 2025 Qualifiers Celebration! Road to Worlds Campaign~~",
 			"Lifetime Mission Reward"
 		]
 	},
