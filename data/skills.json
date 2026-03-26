@@ -2437,8 +2437,8 @@
 	{
 		"id": 6102,
 		"name": "Hard Rock Overture",
-		"requirement": "Can be activated by sending 1 Level 7 or 8 monster from your hand to the Graveyard if all of the monsters in your constructed Deck are LIGHT Attribute Fiend Type monsters.",
-		"effect": "Place up to 2 Level 8 monsters from your hand and/or Graveyard in face-up Defense Position. From turn 2 onwards, you can then also add 1 Level 8 monster from your Graveyard to your hand. (Once per Duel.) While a monster placed on the field using this effect is face-up, it loses 1000 DEF, and its battle position can only be changed with a card effect. This turn, you cannot attack directly using a monster that has an original Level of 7 or higher.",
+		"requirement": "Can be activated by sending 1 Level 7 or 8 monster from your hand to the Graveyard if all of the monsters in your constructed Deck and Extra Deck are LIGHT Attribute Fiend Type monsters.",
+		"effect": "Place up to 2 Level 7 or 8 monsters from your hand and/or Graveyard in face-up Defense Position. If it is turn 2 onward, you can also add 1 Level 7 or 8 monster from your Graveyard to your hand. (Once per Duel.) While the monsters placed on the field using this effect are face-up, their battle positions can only be changed by card effects. This turn, monsters with an original Level of 7 or higher can attack directly only once.",
 		"effectType": "NORMAL",
 		"isArchive": false,
 		"characters": [
