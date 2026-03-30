@@ -2427,20 +2427,23 @@
 	},
 	{
 		"id": 15442,
-		"name": "Hydro Canon Big Bluefin",
+		"name": "Hydro Cannon Big Bluefin",
 		"cardType": "EFFECT",
 		"effectType": "NORMAL",
 		"isLegend": false,
 		"requirement": "Send 1 card from your hand to the Graveyard.",
 		"effect": "Up to 2 face-up Fish Type monsters on your field with 1000 or less ATK can attack directly this turn.",
-		"rarity": "NPC",
+		"rarity": "UR",
 		"monsterInfo": {
 			"level": 7,
 			"atk": 2200,
 			"def": 2100,
 			"attribute": "WATER",
 			"race": "FISH"
-		}
+		},
+		"cardObtain": [
+			"Ranked Duels Reward Ticket"
+		]
 	},
 	{
 		"id": 15443,
@@ -23060,7 +23063,7 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"\"Yu-Gi-Oh! Duel Monsters\" World Update Celebration Campaign"
+			"~~\"Yu-Gi-Oh! Duel Monsters\" World Update Celebration Campaign~~"
 		]
 	},
 	{
