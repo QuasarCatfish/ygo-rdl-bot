@@ -133,7 +133,8 @@
 			"Lightspeed Voltcondor (Structure Deck)",
 			"Sevens New Road (Main Box)",
 			"Selection BOX Vol.01",
-			"Eternal Galaxy Road (Mini Box)"
+			"Eternal Galaxy Road (Mini Box)",
+			"Gladimagia of Unity (Deck Build Box)"
 		]
 	},
 	{
@@ -189,7 +190,8 @@
 			"Sevens New Road (Main Box)",
 			"Raidacross the Lionhearted (Structure Deck)",
 			"Selection BOX Vol.01",
-			"Boost Red-Boot (Deck Build Box)"
+			"Boost Red-Boot (Deck Build Box)",
+			"Gladimagia of Unity (Deck Build Box)"
 		]
 	},
 	{
@@ -237,7 +239,8 @@
 			"Fusion of Revolution (Mini Box)",
 			"Boost Red-Boot (Deck Build Box)",
 			"Sevens Road Phantasm (Structure Deck)",
-			"Extreme Overlord (Mini Box)"
+			"Extreme Overlord (Mini Box)",
+			"Gladimagia of Unity (Deck Build Box)"
 		]
 	},
 	{
@@ -250,7 +253,8 @@
 		"effect": "1 face-up Spellcaster Type monster on your field gains 1000 ATK until the end of the turn.",
 		"rarity": "N",
 		"cardObtain": [
-			"Eternal Galaxy Road (Mini Box)"
+			"Eternal Galaxy Road (Mini Box)",
+			"Gladimagia of Unity (Deck Build Box)"
 		]
 	},
 	{
@@ -1086,7 +1090,8 @@
 			"Raidacross the Lionhearted (Structure Deck)",
 			"Selection BOX Vol.01",
 			"Boost Red-Boot (Deck Build Box)",
-			"Sevens Road Phantasm (Structure Deck)"
+			"Sevens Road Phantasm (Structure Deck)",
+			"Gladimagia of Unity (Deck Build Box)"
 		]
 	},
 	{
@@ -1302,7 +1307,8 @@
 			"Heavy Metal Scream (Mini Box)",
 			"Selection BOX Vol.01",
 			"Selection BOX Vol.03",
-			"Black Skulls Showdown (Deck Build Box)"
+			"Black Skulls Showdown (Deck Build Box)",
+			"Gladimagia of Unity (Deck Build Box)"
 		]
 	},
 	{
@@ -2819,7 +2825,8 @@
 		"cardObtain": [
 			"Heavy Metal Scream (Mini Box)",
 			"Selection BOX Vol.03",
-			"Fullmetarion of the Radiant Wings (Deck Build Box)"
+			"Fullmetarion of the Radiant Wings (Deck Build Box)",
+			"Gladimagia of Unity (Deck Build Box)"
 		]
 	},
 	{
@@ -3408,7 +3415,8 @@
 			"Heavy Metal Scream (Mini Box)",
 			"Selection BOX Vol.01",
 			"Selection BOX Vol.03",
-			"Fullmetarion of the Radiant Wings (Deck Build Box)"
+			"Fullmetarion of the Radiant Wings (Deck Build Box)",
+			"Gladimagia of Unity (Deck Build Box)"
 		]
 	},
 	{
@@ -3430,7 +3438,8 @@
 		"cardObtain": [
 			"Heavy Metal Scream (Mini Box)",
 			"Selection BOX Vol.03",
-			"Fullmetarion of the Radiant Wings (Deck Build Box)"
+			"Fullmetarion of the Radiant Wings (Deck Build Box)",
+			"Gladimagia of Unity (Deck Build Box)"
 		]
 	},
 	{
@@ -3453,7 +3462,8 @@
 			"Heavy Metal Scream (Mini Box)",
 			"Selection BOX Vol.01",
 			"Selection BOX Vol.03",
-			"Black Skulls Showdown (Deck Build Box)"
+			"Black Skulls Showdown (Deck Build Box)",
+			"Gladimagia of Unity (Deck Build Box)"
 		]
 	},
 	{
@@ -4543,6 +4553,16 @@
 		]
 	},
 	{
+		"id": 15818,
+		"name": "Aqua Boost",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "You have \"Umi\" or \"Big Umi\" face-up on your field.",
+		"effect": "1 face-up Fish Type monster on your field gains ATK equal to [the number of face-up Fish Type monsters on your field] x 300 until the end of this turn.",
+		"rarity": "NPC"
+	},
+	{
 		"id": 15819,
 		"name": "Big Umi",
 		"cardType": "FIELD",
@@ -4552,7 +4572,8 @@
 		"effect": "While this card is face-up in the Field Zone, face-up non-WATER Attribute monsters on the field lose 300 ATK/DEF.",
 		"rarity": "N",
 		"cardObtain": [
-			"Blazing Chemicalization (Mini Box)"
+			"Blazing Chemicalization (Mini Box)",
+			"Gladimagia of Unity (Deck Build Box)"
 		]
 	},
 	{
@@ -4565,7 +4586,8 @@
 		"effect": "While this card is face-up in the Field Zone, face-up Fish, Sea Serpent, Thunder, and Aqua Type monsters on the field gain 200 ATK/DEF, and face-up Machine and Pyro Type monsters on the field lose 200 ATK/DEF.",
 		"rarity": "N",
 		"cardObtain": [
-			"Blazing Chemicalization (Mini Box)"
+			"Blazing Chemicalization (Mini Box)",
+			"Gladimagia of Unity (Deck Build Box)"
 		]
 	},
 	{
@@ -5754,7 +5776,8 @@
 		"cardObtain": [
 			"Heavy Metal Scream (Mini Box)",
 			"Selection BOX Vol.03",
-			"Fullmetarion of the Radiant Wings (Deck Build Box)"
+			"Fullmetarion of the Radiant Wings (Deck Build Box)",
+			"Gladimagia of Unity (Deck Build Box)"
 		]
 	},
 	{
@@ -7175,7 +7198,8 @@
 		"cardObtain": [
 			"Evolving Rising Heart (Super Mini Box)",
 			"Selection BOX Vol.03",
-			"Fullmetarion of the Radiant Wings (Deck Build Box)"
+			"Fullmetarion of the Radiant Wings (Deck Build Box)",
+			"Gladimagia of Unity (Deck Build Box)"
 		]
 	},
 	{
@@ -9058,7 +9082,8 @@
 		"rarity": "R",
 		"cardObtain": [
 			"Requiem of Collapse (Mini Box)",
-			"Forbidden Fantastic Show (Deck Build Box)"
+			"Forbidden Fantastic Show (Deck Build Box)",
+			"Gladimagia of Unity (Deck Build Box)"
 		]
 	},
 	{
@@ -9300,7 +9325,8 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Eternal Galaxy Road (Mini Box)"
+			"Eternal Galaxy Road (Mini Box)",
+			"Gladimagia of Unity (Deck Build Box)"
 		]
 	},
 	{
@@ -9526,7 +9552,8 @@
 			"Selection BOX Vol.01",
 			"Selection BOX Vol.03",
 			"Fullmetarion of the Radiant Wings (Deck Build Box)",
-			"Black Skulls Showdown (Deck Build Box)"
+			"Black Skulls Showdown (Deck Build Box)",
+			"Gladimagia of Unity (Deck Build Box)"
 		]
 	},
 	{
@@ -9944,7 +9971,8 @@
 			"Raidacross the Lionhearted (Structure Deck)",
 			"The Ultimate Ace Breaker (Structure Deck)",
 			"Legend of Dark Magic (Structure Deck)",
-			"Forbidden Fantastic Show (Deck Build Box)"
+			"Forbidden Fantastic Show (Deck Build Box)",
+			"Gladimagia of Unity (Deck Build Box)"
 		]
 	},
 	{
@@ -10054,7 +10082,8 @@
 		"cardObtain": [
 			"Fusion of Revolution (Mini Box)",
 			"Boost Red-Boot (Deck Build Box)",
-			"Extreme Overlord (Mini Box)"
+			"Extreme Overlord (Mini Box)",
+			"Gladimagia of Unity (Deck Build Box)"
 		]
 	},
 	{
@@ -10097,7 +10126,8 @@
 		"cardObtain": [
 			"Fusion of Revolution (Mini Box)",
 			"Boost Red-Boot (Deck Build Box)",
-			"Extreme Overlord (Mini Box)"
+			"Extreme Overlord (Mini Box)",
+			"Gladimagia of Unity (Deck Build Box)"
 		]
 	},
 	{
@@ -10119,7 +10149,8 @@
 		"cardObtain": [
 			"Fusion of Revolution (Mini Box)",
 			"Infinite Grand Crush (Deck Build Box)",
-			"Sevens Road Phantasm (Structure Deck)"
+			"Sevens Road Phantasm (Structure Deck)",
+			"Gladimagia of Unity (Deck Build Box)"
 		]
 	},
 	{
@@ -10396,6 +10427,16 @@
 		]
 	},
 	{
+		"id": 16930,
+		"name": "Yami",
+		"cardType": "FIELD",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "While this card is face-up in the Field Zone, face-up Fiend/Spellcaster Type monsters on the field gain 200 ATK/DEF, and face-up Fairy Type monsters on the field lose 200 ATK/DEF.",
+		"rarity": "NPC"
+	},
+	{
 		"id": 16932,
 		"name": "The Warrior Returning Alive",
 		"cardType": "SPELL",
@@ -10443,7 +10484,8 @@
 			"High Dragon of Solid Strikes (Deck Build Box)",
 			"Fullmetarion of the Radiant Wings (Deck Build Box)",
 			"The Distant Neo Space (Mini Box)",
-			"Dark Meteor of Skybreaker (Mini Box)"
+			"Dark Meteor of Skybreaker (Mini Box)",
+			"Gladimagia of Unity (Deck Build Box)"
 		]
 	},
 	{
@@ -10694,7 +10736,8 @@
 			"race": "SEA_SERPENT"
 		},
 		"cardObtain": [
-			"Blazing Chemicalization (Mini Box)"
+			"Blazing Chemicalization (Mini Box)",
+			"Gladimagia of Unity (Deck Build Box)"
 		]
 	},
 	{
@@ -11041,12 +11084,13 @@
 			"race": "SEA_SERPENT"
 		},
 		"cardObtain": [
-			"Blazing Chemicalization (Mini Box)"
+			"Blazing Chemicalization (Mini Box)",
+			"Gladimagia of Unity (Deck Build Box)"
 		]
 	},
 	{
 		"id": 16990,
-		"name": "Head Bad Catchalot",
+		"name": "Head Bad Cachalot",
 		"cardType": "EFFECT",
 		"effectType": "NORMAL",
 		"isLegend": false,
@@ -11061,7 +11105,8 @@
 			"race": "SEA_SERPENT"
 		},
 		"cardObtain": [
-			"Blazing Chemicalization (Mini Box)"
+			"Blazing Chemicalization (Mini Box)",
+			"Gladimagia of Unity (Deck Build Box)"
 		]
 	},
 	{
@@ -11195,7 +11240,8 @@
 			"race": "SEA_SERPENT"
 		},
 		"cardObtain": [
-			"Blazing Chemicalization (Mini Box)"
+			"Blazing Chemicalization (Mini Box)",
+			"Gladimagia of Unity (Deck Build Box)"
 		]
 	},
 	{
@@ -15363,7 +15409,8 @@
 			"race": "PYRO"
 		},
 		"cardObtain": [
-			"Crimson Volcalize (Deck Build Box)"
+			"Crimson Volcalize (Deck Build Box)",
+			"Gladimagia of Unity (Deck Build Box)"
 		]
 	},
 	{
@@ -17058,7 +17105,8 @@
 			"race": "PYRO"
 		},
 		"cardObtain": [
-			"Blazing Chemicalization (Mini Box)"
+			"Blazing Chemicalization (Mini Box)",
+			"Gladimagia of Unity (Deck Build Box)"
 		]
 	},
 	{
@@ -17701,7 +17749,8 @@
 			"Genesis Maximum (Mini Box)",
 			"Selection BOX Vol.03",
 			"Fullmetarion of the Radiant Wings (Deck Build Box)",
-			"Black Skulls Showdown (Deck Build Box)"
+			"Black Skulls Showdown (Deck Build Box)",
+			"Gladimagia of Unity (Deck Build Box)"
 		]
 	},
 	{
@@ -18459,6 +18508,27 @@
 			"attribute": "FIRE",
 			"race": "WARRIOR"
 		}
+	},
+	{
+		"id": 18614,
+		"name": "Alchemicalize Salamandra",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Chemicalized Salamandra\" + \"Ember the Super Assistant\"",
+		"requirement": "During your Main Phase that you Special Summoned this card.",
+		"effect": "Destroy all Spell and Trap Cards on the field. Then, you can make all face-up monsters on your opponent\u0027s field lose ATK equal to each Spell Card destroyed by this effect] x 1000 until the end of this turn.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 3000,
+			"def": 3000,
+			"attribute": "FIRE",
+			"race": "PYRO"
+		},
+		"cardObtain": [
+			"Gladimagia of Unity (Deck Build Box)"
+		]
 	},
 	{
 		"id": 18615,
@@ -20702,7 +20772,8 @@
 			"race": "PYRO"
 		},
 		"cardObtain": [
-			"Blazing Chemicalization (Mini Box)"
+			"Blazing Chemicalization (Mini Box)",
+			"Gladimagia of Unity (Deck Build Box)"
 		]
 	},
 	{
@@ -22025,6 +22096,17 @@
 		]
 	},
 	{
+		"id": 19700,
+		"name": "Star Protector\u0027s Protection",
+		"cardType": "TRAP",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When your opponent draws a card during their turn, or when your opponent Normal or Special Summons a monster during their turn, send 1 monster from your field to the Graveyard.",
+		"effect": "This turn, your opponent can only declare an attack once. Also, you can take control of 1 face-up Level 9 or higher Magical Knight Type Fusion Monster with 3000 original ATK on your opponent\u0027s field.",
+		"rarity": "UR"
+	},
+	{
 		"id": 19701,
 		"name": "Fusion Cancel",
 		"cardType": "TRAP",
@@ -22035,6 +22117,20 @@
 		"rarity": "SR",
 		"cardObtain": [
 			"Flash of Shining Flare (Mini Box)"
+		]
+	},
+	{
+		"id": 19715,
+		"name": "Star Protector\u0027s Protection",
+		"cardType": "TRAP",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When your opponent draws a card during their turn, or when your opponent Normal or Special Summons a monster during their turn, send 1 monster from your field to the Graveyard.",
+		"effect": "This turn, your opponent can only declare an attack once. Also, you can take control of 1 face-up Level 9 or higher Magical Knight Type Fusion Monster with 3000 original ATK on your opponent\u0027s field.",
+		"rarity": "UR",
+		"cardObtain": [
+			"Gladimagia of Unity (Deck Build Box)"
 		]
 	},
 	{
@@ -22057,6 +22153,24 @@
 		"cardObtain": [
 			"Fullmetarion of the Radiant Wings (Deck Build Box)"
 		]
+	},
+	{
+		"id": 19761,
+		"name": "Royal Rebel\u0027s Progrock",
+		"cardType": "EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During the turn you Normal Summoned this card by Tributing a Level 5 or higher monster.",
+		"effect": "Destroy 1 Spell/Trap Card on your opponent\u0027s field. Then, you can destroy 1 face-down card on your opponent\u0027s field. This turn, you can only attack with Fiend Type monsters.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2500,
+			"def": 0,
+			"attribute": "LIGHT",
+			"race": "FIEND"
+		}
 	},
 	{
 		"id": 19762,
@@ -22192,6 +22306,19 @@
 		}
 	},
 	{
+		"id": 19799,
+		"name": "King\u0027s Greed",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Either send 1 Level 5 or higher LIGHT Attribute Fiend Type monster from your hand to the Graveyard or shuffle 3 Level 7 or higher LIGHT Attribute Fiend Type monsters from your Graveyard into the Deck.",
+		"effect": "Change 1 Attack Position LIGHT Attribute Fiend Type monster on your field to face-up Defense Position. Then, you can draw 2 cards.",
+		"rarity": "SR",
+		"cardObtain": [
+			"Gladimagia of Unity (Deck Build Box)"
+		]
+	},
+	{
 		"id": 19806,
 		"name": "Royal Rebel\u0027s Heavy Metal",
 		"cardType": "EFFECT",
@@ -22231,6 +22358,27 @@
 		},
 		"cardObtain": [
 			"Selection BOX Vol.03"
+		]
+	},
+	{
+		"id": 19811,
+		"name": "Royal Rebel\u0027s Progrock",
+		"cardType": "EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During the turn you Normal Summoned this card by Tributing a Level 5 or higher monster.",
+		"effect": "Destroy 1 Spell/Trap Card on your opponent\u0027s field. Then, you can destroy 1 face-down card on your opponent\u0027s field. This turn, you can only attack with Fiend Type monsters.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2500,
+			"def": 0,
+			"attribute": "LIGHT",
+			"race": "FIEND"
+		},
+		"cardObtain": [
+			"Gladimagia of Unity (Deck Build Box)"
 		]
 	},
 	{
@@ -22341,6 +22489,26 @@
 		}
 	},
 	{
+		"id": 19972,
+		"name": "Sevens Fear Magician",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "This turn, this card\u0027s name becomes \"Sevens Road Magician\". Then, make 1 face-up monster on your opponent\u0027s field lose ATK equal to [the number of different Attributes in your Graveyard] x 300 until the end of this turn.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2100,
+			"def": 1500,
+			"attribute": "DARK",
+			"race": "SPELLCASTER"
+		},
+		"cardObtain": [
+			"Gladimagia of Unity (Deck Build Box)"
+		]
+	},
+	{
 		"id": 19974,
 		"name": "Jinzo #7.7",
 		"cardType": "EFFECT",
@@ -22375,6 +22543,27 @@
 		},
 		"cardObtain": [
 			"Tag Duel Tournament"
+		]
+	},
+	{
+		"id": 19990,
+		"name": "Flame Archer the Super Graphagas",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Chromatographagas\" + \"Ember the Super Assistant\"",
+		"requirement": "Place 1 Level 7 Pyro Type Normal Monster from your Graveyard on top of the Deck.",
+		"effect": "This card gains 2500 ATK until the end of this turn. Then, you can make 1 face-up Level 9 or lower monster on your opponent\u0027s field lose 1500 ATK until the end of this turn.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 3000,
+			"def": 2500,
+			"attribute": "FIRE",
+			"race": "PYRO"
+		},
+		"cardObtain": [
+			"Gladimagia of Unity (Deck Build Box)"
 		]
 	},
 	{
@@ -22932,7 +23121,8 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Eternal Galaxy Road (Mini Box)"
+			"Eternal Galaxy Road (Mini Box)",
+			"Gladimagia of Unity (Deck Build Box)"
 		]
 	},
 	{
@@ -22952,7 +23142,8 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"Eternal Galaxy Road (Mini Box)"
+			"Eternal Galaxy Road (Mini Box)",
+			"Gladimagia of Unity (Deck Build Box)"
 		]
 	},
 	{
@@ -24332,6 +24523,26 @@
 		}
 	},
 	{
+		"id": 20961,
+		"name": "Magical Swordsman of Roadstar",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "This turn, this card\u0027s name becomes \"Swordsman of Roadstar\". Then, you can Special Summon 1 \"Sevens Fear Magician\" from your Graveyard in face-up Defense Position to your field.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1200,
+			"def": 500,
+			"attribute": "DARK",
+			"race": "SPELLCASTER"
+		},
+		"cardObtain": [
+			"Gladimagia of Unity (Deck Build Box)"
+		]
+	},
+	{
 		"id": 20977,
 		"name": "Lovely Ange",
 		"cardType": "EFFECT",
@@ -24347,6 +24558,27 @@
 			"attribute": "DARK",
 			"race": "FAIRY"
 		}
+	},
+	{
+		"id": 20993,
+		"name": "Roadstar Gladimagia",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "MULTICHOICE",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Sevens Road Magician\" + \"Swordsman of Roadstar\"\nThis card can be Contact Fusioned.",
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "⬤ Make 1 face-up monster on your opponent\u0027s field lose ATK/DEF equal to [the number of DARK Attribute Spellcaster Type monsters in your Graveyard] x 400 until the end of this turn. ⬤ This turn, this card inflicts piercing battle damage.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2900,
+			"def": 2400,
+			"attribute": "DARK",
+			"race": "MAGICAL_KNIGHT"
+		},
+		"cardObtain": [
+			"Gladimagia of Unity (Deck Build Box)"
+		]
 	},
 	{
 		"id": 20998,

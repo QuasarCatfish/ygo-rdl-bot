@@ -2716,5 +2716,22 @@
 			20155,
 			20688
 		]
+	},
+	{
+		"id": 6801,
+		"name": "Alchemy Blaze",
+		"requirement": "From turn 2 onward, reveal 1 \"Chemicalized Salamander\", \"Chromatographagas\", or \"Ember the Super Assistant\" in your hand if all of the monsters in your Deck are FIRE Attribute Pyro Type monsters with 100 or more DEF.",
+		"effect": "Add 2 cards from your Deck and/or Graveyard to your hand (either Normal Monsters, monsters with 1500 DEF, or \"Fusion\"), then send 1 card from your hand to the Graveyard.",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			905
+		],
+		"mentionedCards": [
+			17868,
+			18583,
+			17963,
+			16934
+		]
 	}
 ]
