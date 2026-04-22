@@ -4468,14 +4468,17 @@
 		"isLegend": false,
 		"requirement": "If you have a face-up Level 7 Fish Type monster on your field, place 1 Fish Type monster from your Graveyard on the bottom of your Deck.",
 		"effect": "Up to 2 face-up Fish Type monsters on your field gain 500 ATK until the end of this turn.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 6,
 			"atk": 1800,
 			"def": 0,
 			"attribute": "WATER",
 			"race": "FISH"
-		}
+		},
+		"cardObtain": [
+			"Trader (Featured Cards)"
+		]
 	},
 	{
 		"id": 15812,
@@ -4560,7 +4563,10 @@
 		"isLegend": false,
 		"requirement": "You have \"Umi\" or \"Big Umi\" face-up on your field.",
 		"effect": "1 face-up Fish Type monster on your field gains ATK equal to [the number of face-up Fish Type monsters on your field] x 300 until the end of this turn.",
-		"rarity": "NPC"
+		"rarity": "R",
+		"cardObtain": [
+			"Trader (Featured Cards)"
+		]
 	},
 	{
 		"id": 15819,
@@ -10434,7 +10440,10 @@
 		"isLegend": false,
 		"requirement": "None",
 		"effect": "While this card is face-up in the Field Zone, face-up Fiend/Spellcaster Type monsters on the field gain 200 ATK/DEF, and face-up Fairy Type monsters on the field lose 200 ATK/DEF.",
-		"rarity": "NPC"
+		"rarity": "SR",
+		"cardObtain": [
+			"Pick-a-Gift Campaign"
+		]
 	},
 	{
 		"id": 16932,
@@ -23254,7 +23263,8 @@
 			"race": "DRAGON"
 		},
 		"cardObtain": [
-			"~~\"Yu-Gi-Oh! Duel Monsters\" World Update Celebration Campaign~~"
+			"~~\"Yu-Gi-Oh! Duel Monsters\" World Update Celebration Campaign~~",
+			"Trader (Featured Cards)"
 		]
 	},
 	{
