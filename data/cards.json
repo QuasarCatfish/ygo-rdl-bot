@@ -8990,7 +8990,10 @@
 		"isLegend": false,
 		"requirement": "None",
 		"effect": "1 face-up WIND Attribute monster with 2000 or more ATK on your field loses 500 ATK until the end of this turn. Then, you can destroy 1 Spell/Trap Card on your opponent\u0027s field.",
-		"rarity": "NPC"
+		"rarity": "UR",
+		"cardObtain": [
+			"Yuro Goha Duel Reward"
+		]
 	},
 	{
 		"id": 16700,
@@ -11252,6 +11255,23 @@
 			"Blazing Chemicalization (Mini Box)",
 			"Gladimagia of Unity (Deck Build Box)"
 		]
+	},
+	{
+		"id": 16998,
+		"name": "Sea Dragon Knight",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Shuffle 2 monsters from your Graveyard into the Deck.",
+		"effect": "Look at 1 face-down Spell/Trap Card on your opponent\u0027s field. If a card with the same name is in your opponent\u0027s Graveyard, you can destroy that card on your opponent\u0027s field.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 1300,
+			"def": 300,
+			"attribute": "WATER",
+			"race": "SEA_SERPENT"
+		}
 	},
 	{
 		"id": 16999,
@@ -13770,6 +13790,19 @@
 		]
 	},
 	{
+		"id": 17551,
+		"name": "Sacred Tower in Crisis",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When your opponent Normal Summons a Level 7 or higher monster.",
+		"effect": "Change 1 face-up Level 8 or lower Effect Monster on your opponent\u0027s field to face-down Defense Position.",
+		"rarity": "UR",
+		"cardObtain": [
+			"Tag Duel Tournament"
+		]
+	},
+	{
 		"id": 17555,
 		"name": "Fancy Ladybug Pastel",
 		"cardType": "NORMAL",
@@ -15810,6 +15843,16 @@
 		"rarity": "NPC"
 	},
 	{
+		"id": 17907,
+		"name": "Packet Cylinder",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When an opponent\u0027s monster declares an attack targeting your Attack Position LIGHT Attribute monster.",
+		"effect": "The attacking monster loses ATK equal to [its Level] x 100 until the end of this turn.",
+		"rarity": "NPC"
+	},
+	{
 		"id": 17909,
 		"name": "Sunbathing Kappa",
 		"cardType": "TRAP",
@@ -17003,6 +17046,16 @@
 		]
 	},
 	{
+		"id": 18274,
+		"name": "Qwerty Keyblade",
+		"cardType": "EQUIP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Equip this card to 1 face-up Dragon Type monster on your field.",
+		"effect": "The equipped monster gains ATK equal to [the number of face-up Spell Cards on your field] x 200. If the equipped monster is DARK Attribute, it inflicts piercing battle damage.",
+		"rarity": "NPC"
+	},
+	{
 		"id": 18275,
 		"name": "Chemicalizer Red",
 		"cardType": "EQUIP",
@@ -17050,7 +17103,10 @@
 		"isLegend": false,
 		"requirement": "Send 1 WIND Attribute monster from your handto the Graveyard.",
 		"effect": "Draw 1 card. If you have 2 or more face-up WIND Attribute monsters with 1800 or more ATK on your field, you can draw 1 card.",
-		"rarity": "NPC"
+		"rarity": "SR",
+		"cardObtain": [
+			"Yuro Goha Duel Reward"
+		]
 	},
 	{
 		"id": 18290,
@@ -18573,6 +18629,16 @@
 			"Yuamu Ohdo Level Up Reward",
 			"Yuamu Ohdo Duel Reward"
 		]
+	},
+	{
+		"id": 18625,
+		"name": "Cracking Claw",
+		"cardType": "EQUIP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Equip this card to 1 face-up Dragon Type monster on your field.",
+		"effect": "The equipped monster gains ATK equal to [the number of face-up Dragon Type monsters on the field] x 200. If the equipped monster attacks a Level 7 or higher monster, it inflicts piercing battle damage.",
+		"rarity": "NPC"
 	},
 	{
 		"id": 18631,
@@ -24499,6 +24565,26 @@
 		]
 	},
 	{
+		"id": 20902,
+		"name": "Card Trooper",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": true,
+		"requirement": "If you have 10 or more cards in your Deck, send the top 3 cards of your Deck to the Graveyard.",
+		"effect": "This card gains ATK equal to [the number of cards sent to the Graveyard this turn] x 500 until the end of this turn. Then, you can send this card on your field to the Graveyard. If you sent it to the Graveyard by this effect, also draw 1 card.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 400,
+			"def": 400,
+			"attribute": "EARTH",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"Ranked Duels Reward Ticket"
+		]
+	},
+	{
 		"id": 20954,
 		"name": "Sparkle the Hyper Assistant",
 		"cardType": "EFFECT",
@@ -24935,6 +25021,23 @@
 			"~~WCS 2025 Qualifiers Celebration! Road to Worlds Campaign~~",
 			"Lifetime Mission Reward"
 		]
+	},
+	{
+		"id": 21650,
+		"name": "Rebuild Drake",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send this face-up card from your field to the Graveyard.",
+		"effect": "Special Summon 1 \"Blue-Fang Burst Dragon\" or \"Red-Boot Boost Dragon\" from your Graveyard in face-up Defense Position to your field.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 300,
+			"def": 300,
+			"attribute": "DARK",
+			"race": "DRAGON"
+		}
 	},
 	{
 		"id": 21925,
