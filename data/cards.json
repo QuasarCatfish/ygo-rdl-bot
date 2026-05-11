@@ -254,7 +254,8 @@
 		"rarity": "N",
 		"cardObtain": [
 			"Eternal Galaxy Road (Mini Box)",
-			"Gladimagia of Unity (Deck Build Box)"
+			"Gladimagia of Unity (Deck Build Box)",
+			"Eternal Genesis (Mini Box)"
 		]
 	},
 	{
@@ -497,7 +498,8 @@
 			"Scorching Flame Burst (Deck Build Box)",
 			"Selection BOX Vol.02",
 			"Flash of Shining Flare (Mini Box)",
-			"High Dragon of Solid Strikes (Deck Build Box)"
+			"High Dragon of Solid Strikes (Deck Build Box)",
+			"Eternal Genesis (Mini Box)"
 		]
 	},
 	{
@@ -1060,7 +1062,8 @@
 		},
 		"cardObtain": [
 			"Eternal Galaxy Road (Mini Box)",
-			"Black Skulls Showdown (Deck Build Box)"
+			"Black Skulls Showdown (Deck Build Box)",
+			"Eternal Genesis (Mini Box)"
 		]
 	},
 	{
@@ -1744,7 +1747,8 @@
 			"Selection BOX Vol.02",
 			"Divine Genesis Blade (Deck Build Box)",
 			"Flash of Shining Flare (Mini Box)",
-			"High Dragon of Solid Strikes (Deck Build Box)"
+			"High Dragon of Solid Strikes (Deck Build Box)",
+			"Eternal Genesis (Mini Box)"
 		]
 	},
 	{
@@ -2760,7 +2764,8 @@
 			"Boost Red-Boot (Deck Build Box)",
 			"Eternal Galaxy Road (Mini Box)",
 			"Black Skulls Showdown (Deck Build Box)",
-			"Dark Meteor of Skybreaker (Mini Box)"
+			"Dark Meteor of Skybreaker (Mini Box)",
+			"Eternal Genesis (Mini Box)"
 		]
 	},
 	{
@@ -9155,14 +9160,17 @@
 		"isLegend": false,
 		"requirement": "Send the top card of your Deck to the Graveyard.",
 		"effect": "Your opponent draws 2 cards. Then, inflict damage to your opponent equal to [the number of cards in their hand] x 100.",
-		"rarity": "NPC",
+		"rarity": "R",
 		"monsterInfo": {
 			"level": 7,
 			"atk": 2400,
 			"def": 1500,
 			"attribute": "DARK",
 			"race": "DRAGON"
-		}
+		},
+		"cardObtain": [
+			"Eternal Genesis (Mini Box)"
+		]
 	},
 	{
 		"id": 16761,
@@ -10159,7 +10167,8 @@
 			"Fusion of Revolution (Mini Box)",
 			"Infinite Grand Crush (Deck Build Box)",
 			"Sevens Road Phantasm (Structure Deck)",
-			"Gladimagia of Unity (Deck Build Box)"
+			"Gladimagia of Unity (Deck Build Box)",
+			"Eternal Genesis (Mini Box)"
 		]
 	},
 	{
@@ -10181,6 +10190,27 @@
 		},
 		"cardObtain": [
 			"Fusion of Revolution (Mini Box)"
+		]
+	},
+	{
+		"id": 16907,
+		"name": "Full Moon Dragon Umbralancer F",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "MULTICHOICE",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Dragon Knight of Darkness\" + \"Dragon Bat\"",
+		"requirement": "Send 1 card from your hand to the Graveyard, except \"Fusion\".",
+		"effect": "⬤ Special Summon 1 High Dragon Type monster from your Graveyard face-up to your field. ⬤ Add 1 \"Fusion\" from your Graveyard to your hand.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2300,
+			"def": 1600,
+			"attribute": "DARK",
+			"race": "HIGH_DRAGON"
+		},
+		"cardObtain": [
+			"Eternal Genesis (Mini Box)"
 		]
 	},
 	{
@@ -10432,7 +10462,8 @@
 		"rarity": "SR",
 		"cardObtain": [
 			"Fusion of Revolution (Mini Box)",
-			"Forbidden Fantastic Show (Deck Build Box)"
+			"Forbidden Fantastic Show (Deck Build Box)",
+			"Quest of Transam (Structure Deck)"
 		]
 	},
 	{
@@ -10497,7 +10528,9 @@
 			"Fullmetarion of the Radiant Wings (Deck Build Box)",
 			"The Distant Neo Space (Mini Box)",
 			"Dark Meteor of Skybreaker (Mini Box)",
-			"Gladimagia of Unity (Deck Build Box)"
+			"Gladimagia of Unity (Deck Build Box)",
+			"Eternal Genesis (Mini Box)",
+			"Quest of Transam (Structure Deck)"
 		]
 	},
 	{
@@ -11775,6 +11808,19 @@
 		]
 	},
 	{
+		"id": 17209,
+		"name": "Dark Resonance Burst",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Make 1 face-up Level 6 or higher DARK Attribute Spellcaster Type monster on your field gain 1000 ATK until the end of this turn. If yu have a face-up \"Dark Magician\" or \"Dark Magician Girl\" on your field, that monster also gains 1000 ATK until the end of this turn.",
+		"rarity": "R",
+		"cardObtain": [
+			"Eternal Genesis (Mini Box)"
+		]
+	},
+	{
 		"id": 17210,
 		"name": "Burst Stream of Destruction",
 		"cardType": "SPELL",
@@ -12888,7 +12934,8 @@
 		},
 		"cardObtain": [
 			"Transam Universe (Structure Deck)",
-			"Starter Deck (Friend Invitation Campaign: LIGHT-Galaxy)"
+			"Starter Deck (Friend Invitation Campaign: LIGHT-Galaxy)",
+			"Quest of Transam (Structure Deck)"
 		]
 	},
 	{
@@ -12979,7 +13026,10 @@
 			"def": 2500,
 			"attribute": "LIGHT",
 			"race": "GALAXY"
-		}
+		},
+		"cardObtain": [
+			"Quest of Transam (Structure Deck)"
+		]
 	},
 	{
 		"id": 17489,
@@ -13247,7 +13297,8 @@
 		},
 		"cardObtain": [
 			"Yudias Velgear Level Up Reward",
-			"Yudias Velgear Duel Reward"
+			"Yudias Velgear Duel Reward",
+			"Quest of Transam (Structure Deck)"
 		]
 	},
 	{
@@ -13753,7 +13804,8 @@
 			"Galactica Go Rush (Mini Box)",
 			"Transam Universe (Structure Deck)",
 			"Blazing Chemicalization (Mini Box)",
-			"Starter Deck (Friend Invitation Campaign: LIGHT-Galaxy)"
+			"Starter Deck (Friend Invitation Campaign: LIGHT-Galaxy)",
+			"Quest of Transam (Structure Deck)"
 		]
 	},
 	{
@@ -13880,7 +13932,8 @@
 			"Yudias Velgear Duel Reward",
 			"GR Festival Special Pack Vol.02",
 			"WCS Qualifiers Special Pack Vol.02 (Rush)",
-			"Starter Deck (Friend Invitation Campaign: LIGHT-Galaxy)"
+			"Starter Deck (Friend Invitation Campaign: LIGHT-Galaxy)",
+			"Quest of Transam (Structure Deck)"
 		]
 	},
 	{
@@ -13901,7 +13954,8 @@
 		},
 		"cardObtain": [
 			"Galactica Go Rush (Mini Box)",
-			"Crimson Volcalize (Deck Build Box)"
+			"Crimson Volcalize (Deck Build Box)",
+			"Eternal Genesis (Mini Box)"
 		]
 	},
 	{
@@ -14027,7 +14081,8 @@
 			"Transam Universe (Structure Deck)",
 			"Blazing Chemicalization (Mini Box)",
 			"Eternal Galaxy Road (Mini Box)",
-			"Starter Deck (Friend Invitation Campaign: LIGHT-Galaxy)"
+			"Starter Deck (Friend Invitation Campaign: LIGHT-Galaxy)",
+			"Quest of Transam (Structure Deck)"
 		]
 	},
 	{
@@ -14071,7 +14126,8 @@
 			"Galactica Go Rush (Mini Box)",
 			"Blazing Chemicalization (Mini Box)",
 			"Eternal Galaxy Road (Mini Box)",
-			"Starter Deck (Friend Invitation Campaign: LIGHT-Galaxy)"
+			"Starter Deck (Friend Invitation Campaign: LIGHT-Galaxy)",
+			"Quest of Transam (Structure Deck)"
 		]
 	},
 	{
@@ -14094,7 +14150,8 @@
 			"Transam Universe (Structure Deck)",
 			"Requiem of Collapse (Mini Box)",
 			"Eternal Galaxy Road (Mini Box)",
-			"Starter Deck (Friend Invitation Campaign: LIGHT-Galaxy)"
+			"Starter Deck (Friend Invitation Campaign: LIGHT-Galaxy)",
+			"Quest of Transam (Structure Deck)"
 		]
 	},
 	{
@@ -14237,7 +14294,8 @@
 			"Yudias Velgear Duel Reward",
 			"GR Festival Special Pack Vol.02",
 			"WCS Qualifiers Special Pack Vol.02 (Rush)",
-			"Starter Deck (Friend Invitation Campaign: LIGHT-Galaxy)"
+			"Starter Deck (Friend Invitation Campaign: LIGHT-Galaxy)",
+			"Quest of Transam (Structure Deck)"
 		]
 	},
 	{
@@ -16711,7 +16769,8 @@
 			"race": "GALAXY"
 		},
 		"cardObtain": [
-			"Requiem of Collapse (Mini Box)"
+			"Requiem of Collapse (Mini Box)",
+			"Eternal Genesis (Mini Box)"
 		]
 	},
 	{
@@ -17230,6 +17289,26 @@
 		}
 	},
 	{
+		"id": 18307,
+		"name": "Galactica Reminiscences",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Shuffle 1 Trap Card from your Graveyard into the Deck.",
+		"effect": "All face-up Galaxy Type monsters on your field gain 400 ATK until the end of this turn. If you have \"Galactica Oblivion\" face-up on your field, then you can also make all face-up monsters on your opponent\u0027s field lose 1000 ATK until the end of this turn.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2400,
+			"def": 2000,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Quest of Transam (Structure Deck)"
+		]
+	},
+	{
 		"id": 18333,
 		"name": "Jointech Raptor",
 		"cardType": "EFFECT",
@@ -17635,7 +17714,8 @@
 		},
 		"cardObtain": [
 			"Eternal Galaxy Road (Mini Box)",
-			"Starter Deck (Friend Invitation Campaign: LIGHT-Galaxy)"
+			"Starter Deck (Friend Invitation Campaign: LIGHT-Galaxy)",
+			"Quest of Transam (Structure Deck)"
 		]
 	},
 	{
@@ -18661,6 +18741,19 @@
 		"rarity": "NPC"
 	},
 	{
+		"id": 18638,
+		"name": "Transam Lightning",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When an opponent\u0027s monster declares an attack targeting your face-up Level 4 or lower Galaxy Type Normal Monster.",
+		"effect": "This turn, the attack target cannot be destroyed by battle.",
+		"rarity": "N",
+		"cardObtain": [
+			"Eternal Genesis (Mini Box)"
+		]
+	},
+	{
 		"id": 18641,
 		"name": "Dark Nebula",
 		"cardType": "TRAP",
@@ -19291,14 +19384,17 @@
 		"isLegend": false,
 		"requirement": "Unknown",
 		"effect": "A mysterious life form born from the final spark. Energy emanating from its cracks carries a will of its own. Hyudury Vaza Vizy!",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 1,
 			"atk": 0,
 			"def": 1500,
 			"attribute": "LIGHT",
 			"race": "GALAXY"
-		}
+		},
+		"cardObtain": [
+			"Eternal Genesis (Mini Box)"
+		]
 	},
 	{
 		"id": 18895,
@@ -19364,14 +19460,17 @@
 		"isLegend": false,
 		"requirement": "Send the top card of your Deck to the Graveyard.",
 		"effect": "Increase the Level of 1 face-up Level 6 or lower monster on your field with 1000 DEF by 2 until the end of this turn.",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 5,
 			"atk": 1700,
 			"def": 1000,
 			"attribute": "LIGHT",
 			"race": "GALAXY"
-		}
+		},
+		"cardObtain": [
+			"Eternal Genesis (Mini Box)"
+		]
 	},
 	{
 		"id": 18930,
@@ -19423,14 +19522,17 @@
 		"isLegend": false,
 		"requirement": "If your opponent\u0027s LP are 4000 or higher, send this face-up card from your field to the Graveyard.",
 		"effect": "Send the top card of your Deck to the Graveyard. If you sent a Level 4 or lower LIGHT Attribute Galaxy Type Normal Monster to the Graveyard by this effect, you can Special Summon that monster face-up to your field. Inflict damage to your opponent equal to [the original ATK of the monster Special Summoned by this effect].",
-		"rarity": "NPC",
+		"rarity": "N",
 		"monsterInfo": {
 			"level": 2,
 			"atk": 0,
 			"def": 1200,
 			"attribute": "LIGHT",
 			"race": "GALAXY"
-		}
+		},
+		"cardObtain": [
+			"Eternal Genesis (Mini Box)"
+		]
 	},
 	{
 		"id": 18933,
@@ -19524,6 +19626,26 @@
 		},
 		"cardObtain": [
 			"Eternal Galaxy Road (Mini Box)"
+		]
+	},
+	{
+		"id": 18942,
+		"name": "Gearpold the Magically Armored Beast",
+		"cardType": "EFFECT",
+		"effectType": "CONTINUOUS",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "If you have a card in your Spell \u0026 Trap Zone, this card gains 200 ATK, also during your opponent\u0027s turn, while it is in Attack Position, it cannot be destroyed by battle.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2300,
+			"def": 1800,
+			"attribute": "EARTH",
+			"race": "SPELLCASTER"
+		},
+		"cardObtain": [
+			"Eternal Genesis (Mini Box)"
 		]
 	},
 	{
@@ -19735,7 +19857,8 @@
 		},
 		"cardObtain": [
 			"Eternal Galaxy Road (Mini Box)",
-			"Starter Deck (Friend Invitation Campaign: LIGHT-Galaxy)"
+			"Starter Deck (Friend Invitation Campaign: LIGHT-Galaxy)",
+			"Quest of Transam (Structure Deck)"
 		]
 	},
 	{
@@ -19795,7 +19918,8 @@
 		},
 		"cardObtain": [
 			"Eternal Galaxy Road (Mini Box)",
-			"Starter Deck (Friend Invitation Campaign: LIGHT-Galaxy)"
+			"Starter Deck (Friend Invitation Campaign: LIGHT-Galaxy)",
+			"Quest of Transam (Structure Deck)"
 		]
 	},
 	{
@@ -19815,7 +19939,10 @@
 			"def": 2500,
 			"attribute": "LIGHT",
 			"race": "GALAXY"
-		}
+		},
+		"cardObtain": [
+			"Quest of Transam (Structure Deck)"
+		]
 	},
 	{
 		"id": 18966,
@@ -19896,6 +20023,27 @@
 		}
 	},
 	{
+		"id": 18972,
+		"name": "Sevens Chariot",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "MULTICHOICE",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Sevens Road Magician\" + \"Gearpold the Magically Armored Beast\"",
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "⬤ This card gains ATK equal to [the number of cards in the Spell \u0026 Trap Zones] x 500 until the end of this turn. ⬤ This turn, this card cannot be destroyed by your opponent\u0027s card effects. You can also destroy face-up cards on your opponent\u0027s field equal to [the number of cards in your Spell \u0026 Trap Zone].",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 3000,
+			"def": 2500,
+			"attribute": "DARK",
+			"race": "MAGICAL_KNIGHT"
+		},
+		"cardObtain": [
+			"Eternal Genesis (Mini Box)"
+		]
+	},
+	{
 		"id": 18973,
 		"name": "Cyber Tactical Dragon",
 		"cardType": "FUSION_EFFECT",
@@ -19935,7 +20083,8 @@
 		},
 		"cardObtain": [
 			"Eternal Galaxy Road (Mini Box)",
-			"Starter Deck (Friend Invitation Campaign: LIGHT-Galaxy)"
+			"Starter Deck (Friend Invitation Campaign: LIGHT-Galaxy)",
+			"Quest of Transam (Structure Deck)"
 		]
 	},
 	{
@@ -19992,6 +20141,19 @@
 		]
 	},
 	{
+		"id": 18983,
+		"name": "Sevens Wonder Fusion",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Fusion Summon by shuffling monsters from your field or Graveyard into their owner\u0027s Deck as materials, including \"Sevens Road Magician\".",
+		"rarity": "UR",
+		"cardObtain": [
+			"Eternal Genesis (Mini Box)"
+		]
+	},
+	{
 		"id": 18985,
 		"name": "The Emperor Realm",
 		"cardType": "FIELD",
@@ -20005,6 +20167,19 @@
 		]
 	},
 	{
+		"id": 18987,
+		"name": "Lifeline Linac",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When an opponent\u0027s monster declares a direct attack.",
+		"effect": "Gain 800 LP. Then, draw 1 card and show it. If that card is a Galaxy Type Normal Monster with 1600 or more ATK, also negate that attack.",
+		"rarity": "N",
+		"cardObtain": [
+			"Eternal Genesis (Mini Box)"
+		]
+	},
+	{
 		"id": 18988,
 		"name": "Recombination Galactica",
 		"cardType": "TRAP",
@@ -20012,7 +20187,10 @@
 		"isLegend": false,
 		"requirement": "When your monster is destroyed by an opponent\u0027s attack.",
 		"effect": "Special Summon 1 Galaxy Type Normal Monster from your Graveyard face-up to your field.",
-		"rarity": "NPC"
+		"rarity": "N",
+		"cardObtain": [
+			"Eternal Genesis (Mini Box)"
+		]
 	},
 	{
 		"id": 18989,
@@ -21713,6 +21891,39 @@
 		]
 	},
 	{
+		"id": 19597,
+		"name": "Wizened Dark Magician",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 DARK Attribute Spellcaster Type monster from your hand to the Graveyard.",
+		"effect": "Draw 1 card. Then, you can Special Summon 1 \"Dark Magician\" from your Graveyard face-up to your field.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 900,
+			"def": 700,
+			"attribute": "DARK",
+			"race": "SPELLCASTER"
+		},
+		"cardObtain": [
+			"Eternal Genesis (Mini Box)"
+		]
+	},
+	{
+		"id": 19598,
+		"name": "Stone of the Dark Magicians",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Special Summon 1 DARK Attribute Spellcaster Type monster with 2500 ATK and/or 1 DARK Attribute Spellcaster Type monster with 2000 ATK from your hand and/or Graveyard face-up to your field.",
+		"rarity": "SR",
+		"cardObtain": [
+			"Eternal Genesis (Mini Box)"
+		]
+	},
+	{
 		"id": 19603,
 		"name": "Prima Guitarna the Shining Superstar",
 		"cardType": "EFFECT",
@@ -22317,6 +22528,24 @@
 		]
 	},
 	{
+		"id": 19773,
+		"name": "Dark Eradicator Sorcerer",
+		"cardType": "EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "This turn, this card\u0027s name becomes \"Dark Magician\". Then, you can shuffle 10 Spell Cards from your Graveyard into the Deck. If you do, you can also destroy 1 face-up Level 8 or lower monster on your opponent\u0027s field.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2500,
+			"def": 2100,
+			"attribute": "DARK",
+			"race": "SPELLCASTER"
+		}
+	},
+	{
 		"id": 19785,
 		"name": "Hammer Shot",
 		"cardType": "SPELL",
@@ -22415,6 +22644,27 @@
 		]
 	},
 	{
+		"id": 19809,
+		"name": "Dark Magician",
+		"cardType": "NORMAL",
+		"cardStyle": "OR_STYLE_ALT_ART",
+		"effectType": "NORMAL",
+		"isLegend": true,
+		"requirement": "Unknown",
+		"effect": "The ultimate wizard in terms of attack and defense.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2500,
+			"def": 2100,
+			"attribute": "DARK",
+			"race": "SPELLCASTER"
+		},
+		"cardObtain": [
+			"WCS 2026 Qualifiers Celebration! Road to Worlds Campaign"
+		]
+	},
+	{
 		"id": 19810,
 		"name": "Royal Rebel\u0027s Heavy Metal",
 		"cardType": "EFFECT",
@@ -22454,6 +22704,27 @@
 		},
 		"cardObtain": [
 			"Gladimagia of Unity (Deck Build Box)"
+		]
+	},
+	{
+		"id": 19817,
+		"name": "Dark Eradicator Sorcerer",
+		"cardType": "EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "This turn, this card\u0027s name becomes \"Dark Magician\". Then, you can shuffle 10 Spell Cards from your Graveyard into the Deck. If you do, you can also destroy 1 face-up Level 8 or lower monster on your opponent\u0027s field.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2500,
+			"def": 2100,
+			"attribute": "DARK",
+			"race": "SPELLCASTER"
+		},
+		"cardObtain": [
+			"Eternal Genesis (Mini Box)"
 		]
 	},
 	{
@@ -22723,7 +22994,8 @@
 		"rarity": "UR",
 		"cardObtain": [
 			"Galactica Go Rush (Mini Box)",
-			"Starter Deck (Friend Invitation Campaign: LIGHT-Galaxy)"
+			"Starter Deck (Friend Invitation Campaign: LIGHT-Galaxy)",
+			"Quest of Transam (Structure Deck)"
 		]
 	},
 	{
@@ -22845,6 +23117,27 @@
 		"requirement": "When a monster on the field is destroyed by an opponent\u0027s attack or their card effect.",
 		"effect": "Special Summon 1 Fairy Type monster with 0 ATK from your Graveyard face-up to your field.",
 		"rarity": "NPC"
+	},
+	{
+		"id": 20135,
+		"name": "Transam Power Linac",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Transam Linac\" + 1 Level 4 Galaxy Type monster",
+		"requirement": "Shuffle 2 monsters from your Graveyard into the Deck.",
+		"effect": "This turn, this card gains 1000 ATK, and it cannot attack directly. If you shuffled \"Transam Ephyrai\" into the Deck to meet the requirement, also this card gains 2600 ATK until the end of this turn.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2600,
+			"def": 1600,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Quest of Transam (Structure Deck)"
+		]
 	},
 	{
 		"id": 20136,
@@ -22998,6 +23291,28 @@
 		"rarity": "SR",
 		"cardObtain": [
 			"Forbidden Fantastic Show (Deck Build Box)"
+		]
+	},
+	{
+		"id": 20154,
+		"name": "Dark Magician Girl",
+		"cardType": "EFFECT",
+		"cardStyle": "OR_STYLE_ALT_ART",
+		"effectType": "CONTINUOUS",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "This card gains ATK equal to [the number of \"Dark Magician\" in both players\u0027 Graveyards] x 500.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 2000,
+			"def": 1700,
+			"attribute": "DARK",
+			"race": "SPELLCASTER"
+		},
+		"cardObtain": [
+			"WCS 2026 Qualifiers Celebration! Road to Worlds Campaign",
+			"Special Set (Bundle)"
 		]
 	},
 	{
@@ -23218,7 +23533,8 @@
 		},
 		"cardObtain": [
 			"Eternal Galaxy Road (Mini Box)",
-			"Gladimagia of Unity (Deck Build Box)"
+			"Gladimagia of Unity (Deck Build Box)",
+			"Eternal Genesis (Mini Box)"
 		]
 	},
 	{
@@ -23733,6 +24049,26 @@
 		}
 	},
 	{
+		"id": 20611,
+		"name": "Contact Darkmatter Explorer",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Unknown",
+		"effect": "An exploration satellite that emerged from the far reaches of darkness. It harbors a dark power that transcends causality.",
+		"rarity": "N",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 0,
+			"def": 1300,
+			"attribute": "DARK",
+			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Eternal Genesis (Mini Box)"
+		]
+	},
+	{
 		"id": 20618,
 		"name": "Icelyn the Hyper Assistant",
 		"cardType": "EFFECT",
@@ -23990,6 +24326,27 @@
 			"attribute": "DARK",
 			"race": "GALAXY"
 		}
+	},
+	{
+		"id": 20648,
+		"name": "Dark Matter Requiem",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Voidvelg Requiem\" + \"Contact Darkmatter Explorer\"\nThis card can be Contact Fusioned (Fusion Summon by shuffling the above face-up monsters from your field into the owner\u0027s Deck as materials).",
+		"requirement": "During your Main Phase that you Special Summoned this card.",
+		"effect": "Change 1 face-up monster on your opponent\u0027s field to face-down Defense Position. This turn, this card gains 1300 ATK, and inflicts piercing battle damage.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 3000,
+			"def": 1300,
+			"attribute": "DARK",
+			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Eternal Genesis (Mini Box)"
+		]
 	},
 	{
 		"id": 20658,
@@ -24656,6 +25013,25 @@
 		}
 	},
 	{
+		"id": 20987,
+		"name": "Transam Buster Linac",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Transam Linac\" + 2 Level 7 or 8 Galaxy Type Effect Monsters",
+		"requirement": "None",
+		"effect": "Destroy 1 face-down card on your opponent\u0027s field. If you activated this effect during your Main Phase that you Fusion Summoned this card, this card also gains 2600 ATK until the end of this turn.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 3500,
+			"def": 1600,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		}
+	},
+	{
 		"id": 20993,
 		"name": "Roadstar Gladimagia",
 		"cardType": "FUSION_EFFECT",
@@ -24698,6 +25074,19 @@
 		]
 	},
 	{
+		"id": 20999,
+		"name": "Transam Nebula Fusion",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Send 1 Galaxy Type monster from your hand to the Graveyard. Then, you can Fusion Summon 1 monster that mentions \"Transam Linac\" as material by shuffling 1 monster on your field and 1 or more Galaxy Type monsters in your Graveyard into the owner\u0027s Deck as materials.",
+		"rarity": "UR",
+		"cardObtain": [
+			"Quest of Transam (Structure Deck)"
+		]
+	},
+	{
 		"id": 21007,
 		"name": "Curse of the Rising Light",
 		"cardType": "SPELL",
@@ -24723,6 +25112,28 @@
 		"rarity": "SR",
 		"cardObtain": [
 			"The Distant Neo Space (Mini Box)"
+		]
+	},
+	{
+		"id": 21027,
+		"name": "Transam Buster Linac",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Transam Linac\" + 2 Level 7 or 8 Galaxy Type Effect Monsters",
+		"requirement": "None",
+		"effect": "Destroy 1 face-down card on your opponent\u0027s field. If you activated this effect during your Main Phase that you Fusion Summoned this card, this card also gains 2600 ATK until the end of this turn.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 3500,
+			"def": 1600,
+			"attribute": "LIGHT",
+			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Eternal Genesis (Mini Box)"
 		]
 	},
 	{
@@ -24849,6 +25260,63 @@
 		]
 	},
 	{
+		"id": 21255,
+		"name": "Chaos Coolstars",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 LIGHT or DARK Attribute Galaxy Type monster from your hand to the Graveyard.",
+		"effect": "Draw 1 card. This turn, if you would Tribute Summon \"Galactica Oblivion\" or \"Voidvelg Requiem\" in Attack Position, you can treat this face-up card as 2 Tributes.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1200,
+			"def": 200,
+			"attribute": "DARK",
+			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Quest of Transam (Structure Deck)"
+		]
+	},
+	{
+		"id": 21288,
+		"name": "Balloon Butier",
+		"cardType": "EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During a turn you have not Special Summoned a monster.",
+		"effect": "Send the top 2 cards of your Deck to the Graveyard. Then, you can Special Summon 1 Level 6 or lower monster among the cards sent face-up to your field.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1000,
+			"def": 500,
+			"attribute": "LIGHT",
+			"race": "BEAST"
+		}
+	},
+	{
+		"id": 21295,
+		"name": "Voidvelg Forbidden Requiem",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Voidvelg Requiem\" + \"Voidvelg Palerider\"\nThis card can be Contact Fusioned.",
+		"requirement": "Send the top 3 cards of your Deck to the Graveyard.",
+		"effect": "This card gains 600 ATK until the end of this turn. Then, you can destroy cards on your opponent\u0027s field up to [the number of DARK Attribute Galaxy Type monsters with 1600 or more ATK sent to the Graveyard to meet the requirement].",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 3000,
+			"def": 1600,
+			"attribute": "DARK",
+			"race": "GALAXY"
+		}
+	},
+	{
 		"id": 21316,
 		"name": "Elemental HERO Voltic Wingman",
 		"cardType": "FUSION_EFFECT",
@@ -24867,6 +25335,49 @@
 		},
 		"cardObtain": [
 			"Flash of Shining Flare (Mini Box)"
+		]
+	},
+	{
+		"id": 21327,
+		"name": "Balloon Butier",
+		"cardType": "EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During a turn you have not Special Summoned a monster.",
+		"effect": "Send the top 2 cards of your Deck to the Graveyard. Then, you can Special Summon 1 Level 6 or lower monster among the cards sent face-up to your field.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1000,
+			"def": 500,
+			"attribute": "LIGHT",
+			"race": "BEAST"
+		},
+		"cardObtain": [
+			"Eternal Genesis (Mini Box)"
+		]
+	},
+	{
+		"id": 21330,
+		"name": "Voidvelg Forbidden Requiem",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Voidvelg Requiem\" + \"Voidvelg Palerider\"\nThis card can be Contact Fusioned.",
+		"requirement": "Send the top 3 cards of your Deck to the Graveyard.",
+		"effect": "This card gains 600 ATK until the end of this turn. Then, you can destroy cards on your opponent\u0027s field up to [the number of DARK Attribute Galaxy Type monsters with 1600 or more ATK sent to the Graveyard to meet the requirement].",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 3000,
+			"def": 1600,
+			"attribute": "DARK",
+			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Special Set (Bundle)"
 		]
 	},
 	{
@@ -24979,6 +25490,126 @@
 		"rarity": "NPC"
 	},
 	{
+		"id": 21495,
+		"name": "Eternity Ether Dragon",
+		"cardType": "EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During your Main Phase that you Normal or Special Summoned this card, pay 500 LP.",
+		"effect": "Destroy 1 card on your opponent\u0027s field. You cannot activate the effect of \"Eternity Ether Dragon\" this turn.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 2500,
+			"def": 2000,
+			"attribute": "LIGHT",
+			"race": "DRAGON"
+		}
+	},
+	{
+		"id": 21501,
+		"name": "Elemental HERO Heliosphere",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Elemental HERO Sparkman\" + \"Elemental HERO Avian\" + \"Elemental HERO Burstinatrix\"\nMust be Fusion Summoned.",
+		"requirement": "If you have 10 or more cards in your Deck.",
+		"effect": "Draw 1 card and show it. If it is a monster, you can also destroy 1 card on your opponent\u0027s field.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2800,
+			"def": 2800,
+			"attribute": "LIGHT",
+			"race": "WARRIOR"
+		}
+	},
+	{
+		"id": 21513,
+		"name": "Volcano Black Dragon",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "You can Tribute Summon this card in Attack Position by Tributing 1 Dragon Type monster.",
+		"requirement": "During the turn you Normal Summoned this card.",
+		"effect": "Special Summon 1 Dragon Type monster from your hand face-up to your field. If you Special Summoned a monster whose original Level is 9 by this effect, you can also draw 1 card.",
+		"rarity": "N",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2000,
+			"def": 2000,
+			"attribute": "DARK",
+			"race": "DRAGON"
+		},
+		"cardObtain": [
+			"Eternal Genesis (Mini Box)"
+		]
+	},
+	{
+		"id": 21514,
+		"name": "Evil Dragon of Darkness",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During your Main Phase that you Normal or Special Summoned this card.",
+		"effect": "Send the top 2 cards of your Deck to the Graveyard. Then, you can add 1 \"Dragon Knight of Darkness\" or 1 Level 9 Dragon Type monster with 2500 ATK from your Graveyard to your hand.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1100,
+			"def": 500,
+			"attribute": "DARK",
+			"race": "DRAGON"
+		},
+		"cardObtain": [
+			"Eternal Genesis (Mini Box)"
+		]
+	},
+	{
+		"id": 21515,
+		"name": "Shadowbringer Dragon",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During the turn you Normal Summoned this card.",
+		"effect": "Special Summon 1 \"Nightbringer Dragon\" or 1 DARK Attribute Dragon Type monster with 1100 ATK and 500 DEF from your Graveyard in face-up Defense Position to your field.",
+		"rarity": "N",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1100,
+			"def": 500,
+			"attribute": "DARK",
+			"race": "DRAGON"
+		},
+		"cardObtain": [
+			"Eternal Genesis (Mini Box)"
+		]
+	},
+	{
+		"id": 21559,
+		"name": "Elemental HERO Heliosphere",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Elemental HERO Sparkman\" + \"Elemental HERO Avian\" + \"Elemental HERO Burstinatrix\"\nMust be Fusion Summoned.",
+		"requirement": "If you have 10 or more cards in your Deck.",
+		"effect": "Draw 1 card and show it. If it is a monster, you can also destroy 1 card on your opponent\u0027s field.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2800,
+			"def": 2800,
+			"attribute": "LIGHT",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"Eternal Genesis (Mini Box)"
+		]
+	},
+	{
 		"id": 21578,
 		"name": "Chemicalized Salamander",
 		"cardType": "EFFECT",
@@ -25038,6 +25669,27 @@
 			"attribute": "DARK",
 			"race": "DRAGON"
 		}
+	},
+	{
+		"id": 21679,
+		"name": "Evil Dragon Knight of Darkness",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "MULTICHOICE",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Dragon Knight of Darkness\" + \"Evil Dragon of Darkness\"",
+		"requirement": "Pay 500 LP.",
+		"effect": "⬤ This card gains ATK equal to [the number of Normal Monsters in your Graveyard] x 400 until the end of this turn. ⬤ While this card is face-up on the field, it gains 600 ATK.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 2900,
+			"def": 1100,
+			"attribute": "DARK",
+			"race": "HIGH_DRAGON"
+		},
+		"cardObtain": [
+			"Eternal Genesis (Mini Box)"
+		]
 	},
 	{
 		"id": 21925,
@@ -25102,6 +25754,17 @@
 		}
 	},
 	{
+		"id": 22040,
+		"name": "Sacred Tower in Collapse",
+		"cardType": "TRAP",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When your opponent Normal or Special Summons an Effect Monster face-up, other than a Maximum Monster, send 1 card from your hand and 1 monster on your field to the Graveyard.",
+		"effect": "Destroy that 1 Normal or Special Summoned monster. If it was not destroyed, place that monster on the bottom of the owner\u0027s Deck.",
+		"rarity": "SR"
+	},
+	{
 		"id": 22055,
 		"name": "Towline Cattle Healer",
 		"cardType": "EFFECT",
@@ -25121,6 +25784,39 @@
 		"cardObtain": [
 			"Dark Meteor of Skybreaker (Mini Box)"
 		]
+	},
+	{
+		"id": 22061,
+		"name": "Sacred Tower in Collapse",
+		"cardType": "TRAP",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When your opponent Normal or Special Summons an Effect Monster face-up, other than a Maximum Monster, send 1 card from your hand and 1 monster on your field to the Graveyard.",
+		"effect": "Destroy that 1 Normal or Special Summoned monster. If it was not destroyed, place that monster on the bottom of the owner\u0027s Deck.",
+		"rarity": "SR",
+		"cardObtain": [
+			"Eternal Genesis (Mini Box)"
+		]
+	},
+	{
+		"id": 22269,
+		"name": "Excutie Leya Frontier",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Excutie Leya\" + \"Excutie Plawtie\"\nThis card can be Contact Fusioned.",
+		"requirement": "During your Main Phase that you Fusion Summoned this card.",
+		"effect": "Draw 1 card. Then, this card gains 500 ATK until the end of this turn. You can only attack with monsters with 500 DEF this turn.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 2500,
+			"def": 500,
+			"attribute": "WIND",
+			"race": "WARRIOR"
+		}
 	},
 	{
 		"id": 22271,
@@ -25153,6 +25849,28 @@
 		"rarity": "SR",
 		"cardObtain": [
 			"Dark Meteor of Skybreaker (Mini Box)"
+		]
+	},
+	{
+		"id": 22299,
+		"name": "Excutie Leya Frontier",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Excutie Leya\" + \"Excutie Plawtie\"\nThis card can be Contact Fusioned.",
+		"requirement": "During your Main Phase that you Fusion Summoned this card.",
+		"effect": "Draw 1 card. Then, this card gains 500 ATK until the end of this turn. You can only attack with monsters with 500 DEF this turn.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 2500,
+			"def": 500,
+			"attribute": "WIND",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"Eternal Genesis (Mini Box)"
 		]
 	},
 	{
@@ -25416,6 +26134,67 @@
 		]
 	},
 	{
+		"id": 22688,
+		"name": "Eternity Ether Dragon",
+		"cardType": "EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During your Main Phase that you Normal or Special Summoned this card, pay 500 LP.",
+		"effect": "Destroy 1 card on your opponent\u0027s field. You cannot activate the effect of \"Eternity Ether Dragon\" this turn.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 2500,
+			"def": 2000,
+			"attribute": "LIGHT",
+			"race": "DRAGON"
+		},
+		"cardObtain": [
+			"Eternal Genesis (Mini Box)"
+		]
+	},
+	{
+		"id": 22827,
+		"name": "Voidvelg Whiterider",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you have 10 or more cards in your Deck.",
+		"effect": "This turn, this card\u0027s name becomes \"Voidvelg Palerider\". Then, excavate 3 cards from the top of your Deck and show them. You can add 1 \"Voidvelg Requiem\" or 1 DARK Attribute Galaxy Type Normal Monster from those cards to your hand. Place the rest of the cards on the bottom of your Deck in any order.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1300,
+			"def": 300,
+			"attribute": "DARK",
+			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Eternal Genesis (Mini Box)"
+		]
+	},
+	{
+		"id": 22831,
+		"name": "Voidvelg Stork",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 card from your hand or the top 2 cards of your Deck to the Graveyard.",
+		"effect": "This turn, this card\u0027s name becomes \"Contact Darkmatter Explorer\". If you sent a card from your hand to the Graveyard to meet the requirement, you can have this card\u0027s name become \"Voidvelg Requiem\" this turn instead.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 2,
+			"atk": 1100,
+			"def": 1100,
+			"attribute": "DARK",
+			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Eternal Genesis (Mini Box)"
+		]
+	},
+	{
 		"id": 22846,
 		"name": "Straigh the Noodle Ninja",
 		"cardType": "EFFECT",
@@ -25454,6 +26233,27 @@
 		},
 		"cardObtain": [
 			"Dark Meteor of Skybreaker (Mini Box)"
+		]
+	},
+	{
+		"id": 22861,
+		"name": "Voidvelg Beyond Probe",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Contact Darkmatter Explorer\" + 1 Level 4 or lower DARK Attribute monster\nThis card can be Contact Fusioned.",
+		"requirement": "During your Main Phase that you Fusion Summoned this card.",
+		"effect": "Destroy 1 face-down card in your opponent\u0027s Spell \u0026 Trap Zone. This turn, you can only attack with DARK Attribute Galaxy Type monsters.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2000,
+			"def": 1300,
+			"attribute": "DARK",
+			"race": "GALAXY"
+		},
+		"cardObtain": [
+			"Eternal Genesis (Mini Box)"
 		]
 	},
 	{
