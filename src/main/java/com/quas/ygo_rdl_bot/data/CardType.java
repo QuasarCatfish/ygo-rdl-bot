@@ -9,12 +9,20 @@ public enum CardType {
 	
 	NORMAL("Normal Monster", Constants.COLOR_NORMAL, Constants.EMOJI_NORMAL),
 	EFFECT("Effect Monster", Constants.COLOR_EFFECT, Constants.EMOJI_EFFECT),
+	
 	MAXIMUM("Maximum Monster", Constants.COLOR_EFFECT, Constants.EMOJI_EFFECT + Constants.EMOJI_EFFECT + Constants.EMOJI_EFFECT),
+	
 	FUSION("Fusion Monster", Constants.COLOR_FUSION, Constants.EMOJI_FUSION),
 	FUSION_EFFECT("Fusion Effect Monster", Constants.COLOR_FUSION, Constants.EMOJI_FUSION),
+	
+	RITUAL("Ritual Monster", Constants.COLOR_RITUAL, Constants.EMOJI_RITUAL),
+	RITUAL_EFFECT("Ritual Effect Monster", Constants.COLOR_RITUAL, Constants.EMOJI_RITUAL),
+	
 	SPELL("Normal Spell Card", Constants.COLOR_SPELL, Constants.EMOJI_SPELL),
 	FIELD("Field Spell Card", Constants.COLOR_SPELL, Constants.EMOJI_SPELL),
 	EQUIP("Equip Spell Card", Constants.COLOR_SPELL, Constants.EMOJI_SPELL),
+	RITUAL_SPELL("Ritual Spell Card", Constants.COLOR_SPELL, Constants.EMOJI_SPELL),
+	
 	TRAP("Normal Trap Card", Constants.COLOR_TRAP, Constants.EMOJI_TRAP);
 	
 	private String cardTypeName;
@@ -46,11 +54,11 @@ public enum CardType {
 	}
 	
 	public boolean isMonster() {
-		return List.of(NORMAL, EFFECT, MAXIMUM, FUSION, FUSION_EFFECT).contains(this);
+		return List.of(NORMAL, EFFECT, MAXIMUM, FUSION, FUSION_EFFECT, RITUAL, RITUAL_EFFECT).contains(this);
 	}
 	
 	public boolean isSpell() {
-		return List.of(SPELL, FIELD, EQUIP).contains(this);
+		return List.of(SPELL, FIELD, EQUIP, RITUAL_SPELL).contains(this);
 	}
 	
 	public boolean isTrap() {
@@ -58,10 +66,10 @@ public enum CardType {
 	}
 	
 	public boolean isMainDeck() {
-		return List.of(NORMAL, EFFECT, MAXIMUM, SPELL, FIELD, EQUIP, TRAP).contains(this);
+		return List.of(NORMAL, EFFECT, MAXIMUM, SPELL, FIELD, EQUIP, RITUAL_SPELL, TRAP).contains(this);
 	}
 	
 	public boolean isExtraDeck() {
-		return List.of(FUSION, FUSION_EFFECT).contains(this);
+		return List.of(FUSION, FUSION_EFFECT, RITUAL, RITUAL_EFFECT).contains(this);
 	}
 }

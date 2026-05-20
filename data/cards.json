@@ -1,5 +1,48 @@
 [
 	{
+		"id": 1,
+		"name": "Magician of Black Chaos",
+		"cardType": "RITUAL_EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "This card's name becomes \"Dark Magician\" while in the Graveyard.",
+		"requirement": "None",
+		"effect": "None",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2800,
+			"def": 2600,
+			"attribute": "DARK",
+			"race": "SPELLCASTER"
+		}
+	},
+	{
+		"id": 2,
+		"name": "Black Magic Ritual",
+		"cardType": "RITUAL_SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Ritual Summon \"Magician of Black Chaos\" by sending monsters from your hand and/or field to the Graveyard whose total Levels equal 8 or more as material (you cannot use more monsters than necessary as material).",
+		"rarity": "NPC"
+	},
+	{
+		"id": 3,
+		"name": "Zera the Mant",
+		"cardType": "RITUAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2800,
+			"def": 2300,
+			"attribute": "DARK",
+			"race": "FIEND"
+		}
+	},
+	{
 		"id": 15150,
 		"name": "Sevens Road Magician",
 		"cardType": "EFFECT",

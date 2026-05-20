@@ -232,10 +232,10 @@ public class RushCard {
 		if (getCardType().isMonster()) {
 			StringJoiner type = new StringJoiner(" / ");
 			type.add(getRace() == null ? "???" : getRace().toString());
-			if (getCardType() == CardType.MAXIMUM) type.add("Maximum");
-			if (getCardType() == CardType.FUSION) type.add("Fusion");
-			if (getCardType() == CardType.FUSION_EFFECT) type.add("Fusion");
-			if (getCardType() == CardType.NORMAL) type.add("Normal");
+			if (List.of(CardType.MAXIMUM).contains(getCardType())) type.add("Maximum");
+			if (List.of(CardType.FUSION, CardType.FUSION_EFFECT).contains(getCardType())) type.add("Fusion");
+			if (List.of(CardType.RITUAL, CardType.RITUAL_EFFECT).contains(getCardType())) type.add("Ritual");
+			if (List.of(CardType.NORMAL).contains(getCardType())) type.add("Normal");
 			else type.add("Effect");
 			
 			eb.appendDescription(String.format("%s\n%s\nLevel: %d\nATK %d / DEF %d", type.toString(), getAttribute(), getLevel(), getAtk(), getDef()));
@@ -246,7 +246,7 @@ public class RushCard {
 		
 		if (getCardType() == CardType.NORMAL) {
 			eb.addField(EmbedBuilder.ZERO_WIDTH_SPACE, "*" + MarkdownSanitizer.escape(getEffect()) + "*", false);
-		} else if (getCardType() == CardType.FUSION) {
+		} else if (getCardType() == CardType.FUSION || getCardType() == CardType.RITUAL) {
 			if (hasInherentSummonCondition()) eb.addField(EmbedBuilder.ZERO_WIDTH_SPACE, getInherentSummonCondition(), false);
 		} else {
 			if (hasInherentSummonCondition()) eb.addField(EmbedBuilder.ZERO_WIDTH_SPACE, getInherentSummonCondition(), false);
