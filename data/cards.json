@@ -6791,14 +6791,17 @@
 		"effectType": "NORMAL",
 		"isLegend": false,
 		"effect": "A bird that releases bombs. There may be little people inside.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1300,
 			"def": 1200,
 			"attribute": "FIRE",
 			"race": "WINGED_BEAST"
-		}
+		},
+		"cardObtain": [
+			"Card Flipper Campaign"
+		]
 	},
 	{
 		"id": 16316,
