@@ -2438,7 +2438,7 @@
 		"id": 6102,
 		"name": "Hard Rock Overture",
 		"requirement": "Can be activated by sending 1 Level 7 or 8 monster from your hand to the Graveyard if all of the monsters in your constructed Deck and Extra Deck are LIGHT Attribute Fiend Type monsters.",
-		"effect": "Place up to 2 Level 7 or 8 monsters from your hand and/or Graveyard in face-up Defense Position. If it is turn 2 onward, you can also add 1 Level 7 or 8 monster from your Graveyard to your hand. (Once per Duel.) While the monsters placed on the field using this effect are face-up, their battle positions can only be changed by card effects. This turn, monsters with an original Level of 7 or higher can attack directly only once.",
+		"effect": "Place up to 2 Level 7 or 8 monsters from your hand and/or Graveyard in face-up Defense Position. If it is turn 2 onward, you can also add 1 Level 7 or 8 monster from your Graveyard to your hand. While the monsters placed on the field using this effect are face-up, their battle positions can only be changed by card effects. This turn, monsters with an original Level of 7 or higher can attack directly only once.",
 		"effectType": "NORMAL",
 		"isArchive": false,
 		"characters": [
@@ -2666,7 +2666,7 @@
 		"id": 6705,
 		"name": "#1: Dueling is Ramen",
 		"requirement": "Can be activated from turn 2 onward by revealing 1 Level 7 or 8 monster from your hand during a turn in which you have not Fusion Summoned a monster, if all of the monsters in your constructed Deck are FIRE Attribute Pyro Type monsters, and all of the Level 5 or higher monsters have 0 DEF.",
-		"effect": "Add up to 2 monsters from your Deck and/or Graveyard to your hand that are either Normal Monsters, \"The Noodle Art of Flavor Shift\", or \"Fusion\" cards. (\"The Noodle Art of Flavor Shift\" can only be added once per Duel.) Then, send 1 card from your hand to the Graveyard. This turn, you can only Fusion Summon once.",
+		"effect": "Add up to 2 monsters from your Deck and/or Graveyard to your hand that are either Normal Monsters, \"The Noodle Art of Flavor Shift\", or \"Fusion\" cards. Then, send 1 card from your hand to the Graveyard. This turn, you can only Fusion Summon once.",
 		"effectType": "NORMAL",
 		"isArchive": false,
 		"characters": [
@@ -2754,7 +2754,7 @@
 	{
 		"id": 6902,
 		"name": "Darkness Returns",
-		"requirement": "Can be activated from turn 2 onward by revealing 1 \"Dragon Knight of Darkness\", \"Evil Dragon of Darkness\", or \"Shadowbringer Dragon\" from your hand if all of the Level 7 or higher monsters in your constructed Deck are LIGHT or DARK Attribute Dragon Type monsters with 2500 or 2000 ATK.",
+		"requirement": "Can be activated from turn 2 onward by revealing 1 \"Dragon Knight of Darkness\", \"Evil Dragon of Darkness\", or \"Shadowbringer Dragon\" from your hand if all of the Level 7 or higher monsters in your constructed Deck are LIGHT, DARK, or EARTH Attribute Dragon Type with 2000 or more ATK.",
 		"effect": "Reveal 1 DARK Attribute High Dragon Type monster from your Extra Deck. Then, add 1 monster with a card name listed on it as material from your Deck or Graveyard to your hand. Then, you can send 1 card from your hand to the Graveyard. If you do, add 1 \"Fusion\" from your Deck or Graveyard to your hand.",
 		"effectType": "NORMAL",
 		"isArchive": false,

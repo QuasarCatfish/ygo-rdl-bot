@@ -11302,7 +11302,10 @@
 		"isLegend": false,
 		"requirement": "Send cards from your hand to the Graveyard, up to the number of Pyro Type Normal Monsters in your Graveyard.",
 		"effect": "Draw cards equal to [the number of cards sent to the Graveyard to meet the requirement]. Then, if you have a face-up Pyro Type Normal Monster on your field, you can draw 1 card.",
-		"rarity": "NPC"
+		"rarity": "SR",
+		"cardObtain": [
+			"Duel Capsule"
+		]
 	},
 	{
 		"id": 17017,
@@ -22041,6 +22044,19 @@
 		"requirement": "Place 1 card from your hand on the bottom of the Deck.",
 		"effect": "Add 1 Level 1 LIGHT or DARK Attribute Dragon Type monster from your Graveyard to your hand. Then, you can add 1 \"Dragon\u0027s Burst Fusion\" or 1 \"Dragon\u0027s Boost Fusion\" from your Graveyard to your hand.",
 		"rarity": "NPC"
+	},
+	{
+		"id": 19688,
+		"name": "Autumn Leaves of Blisstopia",
+		"cardType": "FIELD",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Activate this card by placing 1 Wyrm Type monster from your Graveyard on top of your Deck.",
+		"effect": "While this card is face-up in the Field Zone, face-up Wyrm Type monsters on the field gain 300 ATK and inflict piercing battle damage.",
+		"rarity": "SR",
+		"cardObtain": [
+			"Ranked Duels Reward Ticket"
+		]
 	},
 	{
 		"id": 19692,
