@@ -7262,6 +7262,23 @@
 		]
 	},
 	{
+		"id": 16343,
+		"name": "Coil Dragon of the Fertile Land",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Shuffle 1 Field Spell Card from your Graveyard into the Deck.",
+		"effect": "Inflict 600 damage to your opponent.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1000,
+			"def": 400,
+			"attribute": "EARTH",
+			"race": "WYRM"
+		}
+	},
+	{
 		"id": 16344,
 		"name": "Kheiron the Star Knight",
 		"cardType": "EFFECT",
@@ -9585,6 +9602,19 @@
 		]
 	},
 	{
+		"id": 16799,
+		"name": "Evergreen of Blisstopia",
+		"cardType": "FIELD",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If the total Level of all face-up monsters on your field is 10 or higher.",
+		"effect": "While this card is face-up in the Field Zone, face-up non-EARTH Attribute monsters on the field lose 300 ATK/DEF.",
+		"rarity": "SR",
+		"cardObtain": [
+			"Duel Links Mission Research"
+		]
+	},
+	{
 		"id": 16800,
 		"name": "Ultimate Flag Beast Surge Bicorn",
 		"cardType": "EFFECT",
@@ -10291,6 +10321,23 @@
 		"cardObtain": [
 			"Fusion of Revolution (Mini Box)"
 		]
+	},
+	{
+		"id": 16928,
+		"name": "Priestess of Wise Salvation",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Shuffle 1 \"Fusion\" from your Graveyard into the Deck.",
+		"effect": "Draw 1 card. If you have a face-up Level 9 monster on your field, all face-up monsters on your field gain 400 ATK until the end of this turn.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1200,
+			"def": 0,
+			"attribute": "WATER",
+			"race": "WYRM"
+		}
 	},
 	{
 		"id": 16929,
@@ -11211,6 +11258,27 @@
 		},
 		"cardObtain": [
 			"Saburamen Level Up Reward"
+		]
+	},
+	{
+		"id": 17005,
+		"name": "Extra Meat the Special Noodle Ninja",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Extra Spice the Elite Noodle Ninja\" + \"Flavor Inspector\"",
+		"requirement": "During your Main Phase that you Special Summoned this card.",
+		"effect": "Inflict 1000 damage to your opponent. Draw 1 card. If you draw by this effect, you can also Set 1 \"The Noodle Art of Savory\" and/or 1 \"The Noodle Art of Saucery\" from your Graveyard to your Spell \u0026 Trap Zone.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 2900,
+			"def": 0,
+			"attribute": "FIRE",
+			"race": "PYRO"
+		},
+		"cardObtain": [
+			"Destructor of Explosion (Mini Box)"
 		]
 	},
 	{
@@ -18342,6 +18410,126 @@
 		}
 	},
 	{
+		"id": 18602,
+		"name": "Soleil, the Fairy of Skysavior",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Reveal 1 Warrior Type monster from your hand to your opponent.",
+		"effect": "This turn, this card\u0027s name becomes \"Lua, the Fairy of Skysavior\". Then, excavate 4 cards from the top of your Deck and show them. You can add 1 \"Fusion\" from among the excavated cards to your hand. Place the other cards on the bottom of your Deck in any order.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 0,
+			"def": 1000,
+			"attribute": "LIGHT",
+			"race": "FAIRY"
+		},
+		"cardObtain": [
+			"Destructor of Explosion (Mini Box)"
+		]
+	},
+	{
+		"id": 18603,
+		"name": "Lua, the Fairy of Skysavior",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Reveal 1 Warrior Type monster from your hand to your opponent.",
+		"effect": "This turn, this card\u0027s name becomes \"Soleil, the Fairy of Skysavior\". Then, send the top 3 cards of your Deck to the Graveyard. You can also add 1 \"Fusion\" from the cards sent to the Graveyard by this effect to your hand.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 0,
+			"def": 1000,
+			"attribute": "DARK",
+			"race": "FAIRY"
+		},
+		"cardObtain": [
+			"Destructor of Explosion (Mini Box)"
+		]
+	},
+	{
+		"id": 18604,
+		"name": "Langa, the Knight of Skysavior",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During the turn you Normal Summoned this card, reveal 1 \"Skysavior Prayer\" or \"Fusion\" from your hand to your opponent.",
+		"effect": "Special Summon 1 \"Soleil, the Fairy of Skysavior\" or \"Lua, the Fairy of Skysavior\" from your Graveyard face-up to your field.",
+		"rarity": "N",
+		"monsterInfo": {
+			"level": 2,
+			"atk": 400,
+			"def": 400,
+			"attribute": "WATER",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"Destructor of Explosion (Mini Box)"
+		]
+	},
+	{
+		"id": 18605,
+		"name": "Sael, the Knight of Skysavior",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During the turn you Normal Summoned this card, reveal 1 \"Skysavior Prayer\" or \"Fusion\" from your hand to your opponent.",
+		"effect": "Draw 1 Card.",
+		"rarity": "N",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 500,
+			"def": 1300,
+			"attribute": "WATER",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"Destructor of Explosion (Mini Box)"
+		]
+	},
+	{
+		"id": 18606,
+		"name": "Ciela, the Knight of Skysavior",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Reveal up to 5 Celestial Warrior Type monsters with different names from your Extra Deck to your opponent.",
+		"effect": "Make 1 face-up monster on your opponent\u0027s field lose ATK equal to [the number of monsters revealed to meet the requirement] x 200 until the end of this turn. This turn, you can only attack with Celestial Warrior, Warrior, and Fairy Type monsters.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1100,
+			"def": 1200,
+			"attribute": "WATER",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"Destructor of Explosion (Mini Box)"
+		]
+	},
+	{
+		"id": 18607,
+		"name": "Dankus, the Knight of Skysavior",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Reveal up to 5 Celestial Warrior Type monsters with different names from your Extra Deck to your opponent.",
+		"effect": "This card gains ATK equal to [the number of monsters revealed to meet the requirement] x 200 until the end of this turn. This turn, this card cannot attack directly, and you can only attack with Celestial Warrior, Warrior, and Fairy Type monsters.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1300,
+			"def": 700,
+			"attribute": "WATER",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"Destructor of Explosion (Mini Box)"
+		]
+	},
+	{
 		"id": 18608,
 		"name": "Astrobio Drake",
 		"cardType": "EFFECT",
@@ -18418,6 +18606,69 @@
 		]
 	},
 	{
+		"id": 18620,
+		"name": "Solciere, the Radiant Skysavior",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "MULTICHOICE",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Ciela, the Knight of Skysavior\" + \"Soleil, the Fairy of Skysavior\"",
+		"requirement": "Place 1 other card from your field on the bottom of the Deck.",
+		"effect": "⬤ Destroy Spell/Trap Cards on your opponent\u0027s field up to [the number of face-up Celestial Warrior Type monsters on your field]. ⬤ Add 1 \"Skysavior Symbol\" from your Graveyard to your hand.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 2200,
+			"def": 2800,
+			"attribute": "LIGHT",
+			"race": "CELESTIAL_WARRIOR"
+		},
+		"cardObtain": [
+			"Destructor of Explosion (Mini Box)"
+		]
+	},
+	{
+		"id": 18622,
+		"name": "Degrace, the Flash Skysavior",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "MULTICHOICE",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Dankus, the Knight of Skysavior\" + \"Soleil, the Fairy of Skysavior\"",
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "⬤ This card gains ATK equal to [the number of face-up Celestial Warrior Type monsters on your field] x 1000 until the end of this turn. ⬤ This turn, this card can make up to 2 attacks on monsters.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 2700,
+			"def": 1700,
+			"attribute": "LIGHT",
+			"race": "CELESTIAL_WARRIOR"
+		},
+		"cardObtain": [
+			"Destructor of Explosion (Mini Box)"
+		]
+	},
+	{
+		"id": 18623,
+		"name": "Dulkuma, the Phantom Skysavior",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "CONTINUOUS",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Dankus, the Knight of Skysavior\" + \"Lua, the Fairy of Skysavior\"",
+		"requirement": "None",
+		"effect": "Face-up cards on your field cannot be destroyed by your opponent\u0027s card effects.",
+		"rarity": "N",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 2900,
+			"def": 2500,
+			"attribute": "DARK",
+			"race": "CELESTIAL_WARRIOR"
+		},
+		"cardObtain": [
+			"Destructor of Explosion (Mini Box)"
+		]
+	},
+	{
 		"id": 18624,
 		"name": "Stealthagic",
 		"cardType": "SPELL",
@@ -18452,6 +18703,19 @@
 		"rarity": "NPC"
 	},
 	{
+		"id": 18634,
+		"name": "Skysavior Prayer",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 card from your hand to the Graveyard.",
+		"effect": "Special Summon 1 LIGHT or DARK Attribute Celestial Warrior Type monster from your Graveyard face-up to your field.",
+		"rarity": "N",
+		"cardObtain": [
+			"Destructor of Explosion (Mini Box)"
+		]
+	},
+	{
 		"id": 18635,
 		"name": "Skysavior Watch",
 		"cardType": "SPELL",
@@ -18459,7 +18723,10 @@
 		"isLegend": false,
 		"requirement": "Reveal 2 Warrior Type and/or Fairy Type monsters in your hand to your opponent.",
 		"effect": "Excavate the top 5 cards of your Deck. Add 1 excavated card to your hand. Then, place the remaining cards on the bottom of your Deck in any order. This turn, your Level 8 or lower monsters cannot attack, and your opponent takes no effect damage.",
-		"rarity": "NPC"
+		"rarity": "UR",
+		"cardObtain": [
+			"Destructor of Explosion (Mini Box)"
+		]
 	},
 	{
 		"id": 18638,
@@ -19521,6 +19788,26 @@
 		]
 	},
 	{
+		"id": 18956,
+		"name": "Splame",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Shuffle 2 Pyro Type monsters from your Graveyard into the Deck.",
+		"effect": "Choose 1 Level 8 or lower monster in your Graveyard. This turn, this card\u0027s name becomes the same as the chosen monster.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 800,
+			"def": 1200,
+			"attribute": "FIRE",
+			"race": "PYRO"
+		},
+		"cardObtain": [
+			"Destructor of Explosion (Mini Box)"
+		]
+	},
+	{
 		"id": 18958,
 		"name": "Plaster Scout",
 		"cardType": "EFFECT",
@@ -20463,6 +20750,64 @@
 		]
 	},
 	{
+		"id": 19122,
+		"name": "Explosive Destructor Wyrm Dangerous Bakhamut",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Destructor Wyrm Bakhamut\" + \"Destructor Soldier Helmet\"",
+		"requirement": "None",
+		"effect": "Destroy 1 face-up card on your opponet\u0027s field and 1 or 2 monsters on your opponent\u0027s field. Then, inflict damage to your opponent equal to [the number of monsters on their field that were destroyed by this effect] x 500.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 3000,
+			"def": 2500,
+			"attribute": "FIRE",
+			"race": "WYRM"
+		}
+	},
+	{
+		"id": 19123,
+		"name": "Destructor Detonator Heavy Contractor",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Destructor Soldier Steeplejack\" + \"Destructor Soldier Helmet\"",
+		"requirement": "None",
+		"effect": "Add 1 Level 8 or higher Wyrm Type monster and/or 1 \"Fusion\" from your Graveyard to your hand. Then, destroy 1 card on your field.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 2600,
+			"def": 1700,
+			"attribute": "FIRE",
+			"race": "WYRM"
+		},
+		"cardObtain": [
+			"Asaka Mutsuba Level Up Reward"
+		]
+	},
+	{
+		"id": 19124,
+		"name": "Destructor Wyrm Bakhamut",
+		"cardType": "EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If either player has a card in their Field Zone, send 2 cards from your hand to the Graveyard, including a Wyrm Type monster.",
+		"effect": "Destroy all face-up Level 8 or lower monsters on your opponent\u0027s field. Then, inflict damage to your opponent equal to [the number of monsters destroyed by this effect] x 300.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2500,
+			"def": 2000,
+			"attribute": "FIRE",
+			"race": "WYRM"
+		}
+	},
+	{
 		"id": 19126,
 		"name": "Constructor Sentry Dragline",
 		"cardType": "EFFECT",
@@ -20480,6 +20825,122 @@
 		},
 		"cardObtain": [
 			"Infinite Grand Crush (Deck Build Box)"
+		]
+	},
+	{
+		"id": 19127,
+		"name": "Destructor Soldier Helmet",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 card from your hand to the Graveyard, except \"Fusion\", and pay 500 LP.",
+		"effect": "Add 1 \"Fusion\" from your Graveyard to your hand. Then, you can add 1 Field Spell Card from your Graveyard to your hand.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 400,
+			"def": 400,
+			"attribute": "FIRE",
+			"race": "WYRM"
+		},
+		"cardObtain": [
+			"Destructor of Explosion (Mini Box)"
+		]
+	},
+	{
+		"id": 19128,
+		"name": "Destructor Soldier Steeplejack",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"effect": "Demolish, construct, demolish, construct... Striving to reach a utopia, this soldier aims ever higher.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1500,
+			"def": 0,
+			"attribute": "FIRE",
+			"race": "WYRM"
+		},
+		"cardObtain": [
+			"Destructor of Explosion (Mini Box)"
+		]
+	},
+	{
+		"id": 19129,
+		"name": "Destructor Soldier Plasterer",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"effect": "Demolish, construct, demolish, construct... Endeavoring to erect a utopia, this soldier tackles one layer at a time.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1300,
+			"def": 800,
+			"attribute": "FIRE",
+			"race": "WYRM"
+		},
+		"cardObtain": [
+			"Trader (Featured Cards)"
+		]
+	},
+	{
+		"id": 19130,
+		"name": "Destructor Soldier Plumber",
+		"cardType": "NORMAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"effect": "Demolish, construct, demolish, construct... Seeking a route to a utopia, this soldier pushes forth without relent.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1200,
+			"def": 1500,
+			"attribute": "FIRE",
+			"race": "WYRM"
+		},
+		"cardObtain": [
+			"Trader (Featured Cards)"
+		]
+	},
+	{
+		"id": 19131,
+		"name": "Destructor Sword Conquedea",
+		"cardType": "EQUIP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Equip this card to 1 face-up Wyrm Type monster on your field.",
+		"effect": "The equipped monster gains 500 ATK. If you have 5 or more Wyrm Type monsters in your Graveyard, the equipped monster gains an additional 500 ATK.",
+		"rarity": "UR",
+		"cardObtain": [
+			"Asaka Mutsuba Level Up Reward"
+		]
+	},
+	{
+		"id": 19132,
+		"name": "Destructor Claw Shield",
+		"cardType": "EQUIP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Equip this card to 1 face-up Wyrm Type monster on your field.",
+		"effect": "While the equipped monster is in Attack Position, it cannot be destroyed by battle. If either player has a card in their Field Zone, the equipped monster and this card cannot be destroyed by card effects.",
+		"rarity": "SR",
+		"cardObtain": [
+			"Destructor of Explosion (Mini Box)"
+		]
+	},
+	{
+		"id": 19135,
+		"name": "Destructor Art - Total Destruction",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When an opponent\u0027s monster declares an attack.",
+		"effect": "Shuffle up to 6 Wyrm Type monsters from your Graveyard into the Deck. If [the total Levels of the monsters shuffled into the Deck by this effect] is 16 or higher, you can also destroy all Attack Position monsters on your opponent\u0027s field.",
+		"rarity": "UR",
+		"cardObtain": [
+			"Asaka Mutsuba Level Up Reward"
 		]
 	},
 	{
@@ -20545,6 +21006,49 @@
 		"rarity": "SR",
 		"cardObtain": [
 			"Extreme Overlord (Mini Box)"
+		]
+	},
+	{
+		"id": 19230,
+		"name": "Explosive Destructor Wyrm Dangerous Bakhamut",
+		"cardType": "FUSION_EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Destructor Wyrm Bakhamut\" + \"Destructor Soldier Helmet\"",
+		"requirement": "None",
+		"effect": "Destroy 1 face-up card on your opponet\u0027s field and 1 or 2 monsters on your opponent\u0027s field. Then, inflict damage to your opponent equal to [the number of monsters on their field that were destroyed by this effect] x 500.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 3000,
+			"def": 2500,
+			"attribute": "FIRE",
+			"race": "WYRM"
+		},
+		"cardObtain": [
+			"Destructor of Explosion (Mini Box)"
+		]
+	},
+	{
+		"id": 19231,
+		"name": "Destructor Wyrm Bakhamut",
+		"cardType": "EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If either player has a card in their Field Zone, send 2 cards from your hand to the Graveyard, including a Wyrm Type monster.",
+		"effect": "Destroy all face-up Level 8 or lower monsters on your opponent\u0027s field. Then, inflict damage to your opponent equal to [the number of monsters destroyed by this effect] x 300.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2500,
+			"def": 2000,
+			"attribute": "FIRE",
+			"race": "WYRM"
+		},
+		"cardObtain": [
+			"Destructor of Explosion (Mini Box)"
 		]
 	},
 	{
@@ -22036,6 +22540,27 @@
 		]
 	},
 	{
+		"id": 19684,
+		"name": "Gulflare, the Skysavior",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "MULTICHOICE",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Langa, the Knight of Skysavior\" + \"Soleil, the Fairy of Skysavior\"",
+		"requirement": "Place 1 card from your hand on the bottom of the Deck.",
+		"effect": "⬤ Shuffle cards from your opponent\u0027s Graveyard into the Deck, up to [the number of face-up Celestial Warrior Type monsters on your field] x 2. ⬤ Add 1 Level 4 or lower LIGHT or DARK Attribute monster or 1 \"Wish of the Skysavior\" from your Graveyard to your hand.",
+		"rarity": "N",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 2600,
+			"def": 2100,
+			"attribute": "LIGHT",
+			"race": "CELESTIAL_WARRIOR"
+		},
+		"cardObtain": [
+			"Destructor of Explosion (Mini Box)"
+		]
+	},
+	{
 		"id": 19685,
 		"name": "Dragonic Progression",
 		"cardType": "SPELL",
@@ -22095,6 +22620,19 @@
 		"rarity": "N",
 		"cardObtain": [
 			"Dark Meteor of Skybreaker (Mini Box)"
+		]
+	},
+	{
+		"id": 19699,
+		"name": "Wish of the Skysavior",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When your opponent Normal or Special Summons a monster, place 1 WATER Attribute Warrior Type monster and 1 Fairy Type monster from your Graveyard on top of your Deck in any order.",
+		"effect": "Place 1 monster on your opponent\u0027s field on the bottom of the owner\u0027s Deck. Then, you can Set 1 \"Skysavior Watch\" or 1 \"Fusion\" from your Graveyard to your Spell \u0026 Trap Zone.",
+		"rarity": "R",
+		"cardObtain": [
+			"Destructor of Explosion (Mini Box)"
 		]
 	},
 	{
@@ -23306,6 +23844,24 @@
 		]
 	},
 	{
+		"id": 20334,
+		"name": "Innocent Fadrawl",
+		"cardType": "EFFECT",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "The turn you Normal Summoned this card, if you have not drawn a card during the Main Phase.",
+		"effect": "Both players draw 1 card.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 700,
+			"def": 100,
+			"attribute": "LIGHT",
+			"race": "DRAGON"
+		}
+	},
+	{
 		"id": 20342,
 		"name": "Sevens Road Ultima Witch",
 		"cardType": "FUSION_EFFECT",
@@ -23358,6 +23914,27 @@
 		"cardObtain": [
 			"~~\"Yu-Gi-Oh! Duel Monsters\" World Update Celebration Campaign~~",
 			"Trader (Featured Cards)"
+		]
+	},
+	{
+		"id": 20373,
+		"name": "Innocent Fadrawl",
+		"cardType": "EFFECT",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "The turn you Normal Summoned this card, if you have not drawn a card during the Main Phase.",
+		"effect": "Both players draw 1 card.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 700,
+			"def": 100,
+			"attribute": "LIGHT",
+			"race": "DRAGON"
+		},
+		"cardObtain": [
+			"Destructor of Explosion (Mini Box)"
 		]
 	},
 	{
@@ -23790,6 +24367,46 @@
 		}
 	},
 	{
+		"id": 20621,
+		"name": "Destructor Soldier Haken",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If your opponent has 1 or less cards in their hand.",
+		"effect": "Send this card from your field to the Graveyard, both players draw 2 cards. For the rest of this turn, you cannot Normal or Special Summon non-Wyrm Type monsters in face-up position, and you can only attack with 1 monster.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 800,
+			"def": 800,
+			"attribute": "FIRE",
+			"race": "WYRM"
+		},
+		"cardObtain": [
+			"Asaka Mutsuba Duel Reward"
+		]
+	},
+	{
+		"id": 20622,
+		"name": "Destructor Soldier Canteen",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Place 1 Wyrm Type monster from your Graveyard on the top or bottom of your Deck.",
+		"effect": "Make 1 face-up monster on your field gain 100 ATK until the end of this turn. Then, you can add 1 \"Destructor Soldier Helmet\" or a Wyrm Type Normal Monster from your Graveyard to your hand.",
+		"rarity": "N",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1000,
+			"def": 1000,
+			"attribute": "FIRE",
+			"race": "WYRM"
+		},
+		"cardObtain": [
+			"Destructor of Explosion (Mini Box)"
+		]
+	},
+	{
 		"id": 20623,
 		"name": "Constructor Desk Worker Tarasque",
 		"cardType": "EFFECT",
@@ -23807,6 +24424,27 @@
 		},
 		"cardObtain": [
 			"Requiem of Collapse (Mini Box)"
+		]
+	},
+	{
+		"id": 20624,
+		"name": "Infinite Heavy Cavalry Buildragoon",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "You can Tribute Summon this card in Attack Position by Tributing 1 Maximum Monster.",
+		"requirement": "If you have 10 or more cards in your Deck, and all of the monsters in your Graveyard are Wyrm Type.",
+		"effect": "Draw 1 card. Then, you can Fusion Summon by sending Wyrm Type monsters from your hand or field to the Graveyard as materials.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 10,
+			"atk": 2500,
+			"def": 0,
+			"attribute": "EARTH",
+			"race": "WYRM"
+		},
+		"cardObtain": [
+			"Destructor of Explosion (Mini Box)"
 		]
 	},
 	{
@@ -24053,6 +24691,27 @@
 		]
 	},
 	{
+		"id": 20654,
+		"name": "Destructor Emperor Bakhakaiser",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Destructor Soldier Helmet\" + 1 Wyrm Type monster",
+		"requirement": "Send 1 Wyrm Type monster from your hand to the Graveyard.",
+		"effect": "Shuffle up to 3 cards from your opponent\u0027s Graveyard into the Deck. If a Level 8 or higher monster was sent to the Graveyard to meet the requirement, this card also gains ATK equal to [the number of cards shuffled by this effect] x 300 until the end of this turn.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 2600,
+			"def": 0,
+			"attribute": "FIRE",
+			"race": "WYRM"
+		},
+		"cardObtain": [
+			"Destructor of Explosion (Mini Box)"
+		]
+	},
+	{
 		"id": 20658,
 		"name": "Excutie Lumière Frontier",
 		"cardType": "FUSION_EFFECT",
@@ -24104,6 +24763,29 @@
 		"cardObtain": [
 			"Blazing Chemicalization (Mini Box)"
 		]
+	},
+	{
+		"id": 20662,
+		"name": "Destructor Integration Scrap Gate",
+		"cardType": "FIELD",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 face-up Level 7 or higher Wyrm Type monster from your field to the Graveyard.",
+		"effect": "While this card is face-up in the Field Zone, if a player would Fusion Summon by the effect of \"Fusion\", they can also return only Wyrm Type monsters from their Graveyard to the Deck as materials.",
+		"rarity": "N",
+		"cardObtain": [
+			"Destructor of Explosion (Mini Box)"
+		]
+	},
+	{
+		"id": 20663,
+		"name": "Phantasmal Triangular Scale",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 Wyrm Type monster from your hand to the Graveyard.",
+		"effect": "Draw 2 cards. You cannot activate non-Wyrm Type monster effects for the rest of this turn.",
+		"rarity": "NPC"
 	},
 	{
 		"id": 20665,
@@ -24453,6 +25135,27 @@
 		]
 	},
 	{
+		"id": 20853,
+		"name": "Metarion Geniustar",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "MULTICHOICE",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Imaginary Actor\" + \"Attract Golem\"",
+		"requirement": "If you have 10 or more cards in your Deck.",
+		"effect": "⬤ Draw 1 card. ⬤ Shuffle up to 6 Rock Type monsters from your opponent\u0027s Graveyard into the Deck. Then, inflict 1400 damage to your opponent.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 2800,
+			"def": 2500,
+			"attribute": "LIGHT",
+			"race": "CYBORG"
+		},
+		"cardObtain": [
+			"Destructor of Explosion (Mini Box)"
+		]
+	},
+	{
 		"id": 20854,
 		"name": "Imaginary Reactor",
 		"cardType": "EFFECT",
@@ -24471,6 +25174,26 @@
 		"cardObtain": [
 			"Fusion of Revolution (Mini Box)",
 			"Forbidden Fantastic Show (Deck Build Box)"
+		]
+	},
+	{
+		"id": 20855,
+		"name": "Attract Golem",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Reveal 1 LIGHT Attribute Normal Monster with 500 DEF in your hand the turn you Normal Summoned this card.",
+		"effect": "Send the top 2 cards of your Deck to the Graveyard. Then, you can inflict 500 damage to your opponent.",
+		"rarity": "N",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 1400,
+			"def": 500,
+			"attribute": "LIGHT",
+			"race": "ROCK"
+		},
+		"cardObtain": [
+			"Destructor of Explosion (Mini Box)"
 		]
 	},
 	{
@@ -24494,6 +25217,26 @@
 		]
 	},
 	{
+		"id": 20857,
+		"name": "Phantasm Maskmaster",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Reveal 1 Level 9 Cyborg Type Fusion Monster in your Extra Deck, and declare 1 monster that is mentioned on that monster as material.",
+		"effect": "This turn, this card\u0027s name becomes the monster\u0027s card name that was declared to meet the requirement.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 1800,
+			"def": 500,
+			"attribute": "LIGHT",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"Destructor of Explosion (Mini Box)"
+		]
+	},
+	{
 		"id": 20858,
 		"name": "Imaginary Leading Actor",
 		"cardType": "EFFECT",
@@ -24510,6 +25253,19 @@
 			"attribute": "LIGHT",
 			"race": "MACHINE"
 		}
+	},
+	{
+		"id": 20859,
+		"name": "Metarion Fusion",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Fusion Summon a Cyborg Type monster by sending monsters from your hand or field to the Graveyard as material. Then, you can add 1 \"Fusion\" or 1 monster that was sent to the Graveyard by this card effect from your Graveyard to your hand.",
+		"rarity": "UR",
+		"cardObtain": [
+			"Destructor of Explosion (Mini Box)"
+		]
 	},
 	{
 		"id": 20860,
@@ -24536,6 +25292,17 @@
 		"cardObtain": [
 			"Lifetime Mission Reward"
 		]
+	},
+	{
+		"id": 20878,
+		"name": "Star of Beginning",
+		"cardType": "SPELL",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Pay 500 LP.",
+		"effect": "Send the top 2 cards of your Deck to the Graveyard. Then, you can add 1 Level 5 or lower Normal Monster, \"Fusion\", or \"Polymerization\" from your Graveyard to your hand.",
+		"rarity": "SR"
 	},
 	{
 		"id": 20886,
@@ -24623,6 +25390,20 @@
 		},
 		"cardObtain": [
 			"Forbidden Fantastic Show (Deck Build Box)"
+		]
+	},
+	{
+		"id": 20900,
+		"name": "Star of Beginning",
+		"cardType": "SPELL",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Pay 500 LP.",
+		"effect": "Send the top 2 cards of your Deck to the Graveyard. Then, you can add 1 Level 5 or lower Normal Monster, \"Fusion\", or \"Polymerization\" from your Graveyard to your hand.",
+		"rarity": "SR",
+		"cardObtain": [
+			"Destructor of Explosion (Mini Box)"
 		]
 	},
 	{
@@ -24803,6 +25584,16 @@
 		"cardObtain": [
 			"Selection BOX Vol.03"
 		]
+	},
+	{
+		"id": 21009,
+		"name": "Time Machine",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When exactly 1 monster is destroyed by battle.",
+		"effect": "Special Summon that monster from the Graveyard to the same field it was on, in the same battle position it was in when destroyed (if the monster was in Maximum Mode, take all cards that were used for it and Special Summon it in Maximum Mode).",
+		"rarity": "NPC"
 	},
 	{
 		"id": 21022,
@@ -25373,6 +26164,46 @@
 		}
 	},
 	{
+		"id": 21658,
+		"name": "Destructor Soldier Knikka",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Reveal 1 Wyrm Type monster from your hand to your opponent.",
+		"effect": "Send the top 3 cards of your Deck to the Graveyard. If a FIRE Attribute Wyrm Type monster is among the cards sent, you can also add 1 \"Destructor Soldier Bokka\" from your Graveyard to your hand.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 2,
+			"atk": 200,
+			"def": 800,
+			"attribute": "FIRE",
+			"race": "WYRM"
+		},
+		"cardObtain": [
+			"Asaka Mutsuba Level Up Reward"
+		]
+	},
+	{
+		"id": 21659,
+		"name": "Destructor Soldier Bokka",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you have \"Destructor Soldier Knikka\" face-up on your field.",
+		"effect": "Send the top 3 cards of your Deck to the Graveyard. If a FIRE Attribute Wyrm Type monster is among the cards sent, you can also add up to 1 Field Spell Card and Equip Spell Card each from your Graveyard to your hand.",
+		"rarity": "R",
+		"monsterInfo": {
+			"level": 2,
+			"atk": 200,
+			"def": 800,
+			"attribute": "FIRE",
+			"race": "WYRM"
+		},
+		"cardObtain": [
+			"Asaka Mutsuba Level Up Reward"
+		]
+	},
+	{
 		"id": 21679,
 		"name": "Evil Dragon Knight of Darkness",
 		"cardType": "FUSION_EFFECT",
@@ -25391,6 +26222,27 @@
 		},
 		"cardObtain": [
 			"Eternal Genesis (Mini Box)"
+		]
+	},
+	{
+		"id": 21686,
+		"name": "Destructor Twin Princesses Haut-de-Chausses",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "CONTINUOUS",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Constructor Soldier Knikka\" + \"Constructor Soldier Bokka\"",
+		"requirement": "None",
+		"effect": "During your opponent\u0027s turn, Spell/Trap Cards on your field cannot be shuffled into the hand/Deck/Extra Deck.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 2800,
+			"def": 1600,
+			"attribute": "FIRE",
+			"race": "WYRM"
+		},
+		"cardObtain": [
+			"Asaka Mutsuba Duel Reward"
 		]
 	},
 	{
@@ -25500,6 +26352,23 @@
 		"cardObtain": [
 			"Eternal Genesis (Mini Box)"
 		]
+	},
+	{
+		"id": 22095,
+		"name": "Drahe the Wyrm Vassal",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you have no cards in your Extra Deck, send the top card of your Deck to the Graveyard.",
+		"effect": "Increase this card\u0027s Level by 2 until the end of this turn. If you haven\u0027t Special Summoned a monster this turn, you can also add 1 \"Lindwurm the Mega Monarch\" or \"Lindwurm the Wyrm Monarch\" from your Graveyard to your hand.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 800,
+			"def": 1000,
+			"attribute": "WATER",
+			"race": "WYRM"
+		}
 	},
 	{
 		"id": 22269,
