@@ -20758,7 +20758,7 @@
 		"isLegend": false,
 		"inherentSummonCondition": "\"Destructor Wyrm Bakhamut\" + \"Destructor Soldier Helmet\"",
 		"requirement": "None",
-		"effect": "Destroy 1 face-up card on your opponet\u0027s field and 1 or 2 monsters on your opponent\u0027s field. Then, inflict damage to your opponent equal to [the number of monsters on their field that were destroyed by this effect] x 500.",
+		"effect": "Destroy 1 face-up card on your field and 1 or 2 monsters on your opponent\u0027s field. Then, inflict damage to your opponent equal to [the number of monsters on their field that were destroyed by this effect] x 500.",
 		"rarity": "SR",
 		"monsterInfo": {
 			"level": 9,
@@ -21017,7 +21017,7 @@
 		"isLegend": false,
 		"inherentSummonCondition": "\"Destructor Wyrm Bakhamut\" + \"Destructor Soldier Helmet\"",
 		"requirement": "None",
-		"effect": "Destroy 1 face-up card on your opponet\u0027s field and 1 or 2 monsters on your opponent\u0027s field. Then, inflict damage to your opponent equal to [the number of monsters on their field that were destroyed by this effect] x 500.",
+		"effect": "Destroy 1 face-up card on your field and 1 or 2 monsters on your opponent\u0027s field. Then, inflict damage to your opponent equal to [the number of monsters on their field that were destroyed by this effect] x 500.",
 		"rarity": "SR",
 		"monsterInfo": {
 			"level": 9,
