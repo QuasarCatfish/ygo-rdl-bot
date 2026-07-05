@@ -2869,7 +2869,10 @@
 		"requirement": "Can be activated during a turn you Normal or Special Summoned a monster with 2500 or more ATK.",
 		"effect": "Target 1 monster your opponent controls. If it is face-up, change it to face-down Defense Position. If it is in face-down Defense Position, change it to face-up Attack Position.",
 		"effectType": "NORMAL",
-		"isArchive": true,
+		"isArchive": false,
+		"characters": [
+			907
+		],
 		"mentionedCards": []
 	},
 	{

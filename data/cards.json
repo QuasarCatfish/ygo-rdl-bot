@@ -20863,7 +20863,7 @@
 			"race": "WYRM"
 		},
 		"cardObtain": [
-			"Destructor of Explosion (Mini Box)"
+			"Asaka Mutsuba Level Up Reward"
 		]
 	},
 	{
@@ -20912,10 +20912,7 @@
 		"isLegend": false,
 		"requirement": "Equip this card to 1 face-up Wyrm Type monster on your field.",
 		"effect": "The equipped monster gains 500 ATK. If you have 5 or more Wyrm Type monsters in your Graveyard, the equipped monster gains an additional 500 ATK.",
-		"rarity": "UR",
-		"cardObtain": [
-			"Asaka Mutsuba Level Up Reward"
-		]
+		"rarity": "UR"
 	},
 	{
 		"id": 19132,
@@ -20927,7 +20924,7 @@
 		"effect": "While the equipped monster is in Attack Position, it cannot be destroyed by battle. If either player has a card in their Field Zone, the equipped monster and this card cannot be destroyed by card effects.",
 		"rarity": "SR",
 		"cardObtain": [
-			"Destructor of Explosion (Mini Box)"
+			"Asaka Mutsuba Level Up Reward"
 		]
 	},
 	{
@@ -20938,10 +20935,7 @@
 		"isLegend": false,
 		"requirement": "When an opponent\u0027s monster declares an attack.",
 		"effect": "Shuffle up to 6 Wyrm Type monsters from your Graveyard into the Deck. If [the total Levels of the monsters shuffled into the Deck by this effect] is 16 or higher, you can also destroy all Attack Position monsters on your opponent\u0027s field.",
-		"rarity": "UR",
-		"cardObtain": [
-			"Asaka Mutsuba Level Up Reward"
-		]
+		"rarity": "UR"
 	},
 	{
 		"id": 19136,
@@ -26180,7 +26174,7 @@
 			"race": "WYRM"
 		},
 		"cardObtain": [
-			"Asaka Mutsuba Level Up Reward"
+			"Destructor of Explosion (Mini Box)"
 		]
 	},
 	{
@@ -26200,7 +26194,7 @@
 			"race": "WYRM"
 		},
 		"cardObtain": [
-			"Asaka Mutsuba Level Up Reward"
+			"Destructor of Explosion (Mini Box)"
 		]
 	},
 	{
