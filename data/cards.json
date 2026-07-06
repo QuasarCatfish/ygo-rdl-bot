@@ -385,7 +385,8 @@
 			"Yuka Goha Starter Deck",
 			"Tiadosia \"Tiger\" Kallister Starter Deck",
 			"Yuro Goha Starter Deck",
-			"Saburamen Starter Deck"
+			"Saburamen Starter Deck",
+			"Asaka Mutsuba Starter Deck"
 		]
 	},
 	{
@@ -1372,6 +1373,7 @@
 			"Maddox Sogetsu Starter Deck",
 			"Tiadosia \"Tiger\" Kallister Starter Deck",
 			"Saburamen Starter Deck",
+			"Asaka Mutsuba Starter Deck",
 			"Gavin Sogetsu Duel Reward",
 			"Romin Kassidy Duel Reward",
 			"Immi Imimi Duel Reward",
@@ -1453,6 +1455,7 @@
 			"Maddox Sogetsu Starter Deck",
 			"Immi Imimi Starter Deck",
 			"Saburamen Starter Deck",
+			"Asaka Mutsuba Starter Deck",
 			"Romin Kassidy Duel Reward",
 			"Roa Kassidy Duel Reward",
 			"Yudias Velgear Duel Reward",
@@ -1544,6 +1547,7 @@
 			"Immi Imimi Starter Deck",
 			"Yuro Goha Starter Deck",
 			"Saburamen Starter Deck",
+			"Asaka Mutsuba Starter Deck",
 			"Yuga Ohdo Duel Reward",
 			"Asana Mutsuba Duel Reward",
 			"Yudias Velgear Duel Reward",
@@ -1608,6 +1612,7 @@
 			"Immi Imimi Starter Deck",
 			"Yuro Goha Starter Deck",
 			"Saburamen Starter Deck",
+			"Asaka Mutsuba Starter Deck",
 			"Lucidien \"Luke\" Kallister Duel Reward",
 			"Roa Kassidy Duel Reward",
 			"Yuamu Ohdo Duel Reward"
@@ -1833,6 +1838,7 @@
 			"Yuo Goha Starter Deck",
 			"Yuka Goha Starter Deck",
 			"Saburamen Starter Deck",
+			"Asaka Mutsuba Starter Deck",
 			"Roa Kassidy Duel Reward",
 			"Yuamu Ohdo Duel Reward",
 			"GR Festival Special Pack Vol.01",
@@ -2580,6 +2586,7 @@
 			"Tiadosia \"Tiger\" Kallister Starter Deck",
 			"Immi Imimi Starter Deck",
 			"Yuro Goha Starter Deck",
+			"Asaka Mutsuba Starter Deck",
 			"Lucidien \"Luke\" Kallister Duel Reward",
 			"Romin Kassidy Duel Reward",
 			"Nail Saionji Duel Reward",
@@ -3880,6 +3887,7 @@
 			"Maddox Sogetsu Starter Deck",
 			"Tiadosia \"Tiger\" Kallister Starter Deck",
 			"Saburamen Starter Deck",
+			"Asaka Mutsuba Starter Deck",
 			"Roa Kassidy Duel Reward",
 			"Yuo Goha Duel Reward",
 			"Zuwijo Zwil Velgear Duel Reward",
@@ -5429,6 +5437,7 @@
 			"Maddox Sogetsu Starter Deck",
 			"Immi Imimi Starter Deck",
 			"Yuro Goha Starter Deck",
+			"Asaka Mutsuba Starter Deck",
 			"Yuga Ohdo Duel Reward",
 			"Lucidien \"Luke\" Kallister Duel Reward",
 			"Yuhi Ohdo Duel Reward",
@@ -10240,6 +10249,7 @@
 			"Yuka Goha Starter Deck",
 			"Immi Imimi Starter Deck",
 			"Saburamen Starter Deck",
+			"Asaka Mutsuba Starter Deck",
 			"Yuga Ohdo Duel Reward",
 			"Gavin Sogetsu Duel Reward",
 			"Mimi Imimi Duel Reward",
@@ -10616,6 +10626,7 @@
 			"Zuwijo Zwil Velgear Starter Deck",
 			"Yuka Goha Starter Deck",
 			"Tiadosia \"Tiger\" Kallister Starter Deck",
+			"Asaka Mutsuba Starter Deck",
 			"Gavin Sogetsu Duel Reward",
 			"Nail Saionji Duel Reward",
 			"Yuo Goha Duel Reward",
@@ -12787,7 +12798,8 @@
 			"Yuamu Ohdo Starter Deck",
 			"Zuwijo Zwil Velgear Starter Deck",
 			"Yuka Goha Starter Deck",
-			"Yuro Goha Starter Deck"
+			"Yuro Goha Starter Deck",
+			"Asaka Mutsuba Starter Deck"
 		]
 	},
 	{
@@ -12857,6 +12869,7 @@
 			"Maddox Sogetsu Starter Deck",
 			"Immi Imimi Starter Deck",
 			"Yuro Goha Starter Deck",
+			"Asaka Mutsuba Starter Deck",
 			"Lucidien \"Luke\" Kallister Duel Reward"
 		]
 	},
@@ -20927,7 +20940,10 @@
 		"isLegend": false,
 		"requirement": "Equip this card to 1 face-up Wyrm Type monster on your field.",
 		"effect": "The equipped monster gains 500 ATK. If you have 5 or more Wyrm Type monsters in your Graveyard, the equipped monster gains an additional 500 ATK.",
-		"rarity": "UR"
+		"rarity": "UR",
+		"cardObtain": [
+			"Asaka Mutsuba Level Up Reward"
+		]
 	},
 	{
 		"id": 19132,
@@ -20950,7 +20966,10 @@
 		"isLegend": false,
 		"requirement": "When an opponent\u0027s monster declares an attack.",
 		"effect": "Shuffle up to 6 Wyrm Type monsters from your Graveyard into the Deck. If [the total Levels of the monsters shuffled into the Deck by this effect] is 16 or higher, you can also destroy all Attack Position monsters on your opponent\u0027s field.",
-		"rarity": "UR"
+		"rarity": "UR",
+		"cardObtain": [
+			"Asaka Mutsuba Level Up Reward"
+		]
 	},
 	{
 		"id": 19136,
