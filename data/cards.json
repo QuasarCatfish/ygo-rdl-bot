@@ -8949,6 +8949,19 @@
 		]
 	},
 	{
+		"id": 16710,
+		"name": "Berserker Colosseum",
+		"cardType": "FIELD",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send the top 2 cards of your Deck to the Graveyard.",
+		"effect": "While this card is face-up in the Field Zone, face-up monsters on the field gain 100 ATK.",
+		"rarity": "SR",
+		"cardObtain": [
+			"Wave Duel Scramble"
+		]
+	},
+	{
 		"id": 16711,
 		"name": "Rage of the Beasts",
 		"cardType": "SPELL",
@@ -20908,10 +20921,7 @@
 			"def": 800,
 			"attribute": "FIRE",
 			"race": "WYRM"
-		},
-		"cardObtain": [
-			"Trader (Featured Cards)"
-		]
+		}
 	},
 	{
 		"id": 19130,
@@ -20927,10 +20937,7 @@
 			"def": 1500,
 			"attribute": "FIRE",
 			"race": "WYRM"
-		},
-		"cardObtain": [
-			"Trader (Featured Cards)"
-		]
+		}
 	},
 	{
 		"id": 19131,
