@@ -20921,7 +20921,10 @@
 			"def": 800,
 			"attribute": "FIRE",
 			"race": "WYRM"
-		}
+		},
+		"cardObtain": [
+			"Trader (Featured Cards)"
+		]
 	},
 	{
 		"id": 19130,
@@ -20937,7 +20940,10 @@
 			"def": 1500,
 			"attribute": "FIRE",
 			"race": "WYRM"
-		}
+		},
+		"cardObtain": [
+			"Trader (Featured Cards)"
+		]
 	},
 	{
 		"id": 19131,
