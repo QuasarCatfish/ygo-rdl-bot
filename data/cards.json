@@ -8198,6 +8198,16 @@
 		]
 	},
 	{
+		"id": 16616,
+		"name": "Heavenly Revelation",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Send as many monsters from your field to the Graveyard. If [the total original Level of the monsters sent to the Graveyard by this effect] is more than 10, you can also Special Summon 1 Level 8 or lower monster from your Graveyard face-up to your field. The monster Special Summoned by this effect gains 300 ATK until the end of this turn.",
+		"rarity": "SR"
+	},
+	{
 		"id": 16618,
 		"name": "Hammer Crush",
 		"cardType": "SPELL",
