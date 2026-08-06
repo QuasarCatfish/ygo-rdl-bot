@@ -6278,7 +6278,10 @@
 		"isLegend": false,
 		"requirement": "Send 1 face-up EARTH Attribute Machine Type Normal Monster from your field to the Graveyard.",
 		"effect": "Special Summon 1 EARTH Attribute Machine Type Effect Monster from your Graveyard face-up to your field. This turn, you can only attack with the monster Special Summoned by this effect.",
-		"rarity": "NPC"
+		"rarity": "SR",
+		"cardObtain": [
+			"Pick-a-Gift Campaign"
+		]
 	},
 	{
 		"id": 16169,
@@ -8205,7 +8208,10 @@
 		"isLegend": false,
 		"requirement": "None",
 		"effect": "Send as many monsters from your field to the Graveyard. If [the total original Level of the monsters sent to the Graveyard by this effect] is more than 10, you can also Special Summon 1 Level 8 or lower monster from your Graveyard face-up to your field. The monster Special Summoned by this effect gains 300 ATK until the end of this turn.",
-		"rarity": "SR"
+		"rarity": "SR",
+		"cardObtain": [
+			"Ranked Duels Reward Ticket"
+		]
 	},
 	{
 		"id": 16618,
