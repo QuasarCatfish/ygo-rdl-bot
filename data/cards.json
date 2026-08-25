@@ -7726,14 +7726,17 @@
 		"isLegend": false,
 		"requirement": "Your opponent has no cards in their hand.",
 		"effect": "Both players draw 1 card. Then, you can Set 1 \"Upstart Goblin\" from your Graveyard to your Spell \u0026 Trap Zone.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 3,
 			"atk": 700,
 			"def": 1000,
 			"attribute": "LIGHT",
 			"race": "DINOSAUR"
-		}
+		},
+		"cardObtain": [
+			"Ranked Duels Reward Ticket"
+		]
 	},
 	{
 		"id": 16579,
@@ -17669,6 +17672,26 @@
 		},
 		"cardObtain": [
 			"Eternal Galaxy Road (Mini Box)"
+		]
+	},
+	{
+		"id": 18379,
+		"name": "Ultimate Flag Beast Lead Unicorn",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "If you have 3 or more LIGHT Attribute Machine Type monsters in your Graveyard.",
+		"effect": "Change 1 face-up Level 4 or lower monster on your opponent\u0027s field to face-down Defense Position. Then, you can Special Summon 1 Level 5 Machine Type monster from your hand face-up to your field.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 3,
+			"atk": 1100,
+			"def": 200,
+			"attribute": "LIGHT",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"Trader (Featured Cards)"
 		]
 	},
 	{
