@@ -7286,14 +7286,17 @@
 		"isLegend": false,
 		"requirement": "Shuffle 1 Field Spell Card from your Graveyard into the Deck.",
 		"effect": "Inflict 600 damage to your opponent.",
-		"rarity": "NPC",
+		"rarity": "SR",
 		"monsterInfo": {
 			"level": 4,
 			"atk": 1000,
 			"def": 400,
 			"attribute": "EARTH",
 			"race": "WYRM"
-		}
+		},
+		"cardObtain": [
+			"Asaka Mutsuba Duel Reward"
+		]
 	},
 	{
 		"id": 16344,
@@ -12590,6 +12593,27 @@
 		]
 	},
 	{
+		"id": 17312,
+		"name": "Semeterasu the Divine Ruler",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "MULTICHOICE",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Semeruler the Dark Summoner\" + \"Needlkyrie the Celestial Seamstress\"",
+		"requirement": "None",
+		"effect": "⬤ Special Summon 1 Level 8 or lower Warrior or Fairy Type monster from your Graveyard, face-up to your field. ⬤ Shuffle monsters from your opponent\u0027s Graveyard into the Deck up to [the number of monsters with 0 ATK in your Graveyard].",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 3000,
+			"def": 3000,
+			"attribute": "LIGHT",
+			"race": "CELESTIAL_WARRIOR"
+		},
+		"cardObtain": [
+			"Resonating Omega Effect (Deck Build Box)"
+		]
+	},
+	{
 		"id": 17315,
 		"name": "Metarion King Cobrastar",
 		"cardType": "FUSION_EFFECT",
@@ -14506,6 +14530,48 @@
 		"rarity": "SR",
 		"cardObtain": [
 			"Legend of Dark Magic (Structure Deck)"
+		]
+	},
+	{
+		"id": 17678,
+		"name": "Omega Guitarna the Shining Megastar",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "MULTICHOICE",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Prima Guitarna the Shining Superstar\" + \"Ama Lilith\"",
+		"requirement": "Send the top card of your Deck to the Graveyard.",
+		"effect": "⬤ This card gains ATK equal to [the number of monsters on your opponent\u0027s field] x 1000 until the end of this turn. This turn, this card cannot be destroyed by your opponent\u0027s Trap Card effects. ⬤ Destroy 1 Spell/Trap Card on your opponent\u0027s field.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 2900,
+			"def": 2000,
+			"attribute": "DARK",
+			"race": "OMEGA_PSYCHIC"
+		},
+		"cardObtain": [
+			"Resonating Omega Effect (Deck Build Box)"
+		]
+	},
+	{
+		"id": 17679,
+		"name": "Princess Omega the Shining Megastar",
+		"cardType": "FUSION_EFFECT",
+		"effectType": "MULTICHOICE",
+		"isLegend": false,
+		"inherentSummonCondition": "\"Prima Guitarna the Shining Superstar\" + \"Ama Lilith\"",
+		"requirement": "None",
+		"effect": "⬤ Change the battle positions of all monsters on your field. You can make 1 face-up monster on your opponent\u0027s field lose ATK equal to [the number of monsters on your field] x 800 until the end of this turn. ⬤ Shuffle up to 7 cards from your opponent\u0027s Graveyard into the Deck.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 9,
+			"atk": 2900,
+			"def": 2000,
+			"attribute": "LIGHT",
+			"race": "OMEGA_PSYCHIC"
+		},
+		"cardObtain": [
+			"Resonating Omega Effect (Deck Build Box)"
 		]
 	},
 	{
@@ -20888,6 +20954,23 @@
 		}
 	},
 	{
+		"id": 19125,
+		"name": "Destructor Soldier Depot",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Pay 500 LP.",
+		"effect": "Send the top card of your Deck to the Graveyard. If you sent a Wyrm Type monster to the Graveyard by this effect, you can add 1 \"Destructor Soldier Helmet\" or 1 Level 8 Wyrm Type monster from your Graveyard to your hand.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 600,
+			"def": 1200,
+			"attribute": "FIRE",
+			"race": "WYRM"
+		}
+	},
+	{
 		"id": 19126,
 		"name": "Constructor Sentry Dragline",
 		"cardType": "EFFECT",
@@ -21008,6 +21091,29 @@
 		"rarity": "SR",
 		"cardObtain": [
 			"Asaka Mutsuba Level Up Reward"
+		]
+	},
+	{
+		"id": 19133,
+		"name": "Destructor Survey",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Send cards from the top of your Deck to the Graveyard equal to [the number of face-up Wyrm Type monsters on your field]. Then, you can add 1 \"Destructor Soldier Helmet\" or 1 Field Spell Card from your Graveyard to your hand.",
+		"rarity": "NPC"
+	},
+	{
+		"id": 19134,
+		"name": "Destructor Wall",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When an opponent\u0027s Level 8 or lower monster declares an attack while you have a Level 7 or higher Wyrm Type monster on your field.",
+		"effect": "Negate the attack. This turn, your opponent cannot attack with Level 7 or lower monsters.",
+		"rarity": "UR",
+		"cardObtain": [
+			"Asaka Mutsuba Duel Reward"
 		]
 	},
 	{
@@ -21728,6 +21834,19 @@
 		]
 	},
 	{
+		"id": 19331,
+		"name": "Light and Flame",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Make up to 3 face-up Effect Monsters on your opponent\u0027s field lose 400 ATK/DEF until the end of this turn. If your LP are lower than your opponent\u0027s, you can also Special Summon 1 Level 7 monster from your hand face-up to your field.",
+		"rarity": "SR",
+		"cardObtain": [
+			"Resonating Omega Effect (Deck Build Box)"
+		]
+	},
+	{
 		"id": 19341,
 		"name": "Executie Riding!",
 		"cardType": "TRAP",
@@ -22086,6 +22205,17 @@
 		]
 	},
 	{
+		"id": 19577,
+		"name": "Transcendent Transformation",
+		"cardType": "SPELL",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Fusion Summon a LIGHT Attribute monster by sending monsters from your field to the Graveyard as materials, including a Fairy Type monster. If you Fusion Summon a Celestial Warrior Type monster by this effect, you can also use monsters in your hand as materials.",
+		"rarity": "SR"
+	},
+	{
 		"id": 19579,
 		"name": "Vi-FRND",
 		"cardType": "EFFECT",
@@ -22295,6 +22425,20 @@
 		]
 	},
 	{
+		"id": 19610,
+		"name": "Transcendent Transformation",
+		"cardType": "SPELL",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Fusion Summon a LIGHT Attribute monster by sending monsters from your field to the Graveyard as materials, including a Fairy Type monster. If you Fusion Summon a Celestial Warrior Type monster by this effect, you can also use monsters in your hand as materials.",
+		"rarity": "SR",
+		"cardObtain": [
+			"Resonating Omega Effect (Deck Build Box)"
+		]
+	},
+	{
 		"id": 19611,
 		"name": "Vi-FRND",
 		"cardType": "EFFECT",
@@ -22374,6 +22518,23 @@
 		"cardObtain": [
 			"Boost Red-Boot (Deck Build Box)"
 		]
+	},
+	{
+		"id": 19646,
+		"name": "Footsoldier of Demolition",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "You have 2 or less monsters on your field.",
+		"effect": "Send cards from the top of your Deck to the Graveyard equal to [the number of face-up Wyrm Type monsters on your field] x 2. Then, if 2 or more monsters are among the cards sent, this turn, this face-up card can be treated as 2 Tributes for the Tribute Summon of a Wyrm Type monster in Attack Position.",
+		"rarity": "NPC",
+		"monsterInfo": {
+			"level": 4,
+			"atk": 100,
+			"def": 1100,
+			"attribute": "FIRE",
+			"race": "WYRM"
+		}
 	},
 	{
 		"id": 19651,
@@ -22690,6 +22851,17 @@
 		]
 	},
 	{
+		"id": 19694,
+		"name": "Session Together!",
+		"cardType": "SPELL",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "You have 2 or more face-up monsters with the same Type on your field.",
+		"effect": "Draw 1 card. Then, you can make 2 face-up monsters on your field with the same Attribute gain 400 ATK until the end of this turn.",
+		"rarity": "UR"
+	},
+	{
 		"id": 19698,
 		"name": "Meteorite Fall",
 		"cardType": "TRAP",
@@ -22737,6 +22909,20 @@
 		"rarity": "SR",
 		"cardObtain": [
 			"Flash of Shining Flare (Mini Box)"
+		]
+	},
+	{
+		"id": 19714,
+		"name": "Session Together!",
+		"cardType": "SPELL",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "You have 2 or more face-up monsters with the same Type on your field.",
+		"effect": "Draw 1 card. Then, you can make 2 face-up monsters on your field with the same Attribute gain 400 ATK until the end of this turn.",
+		"rarity": "UR",
+		"cardObtain": [
+			"Resonating Omega Effect (Deck Build Box)"
 		]
 	},
 	{
@@ -26566,6 +26752,26 @@
 		]
 	},
 	{
+		"id": 22424,
+		"name": "The Ultimate Flag",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send this face-up card from your field to the Graveyard.",
+		"effect": "Add up to 1 LIGHT Attribute Machine Type monster with 2500 ATK and 1600 DEF and up to 1 \"Ace Sword Slash\" from your Graveyard to your hand. Then, you can Special Summon 1 \"Ultimate Flag Mech Ace Breaker\" from your hand face-up to your field.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 1,
+			"atk": 0,
+			"def": 200,
+			"attribute": "LIGHT",
+			"race": "MACHINE"
+		},
+		"cardObtain": [
+			"Resonating Omega Effect (Deck Build Box)"
+		]
+	},
+	{
 		"id": 22428,
 		"name": "Gradius\u0027 Option",
 		"cardType": "EFFECT",
@@ -26686,6 +26892,17 @@
 		}
 	},
 	{
+		"id": 22457,
+		"name": "Ace Sword Slash",
+		"cardType": "SPELL",
+		"cardStyle": "ORIGINAL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 2 cards from your hand to the Graveyard, or if this is the first turn of the player going second this Duel.",
+		"effect": "Destroy 1 card on your opponent\u0027s field. Then, you can Special Summon 1 LIGHT Attribute Machine Type monster with 2500 ATK and 1600 DEF from your Graveyard face-up to your field.",
+		"rarity": "SR"
+	},
+	{
 		"id": 22458,
 		"name": "Hyperspeed",
 		"cardType": "SPELL",
@@ -26742,6 +26959,20 @@
 		},
 		"cardObtain": [
 			"The Distant Neo Space (Mini Box)"
+		]
+	},
+	{
+		"id": 22494,
+		"name": "Ace Sword Slash",
+		"cardType": "SPELL",
+		"cardStyle": "OR_STYLE",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 2 cards from your hand to the Graveyard, or if this is the first turn of the player going second this Duel.",
+		"effect": "Destroy 1 card on your opponent\u0027s field. Then, you can Special Summon 1 LIGHT Attribute Machine Type monster with 2500 ATK and 1600 DEF from your Graveyard face-up to your field.",
+		"rarity": "SR",
+		"cardObtain": [
+			"Resonating Omega Effect (Deck Build Box)"
 		]
 	},
 	{

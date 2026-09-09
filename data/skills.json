@@ -2894,5 +2894,48 @@
 			18635,
 			16934
 		]
+	},
+	{
+		"id": 7101,
+		"name": "Climax Omega",
+		"requirement": "Can be activated from turn 2 onward by revealing 1 Level 7 or higher monster or a Normal Monster from your hand if all the monsters in your constructed Deck are Psychic Type and all of the Level 7 or higher monsters are \"Prima Guitarna the Shining Superstar\" and/or \"Esperade the Smashing Superstar\".",
+		"effect": "Add up to 2 monsters that are Level 1, 4, or 7 LIGHT Attribute monsters, Normal Monsters, and/or \"Fusion\" from your Deck or Graveyard to your hand. Then, send 1 card from your hand to the Graveyard.",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			704
+		],
+		"mentionedCards": [
+			15193,
+			15435,
+			16934
+		]
+	},
+	{
+		"id": 7102,
+		"name": "Power Rush",
+		"requirement": "From turn 2 onward, revealing 1 monster with 2500 ATK from your hand if all of the monsters in your constructed Deck are Level 7 or below LIGHT Attribute Machine Type monsters with either 1600 or less ATK or 2400 or more ATK, and either 200 DEF or 1600 or more DEF.",
+		"effect": "Add up to 2 monsters (max. 1 each) with 200 DEF from your Deck to your hand. Then, send 1 card from your hand to the Graveyard.",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			701
+		],
+		"mentionedCards": []
+	},
+	{
+		"id": 7103,
+		"name": "Set - Destructor Art - Total Destruction",
+		"requirement": "Once per Duel, if you oave a hace-up \"Destructor Wyrm Bakhamut\" monster on your field. r Duel",
+		"effect": "Set 1 \"Destructor Art - Total Destruction\" from your Deck or Graveyard in your Spell \u0026 Trap Zone.",
+		"effectType": "NORMAL",
+		"isArchive": false,
+		"characters": [
+			907
+		],
+		"mentionedCards": [
+			19124,
+			19135
+		]
 	}
 ]
