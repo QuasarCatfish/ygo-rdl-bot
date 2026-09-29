@@ -2830,7 +2830,7 @@
 		"id": 7002,
 		"name": "Activated Wyrm of Black Metal",
 		"requirement": "From turn 2 onward, reveal 1 \"Destructor Wyrm Bakhamut\" or \"Destructor Soldier Helmet\" from your hand if all of the monsters in your Deck are Wyrm Type monsters.",
-		"effect": "Add up to 2 cards from your Deck or Graveyard to your hand (either Level 8 monsters, monsters with 400 or less DEF, \"Fusion\", Field Spell Cards, or Equip Spell Cards), then send 1 card from your hand to the Graveyard.",
+		"effect": "Add up to 2 cards from your Deck or Graveyard to your hand (either Level 8 monsters, monsters with 400 DEF, \"Fusion\", Field Spell Cards, or Equip Spell Cards), then send 1 card from your hand to the Graveyard.",
 		"effectType": "NORMAL",
 		"isArchive": false,
 		"characters": [

@@ -426,5 +426,17 @@
 			"22457": "LIMIT3",
 			"22494": "LIMIT3"
 		}
+	},
+	{
+		"date": "2026-07-01",
+		"banlist": {
+			"15230": "LIMIT2",
+			"16153": "LIMIT3",
+			"16175": "UNLIMITED",
+			"16341": "UNLIMITED",
+			"16603": "LIMIT2",
+			"17888": "UNLIMITED",
+			"18272": "UNLIMITED"
+		}
 	}
 ]
