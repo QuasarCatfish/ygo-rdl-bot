@@ -7456,6 +7456,19 @@
 		"rarity": "NPC"
 	},
 	{
+		"id": 16357,
+		"name": "Judgment of the Rising Light",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "None",
+		"effect": "Shuffle 1 monster from either player\u0027s Graveyard into the owner\u0027s Deck. If the opponent has 0 cards in their hand, you can also return 1 face-up monster from your opponent\u0027s field to the owner\u0027s hand.",
+		"rarity": "SR",
+		"cardObtain": [
+			"Ranked Duels Reward Ticket"
+		]
+	},
+	{
 		"id": 16358,
 		"name": "Avian Spell Tactics",
 		"cardType": "SPELL",
@@ -18431,6 +18444,27 @@
 		]
 	},
 	{
+		"id": 18582,
+		"name": "Gilford the Lightning",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": true,
+		"inherentSummonCondition": "You can Tribute Summon this card in Attack Position by Tributing 3 monsters.",
+		"requirement": "During the turn you Normal Summoned this card in the above way.",
+		"effect": "Destroy all monsters on your opponent\u0027s field.",
+		"rarity": "UR",
+		"monsterInfo": {
+			"level": 8,
+			"atk": 2800,
+			"def": 1400,
+			"attribute": "LIGHT",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"The 10th Anniversary is coming up! Event Rush Campaign"
+		]
+	},
+	{
 		"id": 18583,
 		"name": "Chromatographagas",
 		"cardType": "NORMAL",
@@ -23221,7 +23255,7 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"WCS 2026 Qualifiers Celebration! Road to Worlds Campaign"
+			"~~WCS 2026 Qualifiers Celebration! Road to Worlds Campaign~~"
 		]
 	},
 	{
@@ -23450,6 +23484,26 @@
 		]
 	},
 	{
+		"id": 19983,
+		"name": "Mist Assailant",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 monster from your field to the Graveyard.",
+		"effect": "Add up to 2 cards (\"Fusion\" and/or \"Fusion Cancel\") from your Graveyard to your hand.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 6,
+			"atk": 1700,
+			"def": 1400,
+			"attribute": "WATER",
+			"race": "WARRIOR"
+		},
+		"cardObtain": [
+			"Trader (Featured Cards)"
+		]
+	},
+	{
 		"id": 19990,
 		"name": "Flame Archer the Super Graphagas",
 		"cardType": "FUSION_EFFECT",
@@ -23500,6 +23554,19 @@
 		"requirement": "None",
 		"effect": "Both players excavate the top 4 cards of their Deck. You can send up to a total of 2 excavated Machine Type monsters and/or Trap Cards among those 8 cards to the Graveyard. Both players place the other cards on the bottom of their Deck in any order. If you sent a Trap Card to the Graveyard by this effect, also draw 1 card.",
 		"rarity": "NPC"
+	},
+	{
+		"id": 20012,
+		"name": "Fusionic Defense",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When your opponent Normal or Special Summons a monster.",
+		"effect": "Set 1 \"Fusion\" or \"Fusion Cancel\" from your Graveyard to your Spell \u0026 Trap Zone. Then, you can choose 1 face-up monster on your field. If chosen, this turn, it cannot be destroyed by battle or card effects.",
+		"rarity": "SR",
+		"cardObtain": [
+			"Trader (Featured Cards)"
+		]
 	},
 	{
 		"id": 20019,
@@ -23867,7 +23934,7 @@
 			"race": "SPELLCASTER"
 		},
 		"cardObtain": [
-			"WCS 2026 Qualifiers Celebration! Road to Worlds Campaign",
+			"~~WCS 2026 Qualifiers Celebration! Road to Worlds Campaign~~",
 			"Special Set (Bundle)"
 		]
 	},
