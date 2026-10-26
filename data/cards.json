@@ -4702,6 +4702,19 @@
 		]
 	},
 	{
+		"id": 15901,
+		"name": "Cranked to Ten!!",
+		"cardType": "SPELL",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "Send 1 monster from your hand to the Graveyard.",
+		"effect": "Choose 1 face-up monster on your field. This turn, it gains 400 ATK, and if it attacks a Defense Position monster, inflict piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference). If the monster\u0027s Level is 10, inflict 1000 damage to your opponent.",
+		"rarity": "SR",
+		"cardObtain": [
+			"Trader (Featured Cards)"
+		]
+	},
+	{
 		"id": 15904,
 		"name": "Yggdrago the Sky Emperor [L]",
 		"cardType": "MAXIMUM",
