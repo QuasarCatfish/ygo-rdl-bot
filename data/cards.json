@@ -10486,6 +10486,19 @@
 		]
 	},
 	{
+		"id": 16931,
+		"name": "Guard Swords of Allegiance",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When your opponent\u0027s monster declares an attack.",
+		"effect": "Choose 1 face-up Fusion Monster on your field. This turn, it cannot be destroyed by battle.",
+		"rarity": "SR",
+		"cardObtain": [
+			"Tour Guide Bingo Missions"
+		]
+	},
+	{
 		"id": 16932,
 		"name": "The Warrior Returning Alive",
 		"cardType": "SPELL",
