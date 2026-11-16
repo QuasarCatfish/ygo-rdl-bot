@@ -8273,6 +8273,16 @@
 		]
 	},
 	{
+		"id": 16617,
+		"name": "Turnback Shot",
+		"cardType": "TRAP",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "When your opponent conducts a normal draw during the Draw Phase.",
+		"effect": "Return 1 face-up Level 8 or lower monster on your opponent\u0027s field to the owner\u0027s hand.",
+		"rarity": "SR"
+	},
+	{
 		"id": 16618,
 		"name": "Hammer Crush",
 		"cardType": "SPELL",
