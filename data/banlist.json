@@ -438,5 +438,12 @@
 			"17888": "UNLIMITED",
 			"18272": "UNLIMITED"
 		}
+	},
+	{
+		"date": "2026-12-01",
+		"banlist": {
+			"17683": "UNLIMITED",
+			"22430": "LIMIT3"
+		}
 	}
 ]
