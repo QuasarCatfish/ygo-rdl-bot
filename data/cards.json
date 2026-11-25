@@ -22196,6 +22196,26 @@
 		]
 	},
 	{
+		"id": 19544,
+		"name": "Thunderbold of Resonant Thunder",
+		"cardType": "EFFECT",
+		"effectType": "NORMAL",
+		"isLegend": false,
+		"requirement": "During the turn you Normal Summoned this card.",
+		"effect": "Special Summon 1 Level 7 LIGHT Attribute Winged Beast Type monster from your Graveyard face-up to your field. Then, you can make up to 3 face-up monsters on your opponent\u0027s field become LIGHT Attribute until the end of this turn.",
+		"rarity": "SR",
+		"monsterInfo": {
+			"level": 7,
+			"atk": 2300,
+			"def": 1900,
+			"attribute": "FIRE",
+			"race": "THUNDER"
+		},
+		"cardObtain": [
+			"Trader (Featured Cards)"
+		]
+	},
+	{
 		"id": 19549,
 		"name": "Ultimate Flag Beast Boltricorn",
 		"cardType": "EFFECT",
